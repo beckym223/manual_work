@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints
+.*
+!.gitignore
+__pycache__
+data/
+**/*.log

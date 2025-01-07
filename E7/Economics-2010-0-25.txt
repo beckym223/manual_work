@@ -1,0 +1,12 @@
+measures are usefully correlated with standard objective measures of living standards. Changes
+in self-reported measures are essentially uncorrelated with changes in the log of per capita GDP,
+year by year or, for the three measures where we have them, over the two year period from
+2006 to 2008. This could be interpreted as evidence that the self-reported measures are invalid,
+and the lack of correlation between changes in the ladder and changes in income is consistent
+with adaptation in life-evaluation over time (though not apparently over space) as first found by
+Richard Easterlin (1974). Clearly our three years of data are insufficient to settle the Easterlin
+hypothesis one way or the other. Both per capita GDP and the Gallup measures are subject to
+sampling and non-sampling errors, so once again we will need larger and longer-term changes
+to give a clearer picture. It is also not clear how well-correlated with income we would either
+expect or want these measures to be. Indeed, if these measures were perfectly correlated with
+average income, they would not be useful; we are attempting to measure something other than

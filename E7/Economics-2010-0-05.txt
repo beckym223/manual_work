@@ -1,0 +1,48 @@
+highest headcount ratio, a fact that has dominated subsequent discussions of world poverty; prior
+to revision, the measured prevalence of poverty in South Asia was substantially higher than in
+sub-Saharan Africa. At the time of that revision, I commented that "changes of this size risk
+swamping real changes, and it seems impossible to make statements about changes in world pov
+erty when the ground underneath one's feet is changing in this way," Deaton (2001). The 2005
+revision shifts the ground even more. The global count for 1993 jumps by almost half a billion
+people, the headcount ratio for East Asia doubles, there are substantial increases in Africa and
+South Asia, and a large reduction in Latin America. The Table shows these numbers for 1993, for
+which there are estimates using three sets of PPPs, but there are similar large upward revisions
+for more recent years; for example, Shaohua Chen and Martin Ravallion (2010, Table 2) estimate
+that for 2005, there were 1,377 million poor people using the latest method. In an earlier version
+of the paper, they reported that the number would have been 931 million using the methods in use
+prior to the latest ICP revision. The size of the earthquakes seems to be increasing.
+Let me emphasize that the general trends in the left-hand side of Table 1 reappear whichever
+PPPs and poverty lines are used. The shifting of the ground refers only to the level of global pov
+erty, and to its regional distribution. Provided we are prepared to ignore the fact that each new
+set of estimates makes the world look like a very different place, the global trends are relatively
+secure, although I shall enter some qualifications in Section VI. Given the clear improvement in
+the successive ICPs, I would certainly not advocate the retention of outdated and flawed data,
+and indeed the ICP is far from the only source of uncertainty in the world poverty measures,
+which depend on the timeliness, availability, coverage, design, and quality of national household
+surveys, national consumer price indexes, and national accounts. Yet the size of each set of
+revisions, and the reasonable presumption that future rounds of the ICP will change the picture
+yet again, raises the question of whether the poverty monitoring system is accurate enough and
+stable enough to be useful in monitoring progress and for identifying countries and regions
+where deprivation is greatest.  The ICP revision in 2005 was associated with a substantial increase in the World Bank's
+measure of global poverty. The World Bank's poverty supplement to the World Development
+Indicators writes "The new poverty line maintains the same standard for extreme poverty?the
+poverty line typical of the poorest countries of the world?but updates it using the latest informa
+tion on the cost of living in developing countries. The new data change our view of poverty in the
+world. There are more poor people," World Bank (2008b, page 1). The Chief Economist of the
+World Bank commented "the sobering news?that poverty is more pervasive than we thought?
+means that we should redouble our efforts, especially in sub-Saharan Africa."
+Global income inequality also changed with the revision to the ICP. Branko Milanovic (2009),
+using household survey data, has estimated that the Gini coefficient of income inequality over
+all the citizens of the world rose from 0.65 to 0.70 as a result of the revision. Figure 1 pro
+vides another way of looking at the change and shows population weighted inequality across
+countries using per capita GDP in PPP dollars as the income measure, what Milanovic calls
+"Concept 2" inequality; see also Sudhir Anand and Paul Segal (2008). The figure shows the Gini
+coefficient of population weighted per capita national income inequality, and this would be the
+global Gini if incomes were equally distributed within countries and the national accounts data
+and PPP indexes were correct. For a complete accounting of international income inequality
+across households, within country inequality must also be allowed for, although, given the con
+flict between national accounts and survey data, with incomes in the latter often growing more
+slowly, it is not obvious how to do so. Milanovic uses only survey data and finds little change in
+world inequality in recent decades; procedures that use national accounts statistics (NAS) data,
+coupled with distributional data from household surveys, find that inequality is declining; see,
+for example, Maxim Pinkovskiy and Xavier Sala-i-Martin (2009) for a recent example. Neither

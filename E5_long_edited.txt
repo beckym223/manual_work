@@ -15222,9 +15222,6 @@ is that the impact of business cycles on consumption has recently di-
 minished, while the effects of consumption on the business cycle have
 become more decisive.
 In the classical business cycle, as we came to know it in this country,
-' This upward trend would appear steeper than I have suggested if recipients of property
-income and of public assistance were included in the count. In the present context, how-  ever, it has seemed best to restrict the income-receiving population to the working class, or  more precisely, to members of the labor force or those recently in the labor force who re-  ceive an income as a matter of right and on some regular basis.
-
 
 ---Economics-1960-0-11.txt---
 once business investment began declining appreciably, a reduction of
@@ -15718,28 +15715,6 @@ systematic through an economic policy board under the chairmanship of
 the President. These and other choices will have to be made by the
 people of the United States; and economists-far more than any other
 group-will in the end help to make them.
-
-
----Economics-1960-1-01.txt---
-merely Adams' "not self-employed") ". . . is clearly much more symmetrical
-than the typical Pareto curve" (p. 340). I then added: "On the other hand,
-distinct skewness still appears. Can we explain it?" (p. 340). One lead, I felt,
-lay in the fact that "the most noteworthy aspect of the usual income distribu-
-tion is not that it has one long tail-but that it does not have two" (p. 343);
-and I went on to suggest the vital role of credit rationing in truncating the
-distribution.
-This comment offers an occasion for noting that the original article did not
-make explicit its limitation of reference to periods of reasonably full employ-
-ment.
-STANLEY LEBERGOTT*
-* U.S. Bureau of the Budget.
-Errata
-There are two typographical errors in the presidential address of Dr. Arthur
-F. Burns, "Progress Towards Economic Stability," published in the March
-1960 number of the American Economic Review. The first one is on page 1,
-line 15, where the word "understanding" should be "understating." The second
-one is on page 3, line 2, where "proprietorship" should be "proprietorships."
-
 
 ---Economics-1961-0-03.txt---
 Although it is obvious that people acquire useful skills and knowl-

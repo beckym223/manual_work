@@ -5837,8 +5837,12 @@ debt held by private investors (that is excluding public institutions and the Fe
 8
 Given this series, I construct a maturity-weighted interest rate as a weighted aver -
 age of the 1-year and the 10-year rates using
-
-Many, but not all, holders of government bonds pay taxes on the interest paid,
+i
+t   =  α t   ×  i 1,t   +  (1 −  α  t  )  ×  i 10,t    with
+α
+t   =  (10 − average maturity in years ) /9 .
+Man
+y, but not all, holders of government bonds pay taxes on the interest paid,
 so the interest cost of debt is actually lower than the interest rate itself. There is no direct measure of those taxes, and thus I proceed as follows.
 9,10
 I measure the tax rate of the marginal holder by looking at the difference between

@@ -16586,11 +16586,6 @@ argue that Gide and Rist were writing a history of economic doctriines,
 while Schumpeter was writing a history of economic analysis; and
 hence I ought not to be surprised if there turns out to be a consider-
 able difference in emphasis. Who would want to deny that Cournot,
-1 There is a great deal of evidence that this is more than the view of the avant garde
-and more than a passing fad. One straw in the wind would be to examine the successive
-revisions since 1939 of a book that did not begin with any prejudice in favor of economic
-analytics, Eric Roll, A History of Economic Thought, 3d ed., Englewood Cliffs, N.J., 1956.
-
 
 ---Economics-1962-0-07.txt---
 writing in 1838, had an analytical power and freshness that is breath-
@@ -16622,17 +16617,6 @@ lationship of quantum mechanics to free will and God; but one who
 has already received such a prize will get a better hearing for his
 random or systematic thoughts on the topic. Nor, these days, do you
 get appointed to chairs of economics by virtue of your social elo-
-2If the history of science is still generally in a crude form, that is primarily because  scholars have just recently begun to take it seriously. In the case of mathematics, there is
-a most ludicrous ignorance of the true sequence of contributions: if a formula, such as  Lagrange's interpolation formula, is attributed by name to a person, the betting is good
-that small research will show it appeared in earlier writinrgs. What I have in mind here
-is not the statement that there is nothing new under the sun and all knowledge is a
-repetition of previously known knowledge: on the contrary, such a statement is the
-reverse of the truth; mathematical knowledge has been cumulative and, with enough  research and luck. we might hope to clean up the false history of the subject. The situa-  tion in mathematics is especially simple if one takes the view that the objects of mathe-  matical research are theorems and that most importance attaches to the date of their first  rigorous proof. Thus, it is meaningful to say that the "strong ergodic theorem" goes back
-to G. D. Birkhoff in 1931, and that J. v. Neumann deserves the credit for two-person  zero-sum game theory. (But if one is also interested in conjecture, heuristics and partial
-insight, the matter is not so simple. Some modern mathematicians, one feels, will rename  Fermat's Last Theorem to Schwartz's Theorem if the first man to prove it happens to be
-named Schwartz.) In economics, datings are harder: thus I cannot tell you who first
-disproved "the labor theory of value," much less who originated it.
-
 
 ---Economics-1962-0-08.txt---
 quence; indeed, until academic tenure has come, you are best advised
@@ -16676,9 +16660,6 @@ we can appreciate that this work stands as good a chance as any of be-
 ing read and remembered twenty years from now.
 Yet always members of a guild have their defenses against the man
 who ventures away from home. "It was all in Keynes's 1930 Saturday
-'This gives Sir William Harcourt a second iclaim to fame, beyond that of his famous
-one-tenth truth: "We are all socialists now."
-
 
 ---Economics-1962-0-09.txt---
 Evening Post article, 'Economic Possibilities for Our Grandchildren.'"
@@ -16818,11 +16799,6 @@ and Bastiats can usually be found who are unencumbered by the sub-
 tleties of refined economic analysis. Moreover, detailed researchers will
 more and more reveal that the Ricardian School provided the back-
 ground for early Victorian thinking but did not, in a detailed fashion
-See my two papers on Ricardian systems, which elaborate on my views and give a
-physiocratic interpretation, "A Modern Treatment of the Ricardian Economy," Quart.
-Jour. Econ., I, Feb. 1959, 73, 1-35; II, May 1959, 73, 217-31; also my paper on related
-Marxian models, "Wages and Interest: A Modern Dissection of Marxian Economic
-Models," Am. Econ. Rev., Dec. 1957, 47, 884-912.
 
 
 ---Economics-1962-0-12.txt---
@@ -16866,9 +16842,6 @@ John Stuart Mill. I pass by Nassau Senior and the other classical
 writers to mention Mill briefly. Mill was modest; Marshall was not.
 The world takes people too much at their word. The result is that
 Marshall's claims to analytical originality are received too seriously;
-6C. C. Brinton, Ideas of Men: The Story of Western Thought, London 1951, p. 392.
-Incidentally, Brinton's index has between Rhodes, Cecil and Richards, I. A. no Ricardo,
-David.
 
 
 ---Economics-1962-0-13.txt---
@@ -16899,26 +16872,6 @@ returns from the West Indies after an absence of some 20 years to find
 that all her revolutionary Millian notions have become old-hat, super-
 seded by new Fabian notions. The same conflict between the eight-
 eenth and twentieth century went on in Mill's own mind: it was fa-
-'Sweden's Gustav Cassel, whom the public regarded as about the world's leading
-economist in the 1920's and who might have become a truly outstanding scholar if his
-temperament had been different, is shown by the following story to be a good opposite
-to Mill. H. C. Sonne, the distinguished merchant banker and chairman of the National
-Planning Association, has told how Cassel visited at Sonne's family home in Denmark in
-the days around the First World War. A guest happened to mention that some scholar
-had just made a fresh study of the relationship between the price level and gold supply
-and had come up with conclusions strongly at variance with the famous Cassel thesis.
-When asked what he intended to do about it, Cassel replied as follows. "I have a son-in-
-law whom I have put through Divinity School at some considerable expense. Now that
-he has graduated and qualified for his diploma, he comes to me and says that he has lost
-his faith and asks what to do. My advice to him was simple: 'Just carry on as if nothing
-had happened'."
-Relevant too is a conversation I had last month in London after I had given the Stamp
-Memorial Lecture in the University of London for 1961. In that lecture I discussed,
-among other things, some of the problems of economic forecasting and stressed the need
-for scientific validation and the desirability of each forecaster's going back ruthlessly to
-review ex post his ex ante predictions. "A great mistake," I was told by one of the best
-forecasters in English academic life. "It is fatal ever to read what you have earlier
-written. It breaks your nerve as a forecaster." His lips were smiling but his eyes looked  serious.
 
 
 ---Economics-1962-0-14.txt---
@@ -16964,7 +16917,6 @@ Spiethoff, Schumpeter, Robertson, Cassel, Wicksell, and Hansen.
 What can be gold in the field of fluctuations can be dirt in the con-
 text of pure economic theory. Marx claimed in Volume 1 that there
 was some interesting economics involved in a labor theory of value,
-8 Cf. A. L. Harris, Economics and Social Reforms, New York 1958.
 
 
 ---Economics-1962-0-15.txt---
@@ -17053,10 +17005,6 @@ Finally, one must never make the fatal mistake in the history of
 ideas of requiring of a notion that it be "true." For that discipline,
 the slogan must be, "The customer is always right." Its objects are
 what men have believed; and if truth has been left out, so much the
-9If migration from the country kept wages down to a city minimum, then the average
-wage and living standard of country-curn-city would be raised in accordance with the
-optilmiization desired by a technocrat-unless, agaiii, Malthusianism is admitted back into
-the rural hovel.
 
 
 ---Economics-1962-0-17.txt---
@@ -17139,15 +17087,6 @@ ning attendance not the final. As I know from personal conversations
 with Alfred North Whitehead, Marshall's contemporaries at Cam-
 bridge did not like him as a man ("He was a popish man who treated
 Mary Marshall very badly." "A second class mind?"); and one gets
-"Later Shaw went successively from Marxism to Jevonsism with a Fabian twist. Philip  Wicksteed's conversion of Shaw away from Marxism is one of the most amusing and
-incredible incidents in the history of thought: for once a rational argument changed, or
-seemed to change, someone's mind.
-It must have been on that same trip to England that Henry George debated Alfred
-Marshall in Oxford: little David beat Goliath, if we can believe the record; in part per-  haps because Marshall was a home-boy, and the well-to-do undergraduates of those days  started out hostile to George; there is also the fact gleaned from Henry George's biog-
-raphy that he slept miserably on that trip and the night before the debate. Playing the
-parlor game of Charles Lamb and William Hazlitt as to which characters in history one
-would like to meet, I would plunk for being present when Alfred Marshall debated
-Henry George.
 
 
 ---Economics-1962-0-19.txt---
@@ -17209,13 +17148,6 @@ Not for us is the limelight and the applause. But that doesn't mean
 the game is not worth the candle or that we do not in the end win
 the game. In the long run, the economic scholar works for the only
 coin worth having-our own applause."1
-"1Lest I be misunderstood, I elaborate. This is not a plea for "Art for its own sake,"
-"Logical elegance for the sake of elegance." It is not a plea for leaving the real-world
-problems of political economy to noneconomists. It is not a plea for short-run popularity
-with members of a narrow in-group. Rather it is a plea for calling shots as they really
-appear to be (on reflection and after weighing all evidences), even when this means losing
-popularity with the great audience of men and running against "the spirit of the times."
-
 
 ---Economics-1963-0-03.txt---
 The question I propose to consider is whether or to what extent the
@@ -17658,7 +17590,6 @@ penditure for newly introduced social services, and the low level of
 GNP still laboring under massive unemployment. Federal civilian
 expenditures as a percentage of state and local expenditures reached
 a high point of 52 per cent in 1948 and have declined somewhat since
-The figures in this paragraph are taken from Kendrick [5, pp. 10-11].
 
 
 ---Economics-1963-0-13.txt---
@@ -17839,7 +17770,6 @@ ficient condition. The significance of relative balance in international
 payments which has made wage-price stability of critical importance
 in a number of Western European countries has only recently become
 apparent in the United States. Opposition in this country both in man-
-2"In the view of the majority of the group, the essential element, to be stressed first of  all, is that the stabilization authorities must have a wages policy for dealing with the  problem of wages-just as they must have monetary and fiscal policies for dealing with  the problem of demand" [10, p. 561.
 
 
 ---Economics-1963-0-17.txt---
@@ -17930,8 +17860,6 @@ employment as a rough indication of the extent to which actual per-
 formance falls short of potential but it cannot be assumed that any
 one is going to do anything about it. The limitations that our institu-
 tional structure plus current balance-of-payments considerations place
-'Although the monetary authority is certainly subject to strong pressures, its quasi-
-independent status appears to provide enough insulation to permit effective resistance.
 
 
 ---Economics-1963-0-19.txt---
@@ -18257,17 +18185,6 @@ the degree of disintegration of the world economy that had taken place.
 For the purposes of this paper, as indicated above, I have to venture
 to express my views on the basic causes of the exceptional severity and
 length of the Great Depression. At the time when it happened most
-' It is interesting that only at the lowest point of the depression in 1931-32 did trade with
-Russia temporarily assume a somewhat greater importance for some European countries.
-la It is true that during and immediately after World War I Great Britain applied a stiff
-dose of tariff protection (the so-called "MacKenna" and "Key Industry" duties). But they
-applied only to a short list of industrial articles, and some were temporarily removed
-by Philip Snowden, Chancellor of the Exchequer in the first MacDonald ministry in 1924.
-2The concept "world manufacturing activity" is, of course, somewhat nebulous and its
-measure arbitrary and imprecise. But the statements in the text could be restated in terms
-of GNP, industrial production, and trade of the major countries, concepts that are less ob-
-jectionable than "world production," etc.
-
 
 ---Economics-1964-0-10.txt---
 economists did not know what had hit them. Marxian economists, of
@@ -18308,8 +18225,6 @@ countries, for example in pre-Nazi Germany and under the popular
 front government in France. Just as Roosevelt ignored Keynes' sug-
 Schumpeter himself did not really take seriously his suggestion that the coincidence of  a Kondratieff, Juglar and Kitchin depression accounted for the severity of the 1930 depression.  On the contrary, he said that "the darkest hues of cyclical depressions . . . are due to ad-
 ventitious circumstances." See [19, p. 1501.
-8a The timidity of monetary policy should be judged by the magnitude of the problem  (the intensity of the deflation which was to be offset) and not by historical standards.
-'If anybody doubts this statement, let him read Jacob Viner's brilliant, convincing, and  blunt but well-balanced analysis in l24]. Also see L1].
 
 
 ---Economics-1964-0-11.txt---
@@ -18350,9 +18265,6 @@ have been removed and trading methods would have returned to a more
 normal state of affairs. Actually, the outbreak of World WVar II delayed
 the return to something resembling the pre-1929 conditions until the
 1950's.
-5 On Keynes' criticism of the New Deal policies compare R. F. Harrod, The Life of John  Maynard Keynes, New York, 1951, p. 447. Keynes was critical not of the reforms as such,  but of the timing of their introduction and of the methods of putting them through, which,  by frightening the businessman, unnecessarily delayed full recovery.
-The information concerning Leon Blum I owe to Gunnar Myrdal.
-'This does not mean that the price level would have to go back to the 1929 level.
 
 
 ---Economics-1964-0-12.txt---
@@ -18391,9 +18303,6 @@ in 1920-21 and 1929-33-as a singular event. In the light of later de-
 velopments, this conjecture has lost its statistical support entirely.8 We
 shall encounter other cases of analyses that have gone astray for the
 same reason.
-' It is possible by means of population or investment echos or some financial mechanism  to make a plausible case for the proposition that a tendency for long swings is started by  those powerful disturbances. But the attempt to carry the chronology of the long swings  right through the disturbed period of 1914-45 and thereby to suggest that the mechanism,  whatever it is, which produces the long swings should function more or less undamaged  right through that period, punctured though it was by tremendously powerful exogenous  shocks, seems to me entirely unconvincing and to compromise the long-swing hypothesis.
-8The latest extremely careful evaluation is contained in Robert E. Lipsey's important
-book l1l1.
 
 
 ---Economics-1964-0-13.txt---
@@ -18428,20 +18337,6 @@ not in an absolute sense of perfection, but satisfactory compared first
 with earlier periods (not only the definitely unsatisfactory interwar
 period), compared secondly with what was expected by many econo-
 mists 20 years ago, and compared thirdly, I dare say, with what one
-In average of 1955-60 prices. See [4] [221.
-10 "Die These von der abnehrnendeni Bedeutung der interniationalen Handelsbeziehungen"
-or "der fallenden Export quote," Werner Sombart in [20, pp. 368-71].
-" See [16] for a good, brief discussion and references to the recent literature.
-12 Lipsey [11, p. 441 found that as far as the United States is concerned "over the whole
-period [1879-1960] the only suggestion of a downward trend in the ratio of the quantity of
-trade to output was the low interwar export and postwar import ratios. Both now appear
-to have been temporary." Lipsey reached his results by using constant dollar rather than
-current value trade figures. The difference between current and deflated dollar value ratios of
-trade and output stems from the fact that both export and import prices have fallen in the
-long run compared with domestic prices. Hence a different deflator has to be used for the
-two iteims of the ratio. If "invisible" exports and imports could be added to merchandise
-trade, the statistical support for the theory of the declining trade-GNP ratio would be
-further weakened.
 
 
 ---Economics-1964-0-14.txt---
@@ -18487,7 +18382,6 @@ quired to get the economy back to a high level of employment and to
 keep it there.'3
 To me any comparison with the 1930's, quantitative or qualitative,
 seems to be entirely unwarranted, and structural factors explain only
-X The most extreme position has been taken by Gunnar Myrdal in [14].
 
 
 ---Economics-1964-0-15.txt---
@@ -18523,20 +18417,6 @@ omies of the industrial countries in Europe and elsewhere from the
 shackles of direct control released great energies which led to the spec-
 tacular rise in output and consumer satisfaction. I add "consumer's
 satisfaction" because improvements in quality of products and a great
-13a William McC. Martin, Jr., Chairman of the Board of Governors of the Federal Reserve
-System, has acknowledged the role of the balance of payments. "I am convinced that our
-failure to solve the problem [of the balance of payments] up to now has not only been
-damaging to our international relations but has also impeded the achievement of even high
-levels of output and resource utilization" (statement before the House Committee on
-Banking and Currency, July 22, 1963, Fed. Reserve Bull., Aug. 1963, p. 1062).
-Since the slack is small, it cannot be far off the mark to say that the external deficit has
-been the major cause of the slowdown.
-14 I do not wish to say, of course, that in the absence of a balance-of-payments deficit
-there will never again be a recession or a period of slack. For example, if at a higher level
-of employment wage-push became stronger and prices started to creep up again, the mone-
-tary and financial brakes would sooner or later be applied as they were in the late 1950's
-with the same general result. But demand inflation, wage-push, Phillips curves, income
-policy, and all that are not the subject of this talk.
 
 
 ---Economics-1964-0-16.txt---
@@ -18620,19 +18500,6 @@ terms of trade of the developing countries in the aggregate have de-
 teriorated by about 9 per cent as a consequence of a rise of about 10
 per cent in unit value of the imports of the developing countries and a
 slight rise of unit value of their exports.17
-See [151. Myrdal's policy conclusions are, of course, not the same as the Marxists'.
-See [22, p. 11. Developed countries are North America, Western Europe, Australia,
-Japan, New Zealand, and South Africa. Developing countries are the rest of the world,
-excluding the "centrally planned economies" (Communist countries) in Europe and Asia.
-" Measured from the peak in 1951 caused by the Korean War boom and massive U.S.
-stockpiling, the deterioration in the terms of trade would be substantially greater-14 or
-16 per cent. The fact that the deterioration reflects a rise in import prices rather than a
-fall in export prices is significant because unit values of manufactured goods have a notori-
-ous upward bias, due to the fact that the gradual improvements in quality and the continu-
-ous appearance of new manufactured products are not, or very insufficiently, taken into ac-
-count. In other words, a rise in import prices (of manufactured goods) is much less "real"
-than a fall of export prices (of primary products) would be.
-
 
 ---Economics-1964-0-18.txt---
 To speak of developing countries in the aggregate-or, what comes
@@ -18677,7 +18544,6 @@ that the intramarginal cost differences underlying the trade of manu-
 factures between industrial countries are probably much smaller than
 those on which the trade between industrial countries and the exporters
 of primary products is based.'8
-'Alfred Marshall has alluded to that; Richard Schueller in [18] has commented on this
 
 
 ---Economics-1964-0-19.txt---
@@ -18705,11 +18571,6 @@ countries been stabilized at their 1950 level the aggregate purchasing
 power of their exports in terms of imports in 1960 would have been
 greater to the extent of $2.3 billion." This is not a negligible sum, but
 compared with the national income of the less developed areas of the
-fact. See also D. H. Robertson [16]. It should be observed, however, that freer trade be-  tween the industrial countries, although it may be less valuable than trade between industrial  and tropical countries on comparative cost grounds, can be beneficial through stimulating  competition and counteracting monopolistic tendencies. This effect of free trade has been  stressed by J. S. Mill and reiterated by modern theorists of integration, e.g., by Tibor
-Scitovsky and Harry Johnson.
-1 In underdeveloped countries the theory has been widely accepted that in less developed  countries import restrictions do not reduce the volume of imports or exports; they merely  cause a shift of imports from, say, luxury goods to capital goods. In the developed industrial  countries, it is said, the classical rule still applies that import restrictions reduce the volume  of trade in both directions. This is the official doctrine of the U.N. Economic Commission  for Latin America (ECLA). See, e.g., [23, esp. p. 61]. The reason usually given is that these  countries spend all their export proceeds anyway. This, of course, overlooks that protection  draws factors of production into the protected industries from the export sector. Only under  extreme and entirely unrealistic assumptions concerning the existence of large masses of  disguised unemployment (including that of skilled workers), of surplus capacity, and very  elastic capital supply could the conclusion be overthrown that export supply will contract as  a consequence of massive import substitution brought about by heavy protection.
-20Kindleberger's figures are not quite comparable with the U.N. figures because his area  breakdown is a different one. The figure quoted in the text refers to industrial Europe's terms  of trade with "all other areas," i.e., the world excluding the rest of Europe, the United States,  and the "countries of recent settlement." With the last-mentioned area the index of industrial
-Europe's terms of trade stood at 138 in 1938 (1928 = 100).
 
 
 ---Economics-1964-0-20.txt---
@@ -18736,32 +18597,6 @@ revolutionary technological changes (such as the invention of cheap syn-
 thetic coffee) and highly protectionist policies on the part of the indus-
 trial countries-under these not unreasonable assumptions the less de-
 veloped countries can look forward to a continuously expanding market
-21 Sonme may question the relevance of a comparison with national income. In my opinion,
-it is relevant with certain qualifications: A large and sudden change in the terms of trade
-might cause serious transitional difficulties. Or, if a cotuntry by extreme protectionism has
-reduced its imports to a bare minimum and has neglected its export industries, a decline in
-the terms of trade may necessitate a further reduction of imports which have already been
-stripped to essentials. In that case the impact on GNP would be out of proportion to the
-money cost of the deterioration quoted in the text because the "marginal benefit" of imports
-would be much higher than the marginal benefit of domestic production. If my income falls
-by 5 per cent and I were forced to skimp on food rather than spread the shortfall over
-the whole range of expenditures, the result would be disastrous. But I doubt whether any
-country really finds itself in such a predicament, although extreme protectionism could con-
-ceivably put it there.
-' Charles Kindleberger has pointed out to me that a veritable revolution has taken place
-in ocean transportation. Thus, while the world wholesale price index in dollars has about
-doubled since before the war, oil tanker rates are just about where they were, and dry cargo
-rates have gone up on a very rough average by 50 per cent. This great cheapening of trans-
-port cost constitutes a powerful integrating force in the world economy and has bestowed
-great benefits, especially on many less developed countries, by improving their f.o.b. terms
-of trade.
-The drastic reduction in transport cost, made possible by technological advances, applies
-primarily to the very competitive international routes. Many countries rob themselves of
-those very large benefits by highly protectionist shipping policies. This is especially true of
-coastal shipping, including sometimes shipping between neighboring countries. For example,
-freight rates between Rio de Janeiro and Buenos Aires are often as high as between Buenos
-Aires and New York, because of nationalistic policies. See [8, p. 2971.
-The jet aircraft promises to produce another revolutionary advance in transport technology.
 
 
 ---Economics-1964-0-21.txt---
@@ -18794,21 +18629,6 @@ The second presupposition is further liberalization of trade or, as a
 minimum, avoidance of increases in trade barriers for balance-of-pay-
 ments or protectionist reasons. I am afraid we cannot be so sure about
 this condition being met as about the first. Balance-of-payments
-23 W. Arthur Lewis has reached similar conclusions in two important papers [9] [10].
-Speaking of Latin America, he said: "Puzzling are those cries which seem to be founded on
-the belief that it is particularly difficult to expand exports because the world is buying
-fewer and fewer exports. The opposite is true. World trade has never grown faster. Between
-1950 and 1960 the quantum of world trade in primary products increased at an average
-rate of 6 per cent per annum, and the quantum of world trade in manufacturers by more
-than 7 per cent per annum. The terms of trade for primary products could not retain the
-heights to which they were raised by the speculative fever of the Korean War and the heavy
-American stockpiling in the early fifties; nevertheless the average terms of trade for the
-decade of the nineteen-fifties were better than for any previous decade in all the preceding
-hundred years. I do not know whether it is in fact true that in the 1950's, Latin America
-had difficulty in keeping her exports growing at the same rate as national income but if
-this was so, it cannot possibly have been due to failure of world demand to grow ade-
-quately, since the quantum of world trade was growing by about 7 per cent per annum  throughout the 1950's. Taking the continent as a whole, rather than individual countries,
-failure on this score can only have been a failure of effort" [10, pp. 10-11].
 
 
 ---Economics-1964-0-22.txt---
@@ -18849,11 +18669,6 @@ general lack of liquidity, at least for many years. I wish, therefore, that
 a large part of the professional ingenuity that is now being spent so
 lavishly on that issue were diverted to the basic and much more difficult
 problems of internal price and wage restraints and adjustments.
-'Another acute danger, which cannot be discussed here, is regimentation, contraction,
-and distortion of trade through the numerous international price-support schemes of im-
-portant commodities now under active consideration.
-' I would agree that a floating rate system, too, requires price and wage discipline for
-successful operation. But I would argue that the fixed rate system calls for much sterner  discipline.
 
 
 ---Economics-1964-0-23.txt---
@@ -18886,16 +18701,6 @@ countries will be drastically reduced. Then the future economic histo-
 rian will be able to say of the European Economic Community what
 Marshall said of the German Zollverein-it was a big step toward freer
 multilateral trade.
-'This does not necessarily mean that it is undesirable. There are valid arguments for
-protection which theoretically can be applied to customs unions or free trade areas. In the
-case of LAFTA, the protectionist effects are, however, so strong that it would be very
-difficult to make a rational case for it on, say, infant-industry grounds. It could conceivably
-be defended with the help of a theory of the third or fourth best. Let me briefly indicate
-what I have in mind. By means of a policy of partly repressed inflation, tight exchange
-control, etc. a country can maneuver itself into a position where trade is so sharply con-
-tracted and distorted that even bilateral trade is better than no trade. Similarly, a regional
-trade expansion may be better than no expansion at all, althou-h a relaxation of controls
-and general expansion of trade would be infinitely better.
 
 
 ---Economics-1965-0-01.txt---
@@ -19021,9 +18826,6 @@ tem had a large effect upon the allocation of British resources. Nor does
 he demonstrate that the state is normally the captive of "partial inter-
 ests."
 Smith's intellectual heirs did little to strengthen his case for laissez
-ISee the essay by Viner, "Adam Smith and Laissez Faire," in Adam Smith 1776-1926
-(University of Chicago. 1928),
-
 
 ---Economics-1965-0-04.txt---
 faire, except by that most irresistible of all the weapons of scholarship,
@@ -19064,12 +18866,6 @@ tion of the Community of which, if the basis of Representation were ever
 so far extended, the opinion would ultimately decide. Of the people be-
 neath them, a vast majority would be sure to be guided by their advice
 and example.4
-2 McCulloch, a somewhat underrated man, again challenged Smith here; see "Naviga-
-tion Laws," Edinburgh Review, May 1823.
-'The Article otn Government (reprinted from the Supplement to the Encyclopedia
-Britannica [London 1829]), p. 7.
-'Ibid., p. 32.
-
 
 ---Economics-1965-0-05.txt---
 Education of the masses, and their instinctive reverence for the wis-
@@ -19104,12 +18900,6 @@ plicitly not as a violation of natural right. Torrens prefaced his criti-
 cism with a passage that reads better than it reasons:
 The principle of non-interference can be applicable to those circum-
 stances only, in which interference would be productive of mischief; in
-Mill's essay elicited a brilliant attack by Macaulay, who turned MAill's argument that  every man seeks only his own interests against the plea for universal suffrage:
-That the property of the rich minority can be made subservient to the pleasures of  the poor majority will scarcely be denied. But Mr. Mill proposes to give the poor  majority power over the rich minority. Is it possible to doubt to what, on his own
-principles, such an arrangement must lead?
-The argument is carried to an interesting prediction: "As for America, we appeal to the  twentieth century," "Mill's Essay on Government," in Critical, Historical and Miscel-  laneous Essays (New York 1873), II, pp. 36-37, 40.
-' Royal Commission on Railways, Evidence and Papers Relating to Railways in Ireland
-(1866), pp. 126-30, 359-60.
 
 
 ---Economics-1965-0-06.txt---
@@ -19149,9 +18939,6 @@ strongly suspect that he would have favored public housing, as he did
 free public education and limitation of hours of work for young people.
 If an economist is to be a moral philosopher, however-and I have no
 doubt that we would do this well too-he should develop his philosoDhv
-' A Letter to Lord Ashley (London 1844), pp. 64-65.
-8 Letters on the Factory Act (London 1844).
-'He did make some reference to the incompetence of state action: ". . . the great majority  of things are worse done by the intervention of government, than the individuals most in-  terested in the matter would do them, or cause them to be done, if left to themselves" [7, II,  p. 5111. This argument does not play a major role in shaping his attitude, however.
 
 
 ---Economics-1965-0-07.txt---
@@ -19182,22 +18969,6 @@ individualism had not produced even a respectable modicum of evi-
 dence that the state was incompetent to deal with detailed economic
 problems of any or all sorts. There was precious little evidence, indeed,
 that the state was unwise in its economic activities, unless one was pre-
-'0Mill's famous essay, On Liberty, does little to reduce our uncertainty. It is here that
-he asserts:
-Despotism is a legitimate mode of government in dealing with barbarians, provided
-the end be their improvement, and the means justified by actually effecting the ends.
-The laws which, in many countries on the Continent, forbid marriage unless the par-
-ties can show that they have the means of supporting a family, do not exceed the
-legitimate powers of the State....
-As the principle of the individual liberty is not involved in the doctrine of Free
-Trade . . . (The English Philosophers from Bacon to Mill [Modern Library 1939],
-pp. 956, 1035, 1024).
-It is not easy to avoid the conclusion that for Mill "liberty" was conveniently well cor-
-related with the forms of behavior of which he personally approved.
-'Memorials of Alfred Marshall (1925), pp. 274-76, 339 if.; Industry and Trade
-(1919), pp. 666-72.
-M Memorials, p. 338.
-t Official Papers by Alfred Marshall (1926), pp. 395-96.
 
 
 ---Economics-1965-0-08.txt---
@@ -19239,10 +19010,6 @@ formed according to fixed rules. (2) It must be performed under the
 public eye, or for the service of individuals, who will immediately de-
 tect and expose any failure or laxity. (3) There must be very little
 capital expenditure, so that each year's revenue and expense account
-14Thus McCulloch said of the post office: "It does not seem, though the contrary has
-been sometimes contended, that the Postoffice could be so well conducted by anyone
-else as by government: the latter alone can enforce perfect regularity in all its subordinate
-departments . . ." (Dictionary of Commerce (1854 ed.), article on "Postage").
 
 
 ---Economics-1965-0-09.txt---
@@ -19281,9 +19048,6 @@ really so planned out his reformns.
 We may learn how a theorist coped with the problem by turning to
 my second economist, Pigou. In Wealth and Welfare [8] he recited
 four reasons for distrusting the ability of legislatures to control mo-
-5 It should be a source of morbid instruction to us, that immediately after laying down
-this dogmatic rule on how to treat with dangerous machinery, Jevons denounces those  who view the economist as a "presumptuous theorist, who is continually laying down hard-  and-fast rules for the conduct of other people" [2, p. 81.
-16 "Experimental Legislation and the Drink Traffic," The Contemporary Review, 37,  1880, 192 (reprinted in Methods of Social Reform, p. 275). He did not see the potentiali-  ties of empirical study in the absence of formal experiment, however, and denied the  feasibility of a statistical approach ("Experimental Legislation," pp. 184-85).
 
 
 ---Economics-1965-0-10.txt---
@@ -19328,8 +19092,6 @@ they. He differed only in writing more pages of economic analysis of
 fully professional quality than any other economist of the twentieth
 century.
 Rather than sample other economists, I shall characterize more gen-
-1TThe maturing fruit in a later edition; The Economics of Welfare (4th ed., 1932),
-p. 399.
 
 
 ---Economics-1965-0-11.txt---
@@ -19466,9 +19228,6 @@ long periods diminishing returns would inevitably triumph over techno-
 logical advance in agriculture, a view that agricultural history of the
 last 100 years has coolly ignored.
 A second and lesser source of the loose connection between theory
-"For example, J. E. Cairnes, Some Leading Principles of Political Economy (London
-1873), pp. 258-60.
-19 Principles of Political Economy, Ashley ed. (London 1929), p. 402.
 
 
 ---Economics-1965-0-14.txt---
@@ -20594,8 +20353,6 @@ ticles to population,1 but there are many more economists to do the job.
 Today more economists are practicing than lived and died in the past
 four thousand years, and their number is growing even faster than the
 world's population.
-'This estimate is based upon entries in the Index of Economic Journals, sponsored by
-the American Economic Association.
 
 
 ---Economics-1966-0-24.txt---
@@ -20803,8 +20560,6 @@ simplest and is applicable with much less detailed information to the
 largest field.' Another attitude would be to insist on starkest realism
 with a complete catalogue of goals and indices of their effectiveness in
 each firm. A third attitude would be to select two or three of the most
-1 "To use marginalism in the theory of the firm it is not necessary to assert that firms  attempt to maximize money profits only nor to deny that a goodly portion of all business  behavior miay be nonrational, thoughtless, blindly repetitive, deliberately traditional, or  motivated by extra-economic objectives. It merely presupposes that the 'rational-economic'  portion of business conduct is by and large sufficiently important to affect what is going  on in the world to an extent large enough to warrant analysis; and that the substitution  of money profits for a composite of pecuniary and nonpecuniary rewards simplifies the  analysis so much that the gain in expediency far exceeds the loss in applicability" [23  pp. 30-31]. A similar view is expressed by Scitovsky: "Empirical studies of businessmen's  behavior suggest the need for modifying or qualifying the assumption of profit maximiza-  tion here and there, rather than scrapping it altogether. Accordingly, . . . we shall retain  the assumption that the firm aims at maximizing its profit. But we shall regard this  assumption as a working hypothesis rather than as a universal rule" [37, p. 111].
-
 
 ---Economics-1967-0-08.txt---
 important managerial objectives of a type that can be reduced to quan-
@@ -20846,10 +20601,6 @@ effects of mass behavior.
 We may illustrate this again by means of the same analogy, the the-
 ory of overtaking. Assume a change of driving conditions occurs, say,
 that the roads have become wet and slippery and fog has reduced visi-
-'The theoretical automobile driver had to estimate, among other things, the speeds of
-three vehicles and the distances between them, and to perform calculations involving po-
-tential acceleration and a few other things, before he could decide to overtake the truck
-ahead of him. An actual driver simnply "sizes up" the situation and goes ahead.
 
 
 ---Economics-1967-0-09.txt---
@@ -20892,9 +20643,6 @@ can be answered with a fraction of the information that would be
 needed to answer the other questions, it would be foolish to burden the
 models designed for Question 3 with irrelevant matters, or to reject
 such models because they cannot do what they are not designed to do.3
-sA behavioral theory of automobile driving would probably study the process by which  the decision to pass a truck is arrived at in a sequence of bickering among the members
-of the family: Mama and Sis trying to argue against taking an unnecessary risk, Sonny
-egging on his Dad to speed up and pass the truck "crawling" ahead of them. Moreover,  the theory would not be satisfied with "explaining" the decision to overtake but it would
 
 
 ---Economics-1967-0-10.txt---
@@ -20938,8 +20686,6 @@ the model is used to predict, not the actual reactions of any one partic-
 ular firm, but only the effects of the hypothetical reactions of numer-
 ous anonymous "reactors" (symbolic firms). If it were to be applied to
 predictions of reactions of a particular firm, the model would have to
-also wish to determine the speed of driving, the frequency and length of stops at road-  side stands, and all the rest.
-
 
 ---Economics-1967-0-11.txt---
 be much more richly endowed with variables and functions for which
@@ -20968,27 +20714,6 @@ In some fields, investigators are protected from committing the fal-
 lacy, at least with regard to some of their problems, by the fact that a
 search for any empirical counterpart to the theoretical construct seems
 hopeless. Thus, some physicists working on particle theory were able
-4The same statement can be made about the household. The "household" in price theory
-is not an object of study; it serves only as a theoretical link between changes in prices
-and changes in labor services supplied and in consumer goods demanded. The hypothetical
-reactions of an imaginary decision-maker on the basis of assumed, internally consistent
-preference functions serve as the simplest and heuristically satisfactory explanation of
-empirical relationships between changes in prices and changes in quantities. In other words,
-the household in price theory is not an object of study.
-Behavioral studies of real households are something entirely different. A realistic, be-
-havioral theory of the household might conceivably distinguish the large, children-domi-
-nated household from a simpler, father-dominated one. The decisions in the children-
-dominated household, where mother frequently and father occasionally try to exercise
-some influence, are probably not consistent, since different preference systems are made
-explicit at various times, with varying decibels and gestures deployed to make them pre-  vail over the preferences of other members of the family.
-One can imagine studies on the behavior of particular households selected at random or
-in structured samples. If the researcher learns that a spoiled brat in a family wants to
-eat nothing but beef and throws a tantrum every time his mother tries to feed him other
-kinds of meat, a reduction in the price of chicken will probably not substantially increase
-the consumption of chicken in this family. Thus, the weight of the child's taste in the
-decision process of the family can explain a low elasticity of its demand for chicken. But
-none of this has much bearing on general price theory.
-
 
 ---Economics-1967-0-12.txt---
 to answer the question "Does the Neutrino Really Exist?" [11, pp.
@@ -21051,20 +20776,6 @@ all purposes. They forget the maxim of Occam's Razor that unneces-
 sary terms in a theory be kept out (or shaved off). These students
 seem to miss in a simplified model the realistic trimmings of the ob-
 servable world; they distrust such a model because it is obviously
-'You may wonder whether I have changed my mind on these matters. Incidentally, I  hold that it is important for scholars and scientists to have an open mind, and the only  evidence showing that they do are instances in which they have actually changed their  minds. On this particular issue, however, I cannot oblige. Whether I am right or wrong,
-I have been consistent regarding these points. Let me quote from an article I wrote 28
-years ago: "The problem of oligopoly is by definition the problem of the effects of the  actions of few, giving a greater importance to the behavior of each member of the group.  . . . The theory of the oligopoly price involves an interpretation of the significant motives  behind the actions of a small number of people.... Even the most superficial theory will
-have to include many more ideal types of behavior in order to handle the problem of
-few sellers than it takes to handle the problem of a mass of competitive sellers"
-[20, p. 235].
-On the other hand, I must plead guilty to a charge of the same error of misplaced  concreteness against which I have just warned. It occurred in a sentence in which I spoke
-of various magnitudes (subjectively) "perceived or fancied by the men whose decisions or  actions are to be explained (the business men) . . ." [21, p. 521]. If this sentence referred  only to oligopolistic or monopolistic behavior, it would not be so bad, for, as I said above,  the theoretical constructs of decision-makers in this case have a closer correspondence to  real businessmen than the constructs in the theory of competitive prices. But the sentence
-was supposed to apply to the constructs of the firm in any position whatever. Hence it  was a misleading sentence in that (1) it gave the impression that the decision-makers in
-question were real men (real businessmen, whom you could interview) and (2) it said  that the actions of these men were to be explained, whereas the purpose of the theory  was not to explain observed actions but only observable results of imtgined (postulated)
-reactions to observable events.
-I apologize for this error. Not that I do not approve of a busy shuttle-traffic between  the domain of theoretical construction and the domain of empirical observation, but we
-must never fail to specify the side of the frontier on which we happen to be. The  theoretical terms may have empirical referents (counterparts), but to believe, or allow
-an impression of belief, that the two are identical is a methodological fallacy.  " g4When the conditions of competition are relaxed . . . the opportunity set of the firm  is expanded. In this case, the behavior of the firm as a distinct operating unit is of sepa-  rate interest. Both for purposes of interpreting particular behavior within the firm as  well as for predicting responses of the industry aggregate, it may be necessary to identify  the factors that influence the firm's choices within this expanded opportunity set and  embed these in a formal model" [48, pp. 2-3].
 
 
 ---Economics-1967-0-14.txt---
@@ -21201,10 +20912,6 @@ of the decision-maker's total utility as the basic assumption, simplicity
 and fruitfulness speak for sticking with the postulate of maximiza-
 tion of money profits for situations in which competition is effective.
 The question is not whether the firms of the real world will really max-
-'A great champion of more realistic theories of the firm summed up his reflections on
-their implications for general economics with this statement: "We shall not be far wrong
-in concluding . . . that the impact of more realistic theories of the firm on static price
-analysis is likely to be small" [6, p. 42].
 
 
 ---Economics-1967-0-17.txt---
@@ -21247,7 +20954,6 @@ listic pressures [23, pp. 211-23]), so that profits below the maxi-
 mum obtainable would in fact be net losses in an economic sense.
 These two reasons do not hold in the theories of oligopoly and mo-
 nopoly price.8 For these theories the real existence of firms (that is, an
-9 The idea that profit maximization is the appropriate hypothesis for the theory of com-  petitive price but not necessarily for the theory of monopoly or oligopoly price has been  expressed repeatedly over the last century.  Pareto, for example, said that "pure economics" cannot tell us anything about the con-
 
 
 ---Economics-1967-0-18.txt---
@@ -21282,23 +20988,6 @@ and on the problems under examination how much effort one wishes to
 invest in behavioral research where the findings hold little promise of
 yielding generalizations of wide applicability.
 There are, however, some simple models of oligopolistic behavior
-tinuing shifts of position of competing oligopolists, and we have to turn to "the observa-
-tion of facts," which would show us the variety of possibilities [29, pp. 601-2].
-Schumpeter, in 1928, had this to say about the dichotomy: "We have much less reason
-to expect that monopolists will . . . charge an equilibrium price than we have in the case
-of perfect competition; for competing producers must charge it as a rule under penalty
-of economic death, whilst monopolists, although having a motive to charge the monopo-
-listic equilibrium price, are not forced to do so, but may be prevented from doing so by
-other motives" [33, p. 371].
-Finally, Scitovsky in 1951 stated that "not only does the monopolist's secure market
-position enable him to relax his efforts of maximizing profit, but his very position may
-prevent his aiming at maximum profit. He may regard his immunity from competition as
-precarious or be afraid of unfavorable publicity and public censure; and for either reason,
-he may judge it wiser to refrain from making full use of his monopoly position. We con-
-clude, therefore, that although in some cases the monopolist will aim at maximizing his
-profit . . . in other cases-which may well be the important ones-he will refrain from
-maximizing profit" [37, p. 3771.
-
 
 ---Economics-1967-0-19.txt---
 which seem to be of sufficiently wide applicability. A model that equips
@@ -21420,28 +21109,6 @@ total-utility model and obtain from it definite predictions of the effects
 of changes in conditions upon the dispositions of the managers, one
 merely has to visualize the large variety of possible "satisfactions" and
 the still larger variety of things that may contribute to their attain-
-'For competition to be effective it is not necessary that competition is either pure or
-perfect or that all or any of the markets in which the firm buys or sells are perfect.
-10 Several of my statements, if I presented them without source reference, might well be
-mistaken for quotations from critics of marginalism, including behavioralists and man-
-agerialists. Here are samples [21]: ". . . a business man is motivated by considerations
-other than the maximization of money profits"; "it is preferable to separate the non-
-pecuniary factors of business conduct from those which are regular items in the formation
-of money profits" (p. 526); "one may presume that producing larger production volumes
-[or] paying higher wage rates . . . than would be compatible with a maximum of money
-profits may involve for the business man a gain in social prestige or a certain measure of
-inner satisfaction"; "it is not impossible that considerations of this sort substantially
-weaken the forces believed to be at work on the basis of a strictly pecuniary marginal
-calculus"; for patriotic reasons during the war "many firms produced far beyond the point
-of highest money profits"; "the conflict of interests between the hired managers and the
-owners of the business" may call for "important qualifications" (p. 527); "the interest
-of the former in inordinately large outlays or investments may be capable of descriptions
-in terms of a pecuniary calculus, but it is not maximization of the firm's profits which
-serves here as the standard of conduct" (pp. 527-28); "maximization of salaries and
-bonuses of professional managers may constitute a standard of business conduct different
-from that implied in the customary marginal analysis of the firm"; and "the extent to
-which the two standards would result in sharply different action under otherwise similar
-conditions is another open question in need of investigation" (p. 528).
 
 
 ---Economics-1967-0-22.txt---
@@ -21474,16 +21141,6 @@ how various changes in conditions will affect managerial decisions on
 inputs, outputs, and prices if the objectives of management include the
 gratification of preferences for certain expenses of the firm that com-
 pete with the maximization of profits."
-"Instead of cataloguing the various contributions to the "utility" of the management  and their relationships to the sources and uses of the firm's funds, one may wish to classify  the expenses of the firm with reference to "discretionary" decisions of the management  influenced by the decision-makers' preferences. Here is a tentative classification of this
-sort:
-1. Expenses required for the production of (a) current output of unchanged size,  (b) additional current output, with marginal cost not exceeding marginal revenue (hence,
-contributing to higher profits), and (c) additional current output, with marginal cost  exceeding marginal revenue (hence, reducing profits).
-2. Expenses not required for the production of current output, but increasing the pro-  ductive capacity or efficiency of the firm for future production.
-3. Expenses for managerial personnel in the form of (a) salaries and bonuses, and  (b) services rendered to them for their convenience and pleasure.
-4. Expenses not required for either current or future production, but (a) expected of
-a profitable firm as a social service, and only slightly promoting the public image of
-management, (b) widely recognized as contributing to the social or national benefit and  as indicative of the public spirit of the management, (c) contributing chiefly to the grati-
-fication of personal desires of supervisory and managerial personnel, and (d) largely
 
 
 ---Economics-1967-0-23.txt---
@@ -21523,10 +21180,6 @@ ment). For, if the marginal rates of substitution among all the various
 "utilifactors" are constant, the distribution of funds among them will
 remain unchanged with changes in conditions that increase or decrease
 the total of funds available. Only if the cost of any of the factors
-wasteful, that is, contributing nothing, and economizing nothing but managerial effort or  capability.
-This list may be suggestive of the actions that may have to be taken when, after years  of ease and growth, the firm finds its profits declining or disappearing.
-'Perhaps there ought to be a place on the list for some gratifications that are more
-stable, less subject to quantitative variation, such as the pleasure of being known for  honesty and fairness, on the one hand, and for sharpness and shrewdness, on the other,  or at least the pleasure of being convinced of having and exercising these qualities. And  last, though not least, there is the general feeling of gratification from "running" a large,  well-known profitable, widely respected firm with growing assets and employment.
 
 
 ---Economics-1967-0-24.txt---
@@ -21613,14 +21266,6 @@ gains, or both."3
 Subjective Information and the Charge of Tautology
 I have a few remaining tasks, and one of them is to lay a ghost, one
 that has long played tricks on economists and led them astray. He has
-12 The four "managerial" variables included in the list-sales, growth of sales, expenses for
-staff, and emoluments to the management-may well be the most important deviations from
-profit maximization, although I may easily be persuaded of the existence of other "extrava-
-gances" of management. Among the managements of our large corporations there are so
-many civic-minded men, bursting with social responsibility and cocksure of their ability to
-know what is in the national interest, that I incline to the thought that rather serious
-deviations from the profit motive occur in the area of virtuous striving for the so-called
-
 
 ---Economics-1967-0-26.txt---
 done this in their discussions of the subject of information, its avail-
@@ -21660,15 +21305,6 @@ the shift is usually, though not always, independent of the shape and
 position of the original curve. We need not fuss about the curve
 reflecting "accurate information" if we only want to see what happens
 when the curve shifts in a certain direction.
-common good. I hope I am not excessively naive if I believe that the excess profits
-secured through restrictions on competition are to no small extent used for what the
-discretionary managers believe to be worthy causes. But I see no way of formulating any
-hypotheses that would enable us to predict either just what the firms' outlays in the public
-interest will be or how they will affect total output in the long run. I suppose that
-Boulding's witty question, "do we maximize profit subject to the constraints of morality
-or do we maximize virtue subject to the constraints of satisfactory profits? [7, p. 17]
-was not intended to suggest an answer with empirically fertile conclusions.
-
 
 ---Economics-1967-0-27.txt---
 Since ghosts are hardy creatures, the laying of this one will probably
@@ -21707,14 +21343,6 @@ mination of "optimal" decisions, cannot help being satisfied with some-
 thing less: its behavior will be only "satisficing." What behavior? The
 mere adjustment to a simple change or the coordinated, integrated
 whole of its activities? Evidently, only the latter is the overly ambi-
-14 "Economic man deals with the 'real world' in all its complexity," says Herbert Simon
-[39, p. xxv]. The homo oeconomicus I have encountered in the literature was not such a
-perfectionist. Incidentally, even Simon's "economic man," two years before the ambitious
-one just quoted, did not have "absolutely complete," but only "impressively clear and
-voluminous" knowledge of the "relevant aspects of his environment" [38, p. 99]. My
-point is that we ought to distinguish perfect or imperfect knowledge of (a) the entire
-environment, (b) the relevant aspects of the entire environment, (c) the relevant changes
-in environmental conditions.
 
 
 ---Economics-1967-0-28.txt---
@@ -21748,21 +21376,6 @@ of making fine distinctions, enumerated 13 concepts of "pragmatism"
 [18], 66 concepts of "nature" [19, pp. 447-56], and "a great
 number" of concepts of "God."'6 I am sure there are at least 21 con-
 cepts of the firm employed in the literature of business and economics,
-"5Suppose the government imposes a 15 per cent surcharge on all import duties. The
-theory of the profit-maximizing firm will without hesitation tell us that imports will de-
-cline. What will the theory of the satisficing firm tell us? "Models of satisficing behavior
-are richer than models of maximizing behavior, because they treat not only of equilibrium
-but of the method of reaching it as well. Psychological studies of the formation and change
-of aspiration levels support propositions of the following kinds. (a) When performance
-falls short of the level of aspiration, search behavior (particularly search for new alter-
-natives of action) is induced. (b) At the same time, the level of aspiration begins to ad-
-just itself downward until goals reach levels that are practically attainable. (c) If the
-two mechanisms just listed operate too slowly to adapt aspirations to performance, emo-
-tional behavior-apathy or aggression, for example-will replace rational adaptive be-
-havior" [40, p. 263]. I admit that this is an unfair use of the theory of satisficing, but
-I wanted to show that everything has its place and no theory can be suitable to all
-problems. I suspect, however, that Simon's theory of satisficing behavior will yield neither
-qu1antitaftive nor qualitative predictions.  "0Lovejoy Denied Approval by Sen-ate Group," The Baltimore Sun, April 1, 1951.
 
 
 ---Economics-1967-0-29.txt---
@@ -21890,14 +21503,6 @@ interesting deductions, the prospects of a lasting marriage are good.
 It is not easy to judge the future sterility or fertility of this mar-
 riage between marginalism and managerialism, because most of us are
 inclined to underrate the kinds of problem on which we have never
-T While under profit maximization MR-MC = 0, sales maximization requires that  MR = 0; hence, for some of the output sold marginal revenue is less than marginal cost,  which cuts into profits. A minimum-profit constraint sets a limit to this.  In the case of maximization of the growth rate of sales the limit on nonremunerative
-selling is built into the objective itself because a growth of productive assets is required  to support the growth of sales, and the acquisition of these assets presupposes a sufficiency
-of profits, either for internal financing or as a basis for outside finance [3, pp. 1086-871.
-If at any time sales were pushed too hard at the expense of profits, there would arise a
-shortage of funds for acquiring the productive assets needed for producing more output.
-Thus no separate minimum-profit constraint has to be imposed, since it is inherent in
-the objective of maximization of the growth of sales. It should be understood, however,
-that the growth rate of assets under this objective is still less than it could be under  straight profit maximization. (This shows why we should never speak of the "growth of  the firm" without specifying by what criterion we measure it.)
 
 
 ---Economics-1967-0-32.txt---
@@ -21983,9 +21588,6 @@ creases in industries with many firms presumably under heavy compe-
 tition [16, pp. 64, 75-77]. In such circumstances the managerial the-
 ories of the firm, according to their proponents, do not apply. On this
 narrow issue, therefore, the old-type marginalist cannot retreat.
-' As a matter of fact, it will also depend on the research techniques which the appoinite(1
-analyst has learned to master; we can eliminate this bias by assuming an ideal analyst
-equally adept in all techniques.
 
 
 ---Economics-1968-0-03.txt---
@@ -22105,8 +21707,6 @@ In a talk published in 1945, E. A. Goldenweiser, then Director of the
 Research Division of the Federal Reserve Board, described the pri-
 mary objective of monetary policy as being to "maintain the value of
 Government bonds.... This country" he wrote, "will have to adjust to
-'In [2], I have argued that Henry Simons shared this view with Keynes, and that it
-accounts for the policy changes that he recommended.
 
 
 ---Economics-1968-0-06.txt---
@@ -22284,8 +21884,6 @@ Tlhanks to Wicksell, we are all acquainted with the concept of a
 the "natural" and the "market" rate. The preceding analysis of interest
 rates can be translated fairly directly into Wickse]lian terms. The mon-
 etary authority can make the market rate less than the natural rate
-2 This is partly an empirical not theoretical judgment. In principle, "tightness" or "ease"
-depends on the rate of change of the quantity of money supplied compared to the rate of  change of the quantity demanded excluding effects on demand from monetary policy itself.  However, empirically demand is highly stable, if we exclude the effect of monetary policy,  so it is generally sufficient to look at supply alone.
 
 
 ---Economics-1968-0-10.txt---
@@ -22329,7 +21927,6 @@ ticipated that nominal prices would be stable and in which that antici-
 pation remained unshaken and immutable whatever happened to actual
 prices and wages. Suppose, by contrast, that everyone anticipates that
 prices will rise at a rate of more than 75 per cent a year-as, for exam-
-3It is perhaps worth noting that this "natural" rate need not correspond to equality  between the number unemployed and the number of job vacancies. For any given structure  of the labor mnarket, there will be some equilibrium relation between these two magnitudes,  but there is no reason why it should be one of equality.
 
 
 ---Economics-1968-0-11.txt---
@@ -22363,12 +21960,6 @@ ness, suppose that it takes 3 per cent as the target rate and that the
 at a time when prices have been stable and when unemployment is
 higher than 3 per cent. Accordingly, the authority increases the rate of
 monetary growth. This will be expansionary. By making nominal cash
-4 Strictly speaking, the rise in nominal wages will be less rapid than the rise in antici-
-pated nominal wages to make allowance for any secular changes in real wages.
-'Stated in terms of the rate of change of nominal wages, the Phillips Curve can be  expected to be reasonably stable and well defined for any period for which the average  rate of change of prices, and hence the anticipated rate, has been relatively stable. For  such periods, nominal wages and "real" wages move together. Curves computed for differ-  ent periods or different countries for each of which this condition has been satisfied will  differ in level, the level of the curve depending on what the average rate of price change  was. The higher the average rate of price change, the higher will tend to be the level of  the curve. For periods or countries for which the rate of change of prices varies consider-  ably, the Phillips Curve will not be well defined. My impression is that these statements  accord reasonably well with the experience of the economists who have explored empirical
-Phillips Curves.
-Restate Phillips' analysis in terms of the rate of change of real wages-and even more  precisely, anticipated real wages-and it all falls into place. That is why students of  empirical Phillips Curves have found that it helps to include the rate of change of the  price level as an independent variable.
-
 
 ---Economics-1968-0-12.txt---
 balances higher than people desire, it will tend initially to lower interest
@@ -22687,10 +22278,6 @@ the rate of monetary growth have also been periods of relative stability
 in economic activity, both in the United States and other countries.
 Periods of wide swings in the rate of monetary growth have also been
 periods of wide swings in economic activity.
-a In an as yet unpublished article on "The Optimum Quantity of Money," I conclude
-that a still lower rate of growth, something like 2 per cent for the broader definition,
-might be better yet in order to eliminate or reduce the difference between private and
-total costs of adding to real balances.
 
 
 ---Economics-1968-0-19.txt---

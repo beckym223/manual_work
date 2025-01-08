@@ -41,7 +41,7 @@ def git_commit(path: str, message = "hello")->None:
         raise
 def main(name):
     with open('test.txt','a') as f:
-        f.write(name)
+        f.write(name+"\n")
     git_commit('test.txt',f'added {name}')
 
 if __name__ == "__main__":

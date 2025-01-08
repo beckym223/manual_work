@@ -5837,10 +5837,7 @@ debt held by private investors (that is excluding public institutions and the Fe
 8
 Given this series, I construct a maturity-weighted interest rate as a weighted aver -
 age of the 1-year and the 10-year rates using
-i
-t   =  α t   ×  i 1,t   +  (1 −  α  t  )  ×  i 10,t    with
-α
-t   =  (10 − average maturity in years ) /9 .
+
 Man
 y, but not all, holders of government bonds pay taxes on the interest paid,
 so the interest cost of debt is actually lower than the interest rate itself. There is no direct measure of those taxes, and thus I proceed as follows.
@@ -5858,8 +5855,7 @@ the late 1970s (as inflation and nominal rates are high, leading to high effecti
 rates), then goes down close to 0 until the financial crisis, and has increased slightly since 2017. The tax rate on 10-year bonds follows a similar pattern, down from about 40 percent in the early 1980s to close to 0 until the financial crisis, with a small increase since 2016.
 12 Taking into account the maturity structure of the debt,
 I then construct an average tax rate in the same way as I constructed the interest rate above, by constructing
-τ
-t   =  α t   ×  τ 1,t   +  (1 −  α t  )  ×  τ 10,t   .
+
 
 ---Economics-2019-0-10.txt---
 Not all holders of Treasuries pay taxes however. Foreign holders, private and
@@ -5868,17 +5864,13 @@ not subject to tax. The proportion of such holders has steadily increased over t
 reflecting the increase in emerging markets’ reserves (in particular China’s), the
 growth of the Social Security Trust Fund, and more recently, the increased holdings of the Fed, among other factors. From 15 percent in 1950, it now accounts for 64 percent today.
 Using the maturity adjusted interest rate from above,
-i
 t   , the implicit tax rate,
-τ
 t   , and the proportion of holders likely subject to tax,   β  t   , I construct an “adjusted
 interest rate” series according to
-i
-adj,t   =  i t   (1 −  τ t   ×  β t  )  .
+
 Its characteristics are shown in Figures 3 and 4. Figure 3 plots the adjusted rate
 against the 1-year and the 10-year rates. Figure 4 plots the adjusted tax rate against
 the nominal growth rate. They yield two conclusions:
-•
 First, over the period, the average adjusted rate has been lower than either the
 
 
@@ -5893,35 +5885,20 @@ than the average nominal growth rate, 3.8 percent versus 6.3 percent.
 The last potential issue is Jensen’s inequality. The dynamics of the ratio of debt
 to GDP are given by
 
-d
-t   =   1 +  r adj,t   _ 1 +  g t      d t−1   +  x t   ,
-where
-d
 t    is the ratio of debt to GDP (with both variables either in nominal or in real
 terms if both are deflated by the same deflator), and
-x
 t    is the ratio of the primary
 deficit to GDP (again, with both variables either in nominal or in real terms). The
 evolution of the ratio depends on the relevant product of interest rates and growth
 rates (nominal or real) over time.
 Given the focus on debt rollovers, that is, the issuance of debt without a
 later increase in taxes or reduction in spending, suppose we want to trace debt dynamics under the assumption that
-x
 t    remains equal to zero.13 Suppose that
-ln
-[ (1 +  r adj,t  ) / (1 +  g t  ) ]   is distributed normally with mean  μ   and v ariance   σ    2  . Then,
+ is distributed normally with mean  μ   and v ariance   σ    2  . Then,
 the evolution of the ratio will depend not on
-e
-xp
-μ
-b
-ut on
-e
-xp
-(μ +  (1/2)   σ   2 )  . We
+We
 have seen that, historically,
-μ
-w
+
 as between −1 percent and −2 percent. The standard
 deviation of the log ratio over the same sample is equal to 2.8 percent, implying
 a variance of 0.08 percent, thus too small to affect the conclusions substantially. Jensen’s inequality is thus not an issue here.
@@ -5935,17 +5912,7 @@ t
 w
 as what it actually was, but that the primary balance was
 equal to zero from then on, so that debt in year
-t
 
-+
-
-n
-w
-as given by
-d
-t+n   =  (  ∏
-i=1  n
-1 +  r adj,t+i   _ 1 +  g t+i    )   d t   .
 Figures
 5 and 6 show what the evolution of the debt ratio would have been, starting
 at different dates in the past. For convenience, the ratio is normalized to 100 at
@@ -5981,18 +5948,10 @@ certainty, following Diamond (1965), then extending it to allow for uncertainty.
 17,18
 Assume that the economy is populated by people who live for two periods, working
 in the first period, and consuming in both periods. Their utility is given by
-U
-
-=
-(1 − β) U ( C 1  )  + βU  ( C 2  )  ,
-where
-C
-1    and   C  2    are consumption in the first and the second period of life, respectively.
+ are consumption in the first and the second period of life, respectively.
 (As I limit myself for the moment to looking at the effects of the transfer
 on utility in steady state, there is no need for now for a time index.) Their first and
 second period budget constraints are given by
-C
-1   = W  −  K  −  D;   C  2   = RK  +  D  ,
 where
 W
 is the w
@@ -6008,17 +5967,9 @@ is the rate of return on capital.
 I ignore population gro
 wth and technological progress, so the growth rate is equal
 to zero. Production is given by a constant returns production function,
-Y
 
-=
-
-F
-(K, N)  .
 It is convenient to normalize labor to 1, so  Y
 
-=
-
-F
 (K, 1)  . Both factors are paid
 their marginal product.
 16 In this framework, the main general equilibrium effect of intergenerational transfers or debt is to decrease
@@ -6027,7 +5978,6 @@ provides liquidity services. Aiyagari and McGrattan (1998) for example explore t
 
 ---Economics-2019-0-14.txt---
 The first-order condition for utility maximization is given by
-(1 − β) U′ ( C 1  )  = β RU′  ( C 2  )  .
 The effect of a small increase in the transfer
 D
 on utility is gi
@@ -6035,7 +5985,6 @@ ven by
 dU
 
 =
-[−  (1 − β) U′ ( C 1  )  + βU′  ( C 2  ) ] dD +  [ (1 − β) U′ ( C 1  ) dW + βKU′ ( C 2  ) dR]  .
 The first term in brackets, call it
 d
 U
@@ -6047,16 +5996,6 @@ b   , represents the general equilibrium
 effect of the transfer through the induced change in wages and rates of return.
 Consider the first term, the effect of debt on utility given labor and capital prices.
 Using the first-order condition gives
-(1)
-d
-U
-a   =  [β (− RU′ ( C 2  )  + U′ ( C 2  ) ) ] dD = β (1 − R) U′ ( C 2  )  dD .
-So, if
-R
-
-<
-
-1
 
 (the case known as “dynamic inefficiency”), then, ignoring the
 other term, a small increase in the transfer increases welfare. The explanation is
@@ -6079,39 +6018,13 @@ R
 An increase in debt decreases capital and thus decreases the wage and increases
 the rate of return on capital. What is the effect on welfare?
 Using the factor price frontier relation
-dW
-/dR
 
-=
-
-−K/N
-
-, or equivalently
-
-dW
-
-=
-
-−K
-
-dR
-
-(given that
-N
-
-=
-
-1
-)
 , rewrite this second term as
-d
-U
-b   = −   [ (1 − β) U′ ( C 1  )  − βU′  ( C 2  ) ] K dR .
+
 Using the first-order condition for utility maximization gi
 ves
 d
 U
-b   = −   [β (R − 1) U′ ( C 2  ) ] K dR .
 So, if
 R
 
@@ -6134,7 +6047,7 @@ Using the definition of the elasticity of substitution
 η
 
 ≡
-( F K    F N  ) / F KN  F , the defi -
+the defi -
 nition of the share of labor,
 α
 
@@ -6147,7 +6060,6 @@ NK   = −  K  F  KK   , this second term can be rewritten as
 (2)
 d
 U
-b   =  [β (1/η) α]  [ (R − 1) U′ ( C 2  ) ] R dK .
 
 
 ---Economics-2019-0-15.txt---
@@ -6242,11 +6154,7 @@ t+1  f   E [U′ ( C 2,t+1  ) ]  = E  [ R t+1  U′ ( C 2,t+1  ) ]  .
 
 ---Economics-2019-0-16.txt---
 Now consider a small increase in  D   on utility at time  t  :
-d
-U
-t   =  [−  (1 − β) U′ ( C 1,t  )  + βEU′  ( C 2,t+1  ) ] dD
-+
-[ (1 − β) U′ ( C 1,t  )  d W t   + β K t   E [U′ ( C 2,t+1  )  d R t+1  ] ]  .
+
 As before, the first term in brackets, call it
 d
 U
@@ -6258,14 +6166,9 @@ bt   , reflects the general equilibrium
 effect of the transfer through the change in wages and rates of return to capital.
 Take the first term, the effect of debt on utility given prices. Using the first-order
 condition gives
-d
-U
-at   =  [− βE  [ R t+1  U′ ( C 2,t+1  ) ]  + βE  [U′ ( C 2,t+1  ) ] ]  dD .
+
 So, using the definition of the safe rate:
-(3)
-d
-U
-at   = β (1 −  R  t+1  f  ) EU′ ( C 2,t+1  ) dD .
+
 So, to determine the sign ef
 fect of the transfer on welfare through this first channel,
 the relevant rate is indeed the safe rate. In any period in which
@@ -6278,35 +6181,19 @@ the safe rate is, in effect, the risk-adjusted rate of return on capital.20 The 
 transfer gives people a higher rate of return than the risk-adjusted rate of
 return on capital.
 Take the second term, the effect of the transfer on utility through prices:
-d
-U
-bt   =  (1 − β) U′ ( C 1,t  )  d W t   + βE  [U′ ( C 2,t+1  )  K t   d R t+1  ]  .
+
 Or using the factor price frontier relation:
-d
-U
-bt   =  (−1 − β) U′ ( C 1,t  )   K t−1   d R t   + βE  [U′ ( C 2,t+1  )  K t   d R t+1  ]  .
+
 In general, this term will depend both on
 d
 K
 t−1    (which affects  d W t   ) and on  d  K  t
 (which affects
-d
-R
-t+1   ). If we evaluate it at   K  t   =  K t−1   = K   and  d  K  t   = d K  t+1
 =
 dK
 , it can be re
 written, using the same steps as in the certainty case, as
-(4)
-d
-U
-bt   =  [β (1/η) α] E [ ( R t+1   −    R t+1   _  R t    ) U′ ( C 2,t+1  ) ]   R t    dK ,
-or
-(5)
 
-d
-U
-bt   =  [β (1/η) α] E [ R t+1  U′ ( C 2,t+1  ) ]  ( R t   − 1)  dK .
 Thus, the relevant rate in assessing the sign of the welfare effect of the transfer
 through this second term is the risky rate, the marginal product of capital. If
 R
@@ -6333,18 +6220,7 @@ today) the two terms now work in opposite directions. The first term implies tha
 increase in debt increases welfare. The second term implies that an increase in debt instead decreases welfare. Both rates are thus relevant.
 To get a sense of relative magnitudes of the two effects, and therefore which one
 is likely to dominate, the following approximation is useful. Evaluate the two terms at the average values of the safe and the risky rates, to get
-dU
-/dD
 
-=
-[ (1 −  ER    f  )  −  (1/η) α  ER   f  (ER − 1)  (− dK/dD) ] βE [U′ ( C 2  ) ]
-so that
-(
-6)
-
-sign dU
-
-≡
 
 sign
 where, from the accumulation equation, we ha
@@ -6372,14 +6248,7 @@ ER
 (1 − α) / (αβ)  , (the approximation
 comes from ignoring Jensen’s inequality) the equation reduces to the simpler
 formula:
-(7)
-sign
-dU
 
-≡
-
-sign
-[ (1 − E R    f   ER) ]  .
 Suppose that the average annual safe rate is 2 percent lower than the growth rate,
 so that
 E
@@ -6408,7 +6277,6 @@ requires going to simulations.23 Within the structure of the model above, I make
 following specific assumptions (derivations and details of simulations are given in online Appendix C).
 I think of each of the two periods of life as equal to 25 years. Given the role of
 risk aversion in determining the gap between the average safe and risky rates, I want to separate the elasticity of substitution across the two periods of life and the degree of risk aversion. Thus, I assume that utility has an Epstein-Zin-Weil representation of the form (Epstein and Zin 2013, Weil 1990):
-(1 − β) ln  C 1,t   + β   1 _ 1 − γ   ln E ( C  2,t+1  1−γ  )  .
 The log-log specification implies that the intertemporal elasticity of substitution
 is equal to 1. The coefficient of relative risk aversion is given by
 γ
@@ -6420,7 +6288,6 @@ constant
 elasticity of substitution production function, with multiplicati
 ve uncertainty:
 Y
-t   =  A t     (b K  t−1  ρ   +  (1 − b)   N   ρ )    1/ρ  =  A t     (b K  t−1  ρ   +  (1 − b) )    1/ρ  ,
 where
 A
 t    is white noise and is distributed log normally, with  ln   A  t   ∼     (μ;  σ   2 )   and
@@ -6464,14 +6331,7 @@ a    to be a high 4 percent a year, which implies a value of  σ   of
 √ _ 25   × 4%  =  0.20  .
 Because the strength of the second effect above depends on the elasticity of substitution,
 I consider two different values of
-η
 
-,
-η
-
-=
-
-∞
 which corresponds to the
 linear production function case, and in which the price ef
 fects of lower capital accumulation
@@ -6534,7 +6394,6 @@ y rate
 and the safe rate. In the absence of transfers, the following relation holds between the two rates:
 ln
 R
-t+1  f   − ln  E  R  t+1   = −  γ  σ    2  .
 This relation implies however that the model suffers from a strong case of the
 equity premium puzzle (see, for example, Kocherlakota 1996). If we think of
 
@@ -6660,11 +6519,7 @@ budget constraints faced by somebody born at time
 t
 are gi
 ven by
-C
-1t   =  ( W t   + X +   (1 −  R  t  f   ) D)  −  ( K t   + D)  =  W  t   + X −   K  t   − D R   t  f  ,
 
-C
-2t+1   =  R t+1    K t   + D R   t+1  f   .
 So, a constant le
 vel of debt can be thought of as an intergenerational transfer, with
 a small difference relative to the case developed earlier. The difference is that a gener -
@@ -6700,10 +6555,7 @@ taxes nor subsidies after the initial issuance and associated transfer. The budg
 t
 are thus gi
 ven by
-C
-1t   =  W  t   + X −   ( K t   +  D t  )  ,
-C
-2t+1   =  R t+1    K t   +  D t    R  t+1  f   ,
+
 and debt follo
 ws
 D

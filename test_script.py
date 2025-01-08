@@ -45,7 +45,7 @@ def main(name):
 
 if __name__ == "__main__":
     import sys
-    if len(sys.argv) != 5:
+    if len(sys.argv) != 1:
         print("Usage: python text_cleaning.py <source_dir> <dest_dir> <log_file> <commit_changes>")
         sys.exit(1)
 

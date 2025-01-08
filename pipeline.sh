@@ -7,3 +7,5 @@ BRANCH_NAME="pipeline-run-$(date +'%Y%m%d%H%M%S')"
 
 # Create and switch to the new branch, setting the upstream to the current branch
 git checkout -b "$BRANCH_NAME" --track "$CURRENT_BRANCH"
+
+python ./test_script.py "$BRANCH_NAME"

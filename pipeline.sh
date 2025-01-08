@@ -1,3 +1,5 @@
+#!/bin/bash
+
 CURRENT_BRANCH=$(git branch --show-current)
 
 # Generate a unique branch name

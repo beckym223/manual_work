@@ -42,12 +42,13 @@ def git_commit(path: str, message = "hello")->None:
 def main(name):
     with open('test.txt','a') as f:
         f.write(name)
+    git_commit('test.txt',f'added {name}')
 
 if __name__ == "__main__":
     import sys
-    if len(sys.argv) != 1:
-        print("Usage: python text_cleaning.py <source_dir> <dest_dir> <log_file> <commit_changes>")
-        sys.exit(1)
+    # if len(sys.argv) != 1:
+    #     print("Usage: python text_cleaning.py <source_dir> <dest_dir> <log_file> <commit_changes>")
+    #     sys.exit(1)
 
     name = sys.argv[1]
     # dest_dir = sys.argv[2]

@@ -1,5 +1,5 @@
 It is natural to impute popular contemporary models to the government. The "revisionist history"
- of the US Phillips curve by Robert G. King and Mark W. Watson (1994) provides a good
+of the US Phillips curve by Robert G. King and Mark W. Watson (1994) provides a good
 source for these. King and Watson studied how econometric directions of fit (i.e., should one
 regress inflation on unemployment or unemployment on inflation?) affect government decisions.
 To make contact with studies from the 1970s, King and Watson call regressions of inflation on
@@ -9,9 +9,9 @@ These simple models capture the substantially different operating characteristic
 stories.
 The three stories have monetary authorities solve adaptive intelligent design problems that
 induce them to make decisions that are influenced by their erroneous views about the consequences
- of actions not taken. The stories differ in the nature of those misunderstandings. In
+of actions not taken. The stories differ in the nature of those misunderstandings. In
 the first story, the monetary authority's misspecified model misses a chain of causation linking
- its decisions first to the private sector's expectations of inflation and then to the position of
+its decisions first to the private sector's expectations of inflation and then to the position of
 an unemployment-inflation trade-off. In the second story, there exists a parameter vector 0o =
 p that aligns the monetary authority's model with the data-generating mechanism on and off
 the chosen stochastic monetary policy path, but except in the limit as t ?? ??, the government's
@@ -21,10 +21,10 @@ operating characteristics that give very different readings about the consequenc
 no-feedback low-inflation policy.
 A. The (Temporary) Conquest of US Inflation
 This story is about generating sufficient variation in the data to allow a government's misspecified
- model to detect that there is no exploitable trade-off between inflation and unemployment.
+model to detect that there is no exploitable trade-off between inflation and unemployment.
 The only way the government's model lets it discover that there truly is no exploitable trade-off
 is for it falsely to infer that there is no trade-off whatsoever. That imperfection dooms stabilizations
- of inflation to be temporary.
+of inflation to be temporary.
 This story uses specifications f{ycc,vcc\p) "?f(yx,v?\0) to capture the idea that a monetary
 authority misunderstands how its decisions affect private agents' expectations about inflation
 and, therefore, the joint distribution of unemployment and inflation. I illustrate the forces at work
@@ -34,5 +34,5 @@ Sargent (1999), and Sargent, Williams, and Zha (2006b) fit to US data. The true 
 (20) U = p0 - Pip3w2 + p2Wi ;
 (21) 77 = v + p3w2,
 where U is the unemployment rate, rr is the rate of inflation, v is the systematic part of the inflation
- rate chosen by the monetary authority, w is a 2 X 1 Gaussian random vector with mean zero
+rate chosen by the monetary authority, w is a 2 X 1 Gaussian random vector with mean zero
 stability and performance of alternative monetary policy rules See Timothy Cogley (2005) and Monika Piazzesi and  Martin Schneider (2007) for applications to the yield curve

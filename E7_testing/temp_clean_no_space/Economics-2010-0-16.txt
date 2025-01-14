@@ -1,0 +1,40 @@
+the regions?are known to have been ad hoc and unsatisfactory. I shall focus on the 2005 round,
+and discuss and quantify the effects of several aspects of the way the indexes were constructed.
+Figure 3 shows the revisions to the PPPs in relation to country living standards; it displays
+the ratio of new to old GDP PPPs for 2005 taken from the 2008 and 2007 World Development
+Indicators, respectively. A similar graph for the consumption PPPs is given in Ravallion, Chen
+and Sangraula (2009, Figure 4). Figure 3 shows a strong negative relationship between the upward
+revision in the PPP for GDP, on the vertical axis, and log GDP per capita on the horizontal axis,
+which implies that the GDP per capita in international dollars tended to be revised downward in
+poor countries relative to rich countries, which is why inequality increased. (The negative rela
+tionship would be even steeper using the old estimates of per capita GDP, according to which the
+poorest countries were richer than shown.) Relative to the rich countries, poor countries became
+poorer; this does not affect global poverty given that global poverty is assessed by poor world
+standards?but it does increase the estimate of global inequality (and reduce the value of the
+global poverty line below its value if updated by the US CPI). The figure also shows that the larg
+est revisions are in Africa and Asia; the average ratios of new to old are 1.42 for Africa and 1.33
+for Asia-Pacific. The largest seven revisions are in Africa, and there are 18 African countries in
+the top 25, the others being Cambodia, Nepal, Bangladesh, Philippines, China, Tonga, and Fiji;
+all except Tonga (which was not benchmarked in the 2005 ICP, but was imputed) are in the Asia
+Pacific region. Since Africa and Asia were linked to the other regions using regional PPPs?one
+for each region, calculated from the ring using Diewert's method?these regional PPPs are a
+natural point of investigation for investigating the increase in inequality. By the same token,
+measures of world inequality are sensitive to these regional PPPs; for example, if the revision to
+the regional PPPs for Africa and Asia-Pacific had been half their actual size, so that the ratios
+were 1.21 and 1.165 rather than 1.42 and 1.33, half the difference in the standard deviation of logs
+in per capita GDP would disappear. Without the upward revisions to the African and Asia-Pacific
+PPPs, there would have been no increase in measured inequality.
+The 2005 ICP has price data for 146 countries, many of which were imputed in earlier rounds,
+either by comparison with countries at a similar level of development, or by updating old data, or
+some combination of the two. For countries without benchmarks, the PPP correction factor, the
+ratio of PPP to exchange rates, is imputed from a regression of the logarithm of the correction
+factor on the logarithm of per capita GDP at market prices. (Other variables are also included;
+see Changqing Sun and Eric Swanson 2009 and Deaton and Heston 2010 for more details.)
+These imputations target the logarithm of PPP, or equivalently the logarithm of per capita GDP
+in international dollars, and deliver unbiased estimates in ideal conditions. However, the imputed
+values will have fewer cross-country variations than the unobserved true values. If \npy is the
+logarithm of the price of GDP?the ratio of the PPP to the average exchange rate?the regression
+for imputation in its simplest form is
+where yA is per capita GDP in US dollars converted at market exchange rates; using the World
+Development Indicators, 8X is typically estimated to be around 0.25. Imputed per capita GDP in
+international prices is  A. Country Coverage, Imputations, and Inequality

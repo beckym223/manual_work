@@ -1,10 +1,9 @@
 #!/bin/bash
-NAME="E7"
+
 # Directories and log file for E2
-SOURCE_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/data/groups/$NAME/texts"
-DEST_DIR="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/clean_text/$NAME"
-LOG_FILE="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/logs/$NAME.log"
-PYTHON_SCRIPT="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/python_scripts/${NAME}.py"
+SOURCE_DIR="/Users/BeckyMarcusMacbook/Thesis/manual_work/E7_testing/raw_texts"
+DEST_DIR="/Users/BeckyMarcusMacbook/Thesis/manual_work/E7_testing/temp_clean"
+PYTHON_SCRIPT="/Users/BeckyMarcusMacbook/Thesis/TextCleaning/python_scripts/E7.py"
 
 # Call the common script
-/Users/BeckyMarcusMacbook/Thesis/TextCleaning/scripts/run_pipeline.sh "$@" "$SOURCE_DIR" "$DEST_DIR" "$LOG_FILE" "$PYTHON_SCRIPT" 
+python /Users/BeckyMarcusMacbook/Thesis/manual_work/E7_testing/E7.py "$SOURCE_DIR" "$DEST_DIR" 

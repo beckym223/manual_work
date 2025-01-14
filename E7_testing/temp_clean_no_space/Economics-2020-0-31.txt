@@ -5,8 +5,8 @@ combined with QE(D) implies a lower loss than even the unconstrained baseline
 policy. For   r   ∗   = 0, the combination of a 2 percent inflation threshold and the QE(D)
 policy yields a lower loss than the baseline policy with a 5 percent inflation target,
 and an only slightly greater loss than that of the (hypothetical) unconstrained baseline
-policy. None of these combination policies implies unreasonably high aver -
-age durations of  lower-bound episodes or peak asset  central-bank accumulations
+policy. None of these combination policies implies unreasonably high average
+durations of  lower-bound episodes or peak asset  central-bank accumulations
 outside historical experience. In contrast to the baseline rules, these policies also
 produce inflation rates near target, consistent with inflation expectations remaining
 well anchored.

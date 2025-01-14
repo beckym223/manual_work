@@ -10,8 +10,8 @@ time-inconsistent, in the sense of Kydland and Prescott (1977)—that is, at the
 bound, monetary policymakers may want to commit to  interest-rate paths or to other
 actions from which they will have incentives to deviate in the future.
 For example, when  short-term rates cannot be reduced further, policymakers
-may want to put downward pressure on  longer-term rates by persuading mar -
-ket participants that they intend to keep the policy rate at the lower bound for an
+may want to put downward pressure on  longer-term rates by persuading market
+participants that they intend to keep the policy rate at the lower bound for an
 extended period—a  so-called  lower-for-longer policy—even if that involves a
 possible ( time-inconsistent) overshoot of their inflation target. As I will discuss,
 lower-for-longer policies are in turn closely related to  so-called makeup strategies,

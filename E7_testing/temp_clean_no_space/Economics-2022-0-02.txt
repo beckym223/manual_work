@@ -8,8 +8,8 @@ power in their undergraduate courses, but had almost no formal training in the a
 of such models.
 II. New Theoretical Frameworks
 Early analysts (including Robinson and Reynolds) recognized two alternative
-explanations for a  less-than-perfectly elastic supply of labor to a given firm: infor -
-mation frictions and idiosyncratic preferences for different jobs. New models of
+explanations for a  less-than-perfectly elastic supply of labor to a given firm: information
+frictions and idiosyncratic preferences for different jobs. New models of
 optimal search and of the demand for differentiated products that were developed in
 the 1970s provided the foundations to formalize these explanations.
 A. Search Models

@@ -2,8 +2,8 @@ and may even preclude the existence of impersonal equilibrium prices for individ
 licenses. These complex auctions need to match bidders with the right units (and packages) of the licenses being auctioned.
 9 Wilson (2002) discusses different complexities
 in the markets for electricity, in which the time and place of delivery face (and impose) constraints on the electricity network.
-And in many markets, you care with whom you are dealing. In matching mar -
-kets, you can’t just choose what you want, even if you can afford it: you also must be chosen.
+And in many markets, you care with whom you are dealing. In matching markets,
+you can’t just choose what you want, even if you can afford it: you also must be chosen.
 10 So prices don’t do all the work of deciding who is matched to whom:
 marketplaces that serve matching markets must be able to do more than price dis-covery. Regulators take note: because matching marketplaces must do more than marketplaces for commodity markets, they may need to facilitate additional kinds of coordination, and so preserving competition in matching markets may involve different kinds of regulation.
 Matchmaking is an old form of market making, but new technologies are making

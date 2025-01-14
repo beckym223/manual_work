@@ -18,8 +18,8 @@ would be significant.22 Moreover, it may be that raising the inflation target wo
 provide less additional space than assumed in these simulations, because at higher
 inflation rates economic behavior could change in ways that reduce the potency of
 monetary policy (L’Huillier and Schoenle 2019).
-Third, taken separately, both forward guidance and QE lead to improved perfor -
-mance, relative to the baseline rule with a 2 percent inflation target. However, the
+Third, taken separately, both forward guidance and QE lead to improved performance,
+relative to the baseline rule with a 2 percent inflation target. However, the
 economic benefits of forward guidance alone in these simulations are moderate, and
 less than in much of the literature (e.g., Bernanke, Kiley, and Roberts 2019). The
 reduced impact of forward guidance in these simulations appears to be the result

@@ -7,8 +7,8 @@ performance. The results are not much affected if positive and negative unemploy
 gaps are treated symmetrically, as is more conventional, or if the loss is calculated
 in terms of the output gap instead of the unemployment gap. Mean losses are
 a useful summary measure that provides a natural way to rank alternative policies,
-evaluate the marginal benefits of new policy tools, or—by comparing losses of alter -
-native policies to that of the unconstrained baseline Taylor rule—assess how close
+evaluate the marginal benefits of new policy tools, or—by comparing losses of alternative
+policies to that of the unconstrained baseline Taylor rule—assess how close
 those policies can come to fully offsetting the effects of the lower bound.
 Also shown in Tables 3 and 4, for each policy rule, are the mean unemployment
 gap across simulations, the mean inflation rate, the percentage of quarters in which

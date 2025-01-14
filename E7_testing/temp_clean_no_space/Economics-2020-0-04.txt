@@ -14,8 +14,8 @@ with QE created substantial uncertainty about how effective asset purchases woul
 be in easing financial conditions, if they would help at all. Indeed, some benchmark
 models predict that asset purchases will have no or at best transient effects on asset
 prices (Eggertsson and Woodford 2003). The positive case for QE rested on two
-arguments. First, if investors have “preferred habitats” because of specialized exper -
-tise, transaction costs, regulations, liquidity preference, or other factors, then changing
+arguments. First, if investors have “preferred habitats” because of specialized expertise,
+transaction costs, regulations, liquidity preference, or other factors, then changing
 the net supplies of different securities or classes of securities should affect their
 relative prices. This portfolio balance effect was modeled formally by Vayanos and
 Vila (2009), who showed that, generally, the effect will not be undone by the efforts

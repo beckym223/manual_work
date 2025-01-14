@@ -22,8 +22,8 @@ stability risks—will be an important goal of public policy. In that situation,
 for a moderate rise in the inflation target would certainly be stronger, notwithstanding
 the associated costs. That step seems premature as of this writing. However, a
 cautious approach could include making plans to increase the countercyclicality of
-fiscal policy, for example, by increasing the use of automatic stabilizers. And cer -
-tainly, whatever the levels of the neutral rate, it is essential that the Fed keep inflation
+fiscal policy, for example, by increasing the use of automatic stabilizers. And certainly,
+whatever the levels of the neutral rate, it is essential that the Fed keep inflation
 expectations near target, defending against inflation shortfalls as vigorously as
 it defended against  too-high inflation in the past.
 My simulation results apply only to the United States and cannot be directly
@@ -31,8 +31,8 @@ extended to other countries. Two conclusions of this lecture can safely be exten
 however: that the new monetary tools are effective and should remain in the policy
 toolbox; and that the ability of those tools to overcome the (possibly negative) lower
 bound on rates is greater, the higher the nominal neutral rate in the jurisdiction in
-question. In that respect, it is interesting that (other than Kiley 2019), many cur -
-rent estimates place the real neutral rate in major foreign economies above zero.
+question. In that respect, it is interesting that (other than Kiley 2019), many current
+estimates place the real neutral rate in major foreign economies above zero.
 For example, the New York Fed reports estimates (based on Holston, Laubach, and
 Williams 2017) of the real neutral rates of Canada, the euro area, and the United
 Kingdom of 1.6, 0.2, and 1.4 percent, respectively. Using the methods of Laubach

@@ -18,5 +18,5 @@ Given that these conclusions are at odds with the widespread notion that governm
 debt levels are much too high and must urgently be decreased, I consider several counterarguments, ranging from distortions, to the possibility that the future may be very different from the past, to multiple equilibria. All these arguments have merit, but they imply a different discussion from that dominating current discus-sions of fiscal policy.
 The lecture is organized as follows.Section I looks at the past behavior of US interest rates and growth rates. It concludes
 that the current situation is actually not unusual. While interest rates on pub-lic debt vary a lot, they have on average, and in most decades, been lower than growth rates. If the future is like the past, the probability that the US government can do a debt rollover, that it can issue debt and achieve a decreasing debt to GDP ratio without ever having to raise taxes later, is high.
-That debt rollovers may be feasible does not imply however that they are desir -
-able. Even if higher debt does not give rise later to a higher tax burden, it still has effects on capital accumulation, and thus on welfare. Whether and when higher debt increases or decreases welfare is taken up in Sections II and
+That debt rollovers may be feasible does not imply however that they are desirable.
+Even if higher debt does not give rise later to a higher tax burden, it still has effects on capital accumulation, and thus on welfare. Whether and when higher debt increases or decreases welfare is taken up in Sections II and

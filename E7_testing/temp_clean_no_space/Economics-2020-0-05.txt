@@ -13,8 +13,8 @@ changes in narrow time windows around QE announcements.
 An illustrative event study for the Fed’s QE1 program is shown in Table 1, which
 reports the changes in key asset prices and yields summed over five days, identified
 by Gagnon et al. (2011), on which important information bearing on QE1 became
-public.6 Evidently, QE1 had powerful announcement effects, including a full per -
-centage point decline in the yield on  10-year Treasuries and more than a percentage
+public.6 Evidently, QE1 had powerful announcement effects, including a full percentage
+point decline in the yield on  10-year Treasuries and more than a percentage
 point decline in the yields on  mortgage-backed securities. Qualitatively, these
 results hold up well for different choices of event days or for shorter or longer event
 windows. Similar  event-study results are obtained for the introduction of QE, at

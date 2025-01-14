@@ -7,8 +7,8 @@ rate, fed funds and Eurodollar futures markets provide useful estimates of polic
 expectations (Kuttner 2001), but no analogous markets exist for asset purchases
 and other nontraditional policies. As an alternative, several researchers have used
 surveys and media reports to try to quantify those expectations. For example, in
-the European context, De Santis (2019) attempted to estimate the financial mar -
-ket effects of the ECB’s Asset Purchase Program, its first foray into  large-scale
+the European context, De Santis (2019) attempted to estimate the financial market
+effects of the ECB’s Asset Purchase Program, its first foray into  large-scale
 QE, announced in January 2015. ECB policymakers and media commentary had
 strongly foreshadowed the program, so its actual announcement—like the announcement
 of later rounds of QE in the United States—had only modest market effects,

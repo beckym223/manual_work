@@ -22,8 +22,8 @@ effects of asset purchases, which peaked only after the introduction of QE3 in 2
 and, importantly, the lagged effects inherent in all monetary policies. In 2011, these
 authors found, use of the new tools began to speed up the recovery appreciably. That
 led to an unemployment rate in early 2015 about 1.25 percentage points lower and,
-slightly later, to inflation about 0.5 percentage points higher, relative to the counter -
-factual with no use of new tools.
+slightly later, to inflation about 0.5 percentage points higher, relative to the counterfactual
+with no use of new tools.
 In a similar vein, Eberly, Stock, and Wright (2019) found that  post-crisis monetary
 policies reduced the slope of the yield curve and assisted the recovery. However,
 they estimated that an unconstrained monetary policy would have set the federal

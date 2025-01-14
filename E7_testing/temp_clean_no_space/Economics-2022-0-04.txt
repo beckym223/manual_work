@@ -24,8 +24,8 @@ a small literature based on wage contracts (e.g., Hamermesh 1970; Riddell 1979;
 Christofides, Swidinsky, and Wilton 1980) that eventually turned to the question
 of how employment and wages are jointly determined under collective bargaining
 (e.g., Brown and Ashenfelter 1986; Card 1986, 1990).
-A second exception was the literature on quits, turnover, and the returns to senior -
-ity. Pencavel (1972) and Parsons (1972) presented  multi-period models of employer
+A second exception was the literature on quits, turnover, and the returns to seniority.
+Pencavel (1972) and Parsons (1972) presented  multi-period models of employer
 wage setting with a trade-off between wages and quit rates—foreshadowing the
 dynamic monopsony literature discussed below. While the  wage-setting equations
 in these papers are clearly interpretable in a monopsony framework, neither author

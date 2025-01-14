@@ -7,8 +7,8 @@ are given in online Appendix A.)
 To take into account maturity, I use information on the average maturity of the
 debt held by private investors (that is excluding public institutions and the Fed). This average maturity went down from eight years and four months in 1950 to three years and four months in 1974, with a mild increase since then to five years today.
 8
-Given this series, I construct a maturity-weighted interest rate as a weighted aver -
-age of the 1-year and the 10-year rates using
+Given this series, I construct a maturity-weighted interest rate as a weighted average
+of the 1-year and the 10-year rates using
 i
 t   =  α t   ×  i 1,t   +  (1 −  α  t  )  ×  i 10,t    with
 α

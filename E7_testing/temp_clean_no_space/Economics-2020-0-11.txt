@@ -22,8 +22,8 @@ Forward guidance, at least in a broad sense, was not new to the  post-crisis per
 The Fed used variants of forward guidance in the Greenspan era, for example, in the
 promises of the FOMC in  2003–2004 to keep rates low “for a considerable period” or
 to remove accommodation “at a pace that is likely to be measured.” Ample evidence
-suggests that these and other  pre-crisis communications by the FOMC affected mar -
-ket expectations of policy rates and thus asset prices and yields generally. For example,
+suggests that these and other  pre-crisis communications by the FOMC affected market
+expectations of policy rates and thus asset prices and yields generally. For example,
 Gürkaynak, Sack, and Swanson (2005), using a  high-frequency event study,
 showed that the effects of monetary policy announcements on asset prices can be
 decomposed into two factors: one associated with unexpected changes in the current
@@ -39,7 +39,7 @@ Campbell et al. (2012) introduced the useful distinction between Delphic and
 Odyssean forward guidance. Delphic guidance (after the oracles at the Temple of
 Apollo at Delphi) is intended only to be informative, to help the public and market
 participants understand policymakers’ economic outlook and policy plans. In contrast,
-Odyssean guidance goes beyond simple economic or policy forecasts by incor -
-porating a promise or commitment by policymakers to conduct policy in a specified,
+Odyssean guidance goes beyond simple economic or policy forecasts by incorporating
+a promise or commitment by policymakers to conduct policy in a specified,
 possibly  state-contingent way in the future (as when Odysseus bound himself to the
 mast to avoid the temptations o

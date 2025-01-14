@@ -4,8 +4,8 @@ which increases tax revenues. (However, some FOMC participants worried about a
 sudden, spontaneous rise in long rates—the bursting of the “bond bubble.”) In fact,
 the Fed’s asset purchase programs proved hugely profitable, with net profits resulting
 in remittances to the Treasury totaling about $800 billion between 2009 and
-2018, about triple  pre-crisis rates. Such an outcome, though likely, was not guar -
-anteed, and the risk of capital losses is likely to remain a concern for policymakers
+2018, about triple  pre-crisis rates. Such an outcome, though likely, was not guaranteed,
+and the risk of capital losses is likely to remain a concern for policymakers
 involved in large  asset-purchase programs.17
 Financial Instability.—FOMC participants worried that  post-crisis monetary policies
 raised risks of financial instability—a natural concern, given the recentness and
@@ -29,8 +29,8 @@ lenders to extend credit; and it reduces the cost of liquidity, which complement
 risk-taking by banks (Drechsler, Savov, and Schnabl 2018). Increased  risk-taking
 is by no means always a bad thing, of course: encouraging banks, borrowers, and
 investors to take reasonable risks, rather than hoarding cash and hunkering down, is
-a desirable goal for policies aimed at ending a recession or crisis and restoring nor -
-mal growth. However,  risk-taking may become excessive if investors and lenders are
+a desirable goal for policies aimed at ending a recession or crisis and restoring normal
+growth. However,  risk-taking may become excessive if investors and lenders are
 less than perfectly rational about trading off risk and return, if institutional arrangements
 distort incentives for  risk-taking, or if there are externalities associated with
 increased leverage or illiquidity (Stein 2013). So these concerns can hardly be dismissed;

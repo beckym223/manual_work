@@ -58,15 +58,19 @@ def clean_headers_footers_references(dest_dir:str,commit_changes:bool):
 
 def handle_quest_line_breaks(dest_dir:str, commit_changes:bool):
     def remove_quest(text:str)->str:
-        return re.sub(r"([a-zA-Z]+)\?\n([a-zA-Z]+)([^\w\n\s])?", # Captures 3 groups: first half of word, second half of word, optional punctuation
+        new_text = re.sub(r"([a-zA-Z]+)\?\n([a-zA-Z]+)([^\w\n\s])?", # Captures 3 groups: first half of word, second half of word, optional punctuation
                       r"\1\2\3\n", #removes dash and moves line break
                       text)
+        new_text_lines_stripped=[line.strip() for line in new_text.split('\n')] #remove any extra leading or trailing whitespace
+        return "\n".join(new_text_lines_stripped).strip()
     apply_func_to_txt_dir(dest_dir,dest_dir,remove_quest)
     if commit_changes:
         git_commit(dest_dir,"joined words split by ? across lines")
 
 
-def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
+def main(source_dir:str, dest_dir:str):
+    commit_changes = True
+    log_file = "/Users/BeckyMarcusMacbook/Thesis/manual_work/E7_testing/E7.log"
 
     setup_logging(log_file)
 
@@ -76,21 +80,17 @@ def main(source_dir:str, dest_dir:str, log_file:str, commit_changes:bool):
 
     apply_splits_to_pages(dest_dir,E7_SPLIT_RANGES,commit_changes)
 
-    fix_dash_errors_in_dir(dest_dir,commit_changes)
-
     handle_quest_line_breaks(dest_dir,commit_changes)
 
 
 
 if __name__ == "__main__":
     import sys
-    if len(sys.argv) != 5:
-        print("Usage: python text_cleaning.py <source_dir> <dest_dir> <log_file> <commit_changes>")
-        sys.exit(1)
+    # if len(sys.argv) != 2:
+    #     print("Usage: python text_cleaning.py <source_dir> <dest_dir> <log_file> <commit_changes>")
+    #     sys.exit(1)
 
     source_dir = sys.argv[1]
     dest_dir = sys.argv[2]
-    log_file = sys.argv[3]
-    commit_changes = sys.argv[4].lower() == "true"
 
-    main(source_dir, dest_dir, log_file, commit_changes)
+    main(source_dir, dest_dir)

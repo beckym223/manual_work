@@ -1,0 +1,46 @@
+updating method, that is substantially different from those currently in use, and that preserves a
+better continuity with previous estimates.
+Section IV, which is again somewhat more technical, is an enquiry into the international price
+indexes themselves, with a focus on the factors that affect global inequality. It starts from the
+question of how to price comparable goods in different countries and whether the ever more
+precise specification of goods by the ICP has had the effect of making poor countries poorer
+relative to rich countries, widening our estimates of international inequality, and causing the
+global poverty line to increase in dollar terms at a rate that is markedly slower than the rate of
+inflation in the United States. More generally, 1 discuss the special difficulties of making com
+parisons between countries whose relative prices and patterns of consumption are very different,
+for example between Japan and Kenya, or Britain and Cameroon. Such comparisons are required
+if we are to make multilateral price index numbers for the world as a whole, and I use data from
+the 2005 ICP to investigate their credibility. My analysis shows that these comparisons rest on
+weak theoretical foundations and are fragile in practice.
+Section V returns to the main argument and looks briefly at a monitoring system based on
+asking people about how their lives are going; I use data from the Gallup World Poll which
+collects an annual sample of all the people of the world. Section VI concludes, and speculates
+on the global system of income and poverty statistics as a whole. I argue that we should be
+less ambitious and more skeptical in using the international data, particularly when comparing
+poor and rich countries. I also make recommendations for improvements in the way the poverty
+counts are calculated, for example by bringing closer together the rhetoric and the reality of the
+dollar a day poverty line. I also argue that while changes in the poverty line affect the levels of
+global poverty more than they affect its rate of change, the levels are themselves important for  the international debate.
+I. Global Poverty and Global Inequality
+Many countries have their own national poverty lines and poverty headcounts. One candidate
+measure for an international count would use those national numbers and add them up over all
+countries. The 2008 annual poverty line in the United States was $21,834 for a family of two
+adults and two children, or $14.96 per person per day; 13.2 percent of Americans live below
+this line. India in 2004-05 had two poverty lines, one for rural households of 11.71 rupees per
+person per day, and one for urban households of 17.71 rupees; at the 2005 PPP exchange rates,
+these lines are $0.80 and $1.21 per person per day (about a third of that at market exchange rates),
+and 27.5 percent of the Indian population lives below them. If we take the view that poverty is
+relative to prevailing living standards in the society in which people live, these headcount ratios
+might be taken to be comparable. Yet the global poverty counts aim to measure absolute poverty
+and to count those who are destitute by a common global standard which might be supposed to
+include all of the locally poor Indians, and none of the locally poor Americans. By this view,
+we might take one or the other Indian lines and use PPP exchange rates to convert it to other
+currencies, and then sum the total number of people in the world who live on less than the local
+purchasing power equivalent of the Indian line. The pioneering paper by Ahluwalia, Carter, and
+Chenery (1979) used a global line based on the Indian poverty line, but since World Bank (1990)
+the global line has been an average of the international dollar value of local lines of a number of
+poor countries. Exactly which average is a matter of some importance, as is whether the average
+is better than the original Indian only line, and I shall return to both issues.
+Table 1 presents the key numbers. The first three columns, taken from the World Bank's
+(2008b) poverty supplement to the World Development Indicators, show the latest estimates for
+1981 (which is as far back as these estimates go). 1993, and 2005. These are based on the latest

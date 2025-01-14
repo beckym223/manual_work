@@ -1,0 +1,29 @@
+version of the "dollar-a-day" global poverty line, which is $1.25 per person per day in 2005
+international dollars, and show the well-known reduction in the global headcount ratio, from 51.9
+percent of the developing world's population in 1981 to 25.2 percent in 2005. In spite of growth
+in the world's population, the number of people in this kind of poverty has fallen by more than
+half a billion in the last quarter century. Much of this success comes from China, in the East Asia
+and Pacific region. The headcount ratio in sub-Saharan Africa has fallen only slowly, and there
+are 176 million more Africans in poverty in 2005 than in 1981. South Asia, dominated by India,
+is part success and part failure, and the Bank?and the government of India?estimate that, in
+spite of a falling headcount ratio, there has been a small increase in the numbers of Indians in
+poverty since 1981, in spite of India's relatively rapid growth in per capita GDP in recent years,
+and its relatively slow rate of population growth. The overall improvement in global poverty and
+the broad regional structure of that improvement show up in all versions of the counts. Even so,
+it is worth noting that these counts are based entirely on household survey data, and that there
+are often major discrepancies in growth rates between the survey data and the national accounts
+so that the counts in Table 1 may understate the rate of poverty reduction; see Deaton (2005).  The last three columns in Table 1 look at three different sets of headcount ratios for 1993.
+The International Comparison Program has updated its estimates of PPP exchange rates on an
+irregular basis, with each round a substantial improvement on the previous one; the last three
+benchmarking exercises were in 1985, 1993, and 2005 with a particularly marked increase in
+consistency and coverage between the last two. The World Bank uses these estimates to update
+its global poverty line?defined as the average PPP poverty line for a group of the world's poor
+est countries?and to revise the conversions of that line into local currencies. The original pov
+erty line of $1.01 in 1985 PPP ($370 per year, in World Bank 1990, Figure 2.1 and Table 2.1) rose
+to $1.08 in 1993 international dollars, and to $1.25 in 2005 international dollars. By contrast, the
+US CPI rose by 34 percent from 1985 to 1993 and a further 35 percent from 1993 to 2005; this
+divergence is driven by the fact that ICP revisions move price levels upward in poor countries
+relative to rich countries, so that poor country poverty lines are worth less in US dollars.
+The revision from 1985 to 1993 had relatively little effect on the global count but made sub
+Saharan Africa appear to be much poorer, and Latin America appear to be much less poor.
+Indeed, it is the 1993 revision that "established" sub-Saharan Africa as the region with the

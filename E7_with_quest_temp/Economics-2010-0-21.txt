@@ -1,0 +1,21 @@
+price indexes for consumption between Africa and the OECD, and Asia and the OECD. In their
+adjusted multilateral form, these regional PPPs are the numbers that are used to scale up the
+within-region PPPs and are obviously important for measuring inequality, because they move
+whole areas of the world up or down in concert. Table 6, which is in the same format as Table 5,
+shows the influential basic heads for Africa and for Asia-Pacific relative to the OECD, again
+using the T?rnqvist to illustrate.
+Not surprisingly, some of the same goods in Table 5 reappear in Table 6, because their
+prices are high throughout Africa, but several of the basic headings not included in the ring
+play a large part in shaping the regional PPPs. Perhaps most worrying is the role of actual and
+imputed rentals of housing, which is bottom of the African list, reducing the African to OECD
+price level by 4.2 percent, but top of the Asia-Pacific list, raising the Asia-Pacific to OECD
+price level by 5.9 percent. As we have already seen, these housing parities are imputations, and
+the low figure for Africa comes from the fact that several African countries do not impute rents
+in their national accounts. The various medical services that also appear at the bottom of the
+list are almost certainly genuinely cheap, but the quality question again arises because these
+services are not precisely matched as in the ring list. While precise matching is not the answer,
+neither is the assumption that the same medical procedure is of the same quality in Zambia and
+Britain. Pharmaceuticals, which are priced in the ring using precise specifications (acetamino
+phen, acetylsalicylic acid, aciclovir, amitriptyline, amoxicillin, artesunate, atenolol, and so on
+through the alphabet, with international, national, and generic brands for each), would have
+shown up in Table 5 given a few more rows, and, like passenger travel by air, have a tiny budget

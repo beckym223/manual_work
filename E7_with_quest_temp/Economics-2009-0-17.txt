@@ -1,0 +1,45 @@
+important. However, continuing to focus on governance institutions, we next ask whether these
+institutions can evolve toward more efficient forms, and whether and how they can be reformed.
+As regards a natural process of evolution, scholars have expressed contrasting views.
+Williamson's "discriminating alignment hypothesis" (1996,12) holds that transactions align with
+governance structures to minimize transaction costs; in other words, there is a natural tendency
+toward more efficient structures that match institutions to the needs of governance. Douglass
+North (1990) argues that such alignment may fail to occur, emphasizing obstacles presented by
+the political process of reform.
+Discriminating alignment can work well and reasonably quickly when the decision is made
+by one actor, or by a small group with common interests. Williamson's (1985, chap. 4, 5) classic
+analysis of vertical integration choices by firms is a case in point. Robert Ellickson (1991) and
+Gary Libecap (1989, chap. 3) have cases where small groups quickly established and enforced
+private order for property rights.9
+But institutions constitute an equilibrium, and institutional change means shifting to a new
+equilibrium. In any moderately complex social context, this requires (1) either compensating
+those who would lose from the change or overcoming their resistance in the existing political
+process; (2) changing information and aligning incentives; and (3) creating common knowledge
+of actions to sustain the new equilibrium. All these steps present difficulties; therefore the pro?
+cess of institution reform is often slow, and old institutions may persist as a lock-in phenomenon.
+Thrainn Eggertson (2005) gives a striking example of how an Icelandic institution of sharing of
+hay persisted for more than a century and prevented an efficient reallocation of resources away
+from farming and toward fishing. Some of Libecap's other cases (1989, chap. 4-6) also present a  mixed record of success and failure.
+One important desideratum for shifting an institutional equilibrium is that the new institu?
+tions interact well, not dysfunctionally, with existing ones, and case studies support this. Here
+are some examples. (1) Everyone emphasizes the importance of secure property rights, and in
+the case of land, formal titling seems the best way to define these. But Frank Shipton (1988) and
+Jean Ensminger (1997) show how titling in Kenya failed in its aims because existing informal
+rights could not be overridden; for example, land to which you have formal title cannot be used as
+collateral for borrowing if traditional institutions give your extended family some rights to shares
+in the product of the land. (2) Daniel Berkowitz, Katharina Pistor, and Jean-Francois Richard
+(2003) found that success of attempts to transplant legal systems to new countries depended
+significantly on whether the population in the recipient country already had familiarity with
+the basic principles of the transplanted law. (3) Rachel Kranton and Anand Swamy (1999) show
+how arm's length market arrangements for bank lending in India destroyed existing relational
+arrangements that served other useful aims, such as insurance. (4) Dixit (2004, chap. 2) shows
+theoretically how a partial improvement in a weak system of formal governance can worsen
+the performance of the existing system of informal relational governance, by making the con?
+sequences of cheating less harmful. These examples also show that when making institutional
+reforms that are expected to lead to eventual improvements, it may be necessary to accept some
+transitional worsening of performance.
+These studies have also given us a few broad generalizations about successful institutional
+change. (1) The government has an important role as partner and facilitator of reforms. But top
+down reforms may be difficult to achieve because of lack of adequate local knowledge and lack
+of appropriate incentives for the existing administrative structures to reform themselves; there?
+fore the results may be disappointing (Easterly 2008; Rodrik 2008). (2) A major entrepreneur

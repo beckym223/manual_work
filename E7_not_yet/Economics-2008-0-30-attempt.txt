@@ -1,0 +1,44 @@
+nonpolicy shocks were more important than interest rate policy in explaining the US inflation
+and unemployment episodes of the 1970s, thus coming down more on the "bad luck" than the
+"bad policies" side of the argument. I hope that conclusion is too pessimistic, because we have  learned to do better.
+REFERENCES
+Abreu, Dilip, David Pearce, and Ennio Stacchetti. 1986 "Optimal Cartel Equilibria with Imperfect Moni?
+toring " Journal of Economic Theory, 39(1) 251-69
+Abreu, Dilip, David Pearce, and Ennio Stacchetti. 1990 "Toward a Theory of Discounted Repeated Games
+with Imperfect Monitoring " Econometrica, 58(5) 1041-63
+Adam, Klaus, Albert Marcet, and Juan Pablo Nicolini. 2006 "Learning and Stock Market Volatility"
+Paper presented at Computing in Economics and Finance 2006, Limassol, Cyprus
+Aiyagari, S. Rao, Albert Marcet, Thomas J. Sargent, and Juha Seppala. 2002 "Optimal Taxation without
+State-Contingent Debt " Journal of Political Economy, 110(6) 1220-54
+Albanesi, Stefania, V. V. Chari, and Lawrence J. Christiano. 2002 "Expectation Traps and Monetary Pol?
+icy" National Bureau of Economic Research Working Paper 8912
+Anderson, Evan W., Lars Peter Hansen, and Thomas J. Sargent. 2003 "A Quartet of Semigroups for
+Model Specification, Robustness, Prices of Risk, and Model Detection " Journal of the European Eco?  nomic Association, 1(1) 68-123
+Barro, Robert J. 1979 "On the Determination of the Public Debt " Journal of Political Economy, 87(5)
+940-71
+Bernanke, Ben S. 2007 "Inflation Expectations and Inflation Forecasting " Speech, Monetary Econom?
+ics Workshop of the National Bureau of Economic Research Summer Institute, Cambridge, MA, July
+10, 2007
+Bernanke, Ben S., and Ilian Mihov. 1998 "Measuring Monetary Policy" Quarterly Journal of Econom?  ics, 113(3) 869-902
+Bernanke, Ben S., Thomas Laubach, Frederic S. Mishkin, and Adam S. Posen. 2001 Inflation Targeting
+Lessons from the International Experience Princeton Princeton University Press
+Blinder, Alan S. 1998 Central Banking in Theory and Practice Lionel Robbins Lectures Cambridge,
+MA MIT Press
+Blume, Lawrence, and David Easley. 2006 "If You're So Smart, Why Aren't You Rich7 Belief Selection
+in Complete and Incomplete Markets " Econometrica, 74(4) 929-66
+Bossaerts, Peter. 2002 The Paradox of Asset Pricing Princeton Princeton University Press
+Bossaerts, Peter. 2004 "Filtering Returns for Unspecified Biases in Priors When Testing Asset Pricing  Theory" Review of Economic Studies, 71(1) 63-86
+Branch, William A., and George W. Evans. 2005 "Model Uncertainty and Endogenous Volatility" Paper
+presented at Computing in Economics and Finance 2005, Washington, D C
+Branch, William A., and George W. Evans. 2006 "Intrinsic Heterogeneity in Expectation Formation "  Journal of Economic Theory, 127(1) 264-95
+Bray, Margaret M., and David M. Kreps. 1987 "Rational Learning and Rational Expectations " In Arrow
+and the Ascent of Modern Economic Theory, ed George R Feiwel, 597-625 New York New York  University Press
+Brock, William A., and Patrick de Fontnouvelle. 2000 "Expectational Diversity in Monetary Economies "  Journal of Economic Dynamics and Control, 24(5-7) 725-59
+Brock, William A., and Cars H. Hommes. 1997 "A Rational Route to Randomness " Econometrica, 65(5)
+1059-95
+Bullard, James, and Kaushik Mitra. 2007 "Determinacy, Learnabihty, and Monetary Policy Inertia "  Journal of Money, Credit, and Banking, 39(5) 1177-1212
+Cagan, Phillip. 1956 "The Monetary Dynamics of Hyperinflation " In Studies in the Quantity Theory of  Money, ed Milton Friedman, 25-117 Chicago University of Chicago Press
+Calvo, Guillermo A. 1978 "On the Time Consistency of Optimal Policy in a Monetary Economy " Econo?  metrica, 46(6) 1411-28
+Campbell, John Y., and John H. Cochrane. 1999 "By Force of Habit A Consumption-Based Explanation  of Aggregate Stock Market Behavior" Journal of Political Economy, 107(2) 205-51
+Carboni, Giacomo, and Martin Ellison. 2007 "The Great Inflation and the Greenbook " Unpublished
+Chang, Roberto. 1998 Credible Monetary Policy with Long-Lived Agents Recursive Approaches Jour?  nal of Economic Theory l8 431-461

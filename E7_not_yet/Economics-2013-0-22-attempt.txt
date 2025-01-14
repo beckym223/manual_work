@@ -1,0 +1,47 @@
+surplus. These considerations are quantitatively important in recent years, with the
+expansion of the Fed's balance sheet and its beginning to pay interest on reserves.
+Surprise inflation is not easy to quantify. During the late 1970s and early 1980s
+inflation underwent wide swings that were not well tracked by statistical models fit
+to historical data. Probably expectations about future inflation were diverse during
+1973-1983, not well summarized by any single number. A Bayesian VAR model
+using the log of the chained PCE deflator and the one-year interest rate gives reason
+able-looking results, but its time series of forecast errors is quite different from what
+is obtained by predicting inflation over year t as simply equal to inflation over year
+t — 1, and the sum of squared forecast errors is nearly the same for the two forecast
+ing methods. The simple tt, = tt,_1 forecasts were used to produce the figure, but the
+figure would have looked noticeably different if the VAR forecasts had been used.
+Hall and Sargent (2011) calculate ex post real and nominal returns on US govern
+ment debt by a method that does not rely on the NIPA data to compute a primary
+surplus. It is possible to use their ex post real returns, together with the one-year
+interest rate series and the inflation forecast error series and a series for the level of
+the debt, to compute the same concept shown in Figure 1.1 made those calculations,
+and they produce fluctuations of the same order of magnitude as in the figure, but
+again with a different time profile.
+B. Sources for Table 1
+These data were drawn from the international component of the FRED database
+provided by the Federal Reserve Bank of St. Louis. The interest rates are those
+labeled "government bond" interest rates. The debt to GDP ratios are provided in
+that form by FRED. They are the most recent available at the time of writing.
+REFERENCES
+Barro, Robert J. 1979. "On the Determination of the Public Debt." Journal of Political Economy 87
+(5): 940-71.
+Chari, V. V., Lawrence J. Christiano, and Patrick J. Kehoe. 1994. "Optimal Fiscal Policy in a Business
+Cycle Model." Journal of Political Economy 102 (4): 617-52.  Cochrane, John H. 1999. "A Frictionless View of U.S. Inflation." In NBER Macroeconomics Annual
+1998, edited by Ben S. Bernanke and Julio S. Rotemberg, 323-84. Cambridge, MA: MIT Press.
+Cochrane, John H. 2007. "Inflation Determination With Taylor Rules: A Critical Review." National
+Bureau of Economic Research Working Paper 13409.
+Davig, Troy, and Eric M. Leeper. 2007. "Fluctuating Macro Policies and the Fiscal Theory." In NBER
+Macroeconomics Annua! 2006, edited by Kenneth Rogoff, Daron Acemoglu, and Michael Wood
+ford, 247-98. Cambridge, MA: MIT Press.
+Hall, George J., and Thomas J. Sargent. 2011. "Interest Rate Risk and Other Determinants of Post
+WWII US Government Debt/GDP Dynamics." American Economic Journal: Macroeconomics 3
+(3): 192-214.
+Leeper, Eric M. 1991. "Equilibria under Active' and 'Passive' Monetary and Fiscal Policies." Journal
+of Monetary Economics 21 (1): 129^47.
+Loyo, Eduardo. 1999. "Tight Money Paradox on the Loose: A Fiscalist Hyperinflation." Unpublished.
+Lucas, Robert E., Jr., and Nancy L. Stokey. 1983. "Optimal Fiscal and Monetary Policy in an Economy
+without Capital." Journal of Monetary Economics 12 (1): 55-93.
+Schmitt-Grohé, Stephanie, and Martin Uribe. 2001. "Optimal Fiscal and Monetary Policy Under
+Sticky Prices." CEPR Discussion Paper 2942.
+Sims, Christopher A. 1999. "The Precarious Fiscal Foundations of EMU." De Economist 147 (4):
+415-36.

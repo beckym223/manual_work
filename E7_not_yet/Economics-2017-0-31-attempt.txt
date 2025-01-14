@@ -1,0 +1,27 @@
+Figure 7. Frequency of Appearance of Phrase "Great Depression" by Year
+Notes: For news and newspapers (1900-2016, from ProQuest) it is the number of articles with  this phrase as a percent of all articles that year. For books (1900-2008, from Google Ngrams) it  is the number of occurrences of the phrase (capitalized) divided by the total number of words in  the database for that year, in percent.
+Consider a narrative-based chronology of the 2007-2009 financial crisis.
+Financial crises are driven by a cadence of stories. For example, stories about bank
+runs were in the nineteenth century virtually synonymous with financial crises. But
+after the Great Depression bank runs were thought to be cured. The Northern Rock
+bank run in 2007, the first UK bank run since 1866, brought back the old narratives
+of panicked depositors forming angry crowds outside closed banks. The story led
+to a skittishness internationally, and to the Washington Mutual (WaMu) bank run a
+year later in the United States, and, then, the Reserve Prime Fund run a few days
+after that in 2008. These events then led to the very unconventional US government
+guarantee of all US money market funds for a year. Apparently, governments were
+aware that they could not let the old story of a bank run go live over concern for its
+effects on public anxiety.
+A narrative approach to understanding the crisis might take us back further in
+time. In 2001, the UK television show Property Ladder was launched. This reality
+TV show which depicted individuals buying homes, fixing and prettifying them a
+little, and then reselling them at a large profit, was a big success. Successful nar-
+ratives are copied with appropriate changes and launched anew in other countries.
+The US TV show Flip that House attempted to replicate Property Ladder in 2005,
+but it was canceled at the time of the financial crisis in 2008. Property Ladder
+lasted until 2009, renaming itself Property Snakes and Ladders, until its demise
+later that year.
+Leading up to the Great Recession 2007-2009, and setting the stage for it, were
+widespread fears of long-term job insecurity because of advancing technology.
+Facebook and Gmail appeared in 2004, YouTube in 2005, Twitter in 2006, and the
+iPhone in 2007. These were the prominent business stories of the time, and they may

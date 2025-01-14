@@ -1,0 +1,39 @@
+A second general point is that we should not expect some new grand behavioral
+theory to emerge to replace the neoclassical paradigm. We already have a grand
+theory and it does a really good job of characterizing how optimal choices and
+equilibrium concepts work. Behavioral theories will be more like engineering, a
+set of practical enhancements that lead to better predictions about behavior. So far,
+most of these behavioral enhancements focus on two broad topics: preferences and
+beliefs.
+A. Behavioral Preferences
+Prospect theory is a good illustration of a model based on assumptions about preferences
+that differ from the ones used to derive expected utility theory. Specifically,
+most of prospect theory's predictive power comes from three crucial assumptions
+about preferences. First, utility is derived from changes in wealth relative to some
+reference point, rather than levels of wealth, as is usually assumed in theories
+based on expected utility.9 Second, the "value function" which translates perceived
+changes in wealth into utility, has a kink at the origin, with losses weighed more
+heavily than gains - i.e., "loss aversion." Third, decision weights are a function of
+probabilities n(p) where II(p) 7^ p. These aspects of the theory were inferred from
+studying the choices subjects made when asked to choose between gambles.
+Two other research streams have been based on models of preferences. The first
+topic is intertemporal choice. As revealed by the quotations from Smith, Pigou, and
+Fisher mentioned earlier in this essay, economists have long worried that people
+display what we now call "present biased" preferences, meaning that the discount
+rate between "now" and "later" is much higher than between "later" and "even
+later." Such preferences can lead to time-inconsistent behavior since we expect to be
+patient in choosing between a smaller reward in a year and a larger reward in a year
+plus a week, but when the year passes and the smaller reward is available "now," we
+submit to temptation. If people realize they have such preferences, they may choose
+to commit themselves now to choosing the larger delayed reward, a strategy they
+will later regret (at least for a week or so).
+Two kinds of models have been proposed to deal with these aberrant preferences.
+One is based on a two-self (or "two-system") approach that is meant to capture
+the inherent conflict that defines self-control problems. In the version of this type
+of model that Hersh Shefrin and I favor (Thaler and Shefrin 1981) individuals are
+assumed to have a long-sighted "planner" and myopic "doer" that interact in a
+model similar to agency models of organizations. Schelling (1984) and Fudenberg
+and Levine (2006) also proposed two-self models to characterize this behavior.
+Although these two-self models provide more psychological texture, they have
+not been as popular among economic theorists as the simpler and more tractable
+"beta-delta" model originally proposed by Strotz ( 1955) and then refined by Laibs

@@ -1,0 +1,46 @@
+transfers among countries. The benefits are widely distributed among countries. The
+only regions showing losses across several regimes are Eurasia and South Africa;
+however, the losses are small relative to gains for other regions. There are no regimes
+with aggregate losses.
+Look at the distribution of gains and losses to determine whether a Climate Club
+would be attractive to most countries relative to existing arrangements. All regions
+would prefer a regime with penalties and modest carbon prices to a regime with
+no penalties. Paradoxically, this is the case even for countries that do not partici-
+pate. The reason is that the gains from strong mitigation measures of participants
+outweigh the losses from the tariffs for nonparticipants as long as the tariff rate is
+not too high. This powerful result indicates that a regime with sanctions should be
+attractive to most regions.
+D. Bottom Line
+Here is the bottom line: the present study finds that without sanctions there is
+no stable climate coalition other than the noncooperative, low-abatement coalition.
+This conclusion is soundly based on public-goods theory, on C-DICE model sim-
+ulations, on the history of international agreements, and on the experience of the
+Kyoto Protocol.
+The analysis shows how an international climate treaty that combines target car-
+bon pricing and trade sanctions can induce substantial abatement. The modeling
+results indicate that modest trade penalties on nonparticipants can induce a coalition
+that approaches the optimal level of abatement as long as the target carbon price is up
+to $50 per ton at current income and emission levels. The attractiveness of a Climate
+Club must be judged relative to the current approaches, where international climate
+treaties are essentially voluntary and have little prospect of slowing climate change.
+REFERENCES
+Aumann, R. J. 1959. "Acceptable Points in General Cooperative N-Person Games." Contributions to
+the Theory of Games IV, edited by A. W. Tucker and R. D. Luce, 287-324. Princeton, NJ: Princ-
+eton University Press.
+Barrett, Scott. 1994. "Self-Enforcing International Environmental Agreements. Oxford Economic  Papers 46 (0): 878-94.
+Barrett, Scott. 2003. Environment and Statecraft: The Strategy of Environmental Treaty-Making.
+Oxford and New York: Oxford University Press.
+Bernheim, B. Douglas, Bezalel Peleg, and Michael D. Whinston. 1987. "Coalition-Proof Nash Equi-
+libria: Concepts." Journal of Economic Theory 42 (1): 1-12.
+Bordoff, Jason E. 2009. "International Trade Law and the Economics of Climate Policy: Evaluating
+the Legality and Effectiveness of Proposals to Address Competitiveness and Leakage Concerns."
+In Climate Change, Trade, and Competitiveness: Is a Collision Inevitable? edited by Lael Brain-
+ard and Isaac Sorkin, 35-68. Washington, DC: Brookings Institution.  Bosetti, Valentina, Carlo Carraro, Enrica DeCian, Emanuele Massetti, and Massimo Tavoni. 2012.
+"Incentives and Stability of International Climate Coalitions: An Integrated Assessment." Energy
+Policy 55: 44-56.
+Brainard, Lael, and Isaac Sorkin (eds.). 2009. Climate Change, Trade, and Competitiveness: Is a
+Collision Inevitable? Washington, DC: Brookings Institution Press.
+Buchanan, J. M. 1965. "An Economic Theory of Clubs." Economica NS 32 (0): 1-14.
+Carraro, Carlo, and Domenico Siniscalco. 1993. "Strategies for the International Protection of the
+Environment." Journal of Public Economics 52 (3): 309-28.
+CDIAC. 2014. Carbon Dioxide Infromation Analysis Center, http://cdiac.ornl.gov/.

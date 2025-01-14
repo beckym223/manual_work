@@ -1,0 +1,37 @@
+90 percent requires a major fiscal consolidation and, if the fiscal consolidation can -
+not be fully offset by expansionary monetary policy, an economic contraction. As
+Giavazzi and Pagano, and Lorenzoni and Werning, have shown, other dimensions of debt and fiscal policy, such as the maturity of debt or the aggressiveness of the fiscal rule in response to higher interest rates, are likely to be more important than the level of debt itself, and help eliminate the bad equilibrium. To be more concrete, it may be that, rather than embarking on fiscal austerity if it cannot be fully offset by looser monetary policy, it is better to rely on an aggressive contingent fiscal rule to eliminate the bad equilibrium.
+VI. Conclusions
+In this lecture, I have looked at the fiscal and welfare costs of higher debt in an
+economy where the safe interest rate is less than the growth rate. I have argued that this is a relevant empirical configuration, and indeed has been the norm rather than the exception in the United States in the past. I have argued that both the fiscal and welfare costs of debt may then be small, smaller than is generally taken as given in current policy discussions. I have considered a number of counterarguments, which are indeed valid, and may imply larger fiscal and welfare costs. The purpose of this lecture is most definitely not to argue for higher debt per se, but to allow for a richer discussion of debt policy and appropriate debt rules than is currently the case.
+REFERENCES
+Abel, Andrew B., N. Gregory Mankiw, Lawrence H. Summers, and Richard J. Zeckhauser. 1989.
+“Assessing Dynamic Efficiency: Theory and Evidence.” Review of Economic Studies 56 (1): 1–19.
+Aiyagari, S. Rao, and Ellen R. McGrattan. 1998. The Optimum Quantity of Debt.” Journal of Mone-
+tary Economics 42 (3): 447–69.
+Angeletos, George Marios, Fabrice Collard, and Harris Dellas. 2016. “Public Debt as Private Liquid-
+ity: Optimal Policy.” Unpublished.
+Auerbach, Alan J., and Yuriy Gorodnichenko. 2012. “Measuring the Output Responses to Fiscal Pol-
+icy.” American Economic Journal: Economic Policy 4 (2): 1–27.
+Ball, Laurence, Douglas W. Elmendorf, and N. Gregory Mankiw. 1998. “The Deficit Gamble.” Journal
+of Money, Credit and Banking 30 (4): 699–720.
+Barkai, Simcha. 2018. “Declining Labor and Capital Shares.” Unpublished.
+Barrett, Philip. 2018. “Interest-Growth Differentials and Debt Limits in Advanced Economies.” IMF
+Working Paper WP/18/82.
+Blanchard, Olivier. 2018. “Should We Reject the Natural Rate Hypothesis?” Journal of Economic Per -
+spectives 32 (1): 97–120.
+Blanchard, Olivier, and Philippe Weil. 2001. “Dynamic Efficiency, the Riskless Rate, and Debt Ponzi
+Games under Uncertainty.” Advances in Macroeconomics 1 (2).
+Caballero, Ricardo J., Emmanuel Farhi, and Pierre-Olivier Gourinchas. 2017a. “Rents, Technical
+Change, and Risk Premia: Accounting for Secular Trends in Interest Rates, Returns on Capital,
+Earning Yields, and Factor Shares.” American Economic Review 107 (5): 614–20.
+Caballero, Ricardo J., Emmanuel Farhi, and Pierre-Olivier Gourinchas. 2017b. “The Safe Assets
+Shortage Conundrum.” Journal of Economic Perspectives 31 (3): 29–46.
+Calvo, Guillermo A. 1988. “Servicing the Public Debt: The Role of Expectations.” American Economic
+Review 78 (4): 647–61.
+Carvalho, Carlos, Andrea Ferrero, and Fernanda Nechio. 2016. “Demographics and Real Interest
+Rates: Inspecting the Mechanism.” European Economic Review 88: 208–26.
+De Loecker, Jan, and Jan Eeckhout. 2017. “The Rise of Market Power and the Macroeconomic Impli-
+cations.” Unpublished.
+DeLong, J. Bradford, and Lawrence H. Summers. 2012. “Fiscal Policy in a Depressed Economy.”
+Brookings Papers on Economic Activity (Spring): 233–97.

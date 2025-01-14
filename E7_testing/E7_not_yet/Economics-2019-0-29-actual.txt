@@ -1,0 +1,72 @@
+The second explanation is increasing rents, reflecting in particular the increasing
+relevance of increasing returns to scale and increased concentration.33 If so, the
+earnings rate reflects not only the marginal product of capital, but also rents. By
+implication, the market value of firms reflects not only the value of capital but also the present value of rents. If we take all of the increase in the ratio of the market value of firms to capital at replacement cost to reflect an increase in rents, the dou-bling of the ratio implies that rents account for roughly one-half of earnings, and the marginal product of capital for the other half.
+34,35
+As with many of the issues raised in this lecture, many caveats are in order, and
+they are being taken on by current research. Movements in Tobin’s q, the ratio of market value to capital, are often difficult to explain.
+36 Yet, the evidence is fairly
+consistent with a decrease in the average marginal product of capital, and by impli-cation, a smaller welfare cost of debt.
+V . A Br oader View: Arguments and Counterarguments
+So far, I have considered the effects of debt when debt was used to finance inter -
+generational transfers in a full employment economy. This was in order to focus on the basic mechanisms at work. But it clearly did not do justice to the potential ben-efits of debt finance, nor does it address other potential costs of debt left out of the model. The purpose of this last section is to discuss potential benefits and potential costs. As this touches on many aspects of the economy and many lines of research, it is informal, more in the way of remarks and research leads than definitive answers about optimal debt policy.
+Start with Potential Benefits.—Even within the strict framework above, the focus
+on steady-state utility (in the case of intergenerational transfers, or of a permanent
+increase in debt) ignored the transition to the steady state, and in particular, the effect on the initial (old) generation of the initial transfer (in the case of intergen-erational transfers), or the initial spending financed by debt (in the case of constant debt). Steady-state utility is indeed the correct variable to focus if the policymaker values the current and all future generations equally. To the extent however that the social welfare discount rate is less than 1, a negative effect on steady-state welfare may be more than offset by the increase in utility of the initial generation. As argued
+33 For a parallel discussion, and similar conclusions, see Hall (2018).
+34 A rough arithmetic exercise: suppose  V  =  q K  +  P DV  (R)  , where  V   is the v alue of firms,  q   is the shado w price
+of capital,
+R
+is rents.
+The shadow price of capital is in turn given by
+q
+=
+P
+DV
+(MPK) /K . Look at the medium run
+where adjustment costs ha
+ve worked themselves out, so
+q
+=
+1
+
+. Then  V
+/K
+−
+1
+=
+P
+DV
+(R) /PDV (MPK)  . If  V/K
+doubles from 1 to 2, then this implies that
+P
+DV
+(R)  = P DV  (MPK)  , so rents account for one-half of total earnings.
+35 An interesting and provocative paper by Geerolf (2017) extends this exercise to a number of advanced economies.
+Instead of comparing the earnings rate and the growth rate as I do here, he follows Abel et al. (1989) in
+comparing capital income and investment. He concludes that, assuming that there are no rents so
+V
+/K
+=
+1
+
+, Korea
+had capital income lower than investment in all years since 1970, and that, if one allows for rents and assumes for example
+V
+/K
+=
+1
+.5
+, the same is true for 9 out of 12 countries in his sample. If his conclusions are correct, the
+y
+deliver a result stronger than the one in the text, namely that public debt is unambiguously welfare improving in Korea, and, under the assumption that
+V
+/K
+=
+1
+.5
+, it is lik
+ely to be welfare improving in a number of other
+advanced economies.
+36 In particular, what makes me uncomfortable with the argument is the behavior of Tobin’s q from 1950 to
+1980, which roughly halved. Was it because of decreasing rents then?

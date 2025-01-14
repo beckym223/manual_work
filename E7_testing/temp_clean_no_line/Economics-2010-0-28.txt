@@ -1,0 +1,37 @@
+poorer relative to the rich world. With no change in the global poverty line, or with a more
+appropriate updating method, there would have been no sharp discontinuity in the counts. It is
+possible to argue that the upward revision in levels is unimportant, provided that the downward
+trend in poverty remains the same, but I do not believe that this is the case. Because there are
+nearly 200 million Indians who live on between $1.00 and $1.25 a day, the increase in the line
+adds many more Indians to the counts than it adds Africans. Although the prevalence of pov
+erty remains higher in sub-Saharan Africa, the relative "Indianization" of poverty (or rather
+"re-Indianization" of poverty, see Table 1) is likely to change the terms of the aid debate. Indeed,
+the proportional rate of poverty decline in India is lower with the higher baseline, so India is
+no longer on target to meet the first Millennium Development Goal (Himanshu 2008, Chen
+and Ravallion, forthcoming). More generally, the number of poor people in the world is widely
+quoted in public debate, so that arbitrary?and poorly understood?changes undermine any
+usefulness that these numbers might otherwise have had.
+How should the global poverty line be set in the future? There are two quite different
+approaches, depending on whether we take our standard from the poor world, as in the current
+count, or from the rich world, which is my own preference. In the former, the global line is linked
+to national lines of poor countries, but given its claims to be an absolute standard, it should not
+move upwards as countries become richer. One simple possibility would be to use the current
+Indian line in rupees, or at least a population-weighted average of its rural and urban lines as
+was done in the first global counts by Ahluwalia, Carter and Chenery (1979). If India revises
+its poverty line upwards as it gets richer, as has recently been proposed on different grounds by
+a Government of India Expert Group (2009), the world line should continue to be the original
+Indian line, and the world count would simply be the number of people in the world living below
+the poverty line set in India when a large fraction of its population was destitute. If the Indo
+centric approach is not acceptable, the world poverty line could remain, as now, an average of
+poverty lines from poor countries, although, once again, those poverty lines need not and should
+not be changed over time; this is what was done until the current revision. There will still be
+changes in the global line as successive ICP revisions change the relative PPPs of poor countries,
+something that cannot be avoided.
+The alternative procedure would be to make the global poverty line in fact what it is widely
+perceived to be, one international dollar per person a day. Whatever its origins, it would in future
+be updated by the US CPI only, so the global line would be a dollar in 2005 prices. If this rule
+had been in place, the 2005 revision, by making developing countries poorer relative to the
+United States, would indeed have made the "developing world" appear to be poorer, and would
+have avoided much confusion about what had actually happened, not least the confusion within
+the World Bank itself. Since the dollar a day counts are used almost entirely by rich world NGOs
+and international organizations, denominating the poverty line in dollars (or perhaps Euros)  would better match the measure to its intended audience.

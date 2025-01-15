@@ -1,0 +1,44 @@
+Then (27) becomes
+
+(29) ¿ = (p-0,)¿ +00-02
+The three-equation differential equation system formed by (21), (22), and (29) is
+recursive, since b appears only in the last equation. That means that the solution
+paths that make it explode up or down that we observed when considering the first
+two equations alone are still mathematical solution paths for the three-equation sys
+tem. But now notice what happens to b along a path on which p —> oo. From the
+debt equation (29) we see that on such a path b eventually becomes negative and
+more negative over time. This implies that b goes to zero in finite time. From the
+point of view of private agents in the economy, since we assume they can't borrow
+from the government, this means that their future tax obligations exceed their wealth
+in the form of government debt, and thus that they cannot finance their planned con
+sumption with the income and wealth they have. They will therefore reduce con
+sumption and try to save. If they truly have perfect foresight, this would instantly,
+at the initial date t = 0, bring pQ back to the level consistent with stability. If it
+takes agents some time to realize what kind of a path they are on, the adjustment
+might come with a delay, still producing the same reversion to the stable solu
+tion. Unstable paths with accelerating deflation can also be ruled out. On such
+paths, real debt would rise without bound, while primary surpluses shrank and
+eventually became negative. Now people would see their wealth in the form of
+government debt growing without bound, with no offsetting increase in future tax
+obligations. They would therefore spend, raising prices, bringing the economy
+back to its stable path.
+These arguments do not depend on the size of 4>2, so long as it is positive. In equi
+librium, 7r will be zero or (if people are imperfectly foresighted, or if we add random
+disturbances to the system) fluctuate in a narrow range. If 4>2 is small enough, its
+presence might be difficult to detect from data. In any case its presence would have
+no effect on the first two equations of the system or on the equilibrium time path
+of prices and interest rates, except for its elimination of the unstable solutions as
+equilibria of the economy.
+C. Debt as a Fiscal Cushion
+Barro (1979) showed in a simple, stylized model that in the presence of distort
+ing taxation it is not optimal to rapidly pay off public debt, because the deadweight
+losses from heavy initial taxation to reduce the debt are not offset by the present
+value of lower future deadweight losses after the debt is reduced. Instead, in his
+model, debt and tax revenue optimally follow a martingale process, with E,bt+l
+= b„ E,t,+i = Tt. (Here r is total tax revenue.) In his framework, r increases with
+increases in b. Lucas and Stokey (1983) showed that when the government can issue
+contingent liabilities, it is actually optimal for taxes to be set without reference to
+the current level of debt. Chari, Christiano, and Kehoe ( 1994) showed that monetary
+policy, by determining inflation, can create appropriate contingencies in the return to
+debt. I showed (Sims 2001) that if these insights are brought back to Barro's (1979)
+stylized framework, we get a simple and stark conclusion—r should be constant,

@@ -1,0 +1,21 @@
+increase in debt is equal to 15 percent of (pre-debt) average steady state saving.27
+The underlying parameters in both cases are calibrated so as to fit values of
+ER
+
+
+
+and
+
+
+
+E
+
+R
+
+f   absent debt corresponding to −1 percent for the annual safe rate, and 2 percent
+for the annual risky rate.
+Failure is defined as the point where the safe rate becomes sufficiently large
+and positive (so that the probability that debt does not explode becomes very
+small, depending on the unlikely realization of successive large positive shocks
+which would take the safe rate back below the growth rate). Rather arbitrarily, I choose the threshold to be 1 percent at an annual rate. If the debt rollover fails, I assume, again arbitrarily and too strongly, that all debt is paid back through a tax on the young. This exaggerates the effect of failure on the young in that period, but is simplest to capture.
+28

@@ -1,0 +1,47 @@
+But this story, like any story about the effects of monetary policy, has a fiscal pol
+icy backstory. Because reserve deposits and Treasury securities are close substitutes,
+raising the rate on reserve deposits would also raise rates on government debt gener
+ally. The level of US government debt relative to GDP is at unprecedented levels. If
+debt were at 100 percent of GDP, a rise in interest rates to 6 percent from its current
+level of about 2 percent would bring interest expense, now less than 10 percent of
+total Federal government expenditure, to 30 percent of government expenditure,
+increasing the conventionally measured deficit drastically if there were no response
+of fiscal policy. Would there be a response? Some years ago the answer might have
+been, "Surely yes." But the increase in the conventional deficit would be so large
+that the response would have to involve substantial increases in tax revenue. With
+recent repeated congressional games of chicken over the debt limit and inability to
+bargain to a resolution of long-term budget problems, the answer may now be in
+some doubt.
+
+With the central bank keeping interest rates stable in the face of inflation fluctua
+tions and fiscal authorities not increasing primary surpluses in response to increased
+real debt, the price level is still likely to be determinate. But the main determinant
+of inflation becomes the fiscal deficit, rather than changes in the usual instruments
+of monetary policy.
+
+B. Paper Money Requires Fiscal Backing
+It is easy to construct models of economies in which unbacked paper money can
+have value, but in such models it is generally also possible for money to be valueless,
+or to dwindle rapidly in value so that the economy approaches a barter equilibrium.
+In such models, introducing taxation either to pay interest on government liabilities
+or to contract the supply of non-interest-bearing liabilities (and thus, via deflation,
+create a real return) tends to resolve the indeterminacy and provide a uniquely deter
+mined price level. The first two examples in Section III below show quite different
+models in which this pattern of results hold.
+Depending on the institutional setup, the fiscal backing can be apparent in
+equilibrium, as with taxation to service a stable volume of nominal debt, or it
+can be implicit, invoked only under unusual circumstances, as with a commit
+ment to treasury transfers to the central bank if the central bank balance sheet
+deteriorates. But in evaluating monetary and fiscal institutions, the question of
+the nature of fiscal backing for the price level is a useful starting point. It led me
+(Sims 2004; 1999) to think about where fiscal backing could come from in the
+European Monetary Union (EMU) and what kinds of conditions might force the
+EMU to confront the need for fiscal backing. Those two papers speculated about
+policy dilemmas that at the time might have been seen as obscure and unlikely,
+but now seem practically relevant. The policy discussion in the EMU during this
+recent crisis period has focused on fiscal transfers that will arise as partial default
+on Greek and possibly other euro area sovereign debt occurs. While resolving the
+allocation of these losses that have already occurred is important, controversy
+over them has hindered discussion of ways to provide clear fiscal backing for the
+euro, which is in many ways an easier problem. I discuss these issues in more
+detail in Sims (2012).

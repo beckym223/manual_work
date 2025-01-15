@@ -1,0 +1,25 @@
+For each policy rule, the mean loss across simulations is shown in the first column
+of the table. The loss for each simulation is defined as the sum of the squared
+deviations of inflation from target and of the unemployment rate from the natural
+unemployment rate (the “unemployment gap”), except that no penalty is assigned
+when unemployment is below the natural rate. Higher losses imply worse average
+performance. The results are not much affected if positive and negative unemployment
+gaps are treated symmetrically, as is more conventional, or if the loss is calculated
+in terms of the output gap instead of the unemployment gap. Mean losses are
+a useful summary measure that provides a natural way to rank alternative policies,
+evaluate the marginal benefits of new policy tools, or—by comparing losses of alternative
+policies to that of the unconstrained baseline Taylor rule—assess how close
+those policies can come to fully offsetting the effects of the lower bound.
+Also shown in Tables 3 and 4, for each policy rule, are the mean unemployment
+gap across simulations, the mean inflation rate, the percentage of quarters in which
+the simulated economy is at the effective lower bound (ELB frequency), the mean
+duration of  lower-bound episodes (mean ELB duration), the mean stock of assets
+held by the central bank as the result of QE programs (in billions of dollars), and the
+mean peak stock of assets attained, all averaged over the 500 simulations of the rule.
+There are several takeaways from Tables 3 and 4. First, as previous work has
+demonstrated, traditional policy rules with a 2 percent inflation target (and with no
+use of the new policy tools) perform quite poorly when neutral interest rates are
+low. For example, when   r   ∗   = 1 and   i   ∗   = 3 (Table 3), the baseline rule leaves the
+economy at the lower bound some 31 percent of the time, with mean inflation less
+than 1 percent, well short of the 2 percent target, and a mean unemployment gap of
+0.7 percent. When   r   ∗   = 0 and   i   ∗   = 2 (Table 4), the baseline policy rule leav

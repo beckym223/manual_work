@@ -1,7 +1,3 @@
-THE MODERN APPEAL TO LEGAL FORCES IN
-ECONOMIC LIFE.
-
-BY PROIESSOR JOHN B. CLARK, PH.D., AMHERST COLLUEGE.
 Two movements born of discontent are in progress.
 Anarchism assails the state; socialism attacks the
 industrial system and appeals to the state. The motive
@@ -24,3 +20,6 @@ of wealth, that he creates.
 In a factory that employs a thousand men let us leave
 the amount of capital unchanged, but add a few men to
 the working force. The men thus added represent a
+definite increase in the output of the mill. It produces
+a hundred yards of cloth per day, in addition to its
+former output; and if so, the value of this extra product,

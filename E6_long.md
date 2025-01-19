@@ -1,5 +1,5 @@
 
- ## Economics-1969-0
+## Economics-1969-0
 
 
 ### ---Economics-1969-0-01.txt---
@@ -1061,7 +1061,7 @@ benefits of this strange activity will be
 well worth its undoubted cost, even if in
 our heroic mood we dare not calculate
 them.
- ## Economics-1970-0
+## Economics-1970-0
 
 
 ### ---Economics-1970-0-03.txt---
@@ -3796,7 +3796,7 @@ end by noting that even in the peak year of
 expenditures on space-research, nearly one-
 half of the recorded R & D (a very large sum)
 fell in neither of these two categories.
- ## Economics-1971-0
+## Economics-1971-0
 
 
 ### ---Economics-1971-0-03.txt---
@@ -4433,7 +4433,7 @@ explain what it is all about.
 REFERENCE
 F. H. Hahn, "Some Adjustment Problems,"
 Econometrica, Jan. 1970, 38, 1-2.
- ## Economics-1972-0
+## Economics-1972-0
 
 
 ### ---Economics-1972-0-03.txt---
@@ -6090,7 +6090,7 @@ Thirty-five years after Keynes, welfare
 macroeconomics is still a relevant and
 challenging subject. I dare to believe it has
 a bright future.
- ## Economics-1973-0
+## Economics-1973-0
 
 
 ### ---Economics-1973-0-03.txt---
@@ -7061,7 +7061,7 @@ nomic interest. For the economist there
 can be no doubt as to where this task be-
 gins. It is with the emancipation of eco-
 nomic belief.
- ## Economics-1974-0
+## Economics-1974-0
 
 
 ### ---Economics-1974-0-03.txt---
@@ -8008,7 +8008,7 @@ tions of an information-economical view-
 point for the economic world. I look for-
 ward to exciting developments in the next
 decade.
- ## Economics-1975-0
+## Economics-1975-0
 
 
 ### ---Economics-1975-0-01.txt---
@@ -10323,7 +10323,7 @@ nomists, we have many sins, none deadly,
 to confess. But these are far outweighed
 by the virtues, all quite lively, that we can
 legitimately profess.
- ## Economics-1976-0
+## Economics-1976-0
 
 
 ### ---Economics-1976-0-03.txt---
@@ -11451,7 +11451,7 @@ developed country whose aspirations are rising much  faster than its means to sa
 
 ### ---Economics-1976-0-15.txt---
 
- ## Economics-1977-0
+## Economics-1977-0
 
 
 ### ---Economics-1977-0-03.txt---
@@ -13082,7 +13082,7 @@ General Theorxv. We should instead concentrate
 our efforts in an endeavor to make stabilization
 policies even more effective in the future than
 they have been in the past.
- ## Economics-1978-0
+## Economics-1978-0
 
 
 ### ---Economics-1978-0-01.txt---
@@ -13710,7 +13710,7 @@ role, the present message simply says that
 a full supply-side analysis must be devel-
 oped into which an elaborated IS-LM sys-
 tem of thought can be fully integrated.
- ## Economics-1979-0
+## Economics-1979-0
 
 
 ### ---Economics-1979-0-03.txt---
@@ -14942,7 +14942,7 @@ do, the irrepressible curiosity and venture-
 someness of our undergraduates will pro-
 vide a point at which to start and from
 which to build up.
- ## Economics-1980-0
+## Economics-1980-0
 
 
 ### ---Economics-1980-0-01.txt---
@@ -15975,7 +15975,7 @@ able theory of economic life.
 61The emotion aroused by the case of South Africa  strikes me as one of those extreme exceptions that
 proves the rule.  7In Gary Beckeres defense, I should point out that
 he does not assume cash income to be the decisive  motive in courtship.
- ## Economics-1981-0
+## Economics-1981-0
 
 
 ### ---Economics-1981-0-01.txt---
@@ -17507,7 +17507,7 @@ al973-78  bl 973-77  CAverage 1947 and 1950 to 1965
 d1955-65
 "Other labor income" includes "employers contributions to private pension, health, unemployment, and welfare
 funds; compensation for injuries; director's fees, pay of the military reserve; and a few other minor items."
- ## Economics-1982-0
+## Economics-1982-0
 
 
 ### ---Economics-1982-0-03.txt---
@@ -18858,7 +18858,7 @@ foundation for the analysis of industrial
 organization. I will perhaps be excused for
 feeling that this was an ambitious under-
 taking.
- ## Economics-1983-0
+## Economics-1983-0
 
 
 ### ---Economics-1983-0-01.txt---
@@ -20369,7 +20369,7 @@ mankind in the ordinary business of life;
 which is most closely connected with the
 attainment and use of the material requisites
 of wellbeing" (p. 1, emphasis added).
- ## Economics-1985-0
+## Economics-1985-0
 
 
 ### ---Economics-1985-0-03.txt---
@@ -21744,7 +21744,7 @@ wage formation? I do not have the answer.
 Conceivably, economics, like physics, is sub-
 ject to a fundamental indeterminacy theo-
 rem.
- ## Economics-1986-0
+## Economics-1986-0
 
 
 ### ---Economics-1986-0-03.txt---
@@ -22860,7 +22860,7 @@ found willing to assume such a Re-
 sponsibility.
 [Parliamentary Papers,
 1857, 1969, p. xxix]
- ## Economics-1987-0
+## Economics-1987-0
 
 
 ### ---Economics-1987-0-01.txt---
@@ -23767,7 +23767,7 @@ ticipants in the political process what we are
 reasonably sure we know and how we know
 it, and where we are guessing or expressing
 our preferences.
- ## Economics-1988-0
+## Economics-1988-0
 
 
 ### ---Economics-1988-0-03.txt---
@@ -24838,7 +24838,7 @@ of the interaction between economic change
 and family choices will hasten the incorpora-
 tion of family life into the mainstream of
 economics.
- ## Economics-1989-0
+## Economics-1989-0
 
 
 ### ---Economics-1989-0-03.txt---
@@ -25893,7 +25893,7 @@ Economic Association Committee on Federal Statistics
 (see Thomas Juster, 1988), to give the BEA and other
 statistical agencies the resources to develop more of the
 measures appropriate for economic analysis.
- ## Economics-1990-0
+## Economics-1990-0
 
 
 ### ---Economics-1990-0-01.txt---
@@ -27424,7 +27424,7 @@ progressivity of the federal tax system, it
 would be unconscionable to enact the dis-
 tinctly inferior alternative of a value-added
 tax.
- ## Economics-1991-0
+## Economics-1991-0
 
 
 ### ---Economics-1991-0-03.txt---
@@ -27993,7 +27993,7 @@ underwent and the effectiveness of attempts
 to alter the course of its evolution will gain
 from a detailed analysis of the processes
 that led to its present state.
- ## Economics-1992-0
+## Economics-1992-0
 
 
 ### ---Economics-1992-0-03.txt---
@@ -29376,7 +29376,7 @@ precedent that carries over when the tax
 rises an order of magnitude, but compared
 with alternative criteria for sharing costs it
 might not even be a bad precedent.
- ## Economics-1993-0
+## Economics-1993-0
 
 
 ### ---Economics-1993-0-03.txt---
@@ -30379,7 +30379,7 @@ ter than the feckless castaway whose contri-
 bution to the solution of the problem of
 dealing with cases of canned goods was "let's
 just assume we have a can-opener."
- ## Economics-1994-0
+## Economics-1994-0
 
 
 ### ---Economics-1994-0-03.txt---
@@ -31896,7 +31896,7 @@ the unknown keeps expanding as we learn.
 This should be looked at positively. It is
 much better this way-especially for those
 of us who are engaged in research!
- ## Economics-1995-0
+## Economics-1995-0
 
 
 ### ---Economics-1995-0-02.txt---
@@ -33694,7 +33694,7 @@ not, in fact, planned to be particularly even-
 handed in this paper, but need not, I sup-
 pose, apologize for ending up with rather
 even hands.
- ## Economics-1996-0
+## Economics-1996-0
 
 
 ### ---Economics-1996-0-02.txt---
@@ -35554,7 +35554,7 @@ values. To be useful to our society while de-
 riving pleasure from our work-in the words
 of the old Gershwin tune, "Who could ask for
 anything more?"
- ## Economics-1997-0
+## Economics-1997-0
 
 
 ### ---Economics-1997-0-02.txt---
@@ -37421,7 +37421,7 @@ to increase the degree to which economists'
 research results can contribute (positively)
 to policy formulation.
 I
- ## Economics-1998-0
+## Economics-1998-0
 
 
 ### ---Economics-1998-0-01.txt---
@@ -39835,7 +39835,7 @@ sum to GDP, the L]* sum to L * for the econ-
 omy, the Kj* to K* for the economy, etc. For
 more details on methodology, see Harberger
 (1998).
- ## Economics-1999-0
+## Economics-1999-0
 
 
 ### ---Economics-1999-0-01.txt---
@@ -41295,7 +41295,7 @@ omists from ignoring the dependence of their
 generalizations upon transient historical con-
 ditions."' That advice is as good today as it
 was a half century ago.
- ## Economics-2000-0
+## Economics-2000-0
 
 
 ### ---Economics-2000-0-01.txt---
@@ -42594,7 +42594,7 @@ countries increase, leading to improvements in the quality
 of housing and the replacement of indigenous fuels by
 modem fuels, the adverse environmental effects of air pol-
 lution will be significantly reduced.
- ## Economics-2001-0
+## Economics-2001-0
 
 
 ### ---Economics-2001-0-03.txt---
@@ -44816,7 +44816,7 @@ on the economics of information technology.49
 We are the fortunate beneficiaries of a new
 agenda for economic research that could refresh
 our thinking and revitalize our discipline.
- ## Economics-2002-0
+## Economics-2002-0
 
 
 ### ---Economics-2002-0-02.txt---
@@ -46294,7 +46294,7 @@ their respective talents and different prefer-
 ences, respond to these valuations and create
 important induced differentiation in consump-
 tion patterns, earnings, and occupational choices.
- ## Economics-2003-0
+## Economics-2003-0
 
 
 ### ---Economics-2003-0-02.txt---
@@ -47340,7 +47340,7 @@ sets. As a result, we are able to form a much
 sharper quantitative view of the potential of
 changes in policy to improve peoples' lives than
 was possible a generation ago.
- ## Economics-2004-0
+## Economics-2004-0
 
 
 ### ---Economics-2004-0-02.txt---
@@ -49217,7 +49217,7 @@ rather than a realistic assessment of likely out-
 comes. A better goal than seeking radical re-
 form is trying to improve the highly satisfactory
 current structure.
- ## Economics-2005-0
+## Economics-2005-0
 
 
 ### ---Economics-2005-0-01.txt---
@@ -51350,7 +51350,7 @@ still much for economists to do in designing
 better policies for the future and in educating
 the public and the political decision makers
 about the desirability of making such changes.
- ## Economics-2006-0
+## Economics-2006-0
 
 
 ### ---Economics-2006-0-03.txt---
@@ -53028,7 +53028,7 @@ understanding consumers' limitations, helping
 consumers to help themselves, and convincing
 them that the market will serve their interests
 are intrinsic parts of mechanism design.
- ## Economics-2007-0
+## Economics-2007-0
 
 
 ### ---Economics-2007-0-03.txt---

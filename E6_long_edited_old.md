@@ -23310,26 +23310,6 @@ eral inflation. But should not the real gain, in
 conformity with the Hicks-Haig-Simons con-
 cept, which I shall denote as "theory," be
 included in properly measured income?
-11 shall not focus here on the narrower, although
-likely important, issue of sloppy or unverifiable use of
-data discussed by Dewald, Thursby, and Anderson
-(1986) or the problem of inconsistent measures of pre-
-sumably the same variable, such as of monthly output
-from the sales and inventory data of the Department of
-Commerce and from the Federal Reserve index of in-
-dustrial production, reported by Jeffrey Miron and
-Stephen Zeldes (1988).  2Part of the change is attributable to the increasing
-share of investment in equipment as opposed to struc-
-tures. In some cases there has been a change in the
-nature of equipment, as from railroad cars, assumed to
-last on average 30 years, to trucks with an assumed
-expected life of 10 years. In one sense the change places
-an increased burden of capital replacement on the fu-
-ture. But if changing technology makes shorter-lived
-capital more profitable, may that not reflect an increase
-in expected lifetime productivity which offsets, at least
-in part, the greater capital consumption costs?
-
 
 ### ---Economics-1989-0-05.txt---
 If nominal interest rates are 9 percent and
@@ -23426,12 +23406,6 @@ increase in nominal but not real product if
 prices rise. But if government hires more
 police, nominal and real national income
 and product increase. It may well be argued
-3I am informed (by Lawrence Klein) that Norway
-once proposed the inclusion of housewives' output in
-national income and product and, for a time, estimated
-it.
-4I am indebted to Nancy Barrett for this point. See
-Barrett and Ines Bustillo (1985).
 
 
 ### ---Economics-1989-0-06.txt---
@@ -23502,39 +23476,7 @@ First, since government budget surpluses
 -or deficits-are taken as government re-
 ceipts minus all government outlays, without
 distinguishing between current and capital
-5If government services are viewed as intermediate
-product purchased by business with other than indirect
-business taxes, there is a corresponding reduction in
-national income.  6Discrepancies between theory and measure of na-
-tional income are not unique to U.S. accounts. They
-arise as well with the accounts of other nations. Foreign
-accounts, however, do usually include government capi-
-tal in saving and investment. This indeed generates
-some of the gap between U.S. and other saving rates
-that receive much attention. Hayashi (1986, p. 151)
-attributes 3 to 5- percentage points in the difference
-between Japanese and U.S. reported national saving
-rates (as ratios of NNP) to the Japanese inclusion of net
-government capital formation.  7It should be sobering to recall (see Robert Chirinko,
-1987) the profusion of alarms about the decline in "net
-investment" before the Department of Commerce (1981)
-revised its figures dramatically upward, with increases
-over the old series for the years 1975 to 1978 ranging
-from a quarter to a third. The hue and cry did not pause
-long, however, and current complaints about laggard
-net investment evince no concern about critical mea-
-sures of depreciation mentioned above, or comparably
-critical questions of price deflation and quality adjust-
-ment noted below.
-SSee, of course, Theodore Schultz (1961) and Gary
-Becker (1964, 1975) and a vast literature on human
-capital they have spawned. Failure to count education
-as investment, and to recognize it generally in analyses
-of capital formation, is perhaps the more remarkable in
-view of the fact that already one of the seminal authors
-is a Nobel Laureate and both are past Presidents of this
-Association.  9The sum of federal, state, and local government
-surpluses, in the United States.
+
 
 
 ### ---Economics-1989-0-07.txt---
@@ -23605,39 +23547,7 @@ measured in real, current, or market value.
 In fact, they do not. Because they do not, we
 have been confronted with repeated asser-
 tions that the United States has become " the
-world's greatest debtor nation," which is  "0It should be clear, of course, that this, meaningful
-measure of real interest, which involves subtracting the
-loss in the real value of debt due to inflation, cannot be
-gotten by simply dividing nominal interest by a price
-deflator. Deflators have rather to be applied to succes-
-sive nominal values of debt to calculate changes in its
-real value. These changes are reflated to current prices
-and subtracted from nominal interest payments. Alter-
-natively, the rate of inflation may be subtracted from
-nominal rates of interest to calculate real rates of inter-  est which are in turn multiplied by the nominal value of
-debt. This last measure, however, will not capture the
-current gains or losses in the market value of debt
-associated with changing expectations of future interest  rates.
-" Using Office of Management and Budget data (U.S.
-Government, 1988), I estimate the first adjustment, the
-excess of federal investment expenditures over corre-
-sponding capital consumption allowances, at about $70  billion. With an inflation rate of 3.6 percent and federal
-debt held by the public at some $2,000 billion, the
-second comes to another $72 billion. The federal budget  for fiscal 1988 is thus moved from its reported deficit of
-$155 billion to a virtual balance!  12The second, inflation tax adjustment would also
-reduce the measure of government dis-saving, or in-
-crease government saving, but would correspondingly
-decrease private saving or increase net foreign invest-
-ment. To the extent, because foreigners own some U.S.
-government debt, our real obligations to the rest of the
-world are reduced and properly measured net foreign
-investment (as explained below) is increased, the infla-
-tion tax adjustment also adds to gross saving.
-'3Which adds to the trade deficit the net payments to
-foreigners of property income, interest on government
-debt, and transfers.
-This despite some warning by the Bureau of Eco-
-nomic Analysis. See, in particular, Jack Bame (1985).
+world's greatest debtor nation," which is 
 
 
 ### ---Economics-1989-0-08.txt---
@@ -23721,27 +23631,7 @@ intangible capital of R&D, education, train-
 ing, and health to no less than 48 percent.'7
 Intertemporal and international compar-
 isons of total saving, investment, and capital
-1 5
-All of this is demonstrated in some detail in my
-paper with Paul J. Pieper, "'The World's Greatest
-Debtor Nation'?," presented elsewhere at these AEA  meetings. A set of adjustments is also offered by Michael
-Ulan and Dewald (1988).  16The difference goes to 36 percent if we exclude
-highly variable "net revaluations," or real capital gains,
-which were sharply negative in 1981. TISA gross na-
-tional product was 53 percent more than BEA GNP but
-this larger difference reflects the fact that, while TISA
-output includes intangible investment, the gross mea-
-sure makes no deduction for intangible capital con-
-sumption.
-17TISA accounts and comparative tables are shown
-in Eisner (1985 and 1988). Other work on extended
-accounts, among which William Nordhaus and James
-Tobin (1972), Kendrick (1976) and Richard Ruggles
-and Nancy Ruggles (1982) are important contributions,
-is also discussed in Eisner (1988). Full and detailed
-TISA accounts for all of the years from 1946 to 1981,
-along with further analysis and a lengthy description of
-sources and methods, are to be found in Eisner (1989).
+
 
 
 ### ---Economics-1989-0-09.txt---
@@ -23834,16 +23724,7 @@ become clear, and with that an explanation
 of some of the well-known difficulties in
 empirical implementation of the q-theory
 approach.19
-18See Eisner (1989), Table D.I.  19Further difficulties in giving flesh to investment
-and production theory may well stem from problems in
-getting sound measures of real output. These depend
-considerably on the quality of our price deflators, too
-often-despite warnings from the BEA of the need for
-further work on a number of problems, including mea-
-sure of quality change, weighting, and import and input
-prices-taken for granted. If, as there is good ground to
-suspect, they have frequently overstated price inflation
-while correspondingly understating quality improve-
+
 
 
 ### ---Economics-1989-0-10.txt---
@@ -23934,23 +23815,7 @@ That is exactly what happened in the late
 of nominal deficits in the Carter years, from
 1977 to 1980, were real surpluses totaling
 $72 billion. 24 The federal budget did not
-ment, particularly in transportation equipment, comput-
-ers, construction, and other components of capital (see
-Robert Gordon, 1988), our measures of the paths of
-productivity and of investment, and of their determi-
-nants, are skewed. In both cases, theorists have labored
-hard to explain real declines, or at least declines in
-growth, that may have been, to some considerable ex-
-tent, more apparent than real.
-20See Milton Friedman (1968) for starters on this
-role of "money." For a leading dissident to this new
-idealogy see Tobin (1980), inter alia.
-21Eisner (1986), p. 166.
-22Lucas (1981), p. 2, and Lucas and Sargent (1981),
-pp. 295-96.
-23 Unless one is an unreconstructed supporter of
-Barro's (1974, 1989) "Ricardian" equivalence theorem.
-24See Eisner and Pieper (1984) and Eisner (1986).
+
 
 
 ### ---Economics-1989-0-11.txt---
@@ -24050,9 +23915,6 @@ appropriate fiscal policy is treacherous. Some
 advise us now, for example, that a "bal-
 anced" overall budget, despite the infirmities
 I have pointed out in that measure, is not
-25As it may be defined by E. C. Prescott (1986) and
-others who have developed the concept.  26For a negative view on this see, among others,
-Eisner (1983).
 
 
 ### ---Economics-1989-0-12.txt---
@@ -24147,13 +24009,6 @@ flation to the cry of the patient who comes to
 the doctor complaining of myriad ills and
 says "Doc! Make me well, but don't tell me
 to exercise, lose the hundred pounds that I
-27 Current business capital expenditures may, of
-course, have some indirect effect on productivity in
-2030 if they raise income and hence saving and invest-
-ment in the years ahead or if they embody new tech-
-nologies that last until then.
-28Including Eisner and M. I. Nadiri (1968), Eisner
-(1978), and Chirinko and Eisner (1983).
 
 
 ### ---Economics-1989-0-13.txt---
@@ -24194,15 +24049,6 @@ counterparts.
 Very generally, I conclude, it is important
 in economics-as elsewhere-to know what
 we are talking about.29
-29I should not close without suggesting that of com-
-plimentary importance is having the data to talk about.
-At the risk of increasing that budget deficit, however we
-measure it (or reducing the surplus), it would seem
-appropriate, in line with the report of the American
-Economic Association Committee on Federal Statistics
-(see Thomas Juster, 1988), to give the BEA and other
-statistical agencies the resources to develop more of the
-measures appropriate for economic analysis.
 ## Economics-1990-0
 
 
@@ -24269,7 +24115,6 @@ from the 1986 tax reform and conclude with
 
 
 ### ---Economics-1990-0-02.txt---
-2 THE AMERICAN ECONOMIC REVIEW MARCH 1990
 an agenda for further reform in the context
 of the current fiscal crisis. I believe that,
 when the nation gets around to eliminating

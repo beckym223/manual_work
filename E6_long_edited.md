@@ -1172,72 +1172,7 @@ new knowledge. This seems a reasonable
 way of looking at our problem, because
 if knowledge in use remained constant
 per capita, the rate of progress would be
-I In the case of the United States "practically all,"
-because here terms-of-trade effects, the consequences of
-improved diets, etc. play no major role. There remains
-an ambiguity in connection with the consequences of
-intersector shifts, on which see the discussion of the two
-Kendrick measures in Section III.
-2 To illustrate with the simplest kind of Cobb-
-Douglas function applicable to the problem, as well as
-this is possible for a single period (t= n):
-Q(n) = F( E LR, E KR, LR(n), KE(n),
-o o
-LA(n), KA(n))L4(n)K$(n)
-LR, KR = research-type inputs, in the broad sense.
-LE(n), KE(n) = education (knowledge-distribution)
-inputs which were applied in the past, or are being ap-
-plied in period n, to the labor force of period n, expressed  per capita of this labor force.
-LA(n), KA(n) =inputs required for changing over to
-improved industrial methods (mainly the obsolescence-
-component of capital-replacement)..
-Lc(n), Kc(n) = those inputs of period n not accounted
-for in the argument of F, except that the education in-
-puts applied in period n to persons who are not yet
-members of the labor force belong neither in Lc(n),
-Kc(n) nor of course in the argument of F.
-The algebraic form and the parameters of F depend on
-factors not formalized in the equation, such as abilities
-and habits of the population; policies other than those
-expressing themselves in the R and E inputs; various
-inputs in foreign economies; the relative weight of that
-part of the old knowledge which remains useful when
-new knowledge is acquired, etc. It will be seen later  that the convenient definition of the rate of technological  progress here is d In F/dt.
-In this model avoidance of the implication of econ-
-omies of scale would require (3<1-a, instead of the  conventional (3=1 -a, but it may be preferable to face
-the problem of such economies as one giving rise to the
-qualifications discussed in the opening paragraph of
-Section III.
-The progress-generating inputs should be defined so
-that if the variables in the argument of F assume the
-values to which zero progress-generating input cor-
-responds, then d In F/dt=O (in which case, however,
-JLc and IKc would be larger than at positive values of the
-progress-inputs and of this derivative). Hence the prog-
-ress-generating inputs for period n consist of the
-period's additions to the two E terms; and of the in-
-crease of LB and KE expressed per capita of the labor
-force of period n, as compared to the immediately pre-
-ceding period's Lg and KB expressed per capita of that
-period's labor force; and of LA(n) and KA(n). In prin-
-ciple, one of the magnitudes representing a progress-
-input (increased per capita education) could turn out
-to be negative, and avoidance of this awkwardness
-would then call for some adjustments of terminology,
-but in our context this may be disregarded.  If the methods of measuring progress call for limiting
-Q to the private sector (usually including government-
-owned enterprise), then Lc and Kc should also be so
-limited, but the argument of F should nevertheless in-
-clude also the public-sector inputs of the type specified
-in the lines under the equation.
-The larger cost-base to be defined in Section II in-
-volves "charging" to the progress generated in a period  all progress-generating inputs for the period; the smaller
-cost-base to be defined in Section II involves charging
-merely the "profit-oriented" progress-inputs, which in
-turn implies that the costs of the other progress-inputs
-are recovered outside the market process and that the
-progress-account should therefore be "credited" with
-these nonmarket values.
+
 
 
 ### ---Economics-1970-0-05.txt---
@@ -1316,27 +1251,7 @@ returns with the returns from investment
 in the usual sense. This must be watched
 in formulating the assumptions needed for
 the justification of such comparisons.
-3 The definition of output should be the same on the
-two sides of the ledger.
-4 It will be seen, however that this deduction is
-called for only to the extent that education is charged
-to the progress-account, i.e., is not netted out (Cf. Sec-
-tions II and IV).
-6 If we find that the resulting rate of return is higher
-than the "normal" rate in the economy, then this may
-also be expressed by the statement that the ratio of the
-discounted benefit-stream to costs is greater than one.
-6 One of the main reasons for not becoming very dis-
-turbed by this difficulty is that the rates of return from
-progress-generating activities will be compared with the
-rate from physical investment "at a given level of tech-
-nology," and in these comparisons allowance needs to be
-made also for another factor which can be interpreted
-as the equivalent of a lag working against physical
-capital formation (i.e., in favor of the progress-activ-
-ities). For another reason see Section VI.
-7 The reason why I say "more or less" is explained in
-the first paragraph of Section III.
+
 
 
 ### ---Economics-1970-0-06.txt---
@@ -1413,29 +1328,6 @@ vincing. In this regard such costs are
 treated differently from those of firms,
 e.g., differently from that R & D compo-
 nent which is financed by industry.'2 The
-8 See my December 1967 article which is listed in the
-Reference section, as are the particulars of the other
-references. The bibliography attached to that article
-lists earlier writings of several authors on this subject
-(including some by the present writer).
-9 In the United States the greater part of the govern-
-ment-financed R & D is performed on contract by in-
-dustry. The remainder of the government-financed com-
-ponent is performed by the government itself and by
-other nonprofit institutions (see Appendix D).  10 Training on the job in the business sector, and sales
-of books, periodicals and newspapers to consumers
-represent exceptions. These are institutionally profit-
-oriented expenditures. They do not weigh heavily in the
-sum total of education costs in the broad sense (and, of
-course, these items belong here only if education costs
-are interpreted in the broad sense, as they should be for
-our purpose).  11 By quasi-political pressure, I mean the pressure to
-which trustees and administrators of private nonprofit
-organizations are exposed and which they in turn exert
-on the staffs of these organizations.
-la Industry finances also some of the research per-
-formed by universities and other nonprofit organiza-  tions but more than 98 percent of the R & D financed by
-industry is also performed by it. (Continued)
 
 
 ### ---Economics-1970-0-07.txt---
@@ -1519,21 +1411,6 @@ generating inputs aside from their con-
 tribution to measurable productivity
 gains.
 The proposition suggests itself that the
-In R & D statistics the concept of "industry" is in-
-tended to include the whole business sector. In principle
-individuals should be included even if they have not
-founded "firms" but while the role of some such indi-
-viduals has been of considerable importance in the
-history of technological progress, their weight on the
-cost-side of our ledger is very small. See John Jewkes,
-David Sawers, and Richard Stillerman. The costs of
-some other strategically significant inputs are also small
-(see Appendix C).
-13 Government-owned enterprises are not included in  this concept.  14 In our framework this distinction coincides with the
-distinction between the argument of a function and
-factors influencing the algebraic form or the param-
-eters of the function. See fn. 2.
-
 
 ### ---Economics-1970-0-08.txt---
 average social benefit-cost ratio which a
@@ -1621,16 +1498,6 @@ course. The statement is that once a very
 large number of individual preferences con-
 cerning the ranking of the specific objectives
 of the progress-activities have been bridged
-16 As was pointed out above, in some sectors of the
-progress-activities-particularly in a subsector of
-"education"-political-type decisions, which greatly in-
-fluence the aggregate quantity of resources used for a
-general purpose, nevertheless leave room for the indi-
-vidual's market-choices as to the specific quantities of
-service acquired from alternative suppliers. I consider
-extension of the range of such choices desirable but
-whatever the range is (or might become) its existence
-does not contradict the statements in the text.
 
 
 ### ---Economics-1970-0-09.txt---
@@ -1722,10 +1589,6 @@ periods should tend to exceed the profit
 rate on physical capital, i.e., should exceed
 the rate which in traditional theory is in-
 terpreted as the net marginal productivity
-16 Subjective probability judgements also need to be
-reconciled.  17 On statistics relating to corporate profits, see fn. 47,
-The algebraic product described in the text above gives  an approximnation to a magnitude which is useful for our
-purpose. See Section I and Appendix A.
 
 
 ### ---Economics-1970-0-10.txt---
@@ -1821,7 +1684,6 @@ an argument could be made for the view
 that practically all long-run increase in
 output per man-hour (or possibly more
 than this) involves invention and/or
-18 See particularly Gary S. Becker.
 
 
 ### ---Economics-1970-0-11.txt---
@@ -1894,34 +1756,7 @@ attributed to the increase in physical
 inputs given their base-period productivities.
 The measurement of productivity assumes
 measurement of the price-corrected market
-19 This does not, however, imply that progress-
-generating inputs (in our sense) and investment in less
-labor-intensive equipment come in fixed proportions.
-20 For qualifications see fn. 1. In the modern Amer-
-ican context these will be disregarded.
-21 On such an "inclusive" interpretation of progress
-one would have to charge our progress-generating in-
-puts, and also the net capital formation other than the
-equivalent of mere "widening," to the increase of man-  hour output (presumably with a crude allowance for the
-fact that the consequences of the relative scarcity of
-land also become offset along the growth path). The
-average rates of return on this bundle of physical in-
-vestment and "progress-generating inputs" (in our
-sense) would be intermediate between what in the main
-part of this paper will be regarded as returns from the
-progress-inputs and what will be regarded as returns
-from physical investment "at a given level of tech-
-nology." For example, the lowest of the calculated rates
-of progress-return in fn. 40,-clearly an underestimate
-of the true rate-is 13 percent; the corresponding "low-  est rate" (underestimate) in the framework implying the
-"inclusive" conception of progress may be said to come
-out at slightly less than 12 percent. Given this same
-"inclusive" conception of progress, the rate on that
-part of the physical investment which exceeds the
-equivalent of mere widening would be zero in the ab-  sence of all progress; on the other hand, in the absence of
-net capital formation the rate of return from progress-
-generating inputs would not be zero (see Section IV, 2
-below).
+
 
 
 ### ---Economics-1970-0-12.txt---
@@ -1981,36 +1816,6 @@ the variables for successive periods of
 considerable duration; high serial correla-
 tion and lags reduce the usefulness of data
 reflecting yearly changes.24 Emphasis will
-22 However, the base in relation to which the pro-  ductivity-increase is measured is somewhat inflated as a  result of the fact that the private sector includes some
-activities for which no productivity-increase can be
-measured (such as the activities of private nonprofit
-organizations, and paid household work); and it in-
-cludes some activities for which the output indices
-actually used do not measure productivity-increases
-adequately. A minor terminological awkwardness to be  noted here is that government-enterprise, in contrast to
-general government, belongs in the "private" sector
-See also fn. 33.
-23 Kendrick (pp. 182-186) has found a statistically  significant correlation between the increase in his total
-factor productivity and the "R & D-intensity" of  specific industry groups. His discussion of this problem  is based partly on his own research and partly on that of
-Nestor Terlecky.
-Jora Minasian in his May 1969 article, and in his
-earlier work there quoted, reports on a positive re-  lationship between R & D and productivity-increase in
-a cross-section of chemical firms. He regressed Value
-Added on labor, capital and R & D. His estimate of the
-rates of return from R & D disregards a substantial  proportion of the progress-costs with which we shall be  concerned in this paper, but what matters here is the
-existence of a positive relationship between R & D and
-productivity-increase. However, the fact that on the
-cost-side merely R & D enters into Minasian's analysis  when he estimates rates of return may provide part of
-the explanation why these rates are hard to reconcile
-with the results of a survey (questionnaire study) on
-which Edwin Mansfield reported also in the May 1969
-Papers and Proceedings. Firms must be acutely aware
-of the changeover costs and of various other costs to
-be considered in our analysis.
-24 This, however, is not all "black and white." For  example, regression analysis based on yearly data is not  useless when it comes to examining the question whether  in the United States the rate of increase of productivity
-has been rising.  Testing the upward tendency of the rate of produc-  tivity increases (semi-logarithmic nonlinearity) with  yearly data is of interest only for the period following
-1919 (or conceivably for a period ending in 1919).
-Kendrick has shown conclusively that if one decides to  limit oneself to semi-logarithmically linear relations of  productivity to time (i.e., of the logarithm of produc-
 
 
 ### ---Economics-1970-0-13.txt---
@@ -2072,26 +1877,7 @@ from the productivity-increase the favor-
 able effect of Kendrick's intergroup shifts,
 we obtain somewhat smaller productivity
 increases but broadly similar trends for
-these, except that some further accelera-  tivity to time itself), then the slope is distinctly steeper  for the period starting in the late part of this century's
-second decade than for the period preceding that
-"break." However, Kendrick did not discuss the ques-  tion of the quality of the linear fit for the pre-1919 or the
-post-1919 span. The nonlinearity observable for the
-post-1919 is a matter of importance for the present  study.
-As for the period 1919-66, the upward creep of the
-semi-logarithmic slope, presently to be illustrated in
-the text with reliance on benchmark years, does ex-
-press itself also in the statistical significance of the  positive coefficient of a second-degree term. This state-
-ment concerning "significance" implies the use of  yearly data, and the diagnosis based on such regressions
-(rather than on benchmark years) becomes somewhat
-complicated by the fact that if a third-degree term is  also introduced, statistical significance is found for the  negative coefficient of that term too. The iliflexion point  so obtained lies in the past. Yet the date of the inflexion  point and inspection of the plots suggest that this results
-from the exceptional productivity-increases during  World War II: i.e., the inflexion point reflects the slope's
-war-time peak which, despite the consistency of the  slope's rising tendency for successive periods of longer
-duration, has not been reached again. One would of  course not rely on such equations for projection into the
-future, since the future course of productivity-in-  creases will be strongly influenced by the course of the
-progress-generating inputs; but at any rate one would  try to smooth out, rather than to emphasize, the effect of the  depression of the 'thirties' and the effect of World War II.  For 1919-66 I used merely forty-one yearly data for
-each variable (instead of forty-eight) because, as will  be explained in the text, I used preliminary revised esti-  mates for several recent years and consistency had to be  observed in linking these to earlier years. It should be
-added that serial correlation is very high in this ma-  terial. On the whole, I prefer to make use of the bench-
-mark-year data of the text-i.e., of typical values for  periods of reasonable duration-rather than of regres-  sions computed from yearly data. The procedure used  in the text is no more "arbitrary" than the decision to  disregard the third-degree term in the regressions just  discussed.
+these, except that some further accelera-
 
 
 ### ---Economics-1970-0-14.txt---
@@ -2162,35 +1948,6 @@ ment."'
 We shall now consider the main problem
 of the present section. Our reasoning can
 be Dlaced into frameworks of different
-25 On this basis the following results are obtained:
-from 1900 to 1929 the rise was 1.5 percent (for the sub-
-period 1919-29: 2.0 percent); from 1929 to 1948 it was
-2.0 percent; from 1948-57 it was 2.3 percent; and for the
-following nine years 2.6 percent.
-26 Dension, who has made an attempt to separate
-quantitatively the effect of different sources of growth-
-an attempt which because of interactions between his
-"sources" I am inclined to consider too ambitious-
-used his estimates also for explaining what results he
-would obtain by a method much more similar to that of
-Kendrick and of other investigators. It turns out that
-from the period 1909-29 to 1929-47 he would obtain a
-45 percent rise of the rate of productivity-increase. See
-Edward F. Denison, pp. 148-49.
-27 If progress were limited to a brief interval, then
-not merely the "bulk" but, for practical purposes, all of
-the cost-item entered for increased per-capita education
-would have to be deducted on the benefit-side of the
-ledger. The increase in per capita output resulting
-merely from, say, a 2 percent yearly increase of the
-capital-labor ratio "at a given level of technology"
-would require a negligible correction of the kind de-
-scribed in the text. But if we consider a very long se-
-quence of periods with technological progress and as-
-sume, say a 2 percent yearly increase in per capita out-
-put then, with a 10 percent discount rate, roughly  four-fifths (or a shade less) of the cost-item entered for
-increased per capita education should be deducted on  the benefit-side. I will in fact deduct about four-fifths,
-with some rounding where this is called for (see fn. 40,  for the calculation of the 1966 and the 1953 yield).
 
 
 ### ---Economics-1970-0-15.txt---
@@ -2378,13 +2135,7 @@ opens up a large number of dimensions of
 potential improvement. In another study
 I found strong indications that the results
 of learning-by-doing are significantly in-
-fluenced by differences in the available  28 See Zvi Griliches and Dale Jorgensen.
-29 Looking at the matter in this fashion is of course
-compatible with using models that represent progress
-as the "augmentation" of inputs. Indeed, models of
-this sort usually draw a sharp distinction between "in-
-puts measured in physical units" and "inputs measured
-in (augmented) efficiency units."
+fluenced by differences in the available
 
 
 ### ---Economics-1970-0-17.txt---
@@ -2453,38 +2204,6 @@ accompanying the rise of social costs is
 smaller than in the types of activity mostly
 referred to when the nature of the transfer-
 rent problem is illustrated.33
-30 See my "Specific Interpretations of Learning by
-Doing."
-81 The numerical statements in this section will be
-based on National Science Foundation (NSF) data for
-recorded R & D, and on data of the Department of
-Health, Education and Welfare (HEW) for education
-expenditures, except that Fritz Machlup's book, to
-which reference will be made in the section, was used
-for broadening the concept of education costs much
-beyond the HEW coverage.
-The reader will find the relevant NSF data in the
-periodically appearing NSF publications listed in the
-Reference section.
-See References also for the IIEW data.  32 In 1953 the private GNP was $332.7 billions (the
-total GNP $364.6 billions), in 1966 the private GNP
-was $671.1 billions (the total $747.6 billions).
-Kendrick's productivity increases are measured
-merely for the private domestic output, but when ex-
-pressed in terms of proportions the difference between
-"private domestic" and "private" is exceedingly small.  Also, for recent periods there is a strong presumption
-that those parts of the foreign economies from which
-domestic income is derived have greatly benefited from
-our domestic progress-generating activities, and that
-these foreign sectors have shown a productivity-in-
-crease at least as great as that of the corresponding
-domestic sectors.
-33 In the typical illustrations, transfers from one sec-
-tor to another create rents because, given a homogeneous
-labor force in the favored sectors, all workers of these
-sectors must be paid the higher wages which only some
-could earn in the occupations from which workers are
-becoming diverted. I conjecture that where the pro-
 
 
 ### ---Economics-1970-0-18.txt---
@@ -2572,13 +2291,6 @@ broadened sense as "recorded." Many of
 the unrecorded costs, including obsoles-
 cense itself, fall in the category which in
 Section I, I called costs of changeovers to
-gress-sectors are the favored ones the significance of  this phenomenon is reduced by the fact that the labor  force of research establishments is far from homogene-  ous. The reason why a high proportion of these workers
-is facing increasingly favorable market conditions is  that a high proportion is gradually improving its qualifi-  cations which are getting to be considered increasingly
-valuable also in other occupations.
-34 See the concluding part of Section III.
-36 The appropriate discount rate is obviously in excess
-of the growth rate of the output base.
-
 
 ### ---Economics-1970-0-19.txt---
 new methods. Their weight is substantial,
@@ -2667,14 +2379,6 @@ have been a proxy for a higher NNP.
 Experts have repeatedly expressed the
 view that practically all of the capital
 consumption and replacement, which cor-
-Bf To be precise, the method "nets out" obsolescence
-automatically only to the extent that, from the base
-period to the period with which it is compared, ob-
-solescence may have increased in relation to the output-
-base.
-37 The same is true also of obsolescence in the public
-sector. This is perhaps best regarded as one of the social  costs of progress in the private sector (but the quantita-  tive importance of how this item is interpreted is very
-small for our purpose).
 
 
 ### ---Economics-1970-0-20.txt---
@@ -2743,34 +2447,7 @@ build much on this figure.
 obsolescence-cost of progress would be
 obtained by charging to progress the
 entire capital-consumption-i.e., about 12
-percent of private GNP-and by adding 2  38 From 1919 to 1955 Kuznets' capital consumption
-allowances move in the range from 10.9 to 15.1 in rela-
-tion to GNP (constant prices); at the beginning and
-also at the end of the period the figure was almost pre-
-cisely in the middle of the range. This implies Kuznets'
-Variant III of output. Using other Variants of Kuznets,
-wider ranges are found for movements of the deprecia-
-tion ratio in the region above 10 percent. See Kuznets'
-Appendix A, Table R-2, p. 487.
-The capital-consumption ratio implied in the Capital
-Stock Study of the U.S. Department of Commerce,
-Office of Business Economics seems to be somewhat
-smaller than Kuznets', but also typically somewhat
-higher than 10 percent. See for this e.g. Robert C. Was-
-son's articles in the Survey of Current Business, particu-
-larly in the December 1966 and in the February 1969
-issue. However, proper interpretation of the relation-
-ships here considered requires also use of computer
-output available from Mr. Wasson's office. My evalua-
-tion implies a reasonable "blowing up" of the Commerce
-Capital Stock Study depreciation figures, in view of the
-fact that the figures of the Study relate only to the
-business sector including farms, i.e., exclude the resi-
-dential sector as well as general government. I was using
-the Capital Stock Study's straight-line depreciation
-estimates and was using them on "Cost 1" basis. This
-cost-basis makes the method of deflating comparable to
-that applied to the Commerce estimates of the GNP.  39 Any hypothesis of this kind has the realistic impli-  cation that in a progressive economy the "representa-  tive" physical asset is produced in such a way as to be  in some sense "too durable." This has several reasons,  one of which presumably is that lack of durability is  not the only unfavorable property of a "flimsy object."
+percent of private GNP-and by adding 2
 
 
 ### ---Economics-1970-0-21.txt---
@@ -2826,52 +2503,7 @@ corded costs, we would obtain a 31 percent
 rate of return on the all-inclusive cost-base,
 and a 55 percent rate on the reduced cost-
 base. These particular charges rest on
-0 (a) 1966, all-inclusive cost-base, 4 percent of private
-GNP charged for unrecorded costs. Recorded total R&D,
-as a proportion of private GNP: 3.3 percent (all other
-data will also be expressed in relation to this output
-measure). Cost of increased per capita education: 0.5
-percent. Annual rate of productivity-increase: 2.8 per-
-cent, which becomes reduced to 2.4 percent when the
-bulk of the foregoing education item is deducted (see
-Section IV, 1). Since 3.8+4.0=7.8, and since 2.4 *. 7.8
-=0.31, the resulting rate of return is 31 percent. For
-1966 this rate and that presented in (c) below, bound
-the range defined in Section II when the charge is
-4 percent.  (b) Same as (a) except with the clearly excessive charge
-of 14 percent instead of 4 percent (see last paragraph of
-Section V). The resulting rate of return is 13 percent.
-For 1966 this rate and that presented in (d) bound the
-range defined in Section II when the charge is 14  percent.  (c) 1966, reduced cost-base, with 4 percent charge. We
-enter 1.1 percent for the recorded R &D. Since 1.1+4.0
-=5.1, and since 2.8-5.1=0.55, the resulting rate of
-return is 55 percent. See last sentence in (a).
-(d) Same as (c) except wtth 14 percent charge. The
-resulting rate is 18 percent. See the last sentence in (b).  (e) 1953, all inclusive cost-base, with 4 percent charge.
-Recorded total R &D: 1.6 percent. Cost of increased
-per capita education: 0.3 percent. Productivity-increase
-2.8 percent which becomes reduced to 2.55 percent
-when the bulk of the foregoing education item is de-
-ducted. Since 1.9+4=5.9, and since 2.55?.5.9=0.43,
-the resulting rate of return is 43 percent. For 1953 this
-rate and that presented in (g) bound the range defined
-in Section II when the charge is 4 percent.
-(f) Same as (e), except with 14 percent charge. The re-
-sulting rate of return is 16 percent. For 1953 this rate
-and that presented in (h) bound the range defined in
-Section II when the charge is 14 percent.  (g) 1953, reduced cost-base, uwth 4 percent charge. The
-resulting rate of return is 60 percent. See last sentence
-in (e).
-(h) Same as (g), except with 14 percent charge. The re-
-sulting rate of return is 19 percent. See last sentence
-in (f).
-The lowest rate in this listing is that in (b) above. As
-for the "corresponding" rate obtained in the alternative
-framework outlined at the outset of Section III, see fn. 21.
-41 By using the 2.6 percent figure we would reduce the
-lowest of the rates listed in the preceding footnote (i.e.,
-the rate there presented in paragraph (b)) from 13 per-
-cent to 12 percent.
+
 
 
 ### ---Economics-1970-0-22.txt---
@@ -2949,31 +2581,6 @@ make little difference, because such a
 modification would call at the same time
 for a small increase of our charge for the
 unrecorded costs.42
-42 I assumed a 2.8 percent rate of increase of factor
-productivity for the entire period 1948-66. This is in
-accordance with the Kendrick estimates when the favor-
-able productivity-effects of intersector (intergroup)
-shifts are included. On this basis there was no increase
-from 1948-57 to 1957-66. However, if the effect of these
-shifts is excluded, then from 1948-57 to 1957-66 a rise
-is observed from a rate of increase of 2.3 percent to a
-rate of 2.6 percent. Furthermore, even the first of these
-two types of measure of productivity-increase rose from
-the period 1929-48 to 1948-66 (it rose from 2.6 percent
-to 2.8 percent), and it may be argued that this rise has
-resulted in part from the post-1953 increase in progress-  inputs.
-When comparing 1966 with 1953 I took no account
-of any such increase on the benefit-side of the ledger. I
-also used the same percentage allowance in relation to
-private GNP for the unrecorded costs of 1966 as for
-those of 1953, since there exists a general presumption
-that these costs tend to move in proportion to the rate
-of progress. During these particular thirteen years there
-may conceivably have occurred a somewhat more than
-proportionate increase in specific costs appearing in the
-list of Appendix C. One may be led to suspect this for
-example because of the increase of the white-colla
-proportion of the labor force. On the other hand, the
 
 
 ### ---Economics-1970-0-23.txt---
@@ -3048,15 +2655,7 @@ this paper has been moving individual
 valuations become submerged in compro-
 mise rather than become validated at the
 margin by means of purchase, sale and
-production.45 This is why I have so far  weight of the unrecorded research inputs listed in (6)
-of the same Appendix is likely to have declined.  43 From 1953 to 1966 the full-time-equivalent number  of R & D scientists and engineers rose from about 225,000  to about 520,000, and as a proportion of civilian employ-  ment it rose from four-tenths of one percent to seven-  tenths of one percent. At the same time the salaries of
-the R & D scientists and engineers rose appreciably in
-relation to wages and salaries in the economy at large.
-The sample-data available on this change in the wage-
-salary structure point to a relative salary-increase of  roughly 20 percent in favor of R & D scientists and en-  gineers. This does not appear to be very different from  the relative salary change in favor of scientists and en-  gineers in general, including those employed in R & D;  proportionate representation of scientists and engineers  in the employed labor force rose during our period by  slightly more than 50 percent of their 1953 proportion
-and in 1966 their number was about 1,500,000, i.e.,  about 3 times that of the R & D scientists and engineers.  44See Kenneth J. Arrow. See also my study of learn-
-ing by doing, August 1969.  " As was pointed out before, the teaching sector does  offer some room for such marginal equilization, but  only in a very limited way because even where a price  is charged, resource-use by teaching institutions results  very largely from political or quasi-political decisions.
-See second paragraph of Section IL.
+production.45 This is why I have so far
 
 
 ### ---Economics-1970-0-24.txt---
@@ -3132,30 +2731,6 @@ tax corporate profit-rates, a fact which is
 worth noting even though no comparabil-
 ity is claimed for our rates of return with
 accounting profits.47
-46 A rough estimate of the rate in question, which is
-obtained by way of multiplying the ratio of yearly out-
-put to the capital stock by the share of reproducible
-capital in income, points to less than 10 percent. See
-Section II.
-47 The published corporate profit rates (which are
-related to the book value of equity) are of course private  rather than social rates. This would not make too much
-difference if the private rates were rates "at a given
-level of technological knowledge" but in reality they
-are earned partly on private progress-generating inputs  which do not enter into the book value. Also, in contrast
-to our "real" rates these corporate rates are money
-rates earned in large part on equity such as has been  paid up or accumulated in much earlier years than those
-in which the profits were earned. There are several
-further reasons for noncomparability. On balance there
-exists a strong presumption that the corporate rates on
-book value are considerably higher than the real rates
-on physical investment. The published pre-tax profit
-rate on the book value of American manufacturing
-corporations as a whole has of late been about 20 per-
-cent, and even this is less than the rates of progress-
-return to which our calculations in the text point.
-Again with no claim to comparability, it may be added  that the earnings-rate on the market value of Standard
-and Poor's common-stock sample (not wholly limited
-to manufacturing) is in the neighborhood of 6 percent,
 
 
 ### ---Economics-1970-0-25.txt---
@@ -3191,494 +2766,21 @@ propensity to reach compromises can be
 increased by making the bargaining parties
 aware of the fact that the joint payoff on
 reaching agreement is high?
-APPENDIX A
-Relevant Properties of the Models Re-
-ferred to in Section I
-In the Cobb-Douglas model neutral dis-
-embodied progress48 expresses itself in an in-
-crease of the so-called Cobb-Douglas con-
-stant; hence in a growing economy the
-absolute contribution of once-achieved prog-
-ress will in the future be stepped up in
-proportion to increases of the output-base
-itself. As expressed in proportion to the out-
-put-base, the progress-generated increment
-will be a permanent flow at a constant rate.
-From a rate-of-return concept for knowl-
-edge-acquisition, one expects comparability
-in this regard with net output-increments
-attributable to permanently maintained
-additions to the physical capital stock "at a
-given level of knowledge." To the extent
-that increased labor inputs will be respons-
-ible for the future rise of the output-base in
-relation to which the progress-generated net
-addition to output develops, the Cobb-
-Douglas framework does indeed assure com-
-parability with physical investment in this
-regard. Not only the absolute contribution of
-present technological progress but also that of
-present physical investment at a given level
-of knowledge will be raised in proportion to
-output, because in the Cobb-Douglas frame-
-work the growth of the labor input (given the
-input of capital) raises total output and the
-average and the marginal produict of capital
-in identical proportions.
-On the other hand, to the extent that in a
-growing economy further capital formation
-will be responsible for the future rise of the
-output-base, there does not exist the same
-comparability of the progress-generating
-effort with physical investment. To this ex-
-tent any observed numerical ratio of progress-
-generated output-increments to the present
-cost of progress corresponds to a higher social
-yield than does the same numerical ratio of
-investment-generated output-increments to the
-cost of investment, provided we express the
-output-increments as well as the costs in
-proportion to the present output. This is be-
-cause future physical investment will not
-increase the absolute output-increment gen-
-erated by present physical investment while
-future physical investment will increase the
-absolute output-increment developing as a
-result of present technological progress. Yet
-on any realistic assumption concerning the
-relevant discount rates and the long-run
-trends in the supply of savings for capital
-formation, the resulting difference or non-
-comparability is small and it may be inter-
-preted as the equivalent of a small post-
-which is of course after corporate income tax and would
-correspond to a shade more than 10 percent before
-that tax.
-48 For the disembodiment implications, see Section
-IV, 2.
 
 
 ### ---Economics-1970-0-26.txt---
-ponement of the onset of the yield of the
-progress-generating activities.49 We will have
-to accept this noncomparability. This differ-
-ence is probably outweighed by another
-difference which our lagless approach will at
-first also neglect but for which we will have
-to make crude allowances subsequently. I
-mean the length of the gestation period
-elapsing between some of the progress-
-generating inputs and their industrial re-
-sults, as compared to the shorter gestation
-period for physical capital formation at a
-given level of technological knowledge.
-Our conclusions for the Cobb-Douglas
-model are valid also in the CES framework,
-provided we supplement the latter with a
-distributive-shares equilibrium mechanism
-and assume that the economy is moving in
-the neighborhood of that equilibrium (with
-pure labor-augmentation).50 In such a model,
-given degrees of now achieved labor-aug-
-mentation will in all future have to be
-multiplied by the same weight to give the
-proportionate rate of progress-generated net
-addition to output, and hence the propor-
-tionate output-increment will remain con-
-stant, as a permanent flow. From here on-
-i.e., concerning the comparison with phys-
-ical investment-the reasoning is the same
-as for the dynamic Cobb-Douglas model.
-For the relationship between these models
-and "reality," see my December 1967
-article in this Review to which I referred in
-Section I. See also Sections II and IV.
-APPENDIX B
-(see Section V)
-Explanation of Statements on
-Input-Trends
-1) The "Real-input" Versus the "Relative-
-value" Component of the Rise of Recorded
-R &- D.
-In Section V it was said that from 1953 to
-1966 total recorded R & D rose from $5.2
-billions, the equivalent of 1.6 percent of
-private GNP, to $22.2 billions, the equiv-
-alent of 3.3 percent. The industry-financed
-recorded R & D rose from $2.2 billions, the
-equivalent of 0.7 percent of private GNP, to
-$7.2 billions, the equivalent of 1.1 percent.
-How large is the "real" component of this
-increase?
-A. One way of trying to answer this ques-
-tion is to go through the following moves:
-a) We note that from 1953 to 1966 the
-number of R & D scientists and engineers,
-expressed in "full-time equivalents," rose
-about 2.3-fold (from about 225,000 to about
-520,000), and we now assume that the total
-real R & D input rose in the same propor-
-tion;
-b) since during this period real private
-GNP (in 1958 prices) rose by 62 percent, we
-consider that the "real" component of the
-increase would have raised the ratio of total
-R & D cost to private GNP by 42 percent of
-the initial ratio (i.e., 230. 162=142);
-c) since in fact this ratio rose not by 42
-percent but by 111 percent (from 1.57 to
-3.31 percent), the relative-valuation com-
-ponent raised it by 49 percent of the initial
-ratio;
-d) since for the industry-financed R & D
-the relative-valuation component was prob-
-ably similar (49 percent), and since the
-ratio of the industry-financed R & D to
-private GNP actually rose by 60 percent
-(from 0.67 to 1.07 percent), the "real" com-
-ponent raised this ratio by merely 7 percent.
-B. Another way of going about the matter
-would be to use Helen Milton's index as if it
-were an index of R & D input-prices-i.e.,
-of cost of research per unit of R & D input in
-general-though in reality it is an index of
-cost of research per research worker (in-
-cluding supporting personnel). Use of this
-index requires a small amount of extrapola-
-tion, because the index stops in 1965. How-
-ever with reasonable extrapolation this pro-
-cedure leads to the conclusion that the rela-
-tive-valuation component was somewhat
-larger than that estimated under A. The
-Milton index points to a doubling of cost-of-
-49 On the generous assumption of a 1 percent per
-annum increase of the output-base as a specific result
-of physical investment, and assuming a 10 percent dis-
-count rate, this noncomparability is the equivalent of a
-postponement of the onset of the yield of progress by
-roughly one year.
-50 In this framework the elasticity of substitution is
-smaller than one and hence labor-augmenting innova-
-tions are also labor-saving in Hicks's sense, though in
-shares-equilibrium the process is Harrod-neutral.
+
 
 
 ### ---Economics-1970-0-27.txt---
-research per worker from 1953 to 1966, while
-under A, we implied a 85 percent increase
-of the price of R & D input in general.6'
-With a 100 percent increase from 1953 to
-1966, the "real" component would have
-raised the ratio of total recorded R & D to
-private GNP by 31 percent of the initial
-value of the ratio, and the relative-valuation
-component would have raised it by 61 per-
-cent.52 This 61 percent increase, brought
-about by the relative-valuation component,
-would have explained the entire increase of
-the ratio of industry-financed recorded R & D
-to private GNP (indeed, the relative-valua-
-tion component would have negligibly over-
-explained the 60 percent increase, see A, d)).
-Both procedures-A and B-are crude,
-but it may be taken for granted that for the
-industry-financed R & D the "real" com-
-ponent was smaller than for total R & D.
-Indeed, for the industry-financed part the
-"real" component may have been negligible,
-though both our procedures are suspect of
-somewhat underestimating the "real" com-
-ponent because other R & D inputs probably
-rose in a higher proportion than R & D
-personnel.
-The foregoing relates to the period 1953 to
-1966. As for the pre-1953 decades, the re-
-cords are very incomplete. Vanevar Bush's
-estimates suggest that the undeflated value
-ratio of "total" research costs to private GNP
-trebled from 1930 to 1944. From Helen
-Milton's cost-of-research index and the De-
-partment of Commerce's GNP deflator, we
-may infer that changes in relative values are
-responsible for only a small part of the in-
-crease of the proportion in question, and that
-even if we excluded the relative-value com-
-ponent we would still obtain a 2.5-fold in-
-crease of the ratio of research cost to private
-GNP. This is for the period 1930-44 which
-constitutes merely part of the span from
-1929 to 1953. Judging by the data published
-by the U.S. Bureau of Labor Statistics in its
-1953 study of Scientific Research and Develop-
-ment in American Industry, the undeflated
-value-ratio seems to have increased by about
-50 percent of itself from 1944 to 1952, with
-the relative-value component accounting for
-merely 13 percent increase and the "real"
-component for an increase of more than 30
-percent.
-2) The Cost of Increased Per Capita Educa-
-tion.
-Turning to the per capita education in-
-puts, one would assume that even without
-their growth in physical terms, they would
-become partly adjusted to the requirements
-of distributing new knowledge, but it is a
-fact that these inputs have been growing
-appreciably throughout the decades under
-consideration. Denison obtained a con-
-tinuous and substantial increase over this
-period,53 and a different way of getting at the
-problem leads to similar results.A We may
-put the average rate at which real per capita
-education inputs have been rising at roughly
-2 percent; with a small upward adjustment
-for the value of education inputs in relation
-to other inputs we arrive at a rate of increase
-of between 2 percent and 3 percent. Teachers'
-salaries have recently been rising in relation
-51 An 85 percent increase would have raised the $5.210
-billions total R&D expenditure of the year 1953 to
-$9.638 billions; and 2.3 times this amount (see A, a)
-equals $22,167 billions. The 1966 R&D expenditure is
-estimated by NSF at $22.220 billions.
-62 This is instead of the 42 percent and 49 percent ob-
-tained for the two components, respectively, in A, b)
-and A, c).
-Is Denison estimated that the average number of
-days of school attendance rose by 18.4 percent from 1920
-to 1930; by 22.0 percent from 1930 to 1940; by 22.4
-percent from 1940 to 1950; and by 20.0 percent from
-1950 to 1960.
-54 If the rather narrowly defined HIEW class of "edu-
-cation expenditures" is deflated by teacher's salaries,
-and the deflated expenditures are related to the size of
-the school-age population of both sexes (ages 5 to 21),
-the input so approximated is found to have risen by
-25 percent per head of the relevant segment of the
-population from 1920 to 1930; by 6 percent from 1930
-to 1940; by 33 percent from 1940 to 1950; by 14 percent
-from 1950 to 1960; and in a following period of merely
-five years' duration (1960 to 1965) by 10 percent. It so
-happens that this way of organizing the data leads to
-results not inconsistent with those of Denison from
-whose discussion one would also conclude-though on
-different grounds-that during these decades the aver-
-age member of the labor force of any year had received
-about 2 percent more school education than the average
-member of the labor force a year earlier. In view of sub-
-stantial differences in method, only rough correspon-
-dence can be expected with Denison's findings, but this
-is obtained.
+
 
 
 ### ---Economics-1970-0-28.txt---
-to average incomes in the economy, though
-this is not true of all periods considered in
-this paper.
-The question now arises as to the propor-
-tion of the private GNP to which this "2
-percent to 3 percent increase" corresponds.
-For 1953, HEW estimates its narrowly
-defined "educatonal expenditures" at an
-amount corresponding to 4 percent of the
-private GNP; for 1966 the same figure comes
-out at 6.8 percent. On the basis of Machlup's
-estimates for the second half of the 'fifties-
-estimates involving a few deductions from
-the HEW figures and a good many addi-
-tions-the 4 percent and the 6.8 percent need
-to be multiplied by a factor of about 2.8 in
-order to arrive at education (knowledge-
-distribution) costs in the broad sense, the
-concept which is relevant from our point of
-view.55 We arrive at 11 percent for 1953 and
-19 percent for 1966. The text in Section V
-implies that "between 2 percent and 3 per-
-cent of 11 percent" may be regarded as 0.3
-percent, and that "between 2 percent and
-3 percent of 19 percent" may be regarded as
-0.5 percent.
-Using R & D statistics and education
-statistics additively is apt to lead to some
-amount of double-counting (the accounts are
-hardly kept with such consistency as to
-exclude this), but "imprecision" of the
-figure of 0.3 percent or of 0.5 percent result-
-ing from this and from other reasons is very
-unlikely to affect the calculations presented
-in the paper.
-APPENDIX C
-(see Section V)
-Listing the Unrecorded Costs of
-Technological Progress
-1) Obsolescence of capital goods, as con-
-ventionally defined (i.e., including residen-
-tial buildings).
-2) Obsolescence of durable consumer
-goods as conventionally defined (i.e., ex-
-cluding residential buildings). This would be
-a weighty item but it is a questionable candi-
-date for inclusion because of the understate-
-ment of the quality-improvement of con-
-sumer goods in the productivity statistics.
-3) Expenditures on R & D plant. These
-are not included in the "recorded R & D"
-figures of the paper, though incomplete
-numerical information is available on them.
-In some years the item may have corre-
-sponded to as much as 0.3 percent of private
-GN1P.
-4) "Technological" unemployment and
-underemployment. This is a doubtful item in
-the present context because it raises the
-question of the limitations of full-employ-
-ment policies given alternative rates of
-technological progress. In some countries
-with a high rate of progress unemployment
-is exceedingly low.
-5) The abandonment of methods of pro-
-duction which would remain associated with
-further learning by doing. This presumably
-is a small item because with given facilities
-and for givent models learning by doing tapers
-off rapidly and the methods that are aban--
-doned are usually the relatively old ones.
-6) Unrecorded research workers with
-essentially the same characteristics as those
-66 See pp. 103 ff. in Machlup's book, the reference to
-which is found in Section V, supra; and cf also p. 83
-in Machlup, op. cit.
-Two remarks need to be added here. (1) The multi-
-plier must have been different for different years but
-this can hardly have had an appreciable effect on the
-figure we are using in our yield-estimates for progress-
-generating inputs as a whole. (2) For our purpose some
-minor items should be omitted from those listed by
-Machlup on pp. 104-105 of op. cit., but on the other
-hand, some roughly equivalent items should be added
-which Machlup interprets as knowledge expenditures
-but not as education costs and which he therefore does
-not list on pp. 104-105. For my purpose I omit from
-his education items the cost of tax-exemptions and the
-basic-training component of his military education-
-expenditures; and I replace these with the cost of books,
-periodicals and newspapers valued at prices charged to
-consumers (so valued because advertising expenditures
-do not belong in the field of our present concern).
-Machlup, when relating education costs to GNP adds
-to measured GNP some items which he rightly regards
-as education costs but which are not included in the
-conventionally measured GNP. This I have not done,
-because for the present purpose, all costs should be
-related to the same output-base to which the measured
-productivity-increases are related.
-The largest item included in Machlup's list but not
-in the HEW education expenditures consists of the
-earnings foregone by students and by the mothers of
-pre-school children.
+
 
 
 ### ---Economics-1970-0-29.txt---
-recorded, but who for various reasons have
-not become included. Among these we have
-inter alia the "independent" inventors
-whose role in the innovating process remains
-important yet whose weight for our cost
-calculus is small." Another group of con-
-.siderable importance but of small weight for
-the present purpose consists of those engaged
-in market research, quality-control, and
-product-testing (these are not included in the
-R & D statistics).
-The weight of some of the subcategories in
-item 6) has probably increased and that of
-others decreased over the past decades. The
-weight of those who have remained un-
-recorded merely becauise of the technical
-deficiencies or recording procedures must
-have somewhat decreased even if we com-
-pare the mid-fifties with the present.
-7) Last but not least, the entrepreneurial
-input and its clerical complement, inter-
-preted as the input required for preparing
-and making the top decisions on techno-
-logical and organization change. This is
-obviously an 'elusive' item and one of small
-weight in the present context, though of
-crucial significance.
-APPENDIX D
-(see Section VI)
-Reminder of Controversial Structural
-Problems in the Area of R & D-Policy
-Somewhat more than 30 percent of the
-Federal R & D obligations for the fiscal year
-1966 were those of NASA; about 45 percent
-consisted of those of the Defense Department
-(this undoubtedly included items not directly
-related to military objectives in the narrower
-sense); between 5 percent and 10 percent
-were obligations of the Atomic Energy
-Commission; and between 5 percent and 10
-percent those of HEW, mainly for public
-health. Neither the main part of this paper
-nor the present Appendix contains detailed
-numerical information for the past three
-years because the preliminary data for these
-years are apt to become revised; the reader
-should therefore be reminded of the fact that
-in 1966 space research reached a peak,
-though it has been a very weighty item of the
-government's R & D budget for the decade
-of the sixties as a whole. On my own list of
-priorities space exploration stands high and
-I value the Giant Leap of July 20, 1969 ac-
-cordingly. But one should not pretend to
-express a professional judgment as an
-economist when attaching values to alterna-
-tive amounts so allocated.
-From 1953 to 1966 about two-thirds of the
-total recorded R & D was financed by the
-Federal government."7 Industry performed
-about 70 percent of the total recorded R & D,
-while the remaining 30 percent was per-
-formed by the government itself and by
-other nonprofit institutions, including uni-
-versities. The large discrepancy between the
-public-to-private ratio in financinzg, on the
-one hand, and in performance on the other,
-reflects the circumstances that the Federal
-government has typically financed about
-55 percent of the R & D which was per-
-formed by industry (less in the first few
-years of the period 1953-1966, and slightly
-less also after 1966).
-The typical share of Aircraft and Missiles
-in the total R & D performed by industry has
-been one-third or more, and the share of
-Electrical Equipment and Communication
-about one-fourth. This adds up to nearly
-60 percent for the two leading performers
-among the industries. If we add Chemicals
-and Allied Products, Machinery (other than
-electrical), and Motor Vehicles-each of
-these three with shares falling somewhat
-short of 10 percent- we are up to about 85
-percent of the total, for five "industries" as
-defined by the NSF.58
-86 See John Jewkes, David Sawers, and Richard
-Stillerman.
-In the beginning of the period the government  financed less than two-thirds, and after 1966 somewha'  less.
-58 In a sense it is more revealing to add Petroleum
-Refining and Extraction and Professional and Scientific
-Instruments to the five leaders (which raises the joint
-share of the "leaders" so extended to somewhat more
-than 90 percent), because if we rank the industries by
-R&D in relation to Value Added, then these two indus-
-tries are in the same range as the lower two of the top  five. The seven leaders produce almost 17 percent of the
-U.S. national income.
-We should note that the individual "industries"
-distinguished by the NSF are sometimes composites of
 
 
 ### ---Economics-1970-0-30.txt---
@@ -4797,13 +3899,6 @@ lowers labor's marginal productivity. In
 any case, the test question is whether with
 full information about the two alterna-
 tives labor would accept the second one-
-2 Phillips himself is not a prophet of the doctrine asso-
-ciated with his curve. His 1958 article was probably the
-most influential macro-economic paper of the last
-quarter century. But Phillips simply presented some  striking empirical findings, which others have replicated
-many times for many economies. He is not responsible
-for the theories and policy conclusions his findings
-stimulated.
 
 
 ### ---Economics-1972-0-07.txt---
@@ -5191,7 +4286,6 @@ vacancies are suboptimal.
 In summary, labor markets charac-
 terized by 5-6 percent unemployment do
 not display the symptoms one would ex-
-I See Lucas and Rapping, pp. 257-305, in Phelps et al.
 
 
 ### ---Economics-1972-0-11.txt---
@@ -6360,13 +5454,6 @@ view) socially damaging inflation or, more
 often, a combination of the two. The ex-
 treme failure has been, not surprisingly,
 in the most advanced industrial country,
-1 It will be observed that performance in agriculture,
-an industry in which the firm has little market power,
-is not adverse. But it should also be observed that in no
-industry has power over prices been more completely
-removed to public authority or is there greater effort at
-collective control of costs or a more comprehensive
-socialization of technology.
 
 
 ### ---Economics-1973-0-06.txt---
@@ -8266,13 +7353,6 @@ Johnson (1973)).
 What accounts for this? Part of it, one
 can unblushingly say, is simply that so
 many competent, tough, and rigorously
-I Among those who have sprung to the defense with
-varying degrees of fervor are Harry Johnson (1968),
-Donald MacDougall, Charles Schultze (1972), Robert
-Solow (1970, 1971), and James Tobin (1973, 1974). For
-more general appraisals of the criticisms and the state
-of economics, see Blackman and Nancy Ruggles.
-
 
 ### ---Economics-1975-0-06.txt---
 trained minds have been drawn into eco-
@@ -9403,17 +8483,6 @@ Leontief scolds macroeconomists more
 generally: "There is a lot of fancy meth-
 odology, but the macroeconomists get
 indigestion if you give them facts."
-I As an example of the "Age of Quantification,"
-George Stigler cites the sea of studies on regulatory
-practices and their costs and benefits in the past dozen
-years, where there was a vacuum before. He notes that
-thirty-six "quantitative studies of effects of laws" were
-reported in two journals alone during this period, the
-Joutrnal of Law and Economics and the Journal of
-Political Economy. These are promoting a broader
-consensus within the profession, informing decision
-makers, and posing challenges that will make policy
-failures easier to identify. (Personal correspondence.)
 
 
 ### ---Economics-1975-0-18.txt---
@@ -9585,31 +8654,6 @@ boards on this problem of endemic infla-
 tion. In a close parallel with research on
 cancer, economists are working on various
 pieces of the inflation puzzle and produc-
-I As gauges of the contrast between prewar and post-
-war performance: unemployment averaged 18.8 per-
-cent in the decade of depression (1931-40) in contrast
-with 4.8 percent in the twenty-eight years since World
-War II; the prewar peak annual rate was 24.9 percent,
-the postwar peak was 6.8 percent. Annual real GNP
-dropped 30 percent from 1929 to 1933; since the war,
-mild declines have occurred only in three years (1949,
-1954, and 1970), though 1974-75 may add two more.
-Consumer prices in 1940 were 18 percent below 1929;
-from 1948 to 1974, they increased 106 percent.
-6 Macroeconomists were not alone in their exuber-
-ance in the mid-1960's. On this rostrum a decade ago,
-George Stigler, after reviewing the great promises and
-early accomplishments of the "Quantitative Revolu-
-tion in Economics," was moved to say, "I am convinced
-that economics is finally at the threshold of its Golden
-Age-nay, we already have one foot through the door.
-... Our expanding theoretical and empirical studies
-will inevitably and irresistibly enter into the subject of
-public policy, and we shall develop a body of knowl-
-edge essential to intelligent policy formulation. And
-then, quite frankly, I hope that we become the orna-
-ments of democratic society whose opinions on economic
-policy shall prevail."
 
 
 ### ---Economics-1975-0-20.txt---
@@ -9898,10 +8942,6 @@ ports or investment goods had important
 implications for demand-management pol-
 icy-implications that were ignored until
 severe recession was full upon us.7
-I Late in 1974, Perry undertook a more searching
-econometric probe with the benefit of actual rather than
-projected oil price data and with the aid of the large
-
 
 ### ---Economics-1975-0-23.txt---
 These important insights into the
@@ -9985,19 +9025,7 @@ in a remarkable four-year period of price
 stability from 1952 to 1956.
 A closely allied economic insight goes to
 the nature of the inflationary process. It
-scale formal models. His analysis shows that the pur-
-chasing power loss had reached $37 billion (annual rate)
-by the third quarter of 1974 and that the rise in the
-deflator attributable to the oil price jump was 3.8 per-
-cent. His analysis embraced not only the real-income
-effect (the transfer of real income from consumers to
-producers), but also the monetary-policy effect (the
-reduction of the real value of the money stock and the
-rise in interest rates stemming from the highly inelastic
-short-run demand for petroleum products), the auto-
-mobile-demand effect (higher saving), and the induced-
-inflation effect (the price-wage-price effect) of the oil
-price rise on the macroeconomy.
+
 
 
 ### ---Economics-1975-0-24.txt---
@@ -10475,17 +9503,7 @@ ernment department) for which mathe-
 matical tools, including programming and
 the whole range of activity analysis, have
 proved to be useful. To some extent, how-
-I This has led Leontief to expostulate: "Seldom, in
-modern positive science, has so elaborate a theoretical
-structure been erected on so narrow and shallow a
-factual foundation" (1966, p. 33). Compare also Nicho-
-las Kaldor, p. 1240, and Martin Shubik (1970).
-I For a careful and judicious defense of theoretical
-models, see Koopman's second essay. He also adds:
-"Precision and rigor in the statement of premises and
-proofs can be expected to have a sobering effect on our
-beliefs about the reach of the propositions we have de-
-veloped" (p. 147).
+
 
 
 ### ---Economics-1976-0-05.txt---
@@ -10658,34 +9676,6 @@ has seemed too difficult.
 I should add in this connection that neo-
 classical economics has always had a nor-
 mative slant. As others have suggested,
-I In the second edition of Human Capital, pp. 94-144,
-Becker republishes his earlier attempt to utilize the
-human capital approach to sketch out a theory of per-  sonal income distributioin. See also Jacob Mincer.
-6 On the various approaches to the study of the dis-
-tribution of income, see the useful volumes by Martin
-Bronfenbrenner and Jan Pen. Interestingly, some  three-quarters or more of Bronfenbrenner's book is de-  voted to the functional distribution of income; only one
-chapter is devoted entirely to "Topics in Personal In-
-come Distribution." Yet one reviewer criticized him, as
-well as Pen, for devoting too much space "to the dis-
-tributional influence of institutional forces and to the
-personal, as against functional, distribution of income"
-(Charles E. Ferguson, p. 440). Pen's volume contains
-a useful summary of the more important recent liter-
-ature on the determinants of the personal distribution
-of income; and, interestingly, his longest chapter is
-concerned with "norms and policies" for income re-
-distribution.
-7 Compare Arthur Okun (1973, pp. 237-46) and
-Michael Wachter and the references there cited. Cairnes
-and Marshall, of course, did talk about noncompeting
-groups, but little of this has carried over into the main
-body of current economic theory.
-8 One who has recently earned his salary is Okun
-(1975); see also James E. Meade and Alan Blinder. An
-earlier example of an economist who "bucked the
-trend" to discuss the personal distribution of income and
-wealth was Hugh Dalton.
-
 
 ### ---Economics-1976-0-07.txt---
 conventional micro-economic theory as it
@@ -10778,10 +9768,7 @@ tion I might cite much of the recent litera-
 ture on capital theory.
 II
 I turn now from the first part of my title
-to the second from rigor and relevance to  9 Marxian critics might add that the normative stance
-results from ideological bias.  10 To say this is not to minimize the contributions of
-Keynes' predecessors, particularly Wicksell.
-
+to the second from rigor and relevance to
 
 ### ---Economics-1976-0-08.txt---
 the fact that we live in a world that is con-
@@ -10867,17 +9854,6 @@ analysis and to setting forth the conditions
 of Pareto optimality. And for this the as-
 sumption of perfect competition was con-
 venient if not essential. As William Baumol
-11 There are, of course, a fair number of economists
-who consider themselves to be in the American institu-
-tionalist tradition. They are likely to belong to the
-Association for Evolutionary Economics, which has its
-own journal, but thus far they have had little influence
-on the main trends in theoretical and applied work in
-economics.  12 See also Schumpeter (1954, pp. 972 ff).  13 See, for example, the papers by Paul Joskow and
-Martin Shubik in last year's Papers and Proceedings of
-the American Economic Association. See also Shubik
-(1970, p. 415), who bluntly declares: "There is no
-oligopoly theory."
 
 
 ### ---Economics-1976-0-09.txt---
@@ -10948,40 +9924,7 @@ planning responds to current and prospec-
 tive developments in product and finan-
 cial markets? And there are other examples
 of the same sort. Early work not only in
-14 Kenneth Arrow (1971) has since attempted to fit
-into general equilibrium analysis the case in which there
-are both monopolistic and competitive firms. I should
-say that this exercise was characterized more by rigor
-than by relevance.
-15 I am speaking here only of the persistence of the
-assumption of perfect competition in theoretical work
-regardless of the changes to which I refer. This is not to
-deny that useful theoretical work has been done in
-some of these problem areas.
-At this point, I cannot refrain from quoting Arrow:
-"The prestige status of the purest of pure economic
-theory has never been higher; and yet there is now
-as there has always been, a pervasive skepticism about
-the descriptive power and normative utility of Wal-
-rasian and other varieties of the theory of general
-competitive equilibrium" (1967, p. 733).  16 Here I emphasize decision making in the large firm.
-Much of the recent theoretical work on decision making
-under uncertainty has taken place in an institutional
-vacuum and is presumably applicable to small as well
-as to very large decision-making units. On the other
-hand, what is conventionally referred to as organization
-theory generally addresses itself to the relatively large
-organization. For an innovative attempt to develop a
-theory of economic behavior for the large firm, see
-Robin Marris (1964). In this context, reference should
-also be made to the work of Richard Cyert, James
-March, Herbert Simon, and their students at Carnegie-
-Mellon.
-17 For a survey of some of the relevant recent litera-
-ture with an emphasis on the institutional setting for
-decision making, see Eirik Furubotn and Svetozar
-Pejovich. The issues raised here are also emphasized by
-Galbraith.
+
 
 
 ### ---Economics-1976-0-10.txt---
@@ -11171,9 +10114,7 @@ economic behavior that would take ap-
 propriate account of the main lines of in-
 stitutional change" (p. 146).19 Schumpeter
 (1947) came closer in this century to pro-
-18 Work has been done in some of these areas, but this
-work has largely lacked a time dimension.  19 The next several paragraphs borrow heavily from
-pp. 138-42 of this paper.
+
 
 
 ### ---Economics-1976-0-12.txt---
@@ -11261,8 +10202,7 @@ households and suppliers of input services
 to producing units (which may be govern-
 mental as well as private), but they are also
 part of a political process which, while
-20 Lance Davis and Douglass North have recently set  forth a tentative and limited "theory of institutional  change" and have applied the resulting modcl to show  how a range of economic needs and opportunities have  led to new institutional arrangements in the American  economy. They are frank in setting forth some of the
-limitations of their model, and Lhere is a good deal in  their approach with which I should quarrel; but their  work is clearly a step in the right direction. Incidentally,  this particular approach to economic history tends to  run counter to the recent quantitative emphasis in that  field. Clearly we need to have both types of historical  work.
+
 
 
 ### ---Economics-1976-0-13.txt---
@@ -11352,8 +10292,7 @@ Europe or the United States. But at least
 let us try to construct a model of the sort
 I suggest that will have something to say
 about the evolution and future of the kind
-of economy and society in which we live.  21 My emphasis on pressure groups is, of course,  much more pluralistic than the Marxist analysis in  terms of classes and class conflict. One can synthesize  the two approaches by sorting the pressure groups into  (two or more) broad classes. But I think that we have to  start with the pressure groups if we want to study the  functioning of markets and the dynamic interaction  between the private sector and government.
-
+of economy and society in which we live. 
 
 ### ---Economics-1976-0-14.txt---
 Sketchy as it is, and it is certainly
@@ -11444,9 +10383,6 @@ possible," and not "rigor regardless of
 relevance." And let us not be afraid to ask
 -and to try to answer the really big
 questions.
-22 Which leads at least this observer to wonder how
-compatible are democracy and capitalism in an under-
-developed country whose aspirations are rising much  faster than its means to satisfy them.
 
 
 ### ---Economics-1976-0-15.txt---
@@ -12083,26 +11019,7 @@ ducing wages to generate enough quits, but by
 firing or, when possible, by layoffs which insure
 access to a trained labor force when demand
 recovers. More generally, the inducement to
-'Thus, in a logarithmic regression of private nonfarm
-hourly compensation deflated by the private nonfarimi
-deflator on output per man-hour, time, and private nonfarm
-employment, after correcting for first-order serial correla-
-tion, the latter variable has a coefficient of . 17 and a t-ratio
-of 5. Similar though less significant results were found for
-manufacturing. If employment is replaced by the change in
-nominal compensation, its coefficient is .40 with a t-ratio of
-6.5. Finally, if the change in compensation is replaced by
-the change in price, despite the negative bias from error
-of measurement of price, the coefficient of this variable is
-only - .09 with an entirely insignificant t-ratio of .7. The
-period after 1 973 has been omitted from the tests as irrelevant  for our purposes, since the inflation was driven primnarily by
-an exogenous price shock rather than by excess demand. As a
-result of the shock, prices, and to some extent wages, rose
-rapidly while employment and real wages fell. Thus, the
-addition of the last two years tends to increase spuriously the
-positive association between real wages and employment,
-and to decrease that between real wages and the change in
-inominal wages or prices.
+
 
 
 ### ---Economics-1977-0-10.txt---
@@ -12394,12 +11311,7 @@ this test with equations estimated through the
 first half of the postwar period, and the results
 are, if anything, even more one-sided.
 The moral of the story is pretty clear. First,
-2For the purpose of the test, coefficients were scaled
-down by one-third to allow for certain major biases in
-measured government expenditure for present purposes
-(mainly the treatment of military procurement on a delivery
-rather than work progress basis, and the inclusion of direct
-military expenditure abroad).
+
 
 
 ### ---Economics-1977-0-13.txt---
@@ -12679,15 +11591,6 @@ countries which have made use of stabilization
 policies; at any rate that was the prevailing view
 among participants to an international confer-
 ence held in 1967 on the subject, "Is the busi-
-3Friedman's logical argument against stabilization pol-
-icies and in favor of a constant money growth rule is, I  submit, much like arguing to a man from St. Paul wishing to
-go to New Orleans on important business that he would be a
-fool to drive and should instead get himself a tub and drift
-down the Mississippi: that way he can be pretty sure that the  current will eventually get him to his destination; whereas, if  he drives, he might make a wrong turn and, before he notices
-he will be going further and further away from his destination
-and pretty soon he may end up in Alaska, where he will
-surely catch pneumonia and he may never get to New
-Orleans!
 
 
 ### ---Economics-1977-0-16.txt---
@@ -13799,25 +12702,7 @@ each of the three topics a recent study has
 
 
 ### ---Economics-1979-0-04.txt---
-TABLE 1-ISSUES AND METHODS IN ESTIMATING BENEFITS AND COSTS
-Estimation From
-Prod uc-
-Measures of Value tion
-Process
-Health and other Market
-and Technical Behav- Dis- Uncer-
-Illustrative GNP Life Energy Data ior counting tainty
-Decisioni Problems (a) (b) (c) (d) (e) (f) (g)
-(I) Helium v V v
-Conservation
-(2) Technology Mix -X v V v
-ol Future Energy
-Supply and Use
-(3) Automobile v
-En ission
-Control
-Note: Check marks designate issues or methods discussed or mentioned for each il-
-lustrative problem.
+
 been made by or for the National Research
 Council. I will draw mostly on the first two
 studies and briefly mention the third.
@@ -14177,27 +13062,6 @@ elasticity is -.5, but a 30 percent cut if it is
 
 
 ### ---Economics-1979-0-08.txt---
-TABLE 2-ESTIMATED FEEDBACK FROM
-CURTAILED GROWTH OF ENERGY USE TO GNP,
-1975-2010, UNITED STATES
-Reduction out of
-the Base Case in
-Dis-
-counteda Price
-Energy Sum of Elasticity
-Use in GNP of Demand
-Policies 2010 1975-2010 for Energy
-(1) Bounds on
-Specific Up to 20% 1 to 2% -.25
-Tech- or -.4
-nologies
-(2) Zero
-Energy 600 { to 2% -.5
-Growth ' up to 30% -.25  through
-Conserva-
-tion Tax
-Source: MRG report, Tables 111.22 and 111.23.
-aDiscount Rate: 6 percent per annum.
 -.25. I shall come back.later to the estima-
 tion of the elasticity parameters found to
 have been very important.
@@ -15655,24 +14519,7 @@ imagine that anyone would therefore con-
 clude that giraffes do not have long necks.
 At least not anyone who had ever been to a
 zoo. Besides, I think perfectly acceptable
-2The Clark-Freeman estimates are based on quar-
-terly data for aggregate U.S. manufacturing. Their
-difference from other work appears to rest on allowing
-wage changes to operate with a lag different from other
-factor prices. According to their results the lag of
-employment behind wage changes is quite short; it is
-complete in about two quarters.  3Just after writing those words, I received a working
-paper by Robert Hall which (a) concludes that the
-elasticity of supply of labor required to make the inter-
-temporal-substitution hypothesis work is actually in the
-ballpark suggested by other facts, but (b) rejects the
-whole theory on other empirical grounds. I have done
-some further experimentation on Halls data (with the
-help of Mr. Sunil Sanghvi) with results that cast doubt  on the reliability of even the first conclusion. On reflec-
-tion, I stand by the words in the text.
-4I have tried to phrase that carefully. For some
-direct evidence, see "Jobs and Want Ads: A Look
-Behind the Evidence," Fortune, Nov. 20, 1978.
+
 
 
 ### ---Economics-1980-0-08.txt---
@@ -15768,7 +14615,6 @@ ity of employment to unexpected fluctua-
 tions in aggregate demand.
 (5) Wherever there is collective bargain-
 ing in our economy, the standard pattern,
-'Unemployment generated by this mechanism is, in  a sense, voluntary. Workers reveal a preference for  steady wages over steady employment. But the aggre-  gate welfare cost of the system can still be reduced by  stabilization policies. This comment applies equally to  the social customs described in the preceding para-  graph of the text. One can ask why workers cling to  such costly conventions. It is the job of sociology to  answer that question. But it is the job of economics  to point out that, whatever the reason, the narrowly  economic cost of such conventions can be reduced by  the stabilization of aggregate demand.
 
 
 ### ---Economics-1980-0-09.txt---
@@ -15972,9 +14818,7 @@ has to be worked out case by case. All I do
 claim is that a reasonable theory of eco-
 nomic policy ought to be based on a reason-
 able theory of economic life.
-61The emotion aroused by the case of South Africa  strikes me as one of those extreme exceptions that
-proves the rule.  7In Gary Beckeres defense, I should point out that
-he does not assume cash income to be the decisive  motive in courtship.
+
 ## Economics-1981-0
 
 
@@ -16158,10 +15002,7 @@ unfortunate, and not just a question of re-
 ducing inequalities of outcome and oppor-
 tunity, though that is how people usually
 think of it. It was, and is-up to a point-a
-IIn 1976, government gross capital formation, in-
-cluding investment in human capital, was estimated to
-be just a trifle larger, 2 percent, than conventional gross
-private domestic investment (see Robert Eisner).  2Compare Simon Kuznets.
+
 
 
 ### ---Economics-1981-0-05.txt---
@@ -16363,10 +15204,6 @@ come, was now increasingly feared as a
 major source of our troubles.
 These shifts in outlook had two important
 practical consequences. One was the very
-3See Appendix Table 2.  4See the articles by Michael Harrington and John  Kenneth Galbraith reprinted in Burton Weisbrod (pp.
-29-42 and 49-56, respectively).
-5Compare ch. 2 passim, Economic Report of the
-President (1964).
 
 
 ### ---Economics-1981-0-07.txt---
@@ -16471,7 +15308,6 @@ activities was $5 billion in 1978, having doubled since
 sible Bureau of Labor Statistics figures for "output per
 hour of all persons" in the private business sector. See
 Economic Report of the President (1980, Table B-37).
-9See Appendix Table 1.
 
 
 ### ---Economics-1981-0-08.txt---
@@ -16566,17 +15402,6 @@ to the diversion of resources to comply with
 environmental regulation and safety re-
 quirements in ways that do not register in
 measured output, though, of course, they
-"'Manifestly, some of the faster increase of house-
-holds than of population was the result of changing
-tastes, rising incomes, and better provision for old
-people through Social Security. It was, therefore, the
-way in which people chose to spend income to best
-advantage. But part of the fast increase of households
-was due to the appearance of large cohorts of young
-adults who were reaching an age when the establish-
-ment of independent households was normal, and, in
-that sense, the extra expense of separate households
-was imposed on them.  "See Appendix Table 2.
 
 
 ### ---Economics-1981-0-09.txt---
@@ -16658,25 +15483,7 @@ hazards of possible future changes in regula-
 tory requirements. Finally, there are the
 manifold effects of erratic and accelerating
 inflation.
-12Some representative references which illustrate the
-variety and uncertainty of the results obtained by dif-
-ferent investigators are: Edward Denison, especially ch.
-9; J. R. Norsworthy, Michael Harper, and Kent Kunze,
-pp. 387-421, and the accompanying discussion and
-reports by Peter Clark, Martin Baily, Denison, and
-Michael Wachter; Laurits Christainsen and Haveman;
-Robert Coen and Bert Hickman; Kendrick (1980); M.
-Ishaq Nadiri.  13See Economic Report of the President (1980, Table
-B-72).  14See James Tobin, Lecture III.  '3The large effect shown in Feldstein's original,
-much-noticed time-series analysis (1974) has been
-thrown into doubt by the discovery of a flaw in his
-computer program. In a forthcoming NBER working  paper, he now finds a smaller but still significant effect.  Such time-series estimates remain uncertain because it
-is hard to measure expected Social Security benefits
-and hard to separate the effects of Social Security  wealth on saving from those of other variables during  periods of relative stability, as in samples covering the
-postwar years alone. The conclusion that Social Secur-
-ity benefits work to reduce saving, however, is sup-  ported by other studies, based on samples of individual
-households and on cross-country evidence, to which
-Feldstein refers in his new working paper.
+
 
 
 ### ---Economics-1981-0-10.txt---
@@ -16743,50 +15550,7 @@ straint. Yet, at the present time the argu-
 ment is only speculative, and the estimated
 loss still more so. The theoretical and
 quantitative issues are unsettled and deserve
-our most urgent attention.'7  16See Feldstein and Lawrence Summers. This study
-measures the extra taxes imposed by inflation on cor-
-porate income both at the level of the corporations
-themselves and at those of the households and institu-
-tions which receive dividends and interest payments or
-have an equity interest in the corporations. They find
-that the combined excess tax due to inflation averaged
-only 16.4 percent of corporate income tax from 1954
-through 1968, but rose to an average of 52 percent
-from 1969 through 1977. As a result, the reduction in
-the effective combined tax on corporate income, which
-had been accomplished by the tax acts of the early
-1960's, was reversed. The combined tax, which had
-fallen as low as 55 percent of real corporate income
-from 1962 through 1967, rose to an average of 68
-percent from 1968 through 1977. This somewhat
-exceeded the rate of the latter 1950's, when the com-
-bined tax averaged 65 percent of corporate income
-from 1954 through 1961.
-There is a presumption, though no direct proof, that
-the increase in the effective tax rate reduces the real
-after-tax rate of return on capital and, therefore, the
-rate of business capital formation. Feldstein and
-Summers also argue that, since the impact of inflation
-on taxes works unevenly, it makes for capital misallo-
-cation among industries, encourages more investment
-in inventories and less in equipment and structures,
-and tends to shift investment away from the corporate
-sector and towards residential construction and
-consumer durables (pp. 47- 48). See also Patric
-Hendershott. Inflation, in conjunction with the tax
-system also works to increase real tax rates on forms of
-income other than capital, but this effect is relatively
-small. See Stanley Fischer and Franco Modigliani (pp.
-10- 11) which provides a general discussion of the costs
-of inflation.  17In particular, it is possible to propose calculations
-of the effect of cyclical or other transient changes in
-the intensity of resource use which suggest that no
-underlying slowdown occurred before 1973. (See
-Denison, chs. 7-9.) On such a view, there is a strong
-suggestion that our troubles do not lie in any gener-
-alized impact of the welfare and regulatory programs of
-government, but are mainly confined to the effects of
-two developments which either occurred or intensified
+our most urgent attention.'7  
 
 
 ### ---Economics-1981-0-11.txt---
@@ -16856,45 +15620,6 @@ are dominantly, but not entirely, unfavor-
 able to U.S. growth prospects. The eco-
 nomic rise of Europe and Japan has, indeed,
 brought those countries to the technological
-after 1973, namely, the great increase in the price of
-energy and the rapid, accelerating, and erratic inflation.
-Our mixed economy is then implicated to the extent
-that it works to sustain, if not generate, inflation, and
-to the extent that our welfare concerns impede the
-formulation and execution of an energy policy con-
-sistent with the maintenance and rapid rise of mea-
-sured productivity. Continuing work may well clear up
-these questions about the responsibility of public policy
-for the current retardation, but, for the time being, we
-have to live with uncertainty.
-The puzzle is still further confused by the experience
-of the continental European countries. Their fiscal
-burdens are on the whole heavier than those of the
-United States, yet their productivity retardation does
-not generally begin before the oil shock of 1973-74
-and the aggravated inflationary disorders that followed.
-One must, therefore, ask whether the longer persistence
-of high European productivity growth rates did not
-reflect a difference in "cyclical" experience. Unlike the
-United States, they did not generally enjoy a cyclically
-induced intensification of resource use in the early
-1960's and, therefore, a cyclical acceleration of produc-
-tivity growth. They had no occasion, therefore, to suffer
-a cyclical retardation in the latter 1960's, as the United
-States may have done as our economy approached
-capacity utilizatidn. We may also ask whether the
-Europeans were more resistant to the incentive effects
-of heavy taxes and large transfers because of the spe-
-cial factors supporting their great postwar growth
-booms; or perhaps because their tax and transfer sys-
-tems are designed differently than ours; or perhaps
-because of still other matters that differentiate their
-economies and societies from our own. Or is it the case
-that what I have referred to as the "suspect factors"-
-other than inflation and monetary disorder itself-have
-little to do with the observed retardations of productiv-
-ity growth? Clearly, the theoretical and empirical issues
-embodied in these questions call for our very urgent  attention.
 
 
 ### ---Economics-1981-0-12.txt---
@@ -16979,31 +15704,7 @@ and developing countries has been beyond
 our reach.
 In these circumstances, it is just as dif-
 ficult to maintain a vision of an unbroken 3
-'8The following figures support these statements. All
-are compound growth rates per year.
-1856-73 1873-1913
-(1) Gross domestic product 2.2 1.8
-(2) Man-hours 0.0 0.9
-(3) Labor input adjusted for quality 1.4 1.7
-(4) Output per man-hour 2.2 0.9
-(5) Output per unit of quality-
-adjusted labor input 0.8 0.1
-(6) Total factor productivity 0.6 0.0
-Source: R. C. 0. Matthews, C. Feinstein and J. Odling-
-Smee. Line (1), Table 16.1; lines (2) and (3), Table 16.4
-(quality adjusted for age, sex, length of schooling, and
-intensity of work associated with number of hours);
-line (4)=line (1)-line (2); line (5)=line (I)-(3); line
-(6), Table 16.2 based on total factor input with labor
-input adjusted for quality.
-'9The British experience, of course, presents a prior
-question. Which came first, the successful competition
-of the younger industrial countries in Britain's basic
-industries, or her own loss of dynamism? Britain in
-those years was suffering from more than foreign com-  petition in world markets, but my argument makes that
-competition partly responsible for Britain's national
-economic retardation (compare Matthews, Feinstein,
-and Odling-Smee, ch. 17).
+
 
 
 ### ---Economics-1981-0-13.txt---
@@ -17098,18 +15799,6 @@ private earnings, we could not ignore the
 costs and conflicts arising from the eco-
 nomic and social displacements which
 accompany growth. We could not, for
-20For example, in its 1979 Economic Report of the
-President, the Council of Economic Advisors estimated
-the current trend rate of advance of labor productivity
-in the national economy at 1.5 percent a year, corre-
-sponding to 1.75 percent in the private sector, which
-is little more than half the postwar pace. In its 1980
-Report, moreover, the Council writes: "Since the aver-
-age rate of increase during the past 6 years has been
-below that figure [of 1.5 percent], the trend rate of
-increase [in the national economy] may very well be
-still lower, perhaps 1 percent" (p. 88). For further
-discussion and other projections, see Fabricant (pp.  63 ff.).
 
 
 ### ---Economics-1981-0-14.txt---
@@ -17206,14 +15895,7 @@ should confront, not only one another, but
 also the general interest in economy and in
 maintaining a balance between private and
 public uses of income. It is also the place
-where our concern for increasing welfare by  2IThis, however, does not mean that our present
-welfare and training programs are uniformly effective
-emollients and remedies for the dislocations and
-maladjustments of growth. Nor does it mean that our
-present income-support programs may not, in some
-instances, have little-understood, deleterious side ef-
-fects on family life and individual quality. Nor does it
-mean that we now know how to do better.
+where our concern for increasing welfare by
 
 
 ### ---Economics-1981-0-15.txt---
@@ -17366,34 +16048,6 @@ his amiable weakness for the nonstop
 sentence. At the close of a long critique of
 the American welfare state, which is the
 mixed economy I have been talking about,
-APPENDIX TABLE 1 -GROWrH RATES OF PRODUCTIVITY (OUT-PUT PER HOUR) IN THE PRIvATE SECTOR:
-MEASURES ACROSS PHASES OF DEPRESSION OR STAGNATION,
-AND PHASES OF PROSPEROUS DEVELOPMENT, 1892-1979
-Deviations of Cross-Stagnation Rates
-Growth Rates of Productivitya from Neighboring Phases of Development
-Across Depression Across Phases
-or Stagnation of Prosperous Absolute Percentage
-Phasesb Developmentb Differencesc Differences
-1892-99 1.47 1892/99
--1899/1907 -0.55 - 27.2
-1899-1907 2.02
-1907/13
-1907-13 1.26 -1899/1907 -0.76 -37.6
-1920-29 2.76 1929/37
--1920/29 -1.11 -40.2
-1929-37 1.65
-1929/41
-1929-41 2.51 -1920/29 -0.25 -9.1
-1948-65 3.2 1965/79
--1948/65 - 1.6 -50.0
-1948-73 2.9
-1965-79 1.6 1973/79
--1948/65 -2.6 -81.2
-1973-79 0.6 1973/79
--1948/73 -2.3 - 79.3
-Sources: 1899-1941, Kendrick (1961, Table A-XXII); 1948-79, see fn. 8.
-'Shown in percent per year.
-bTerminal years of phases are NBER business cycle peaks, except 1965.  cShown in percentage points.
 
 
 ### ---Economics-1981-0-17.txt---
@@ -17432,81 +16086,11 @@ viously prevailed, which prevails
 elsewhere today or which, outside
 Utopia, the mind of man has been
 able to provide a blueprint for.
-[pp. 166-67]
-APPENDIX TABLE 2- INDICATORS OF CHANGE IN MATERIAL WELFARE
-Compound Growth Rates (percent per year)
-1948-65 1965-73 1973-79
-Productivity and Per Capita GNP
-(1) GNP per employed worker 2.57 1.60 0.25
-(2) Workers per capita -0.42 1.02 1.43
-(3) GNP per capita 2.14 2.64 1.69
-Real Disposable Income per Capita
-(4) All income (PCE deflator) 1.90 3.22 1.75
-(5) (CPI deflator) 2.21 2.85 0.84
-(6) All income less transfers (PCE) 1.74 2.55 1.29
-(7) (CPI) 2.05 2.18 0.38
-(8) All income less transfers and
-other labor incomee (PCE) 1.58 2.27 0.79
-(9) (CPI) 1.89 1.90 -0.11
-Workers' Earnings
-(10) Real compensation per full-time
-equivalent employee (PCE) 2.66 2.69 0.84a
-(11) (CPI) 2.96 2.32 0.19a
-(12) Real wages and salaries per full-
-time equivalent employee (PCE) 2.35 2.20 0.lOa
-(13) (CP,I) 2.66 1.83 -0.54a
-(14) Real wage and salary income, full-
-time white males (PCE) 3.01 -0.4 b
-(15) (CPI) 2.61 -1.03"
-Median Real Total Income, Persons 14- Years Old and Over
-(16) All males (PCE) 2.44c 2.00 -1.O9a
-(17) (CPI) 2.65c 1.64 -1.73a
-(18) Year-round full-time male
-workers (PCE) 2.6Id 3.03 -0.32a
-(19) (CPI) 2.8Id 2.66 -0.95a
-Median Real Total Family Income
-(20) PCE deflator 2.74 2.99 0.48a
-(21) CPI deflator 3.05 2.62 -0. 16a (Continued)
+
 
 
 ### ---Economics-1981-0-18.txt---
-APPENDIX TABLE 2- (Continued)
-Percentage of Persons Living in "Poverty"
-1965 1968 1972 1976
-Pretransfer
-(22) Official measure 21.3 18.2 19.2 21.0
-(23) Adjusted.official measure - 18.0 18.2 21.1
-(24) Relative measure 21.3 19.7 22.2 24.1
-Posttransfer
-(25) Official measure 15.6 12.8 11.9 11.8
-(26) Adjusted official measure - 10.1 6.2 6.5
-(27) Relative measure 15.6 14.5 15.7 15.4
-Sources: Lines (1) Economic Report of the President, (Report), January 1980, Table B-2, col. (1) (1979, rev.) and Table
-B-27, col. (2) + col. (4); (2) Report, Tables B-27, col. (2) +col. (4) and Table B-26; (3) Report, Tables B-2 and B-26;
-(4) Report, Table B-22, col. (4); (5) Report, Table B-22, col. (3) deflated by CPI, Table B49, col. (1); (6) Report,
-Table B-22, col. (1) less Table B-20, col. (14), divided by population, Table B-26 and PCE deflator, Table B-3, col.
-(2); (7) See line (6), except CPI deflator, Table 49, col. (1); (8) Disposable personal income less transfers current $,
-as in line (6) less "other labor income," Report, Table 20, col. (8) and deflated for population and prices as in line
-(6); (9) See line (8), except CPI deflator as in line (7); (10) and (11) Surve of Current Business: A Supplement, The
-National Income and Product Accounts of the United States, 1929-1965, Tables 6.1 and 6.4 and corresponding Tables
-for SCB, July 1977 and 1979, deflated by PCE and CPI, respectively; (12) and (13) Survey of Current Business,
-1929-65, Table 6.5 and corresponding tables in SCB, July 1977 and 1979; (14) U.S. Bureau of the Census, Current
-Population Reports, Series P-60, with PCE deflator, as in line (6), above; (15) Same, with CPI deflator, as in line (5),
-above; (16)-(19) Same, Series P-60, No. 120, Table 14, with PCE or CPI deflators, as indicated, (20) and (21)
-Current Population Reports, Series P-60, No. 120, Table 3, deflated as in lines (16) to (19), except 1948 from Report
-January 1980, Table B-25, converted to 1972 dollars; and (22)-(27) Robert Plotnick and Timothy Smeeding,
-"Poverty and Income Transfers: Past Trends and Future Prospects," Public Policy, 27, No. 3 (Summer, 1979), Table
-1. The official measures count the number of persons living below constant real (that is, inflation-adjusted) poverty
-lines defined for households with different characteristics. The adjusted figures correct the official figures for
-underreporting of income and, in the posttransfer estimates, for direct taxes and for receipts of transfers in kind. To
-obtain the relative measures, the authors "set the relative poverty lines equal to the federal ones [in 1965]. In
-succeeding years, the relative lines are increased at the same rate as the median income" (p. 258).
-Notes: PCE=implicit GNP deflator for personal consumption expenditure; CPI-Bureau of Labor Statistics
-Consumer Price Index, all items.
-al973-78  bl 973-77  CAverage 1947 and 1950 to 1965
-d1955-65
-"Other labor income" includes "employers contributions to private pension, health, unemployment, and welfare
-funds; compensation for injuries; director's fees, pay of the military reserve; and a few other minor items."
+
 ## Economics-1982-0
 
 
@@ -17778,18 +16362,6 @@ not to mean that it is costless or easy, but
 that the entrant suffers no disadvantage in
 terms of production technique or perceived
 product quality relative to the incumbent,
-20f course, any analysis which considered the role of
-entry, whether it dealt with perfect competition or mo-
-nopolistic competition, must implicitly have considered
-the determination of industry structure by the market.
-But in writings before the 1970's, such analyses usually
-did not consider how this process determined whether
-the industry would or would not turn out to be, for
-example, an oligopoly. The entry conditions were studied
-only to show how the assumed market structure could
-constitute an equilibrium state. Many recent writings
-have gone more explicitly into the determination of
-industry structure, though their approaches generally  differ from ours.
 
 
 ### ---Economics-1982-0-06.txt---
@@ -18112,13 +16684,6 @@ ber of firms will vary with the location of the
 
 
 ### ---Economics-1982-0-09.txt---
-RAY
-AVERAGE
-COST
-RAC
-I I ~~~~~R
-0 SHOES
-FIGURE 1
 industry's output vector. The industry may
 be a natural monopoly with one output vec-
 tor, a natural duopoly with another, and
@@ -18317,13 +16882,7 @@ curve will approach a horizontal line as the
 
 
 ### ---Economics-1982-0-11.txt---
-INDUSTRY
-AVERAGE
-COST
-AC(ym) -_-
-I I I I__ _ _ _ _ _ _
-O yr 2ym 3ym 4ym y
-FIGURE 2
+
 size of industry output increases. This is
 shown in Figure 2 which is a standard dia-
 gram giving the firm's and the industry's AC
@@ -18365,12 +16924,6 @@ kym, then if k is greater than or equal to 2 the
 existence problem disappears altogether, be-
 cause the industry's AC curves will be hori-
 zontal for any output greater than Ym, That
-FIRM'S
-AVERAGE
-COST
-.. I I .
-O ym kym y
-FIGURE 3
 is, in any contestable market in which two or
 more firms operate the industry AC curve
 will be horizontal and MC pricing will al-
@@ -18413,10 +16966,6 @@ Along any ray such as OR, which keeps
 
 
 ### ---Economics-1982-0-12.txt---
-FIRM'S  TOTAL
-COST
-0 B SHOES
-FIGURE 4
 output proportions constant, we have an
 ordinary total cost curve, OST. With one
 exception, which I will note soon, I have
@@ -18456,14 +17005,6 @@ the firm's total cost does have a region in
 which constant returns to scale occur, and
 which corresponds to the flat-bottomed seg-
 ment of the A C curve.
-L
-/~~~~~~
-*Y~~~~~Y
-FIGURE 5
-FIRM S
-COST
-0 ~~~~B Y,
-FIGURE 6
 Moreover, as before, I have deliberately
 kept this segment quite narrow. Indeed, I
 have repeated the previous proportions, let-
@@ -18490,12 +17031,6 @@ have three regions of local linear homogene-
 
 
 ### ---Economics-1982-0-13.txt---
-INDUSTRY
-TOTAL
-COST
-0~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~0
-FIGURE 7
-FIGURE 7
 ity in the industry's cost function, a,/yS,
 which is identical with that of the individual
 firm, the larger region abcd, and the infinite
@@ -18556,10 +17091,15 @@ affecting unit costs, and three firms can pro-
 duce as much as 3 ym, that is, as much as
 4ym. In sum, the intervals of linear homo-
 geneity for the industry are the following:
+
 Interval 1: from ym to I ym
+
 Interval 2: from 2ym to 22ym
+
 Interval 3: from 3ym to 4ym
+
 Interval 4: from 4ym to 54ym
+
 Interval 5: from Sytm to 62y'
 That is, each interval begins at an integer
 multiple of ym and extends 1/3 ym further
@@ -18642,11 +17182,7 @@ considering that same product in different
 periods to be formally equivalent to different
 goods we may take our supplier to be an
 intertemporal natural monopolist in a multi-
-product industry. That is, no combination of  3The reader can readily generalize this result. If the
-flat-bottomed segment for the firm extends from ym to
-ym(l + I/w), where w is an integer, then there will be w  regions of linear homogeneity in the industry cost func-
-tion and it will be linearly homogeneous for any output
-y , wy m-
+product industry. That is, no combination of
 
 
 ### ---Economics-1982-0-15.txt---
@@ -18740,10 +17276,6 @@ immediately
 P2(Y2-y) K(y2- yi)
 or
 (3) p2 > K(Y2-Y1Y)/(AY2-Yj),
-4That is, if pI, p*, represent the undiscounted prices,
-PI = P, P2= p*/(l + r), where r is the rate of interest,
-etc.
-
 
 ### ---Economics-1982-0-16.txt---
 but, by the assumption that average con-
@@ -19180,31 +17712,6 @@ able as an addition to the market supply
 from new production-at prices deemed suf-
 ficiently above equilibrium. Gold is currently
 produced; and its rate of production does
-' Muth's 1961 article is, of course, now a classic.
-However, an excellent much-earlier statement of the
-way in which information and expectations affect the  wheat price appears (of course!) in Alfred Marshall. The
-accompanying marginal note reads "Nearly all dealings  in commodities that are not very perishable, are affected
-by calculation of the future" (pp. 337-38). Marshall  perhaps failed to close his argument by stating explicitly
-that expected prices enter into today's production deci-
-sions, although that is clearly implied.  21t was in precisely the context of inventories-and
-by explicit analogy with the wheat market-that I once
-explained Keynes' theory of the "speculative demand"  for money (or bonds). In my Macroeconomic Theory (pp.
-175-76), I argued that, in the bond market-as in the
-wheat market-speculation on future bond prices, in  the presence of large outstanding stocks of bonds and of
-money, by agents who form expectations of "normal"
-market-clearing prices, tends to stabilize bond prices at
-or close to their normal level-thereby preventing inter-
-est rate fluctuations from stabilizing aggregate demand
-for goods and services in the short run against exoge-
-nous variations in saving or investment propensities.
-Although the term rational expectations had not yet
-been invented, I was arguing that rational expectations
-explained an interest-elastic (or bond-price-elastic) de-
-mand for money.
-31t is therefore somewhat anomalous that, although
-Muth thus demolished the previous theory of the "corn-
-hog cycle," it is my impression that traces of such
-price-quantity behavior still persist.
 
 
 ### ---Economics-1983-0-06.txt---
@@ -19307,13 +17814,6 @@ is surely much of that in the gold market.
 Presumably, pure gambling has little net ef-
 fect on the price, although it does raise the
 incomes or employment of brokers.4
-4There is one modest qualification. To the extent that
-gold prices may move contracyclically vis-a-vis share
-prices (for example), and are thus held in mixed port-
-folios with shares in order to reduce risk, the expected
-return on gold alone might be zero, yet gold might be
-rationally held (assuming that no other contracyclical
-asset exists with a positive return.)
 
 
 ### ---Economics-1983-0-07.txt---
@@ -19414,16 +17914,6 @@ roeconomic policies in a number of major
 countries were unusually permissive, the
 speculative rise in commodity prices soon
 came to be reflected in wage rates and in-
-'An extreme case, on the side of supply, is that of
-nonproducible goods (for example, "old master" paint-
-ings or old postage stamps) where all supply to the
-market comes from inventory. An earlier version of this
-paper included a considerable section on prices of such
-" collectibles."
-6For an excellent account of this period, see Barry
-Bosworth and Robert Lawrence, especially pp. 24-87,
-and other references given therein.
-
 
 ### ---Economics-1983-0-08.txt---
 dustrial costs. Given the inertia of inflation,
@@ -19517,15 +18007,7 @@ lation of an originally accidental stability, or
 a standoff between expectations of further
 rise by some participants and the expectation
 of fall by others.8
-7See, for example, Olivier Blanchard and Mark Wat-
-son; William Brock (1974, 1975); John Cross; Behzad
-Diba and Herschel Grossman; Robert Flood and Peter
-Garber; Jo Anna Gray; Maurice Obstfeld and Kenneth
-Rogoff; and Thomas Sargent and Neil Wallace.
-8Altematively, it might reflect the fact that market
-participants differ in their conceptions of the ap-
-propriate model of long-run equilibrium, or receive con-
-flicting information about factors affecting it. Indeed, in
+
 
 
 ### ---Economics-1983-0-09.txt---
@@ -19623,12 +18105,7 @@ that is almost completely nonintersecting
 with microeconomic price theory.
 In this macroeconomic inventory litera-
 ture, prices and price expectations are rare-
-a world of constant change, few if any market par-
-ticipants may share the same model of equilibrium-or
-at least the same and "correct" model. In these situa-
-tions, most market participants may come to realize that
-there is no price other than the current one that has any
-better claim to being considered the equilibrium price.
+
 
 
 ### ---Economics-1983-0-10.txt---
@@ -19725,14 +18202,8 @@ put and employment. As the persistence of
 such cycles comes to be expected, and their
 amplitude to be accepted, it is not surprising
 that full flexibility of prices comes to be seen
-9As the name John Muth stands out in the literature
-on rational expectations, the name of Lloyd Metzler  does in the macroeconomic literature on inventory insta-
-bility. However, more recent work no longer builds  directly on Metzler's. See, for example, Michael Lovell,
-Martin Feldstein and Alan Auerbach, Alan Blinder
-(1981, 1982), Blinder and Stanley Fischer.
-'0See Kenneth Arrow, Theodore Harris, and Jacob
-Marschak; Feldstein and Auerbach; Blinder (1981,
-1982).
+by many firms as a useless and unprofitable
+course of conduct.
 
 
 ### ---Economics-1983-0-11.txt---
@@ -19816,26 +18287,7 @@ manufacturers- craftsmen without hired
 workers-as did the model world of Say.
 Needless to say, competition is perfect, and
 information free and nearly complete.
-1 " To be sure, the presumed rational expectations
-response to fluctuations in the demand for commodities,
-through planned additions to inventories or the draw-
-ing-down of inventories, would tend also to stabilize the
-demand for labor. However, given the costs of commod-
-ity storage, it can easily be shown that this response is
-consistent with the presumption stated in the text: that
-labor prices should fluctuate more than goods prices.  12On the other hand, the explicitly or implicitly
-contractual nature of the employment relationship not
-only contributes to the explanation of wage rate insensi-
-tivity, but also allows producers greater freedom to use
-temporary layoffs, along with inventory changes, as a
-means of adjustment to temporary fluctuations in the
-demand for output in a manner which may be economi-
-cally efficient both for workers and for employers. The
-relationship between inventory behavior and the de-
-mand for labor has recently been interestingly explored
-by Robert Topel.
-13As Blinder and Fischer have recently characterized
-the producers in this model.
+
 
 
 ### ---Economics-1983-0-12.txt---
@@ -19938,9 +18390,7 @@ among the separated markets from period to period.  This schema permits changes 
 tions of real output (of capital goods); but it is not at all
 clear (to me) why or how the postulated source of such
 "cycles" bears any relationship to the cycles of the "real
-world."  15The assumption of this mutually inconsistent self-
-deception appears (at least implicitly) in a number of
-verbal accounts of a monetarist description of inflation.
+world."
 
 
 ### ---Economics-1983-0-13.txt---
@@ -20028,24 +18478,6 @@ I can illustrate the wide variety of price
 theoretic explanations of investment by ref-
 erence to three familiar but quite different
 examples. 7
-16For effective summaries of these and related theo-
-ries, see Gottfried Haberler. Hayek (and others of the
-"Austrians") denied that there were any positive lega-
-cies from the boom.
-17However, not all macroeconomic investment theo-
-ries have been or are price theoretical. Examples of
-quantity-theoretic investment theories are the following:
-(a) Robert Eisner's adaptation of the accelerator theory,
-which, in practice, makes real investment, and thus
-employment and income, depend on fluctuations in
-current levels of real "permanent" business sales (analo-
-gous to permanent income); (b) The works of W. H. L.
-Anderson, James Duesenberry, and others, whose em-
-phases have mainly been on factors influencing the gross
-flow of internal funds for investment financing, includ-
-ing tax rates seen as a determinant of internal funds-
-availability rather than of profitability; and (c) Keynes
-and George Katona, who stressed political, sociological,
 
 
 ### ---Economics-1983-0-14.txt---
@@ -20132,25 +18564,6 @@ the development and application of the
 "portfolio theories," and, most recently, the
 attempted application of rational expec-
 tations theory to stock prices.
-and attitudinal factors influencing the optimism or pes-
-simism of investors or consumers, and thus their spend-
-ing at given prices, incomes, and interest rates.  18To be sure, in Jorgenson's own applications of his
-theory, he concentrates on levels of and changes in
-tax-law depreciation provisions, tax credits, and the tax
-rates that affect after-tax profitability: even to the ex-
-tent of taking-in empirical work-the relevant interest
-rate, used to discount future cost and income streams, as
-a constant over time!
-'9The linearity of the relationship between invest-
-ment and q is, of course, arbitrary, as is the use of the
-ratio less one rather than the algebraic difference be-
-tween market value and replacement cost. Several
-variants are thus possible.  20Stock prices can also be thought of merely as an
-index of sentiment, optimism, or "animal spirits," which
-seem so significantly to affect both the stock market and
-real investment. Although Keynes stressed this influence
-of stock prices, that is not their role in Tobin's analysis.
-
 
 ### ---Economics-1983-0-15.txt---
 However, Robert Shiller's recent paper
@@ -20251,10 +18664,7 @@ about 1973-runs in terms that I can per-
 haps best describe as "sociological":
 One might guess that [the reasons for
 this massive change in investment at-
-titudes] have something to do with  21For an important related paper, reaching similar
-conclusions by different techniques, see William
-Brainard, John Shoven, and Laurence Weiss.
-
+titudes] have something to do with
 
 ### ---Economics-1983-0-16.txt---
 the professionalization of the securities
@@ -20641,30 +19051,7 @@ ability distribution known at the time the
 contract is entered, and those stemming from
 developments to which no basis could be
 found for assigning probabilities.
-l I take the threefold categorization from the summary
-of wage contracting literature by Robert Flanagan
-(1984). See also Costas Azariadis and Joseph Stiglitz
-(1983).
-2See Martin Baily (1974), Azariadis (1975), Donald
-Gordon (1974), Sanford Grossman and Oliver Hart
-(1981) and Bengt Holmstrom (1983).
-3See Benjamin Klein (1984), Klein, Robert Crawford,
-and Armen Alchian (1978), David Mayer and Richard
-Thaler (1979), Michael Wachter and Oliver Williamson
-(1978).
-4See Carl Shapiro and Stiglitz (1984), Edward Lazear
-(1981), and Janet Yellen (1984).
-5In some of the efficiency wage models, the firm
-attempts to pay more than the going wage, creating a
-penalty for workers who shirk and are fired. When all
-firms do this, aggregate unemployment is created and a
-shirking penalty still exists. No implicit contracts are
-needed. Both Victor Goldberg (1982) and Lazear, how-
-ever, postulate a positively shaped earnings profile (new
-workers earn less than their marginal product) as a way  of getting employees to post a performance bond thereby
-creating shirking penalties. This version does require
-implicit contracts enforced on the firm by fear of rep-
-utation loss.
+
 
 
 ### ---Economics-1985-0-06.txt---
@@ -20765,14 +19152,6 @@ of labor that are perceived as the realization
 of a known probability distribution and those
 provisions which deal with climatic and per-
 manent changes, the probability of whose
-6Indeed, for contracts covering long periods of time,
-workers are probably less risk averse than firms. Under
-some range of unfavorable outcomes, rigid wages could
-mean bankruptcy for the firm. Against relative changes
-in fortunes the worker loses only his "rent" from con-
-tinuity plus search costs. And, however well stock-
-holders may be able to diversify against bankruptcies,
-the managers of the firm find it much more difficult.
 
 
 ### ---Economics-1985-0-07.txt---
@@ -21075,24 +19454,6 @@ ble, why do implicit contracts not permit
 swifter and larger nominal wage adjustments
 by individual firms under the force of ag-
 gregate nominal shocks?
-7Ian McDonald and Solow (1981) have examined
-union wage bargaining, in which the bargain determines
-both employment (for example, via work rules) and
-wages. They assume symmetric information and show  that under a number of different bargaining conventions
--including one which preserves for the parties "fair
-shares" in net revenues-shocks to the firm's demand
-curves may produce small or zero change in wages, so
-long as W is constant. Some strands of implicit contract
-literature also model the contracts as specifying certain
-aspects of the employment decision. Employers do tend
-to hoard labor during downturns. The implicit contract
-can thus be viewed as specifying a wage and, for a
-known distribution of future conditions, a probability of
-suffering unemployment. Applying the McDonald-Solow
-analysis to this arrangement, one could conclude that
-even unforeseen "climatic" changes in circumstances
-facing the firm would more likely result in a change in
-the unemployment probability than in the wage.
 
 
 ### ---Economics-1985-0-10.txt---
@@ -21195,12 +19556,6 @@ a shock may impose only second-order losses
 on the firms who follow such behavior, even
 though the macro result may be first-order
 losses for the economy.8 Everything else
-8Technically the Akerlof-Yellen proposition applies
-to situations in which agents' objective functions are
-differentiable in their own prices and wages-a condi-
-tion that is not met in the competitive model, but is met
-in a wide range of other market models.
-
 
 ### ---Economics-1985-0-11.txt---
 being equal, indexing wages to prices would
@@ -21298,15 +19653,7 @@ age wages (W) expected to result from a
 nominal shock, and promptly change wages
 accordingly, recognizing that their actions
 involve no decision to change relative wages?
-9 Under extreme circumstances the parties may intro-
-duce such contacts. In the German hyper-inflation of
-1923, the pace of inflation became so swift that weekly
-wages were finally indexed to the prices expected to
-prevail in the subsequent days when the wages would be
-spent. An ex post adjustment was then made to correct
-for errors in the forecast. A similar arrangement was
-adopted during the Polish hyper-inflation of the same
-period.
+
 
 
 ### ---Economics-1985-0-12.txt---
@@ -21602,26 +19949,6 @@ relative wage and prices.
 IV. Final Reflections
 The large costs which accompany disinfla-
 tion arise from the fact that society has to
-0l1n his 1977 article, Robert Barro decouples the
-nominal wage and employment responses to perceived
-nominal shocks. He argues that even if nominal wages
-are sticky, optimal contracts would call for the mainte-
-nance of employment. Firms would vary prices to achieve
-this result despite the stickiness of nominal wages.
-Otherwise, says Barro, the parties would be ignoring the
-unexploited gains from trade, an irrational act. This
-paper is not principally concerned with price behavior.
-But it is clear that the same externality argument, set
-forth above with respect to wages, holds for prices.
-Without auction markets or some surrogate for the
-Walrasian auctioneer, the external nature of the gains
-from price changes would tend to negate the force of the
-Barro argument.  1 Since the macroeconomic effects of their own wage
-and price decisions do not enter into economic agents'
-objective functions, the Akerlof-Yellen conclusions
-about the small size of losses from "near-rational"
-behavior would apply to the nonauction markets I am
-here describing.
 
 
 ### ---Economics-1985-0-15.txt---
@@ -22029,9 +20356,7 @@ ment or unwritten or even legal restrictions
 against property ownership. The groupings
 are amorphous, but they exist.
 The nature of the positive bonds that link
-families, neighborhoods, tribes, regions, and  'This at least is oral tradition. I have been unable to
-find a specific reference in Knight (1936), or Knight and
-Thornton Merriam (1947).
+families, neighborhoods, tribes, regions, and
 
 
 ### ---Economics-1986-0-06.txt---
@@ -22233,10 +20558,7 @@ greater powers at the local level. Designa-
 tions are not always congruent with reality:
 the Federal German Republic is highly un-
 ified, despite the efforts of the occupation
-powers after World War II to spread politi-  21f the intrusiveness of goods is less than that of  corporations from abroad, it is perhaps anomalous that  the standard of friendly international dealings exem-  plified in treaties of Friendship, Commerce, and Naviga-  tion is less hospitable for goods than for corporations.  Foreign corporations in theory are given national treat-
-ment; goods only that of the most-favored nation. In  practice, many countries ignore the commitment to na-  tional treatment and discriminate both against foreign
-corporations as a class, and among those of different
-nationality.
+powers after World War II to spread politi-
 
 
 ### ---Economics-1986-0-08.txt---
@@ -22432,19 +20754,7 @@ tional public goods have been identified: an
 open trading system, including freedom of
 the seas, well-defined property rights, stan-
 dards of weights and measures that may
-include international money, or fixed ex-  3Tastes in public goods can of course differ within
-countries. A striking comparison is furnished in E. Digby
-Baltzell's Puritan Boston and Quaker Philadelphia (1979).
-Boston is characterized as intolerant, extremely homoge-
-nous, ascetic, philanthropic, and devoted to social and
-political responsibility. Philadelphia, on the other hand,
-was an ethnic and religious melting pot, materialistic,
-believing in money making, and shunning power and
-responsibility. Boston produced four presidents of the  United States, including one non-Puritan affected by the
-values of the city, Philadelphia none. Social scientists
-are wary of ascribing social responses to national (or
-urban) character. There may nonetheless be occasions
-when it is inescapable.
+include international money, or fixed ex-
 
 
 ### ---Economics-1986-0-10.txt---

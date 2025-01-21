@@ -24156,25 +24156,6 @@ equality that has occurred during the 1980s
 because very high incomes have been in-
 creasing much faster than the incomes in the
 lower part of the distribution.5 This can be
-TABLE 1-BEFORE-TAX INCOME SHARES, CENSUS DATA,
-SELECTED YEARS, 1948-1988, PERCENT.
-Top 5 percent Top 20 percent
-Year of families of families
-1948 17.1 42.4
-1952 17.4 41.5
-1957 15.6 40.4
-1962 15.7 41.3
-1967 15.2 40.4
-1972 15.9 41.4
-1977 15.7 41.5
-1981 15.4 41.9
-1987 16.9 43.7
-1988 17.2 44.0
-Source: Bureau of the Census. Income includes transfer
-payments (for example, Social Security benefits, unem-
-ployment compensation, welfare payments, etc.) but
-excludes capital gains. Distribution includes only fami-
-lies and excludes single persons living alone.
 seen by examining changes in the shares of
 the top income recipients reported in the
 annual Statistics of Income published by the
@@ -24200,34 +24181,6 @@ realized capital gains that accompanied the
 bull market of the 1980s. But salaries and
 other incomes of the top units have also
 been increasing faster than average.7 In fact,
-4See Musgrave (1989) for a statement of similar  views.
-5Using Pareto distributions based on income tax
-data to approximate the upper tail of the U.S. distribu-
-tion, Rudy Fichtenbaum and Hushang Shahidi (1988)
-calculated that the CPS underestimation of the Gini
-coefficient rose from 1.7 percent in 1967 to 7.6 percent
-in 1984.
-6For the method of calculation, see Pechman (1989),  ch. 1.
-7According to Statistics of Income, the shares of ad-
-justed gross income other than capital gains increased
-from 6.59 percent in 1981 to 7.64 percent in 1986 for
-
-
-### ---Economics-1990-0-03.txt---
-TABLE 2-BEFORE-TAX INCOME SHARES, TAX DATA, SELECTED YEARS,
-1948-1986, PERCENT
-Top 1 percent Top 2 percent Top 5 percent Top 10 percent Top 15 percent
-Year of Tax Units of Tax Units of Tax Units of Tax Units of Tax Units
-1948 9.8 13.4 20.2 27.9 34.3
-1952 8.7 12.1 18.7 26.7 33.4
-1963 8.8 12.3 19.4 28.2 35.5
-1967 8.8 12.3 19.6 28.3 35.5
-1972 8.0 11.4 18.7 27.8 35.4
-1977 7.8 11.3 18.9 28.3 36.1
-1981 8.1 11.5 19.0 28.6 36.5
-1986 14.7 18.2 26.6 36.8 45.1
-Source: Statistics of Income. Income excludes transfer payments, but includes realized
-capital gains in full.
 the movement toward inequality must have
 been even greater than the tax data show
 because they do not include the large
@@ -24290,37 +24243,10 @@ tax-exempt bonds, and tax shelters were also
 major factors in the reduction of the tax
 burdens in the top part of the income distri-
 bution. The reduction in the corporate tax
-the top one percent of tax units, from 17.31 to 18.77
-percent for the top 5 percent, and from 35.11 to 36.56
-percent for the top 15 percent.
-8See, for example, Frank Levy (1988) and Sheldon
-Danziger, Peter Gottschalk, and Eugene Smolensky
-(1989).
-9See Pechman and Benjamin Okner (1974) and Pech-
-man (1985).
 
 
 ### ---Economics-1990-0-04.txt---
-TABLE 3-EFFECTIVE RATES OF FEDERAL, STATE, AND LOCAL TAXES,
-BY POPULATION PERCENTILES, SELECTED YEARS, 1966-1988a
-Percent
-Population 1988C
-Percentileb 1966 1970 1975 1980 1985 (est.)
-1st Deciled 16.8 18.8 19.7 17.1 17.0 16.4
-2nd Decile 18.9 19.5 17.6 17.1 15.9 15.8
-3rd Decile 21.7 20.8 18.9 18.9 18.1 18.0
-4th Decile 22.6 23.2 21.7 20.8 21.2 21.5
-5th Decile 22.8 24.0 23.5 22.7 23.4 23.9
-6th Decile 22.7 24.1 23.9 23.4 23.8 24.3
-7th Decile 22.7 24.3 24.2 24.4 24.7 25.2
-8th Decile 23.1 24.6 24.7 25.5 25.4 25.6
-9th Decile 23.3 25.0 25.4 26.5 26.2 26.8
-10th Decile 30.1 30.7 27.8 28.5 26.4 27.7
-Top 5 Percent 32.7 33.0 28.4 28.9 26.0 27.4
-Top 1 Percent 39.6 39.0 29.0 28.4 25.3 26.8
-All Decilese 25.2 26.1 25.0 25.3 24.5 25.4
-Source: Brookings MERGE files.  aAssumes corporate income and property taxes are borne by capital income.  bArrayed by comprehensive income which includes transfer payments, employee
-fringe benefits, net imputed rent, and corporate earnings allocated to shareholders.  CProjected from 1985 on the basis of CBO estimates of changes in effective federal  tax rates. Assumes no change in effective state-local tax rates between 1985 and 1988.  dIncludes only units in the sixth to tenth percentiles.  'Includes negative incomes not shown separately.
+
 reflected primarily the investment incentives
 introduced in the 1960s and liberalized in
 the 1970s and 1980s, as well as a reduction
@@ -24357,33 +24283,8 @@ Transfer Payments. The other major ele-
 ment of government policy affecting the dis-
 tribution of income is the system of transfer
 payments, or negative taxes. This system in-
-10See Alan Auerbach and James Poterba (1987).  "ISince the income tax affects economic behavior, the
-before-tax distributions reflect the responses of taxpay-  ers, through portfolio shifts, substitution of nontaxable
-fringe benefits for cash compensation, and other ac-
-tions, to the level and structure of the tax system.
-Hence, the after-tax distribution is more representative
-of the changes in inequality. For a discussion of these
-issues, see Eugene Steuerle (1985) and Harvey Galper,
-Robert Luce, and Eric Toder (1988).
-
 
 ### ---Economics-1990-0-05.txt---
-Tax-Transfer Table
-50-
-c~~~~~~~~~~ - - - - - -- - -7 7 -7
-a) ....
-C !
-a -50- .,LEGEND
-co - - - -
-X, L,taxes (Variant lc)
-? : f ........~~~~~~~~~~~~~~~~---------  transfers
-.~~~~~~~~~~~~~~~~~~~~~~~ .............
-taxes mnus
--100* transfers
-0 50 100
-Population Percentile
-FIGURE 1. FEDERAL, STATE, AND LOCAL TRANSFERS AND TAXES AS A PERCENT
-OF MARKET INCOME BY INCOME PERCENTILE, 1985
 cludes programs of public assistance that are
 designed explicitly to help the poor, but it
 also includes others that are not designed
@@ -24419,12 +24320,7 @@ sive, mainly because of transfers, not taxes.
 What we are doing in the United States is
 financing redistributive transfers with taxes
 that are roughly proportional to incomes.
-Moreover, the tax system has been getting  12The income distributions used in the Brookings
-MERGE file for 1966 were prepared on the basis of
-incomes including transfer payments. After so many
-years, it is impractical to reclassify the income and tax
-data for 1966 by income excluding transfer payments.
-
+Moreover, the tax system has been getting
 
 ### ---Economics-1990-0-06.txt---
 less progressive in the last two decades, while
@@ -24494,33 +24390,7 @@ because it raises large amounts of revenue in
 a moderately progressive way. Recent in-
 come tax reforms have concentrated mainly
 on eliminating tax preferences to improve
-13Little empirical work has been done on trends in  the progressivity of the transfer system itself. If it has
-changed, the movement in the last decade may have
-been toward less progressivity because welfare pay-
-ments have not kept up with inflation and the coverage
-of the unemployment compensation system has nar-  rowed.
-14To be precise, equal absolute sacrifice leads to
-progression, equal proportionate sacrifice to still more
-progression, and equal marginal sacrifice to leveling of
-incomes from the top down until the required revenues
-are obtained. See Richard Musgrave (1959), pp. 99-102.  15See Musgrave (1959), ch. 5 and Richard Goode
-(1976), ch. 2. For a skeptical view of the case for the
-progressive income tax, see Blum and Kalven (1952).
-16See H. P. Young (1990). I omit discussion of the
-optimal tax literature, which built on the old sacrifice
-theory, because it does not yet provide a basis for
-making judgments about the optimum degree of pro-
-gression. This literature suggests that a progressive in-
-come tax is appropriate when redistribution is an objec-
-tive of social policy, but the range of tax rates is very
-wide depending on the assumptions used. See Glen
-Hubbard and Kenneth Judd (1986), Nicholas Stern
-(1987), pp. 49-52, Henry Aaron (1989), pp. 10-12,
-Rosen (1988) and Slemrod (forthcoming).  17, The case for drastic progression in taxation must
-be rested on the case against inequality-on the ethical  or aesthetic judgment that the prevailing distribution of
-wealth and income reveals a degree (and/or kind) of
-inequality which is distinctly evil or unlovely." Simons
-(1938), pp. 18-19.  18See Simons (1950).
+
 
 
 ### ---Economics-1990-0-07.txt---
@@ -24604,22 +24474,7 @@ Income vs. Expenditure Tax. The revival
 of interest in the expenditure tax can be
 traced to the difficulties of taxing income
 from capital under the income tax. However,
-economists and tax lawyers have also found  19See Break (1957) and Holland (1969).
-20These estimates are based on a comparison with
-work effort under a system of lump-sum taxes. The
-estimates would be reduced substantially if the basis of
-comparison were a proportional income tax. For sum-
-maries of recent studies and their implications for pol-
-icy, see Bosworth (1984), ch. 5 and Gary Burtless and
-Robert Haveman (1987). The methodology of these
-studies is explained by Hausman (1987).  21See Hausman and Poterba (1987).  22See Burtless (1989).
-23' ,3.For a review of the various studies, see Evans
-(1983) and Bosworth (1984), chaps. 3 and 5.
-24 President Ronald Reagan was one of those who
-belieed that tax rate cuts would actually increase rev-
-enues (see Reagan, 1981, p. 710). The supply-side view
-is defended in Raboy (1982). For an analysis of this
-view, see Meyer (1981).
+economists and tax lawyers have also found 
 
 
 ### ---Economics-1990-0-08.txt---
@@ -24699,32 +24554,6 @@ A tax that omits saving from the tax base
 can be shown to be the same as a tax apply-
 ing only to labor income and exempting all
 property income.30 Several expenditure tax
-25For analyses of the relative merits of the iitiome
-and expenditure taxes, see Kaldor (1955), Misgave
-(1976), Pechman (1980), Aaron and Galper (194$)jnd
-Bradford (1986).
-26The identity of lifetime incomes and expenditures
-holds when there are gifts to others and beu ts,
-provided the gifts and bequests are counted as dendi-
-tures. Aaron and Galper (1985) defined such a taks a  "lifetime" income tax, arguing that "there is nrdigical
-reason why a particular astronomical regularitp31iAild
-be enshrined in the tax law" (pp. 21-22). 9)
-27  27See Bradford (1980), pp. 106-9, Bradford (1986 p.
-315, and Musgrave (1976), pp. 11-12. Bradfordhi8lds
-this view while Musgrave does not.
-28For an excellent discussion of the lifetime vs. the
-short-run perspective as a basis for taxation, see Goode
-(1980).
-29See, for example, Feldstein (1978), Atkinson and
-Sandmo (1980), Atkinson and Stiglitz (1980), Auerbach
-and Kotlikoff (1987), ch. 5, Rosen (1988), p. 469, and
-Gravelle (1988 and 1989).
-30Like the equality between a consumption and an
-income tax in present value terms, this assumes that tax
-and interest rates remain constant over a lifetime and
-there are no gifts and bequests. Let s = saving, w =
-wages, c = consumption, r = the interest rate, and as-
-sume that saving in the first period is consumed during
 
 
 ### ---Economics-1990-0-09.txt---
@@ -24810,33 +24639,9 @@ equalization resulted because of the erosion
 of the base of the individual and corporate
 income taxes and because of increases in the
 payroll tax for Social Security.33 According
-the second, then
-Si = WI - Ci
-C2 = w2 + (1 + r )s
-cl(l + r) +c2 =(1 + r)(wi-sl) + w2+ (1 + r)sl
-cl(1+ r)+c2= (1+ r)w + w2.
-31See Hall and Rabushka (1985), Bradford (1986),  ch. 14, and McLure, Mutti, Thuroni, and Zodrow (1988),  ch. 9.  32For a discussion of these problems and possible
-solutions, see Aaron and Galper (1985), pp. 78-79 and
-99-103, and U.S. Department of the Treasury (1977),
-chaps. 4 and 6.
-33The combined employer-employee payroll tax rose
-from 6 percent in 1960 to 12.26 percent in 1985 and
-
 
 ### ---Economics-1990-0-10.txt---
-TABLE 4-GINI COEFFICIENTS OF INEQUALITY
-BEFORE AND AFTER FEDERAL TAXES,
-SELECTED YEARS, 1977-1988
-Gini Coefficients
-Before Federal After Federal
-Year Taxes Taxes
-1977 0.4502 0.4185
-1980 0.4627 0.4320
-1984 0.4884 0.4700
-1988 0.4940 0.4722
-Source: Congressional Budget Office, The Changing Dis-
-tribution of Federal Taxes: A Closer Look at 1980, (July
-1988), p. 98.
+
 to estimates of the Congressional Budget
 Office (CBO), in 1977, when the top income
 tax rate was 70 percent and the general
@@ -24906,18 +24711,6 @@ described fifty years ago by Henry Simons,
 who argued that it should conform with an
 economic definition of income.35 Admittedly,
 the use of a comprehensive income tax con-
-14.1 percent in 1985. It is scheduled to rise further in
-1990 to 15.3 percent. The maximum taxable earnings
-level rose from $4,800 in 1960 to $7,800 in 1970, $25,900
-in 1980, $39,600 in 1985, and $48,000 in 1989. The
-maximum taxable earnings levels have been adjusted for
-inflation since 1984. For details see Pechman (1987), p.  332.
-34Specifically, as the basis for revision, I use the
-distribution of federal tax burdens in 1977 when the
-CBO tax incidence series begins. I do not mean to imply
-that the federal tax system in the mid-1970s had exactly
-the correct degree of equalization.
-35See Simons (1938), ch. II
 
 
 ### ---Economics-1990-0-11.txt---
@@ -25009,14 +24802,6 @@ inated by another limitation on the deduc-
 tion for interest expenses to the amount of
 investment income reported on the individ-
 ual's tax return.39 Deductions for contribu-
-36See Stern (1987), p. 51, Aaron (1989), pp. 10-12,
-and Slemrod (forthcoming).
-37For an analysis of the structural features of the
-1986 tax reform, see Pechman (1987a).  38A passive activity is a trade or business in which the
-taxpayer (or spouse) does not materially participate. All
-rental activities are regarded as passive.  39However, the act did not change the deductibility
-of interest on borrowing to finance business invest-  ments.
-
 
 ### ---Economics-1990-0-12.txt---
 tions to individual retirement accounts were
@@ -25070,29 +24855,6 @@ tions that had taken place in the 1970s and
 early 1980s.
 The Unfinished Agenda. Despite the pro-
 gress made in 1986, the federal income tax in
-TABLE 5-CHANGES IN INDIVIDUAL AND CORPORATE
-INCOME TAX LIABILITIES UNDER THE TAX REFORM
-ACT OF 1986, BY POPULATION PERCENTILE, 1988
-Percent Change in
-Federal Individual Total
-Population and Corporate Federal
-Percentilea Income Taxesb Taxes
-lst decile -44 -16
-2nd decile - 32 -11
-3rd decile -24 -10
-4th decile -16 - 7
-5th decile -12 -6
-6th decile - 8 -4
-7th decile - 7 - 4
-8th decile - 6 - 3
-9th decile - 6 - 4
-10th decile + 3 + 2
-Top 5 Percent +4 +3
-Top 1 Percent + 5 + 5
-Source: Brookings MERGE file.  aThe classification is by a comprehensive definition
-of income, including imputed rent and corporate earn-
-ings allocated to stockholders, whether distributed or
-not. 'Assumes the corporate tax is on capital in general.
 the United States falls considerably short of
 the comprehensive income target.40 I assume
 that we shall continue to tax capital gains on
@@ -25112,9 +24874,6 @@ why the income tax tends to be in disrepute
 is the discrimination against capital income
 inherent in a nominal income tax. An infla-
 tion adjustment of asset prices should be
-40For a detailed analysis of a comprehensive income  tax base, see Pechman (1977). Estimates of the revenue
-effects of specific changes in the tax base needed to  reach the comprehensive base are given in Congres-
-sional Budget Office (1989).
 
 
 ### ---Economics-1990-0-13.txt---
@@ -25210,13 +24969,6 @@ largely a benefit tax and therefore should not
 be deductible. Nor is it necessary to allow a
 deduction for the first dollar of charitable
 contributions on incentive grounds. Little or
-4'The tax would be imposed on the insurance value
-of hospital and Medicare subsidies rather than on the
-dollar benefits actually received. See Congressional
-Budget Office (1989).
-42See Pechman (1987b), pp. 267-69, for illustrations
-of aggregate tax rates with various combinations of
-federal and state tax rates.
 
 
 ### ---Economics-1990-0-14.txt---
@@ -25308,47 +25060,11 @@ increase in the base leaves enough room to
 cut rates in the lowest taxable income brack-
 ets and still keep the top tax rates at reason-
 ably modest levels.
-43Clotfelter (1989) reports finds that equations esti-
-mated on pre-1986 data relating charitable giving to
-income, the price of giving, and other variables fail
-utterly to predict the response of charitable giving to
-the Tax Reform Act of 1986.
-44Kenadjian (1988).
-45For discussions of the function of a two-earner
-deduction and the need for income averaging, see Pech-
-man (1987a), pp. 102-7 and 127-28.
-46To prevent undue hardship to highly leveraged
-firms, the denial of the interest deduction might be
-phased in over a period of years.
+
 
 
 ### ---Economics-1990-0-15.txt---
-TABLE 6-ADJUSTED GROSS INCOME AND TAXABLE INCOME UNDER THE TAX  REFORM ACT OF 1986 AND UNDER A COMPREHENSIVE INCOME TAX
-1990
-Billions of Dollars
-Adjusted Taxable
-Item Gross Income Income
-Tax Reform Act of 1986 3545 2407
-Plus:
-Personal Deductionsa 0 68
-Transfer Paymentsb 226 164
-Fringe Benefitsc 187 185
-Two-earner Deductiond -82 -81
-Othere 43 42
-Equals: Comprehensive Taxf 3919 2785
-Source: Congressional Budget Office.  aAllows flat standard deduction of $4,000; interest deduction limited to investment
-income plus $10,000; tax deduction limited to income taxes; 10 percent floor on
-deductions for medical expenses and casualty losses; 2 percent floors on deductions for
-charitable contributions and miscellaneous expenses; and no standard deduction for the
-elderly and the blind.
-bIncludes 85 percent of Social Security retirement and disability benefits for all
-taxpayers, workers' compensation, and veterans' benefits; and 50 percent of the
-insurance value of hospital insurance benefits.  cIncludes premiums paid by employers for health and life insurance and other fringe
-benefits; interest on life insurance policies; and IRAs of persons covered by employer
-pension plans.  d20 percent of earnings of spouses with lower earnings up to a maximum of $70,000.  eIncludes unrealized capital gains transferred by gift or at death. interest on newly
-issued state and local securities, and all preference items now subject to the minimum
-tax. fAn increase in the earned income credit under Plan II (see Table 7) does not affect
-adjusted gross income or taxable income.
+
 In redesigning the rate structure, I suggest
 scrapping the multiple schedule system which
 was developed to reduce the tax advantage
@@ -25376,62 +25092,9 @@ of graduation would have to be expanded
 and the rate of graduation increased. A start-
 ing rate of 4 percent on the first $5,000 of
 taxable income rising to 48 percent on tax-
-47To avoid the old community property problem,
-(see Pechman, 1987b, pp. 102-7) the brackets in the
-rate schedules for married couples filing separate re-
-turns would be one-half the size of the brackets for
-single people.
-48Exemptions and the standard deduction would re-
-main the same as in 1989, that is, exemptions would be
-$2,000 per capita and the standard deduction would be
-$3,100 for single persons, $4,550 for heads of house-
-holds, and $5,200 for married couples, all adjusted for  inflation.
 
 
 ### ---Economics-1990-0-16.txt---
-TABLE 7-COMPARISON OF TAX RATES UNDER THE TAX REFORM ACT OF 1986  AND UNDER TWO COMPREHENSIVE INCOME TAXES, 1990
-Tax Reform Act of 1986a Comprehensive Income Taxb
-Taxable Rate Taxable Rate (percent)C
-Income (percent) Income Plan I Plan II
-$0-$32,400 15 $0-$5,000 7 4
-32,400-78,400 28 5,000-10,000 10 8
-78,400-208,560d 33 10,000-20,000 15 14
-208,560 and over 28 20,000-35,000 18 14
-35,000-70,000 26 23
-70,000-100,000 26 24
-100,000-150,000 26 29
-150,000-250,000 26 33
-250,000 and over 26 48
-aFor a married couple with two dependents. Separate rate schedules apply to single
-persons and heads of household.
-Applies to all taxpayers, regardless of marital and family status.  CPlan I maintains present progressivity of the federal income tax at 1990 levels; Plan  II restores progressivity of the federal tax system as a whole to levels prevailing in 1977.
-Plan II provides a refundable earned income credit of 14 percent (up to $1,000) to all
-earners and increases the credit by 4 percentage points for each person in the tax unit
-above one (with a phaseout between $10,000 and $20,000 of adjusted gross income).
-dRange within which the 13-percentage point reduction in the first bracket is phased
-out. Top limit of the range increases or decreases by $11,480 for each personal
-exemption.
-TABLE 8-EFFECTIVE FEDERAL INDIVIDUAL INCOME TAX RATES UNDER
-THE TAX REFORM ACT OF 1986 AND UNDER Two COMPREHENSIVE  INCOME TAXES, 1990a
-Percent
-Population Tax Reform Act Comprehensive Income Taxc
-Percentileb of 1986 Plan I Plan II
-Ist Deciled -0.9 -0.4 -1.3
-2nd Decile 0.0 0.1 -0.8
-3rd Decile 1.9 2.0 0.7
-4th Decile 4.5 4.6 3.3
-5th Decile 6.2 6.2 5.0
-6th Decile 7.4 7.4 6.1
-7th Decile 8.4 8.5 7.0
-8th Decile 9.4 9.5 7.8
-9th Decile 11.1 10.9 9.1
-10th Decile 16.5 16.5 18.9
-Top 5 Percent 18.0 18.1 22.3
-Top 1 Percent 20.7 20.8 30.5
-All Decilesc 11.1 11.1 11.1
-Source: Congressional Budget Office.  aAssumes corporate income is borne by capital income.  bArrayed by comprehensive income, which includes all transfer payments, the employer
-share of payroll taxes, and the corporate income tax (allocated to capital income).  C For tax rates under the two plans, see Table 7.  d Excludes families with zero or negative incomes.
-'Includes fanmilies w%ith zero or ncoative incomes.
 
 
 ### ---Economics-1990-0-17.txt---
@@ -25527,10 +25190,7 @@ order to convert nominal to real incomes for
 tax purposes. The two-earner deduction and
 income averaging should be restored to re-
 duce the marriage penalty and equalize the
-treatment of fluctuating and stable incomes.  49 Between 1977 and 1990 the weight of the relatively
-regressive payroll tax in federal revenues increased.
-Thus, the income tax must be more progressive in 1990  than it was in 1977 to restore overall progressivity to its
-1977 level.
+treatment of fluctuating and stable incomes.  
 
 
 ### ---Economics-1990-0-18.txt---
@@ -25877,7 +25537,6 @@ natural. That application requires the set of
 agents to be large-larger than the set of
 integers. Treating the set of the agents of an
 economy as the rich collection of the points
-1See the preface in Robinson (1966).
 
 
 ### ---Economics-1991-0-06.txt---
@@ -25982,8 +25641,7 @@ ferent to each other are now assumed to
 form a smooth (hyper)surface. As another
 instance of the generality permitted by ab-
 straction, consider the notion of a commod-
-20n this direct consequence of a theorem of A. A.
-Lyapunov, see Karl Vind (1964).
+
 
 
 ### ---Economics-1991-0-07.txt---
@@ -26650,8 +26308,7 @@ efit slightly.
 It is really agriculture that is affected. But
 even if agricultural productivity declined by
 a third over the next half century, the per
-1An imaginative discussion is in Jesse H. Ausubel
-(1991).
+
 
 
 ### ---Economics-1992-0-08.txt---
@@ -26751,11 +26408,7 @@ best defense against climate change may be
 their own continued development.
 This is a point worth emphasizing. Some
 environmentalists argue that developing
-2
-A comprehensive discussion of both impacts and
-costs of abatement is provided by William D. Nordhaus
-(1991a). A carefully argued opposing view is that of
-William R. Cline (1992).
+
 
 
 ### ---Economics-1992-0-09.txt---
@@ -27067,12 +26720,7 @@ cept for two observations. First, if in decades
 to come the greenhouse impact begins to
 confirm the more alarmist expectations, and
 if the economic sacrifices required to reduce
-3Their estimate is 10 percent of U.S. emissions at
-"low to moderate cost" on economically or environ-  mentally marginal crop and pasture lands and nonfed-
-eral forest lands in the United States (National
-Academy of Sciences, 1991 p. 57). A review of the
-issues in both afforestation and deforestation by
-Andrew Plantinga is in Joel Darmstadter (1991); an  optimistic estimate of the afforestation option is that of  Robert J. Moulton and Kenneth R. Richards (1990).
+
 
 
 ### ---Economics-1992-0-12.txt---
@@ -27173,10 +26821,6 @@ trolled by direct regulatory measures, there
 may be the usual expected inefficiencies,
 and I leave the reader to make his own
 adjustment.
-4Several critiques and surveys of different abate-
-ment-cost estimates are available (see Congressional
-Budget Office, 1990; Joel Darmstadter, 1991; William
-D. Nordhaus, 1991b; Energy Modeling Forum, 1992).
 
 
 ### ---Economics-1992-0-13.txt---
@@ -27280,9 +26924,6 @@ proceeds, would be ratified by the Senate.
 Reduce the tax by an order of magnitude
 and it becomes imaginable, but then it be-
 comes trivial as greenhouse policy.5
-5A careful treatment of the universal carbon tax is
-provided by James M. Poterba (1991).
-
 
 ### ---Economics-1992-0-14.txt---
 Tradable permits have been proposed as
@@ -28719,23 +28360,6 @@ productivity growth rates 5-10 years later.
 
 
 ### ---Economics-1994-0-05.txt---
-0.030
-0.025 -,,"
-"Measurable" ,"
-g*% /
-,.020 Total
-0.020 -^~^
-"Unmeasurable"
-0.015 ,_5 ,, ,,l
-0.010t-
-0.005 l6 ... 66 ... 67 ... l7. 1l8' 1l85 .. l llllll
-1950 1955 1960 1965 1970 1975 1980 1985 1990
-FIGURE 1. GROSS DOMESTIC PRODUCT PER MAN-HOUR (THOUSANDS OF 1982
-DOLLARS, UNITED STATES, 1948-1990)
-Notes: Measurable sectors are agriculture, mining, manufacturing, transportation,
-communications, and public utilities; unmeasurable sectors are construction, trade,
-finance, other services, and government. Values for 1977-1987 are based on 1987
-weights; values for 1948-1976 are based on 1982 weights (the series are linked at  1977).
 One could also see a continuous and worri-
 some decline in the number of patents re-
 ceived per corporate R&D dollar (see be-
@@ -28772,12 +28396,6 @@ riod, but also it did not grow. The latter
 fact, coupled with a continuous upward
 growth in the absolute level of company-
 financed R&D, resulted in a persistent de-
-2For example, the rate of growth in total factor
-productivity declined between the 1960's and the 1970's
-by 4.5 percent in Japan, 3.3 percent in France, and
-"only" 2 percent in the United States (see Organiza-
-tion for Economic Cooperation and Development,  1993).
-3See Griliches (1990) for more details on this story.
 
 
 ### ---Economics-1994-0-06.txt---
@@ -28860,29 +28478,10 @@ computer industry and its deflator are han-
 dled in the analysis.5 At the same time, the
 stock market's valuation of R&D fell signif-
 icantly, both in terms of ex post returns to
-4This literature has been surveyed in Griliches (1979,
-1991), Jacques Mairesse and Mohamed Sassenou  (1991), Wallace Huffman and Evenson (1993), and M. I.
-Nadiri (1993).
-5As reported in Griliches (1986a), I found no signif-  icant decline in the relevant coefficients through the
-mid-1970's. Frank Lichtenberg and Donald Siegel  (1991) replicated and extended this work to the early  1980's and found increases in the relevant coefficients  through 1985. B. Hall (1993) updated and extended the  Griliches and Mairesse (1984) study of publicly traded  U.S. manufacturing firms to the end of the 1980's and  found that the R&D coefficients came close to disap-  pearing in the 1970's and early 1980's but recovered in  the late 1980's to about half or more of their original  size. Her result is very sensitive, however, to the partic-  ular deflators used in constructing the output measure.  When separate industry-level deflators are used, in-  cluding the newly revised deflator for the output of the  computer industry, there is no evidence of a decline in  the "potency" of R&D at all; the estimated coefficients  rise rather than fall. See also Englander et al. (1988)
-Pari Patel and Luc Soete (1988), Sveikauskas (1990),
-and Scherer (1993).
+
 
 
 ### ---Economics-1994-0-07.txt---
-TABLE 1-INDUSTRY TFP GROWrH REGRESSIONS: COEFFICIENTS OF THE R&D-SALES
-RATIO BY PERIOD, THREE-DIGIT SIC LEVEL (N = 143 OR 142)
-Row Period With computers Without computers
-1 1958-1973 0.332 (0.066) 0.317 (0.066)
-2 1973-1989 0.357 (0.072) 0.134 (0.059)
-3a 1978-1989 0.300 (0.073) 0.115 (0.062)
-3b 1978-1989 "revised" 0.461 (0.070) 0.348 (0.070)
-Notes: The equations include also dlog(energy/capital) as an additional utilization
-variable. Standard errors are shown in parentheses. The ratio of company-financed
-R&D to total sales in 1974 is from Scherer (1984) for row 1; this ratio is updated for
-1984 from National Science Foundation (1992) for rows 2 and 3. Row 3b shows
-total-factor-productivity growth revised downward for computers and upward for
-electronic components and drugs (computers = SIC 357).
 R&D in the 1980's (Michael Jensen, 1993)
 and the market's view of current R&D in-
 vestments (Bronwyn Hall and Robert Hall,
@@ -28907,19 +28506,6 @@ and even lower for 1979-1989. Only one
 observation out of 143 does this!7
 These results raise a major data conun-
 drum: is it right to treat the computer in-
-Computers
-o 0.10-
-0.0
-oE~~~~~+ +
-S 0.05
-t~~~~~~ 4,
--0.05
-0.000 0.025 0.050 0.075 0.100 0.125
-R&D-Sales Ratio in 1984
-FIGURE 2. TOTAL-FACTOR-PRODUCTIVITY GROWTH
-(PER ANNUM) AND RESEARCH INTENSITY
-IN U.S. MANUFACTURING, THREE-DIGIT
-SIC LEVEL, 1978-1989
 dustry as an outlier and exclude it from
 such calculations just because the productiv-
 ity measure may be better there? It is quite
@@ -28933,16 +28519,7 @@ being as much of an outlier and with the
 whole period showing much higher (social)
 returns to R&D. That this is indeed the
 case can be seen in Figure 3, where only
-three such adjustments are made, but be-  6The total-factor-productivity numbers come from
-the National Bureau of Economic Research data base
-(Wayne Gray, 1992). The R&D numbers come from
-Scherer (1984), updated to 1984 using 2.5-digit-level
-information from National Science Foundation (1992).  'Updating the Griliches and Lichtenberg (1984) re-
-sults for 28 2.5-digit SIC industries and using a possibly
-more appropriate R&D-by-product-field measure yields
-essentially similar results, as does a parallel computa-
-tion at the more aggregated two-digit SIC level using
-unpublished Bureau of Labor' Statistics data on total  (five-factor) productivity.
+three such adjustments are made, but be-  
 
 
 ### ---Economics-1994-0-08.txt---
@@ -28993,19 +28570,7 @@ puter industry in the early 1970's and a very
 rapid growth in its importance, leading to a
 more than doubling of the share of machin-
 ery in total manufacturing output by the
-0.15 -
-0.10- 4
-v ~~~~~~+
-0.05-
-0.00-+
--0.05 -
-0.000 0.025 0.050 0.075 0.100 0.125
-R&D-Sales Ratio in 1984
-FIGURE 3. REVISED TOTAL-FACTOR-PRODUCTIVITY
-GROWrH (PER ANNUM), U.S. THREE-DIGIT
-MANUFACTURING INDUSTRIES, 1978-1989
-Note: Computers adjusted downward; electronic com-
-ponents and drugs adjusted upward.
+
 late 1980's. This last problem has largely
 been solved recently with the introduction
 of "benchmark-weighted" estimates of gross
@@ -29033,25 +28598,9 @@ duction of generics in the current measure-
 ment procedures. (I shall come back to
 discuss this last adjustment later on.) So
 adjusted, Figure 3 does not look all that
-8For historical background on these developments
-see Jack Triplett (1989) and Ernst Berndt (1991 Ch. 4).
-
 
 ### ---Economics-1994-0-09.txt---
-11 14
-10 13
-Patents per 9 - - 12 Patents per
-R&D Dollar - Scientist and
-Engineer
-8 -11
-7 - 10
-6 9
-5
-4 7
-1920 1930 1940 1950 1960 1970 1980 1990
-FIGURE 4. DOMESTIC PATENT APPLICATIONS PER COMPANY-FINANCED R&D IN INDUSTRY
-(DASHED LINE; IN 1972 DOLLARS) AND PER SCIENTIST AND ENGINEER
-(SOLID LINE), LOG SCALE
+
 bad, and row 3b in Table 1 indicates no
 decline in the R&D coefficient even without
 the computer industry.
@@ -29182,34 +28731,6 @@ ventions and a positive one in R&D are
 inconsistent with an unchanging inventions
 production function, unless the overall pool
 of available knowledge is declining, or more
-Actually quite a few people worried about it then
-also: see Griliches (1990) for more detail and W.
-Fellner (1970), who worried about the rising real cost
-of R&D as an indicator of diminishing returns.
-10This follows from the nonrival nature of inven-
-tions (see Kenneth Arrow, 1962; Paul Romer, 1990).  "Assume an aggregate inventions "production func-
-tion" of the form N = RYZ, where R is a measure of
-current R&D inputs and Z represents all other shifters
-of this function: the accumulation of one's own past
-R&D successes and also spillovers from the research
-efforts of others. Then, y < 1 implies short-run dimin-
-ishing returns to current R&D, a "fishing-out" phe-
-nomenon given the current "state of the art" Z. To the
-extent that endogenous (and exogenous) forces "re-
-charge" the pool (in Evenson's [1991] terminology) and
-change Z as the result of the direct and indirect
-additions to the overall stock of knowledge, there need  not be diminishing returns to R in the long run. If R is
-chosen so as to equate the value of its marginal prod-  uct, V(yN/R), to the marginal real cost of R, C, and if
-V is the expected present value of an invention, one
-can rewrite the first-order condition as N/R = C/yV,
-which yields the major conclusion that the ratio of
-inventions per unit of R&D is independent of the state
-of general knowledge Z. Moreover, N/R will be de-
-clining in V, the size of the market. For a more
-detailed elaboration of such models see the "quality-
-ladders" approach of Gene Grossman and Elhanan
-Helpman (1991), Caballero and Jaffe (1993), and Kor-
-tum (1993).
 
 
 ### ---Economics-1994-0-11.txt---
@@ -29281,47 +28802,9 @@ in the rate of technological change. This
 leaves us, however, more or less where we
 started, with the productivity slowdown
 largely unexplained.
-12There is scattered evidence on the rising "quality"
-of patents from patent renewal data (see Mark
-Schankerman and Ariel Pakes, 1986; Pakes and Mar-
-garet Simpson, 1989) and from the rising number of
-claims per patent (see X. Tong and J. D. Frame, 1992).
-The latter, for example, rose at about 2.5 percent per
-year between 1970 and 1990. That is about right for
-this period but far too low for the 6+ percent earlier.
-On the other hand, Cabellero and Jaffe (1993), using
-citation data, find that the average "size" of a patent  did not grow during the last 20 years.
-13There is some evidence that such crowding-out
-may have occurred. Between 1966-1969 and 1981-1985
-the "yield ratio" for domestic patent applications in
-terms of grants received fell by about 15 percent (from
-0.68 to 0.58) before recovering somewhat in the late
-1980's (to 0.62). See Griliches (1990) for a survey of
-these issues and citations to the relevant literature.  'A similar story is also told by other scattered
-invention "output" indicators. In their study of innova-
-tions in the chemical, textile, and machinery-tools in-
-dustries, Baily and Chakrabarti (1988) found a decline
-in the number of innovations in the 1970's in two out
-of these three industries, and some recovery thereafter.
-Similar patterns were observed in a study of British
-industrial innovations (see the figure in Gerhard
-Mensch et al. [1991]). In both cases the timing is not
-right for an explanation of the slowdown in the 1970's.
-The impact on productivity is too fast. Rather, it is
-likely to reflect the impact of the slowdown in the
-growth of aggregate demand and the recessions of the
-1970's. In both cases there is an upturn in the 1980's.
-
 
 ### ---Economics-1994-0-12.txt---
-200,000
-150,000-
-100,000 -
-100 000 Total t\/\ ,>/ Domestic /
-50,000I
-Foreign _--
-1880 1900 1920 1940 1960 1980
-FIGURE 5. PATENT APPLICATIONS IN THE UNITED STATES, 1880-1992
+
 IV. Why Is the Glass Half-Empty?
 Economists have not been very successful
 in explaining what has happened to the
@@ -29375,30 +28858,8 @@ pret changes in aggregate total factor pro-
 ductivity has declined, and major portions
 of actual technical change have eluded our
 measurement framework entirely.15
-15 1 An argument could be made that this story would
-not be so bleak if we had focused on consumption
-expenditures instead, since many of the offending in-
-
 
 ### ---Economics-1994-0-13.txt---
-TABLE 2-THE DISTRIBUTION OF GNP BY MAJOR INDUSTRIAL SECTOR,
-IN CURRENT PRICES (PERCENTAGES)
-Industry 1947 1959 1969 1977 1990
-Agriculture 8.8 4.1 3.0 2.8 2.0
-Mining 2.9 2.5 1.8 2.7 1.8
-Construction 3.9 4.8 5.1 4.8 4.4
-Manufacturing 28.1 28.6 26.9 23.6 18.4
-Transportation and utilities 8.9 9.1 8.6 9.1 8.7
-Wholesale trade 7.1 6.9 6.7 7.0 6.5
-Retail trade 11.7 9.9 9.8 9.6 9.3
-Finance, insurance, and real estate 10.1 13.8 14.2 14.4 17.7
-Other services 8.6 9.7 11.5 13.0 18.9
-Government 8.6 10.2 12.6 12.5 12.2
-"Measurable" sectorsa 48.7 44.3 40.3 38.2 30.9
-Note: Numbers before 1977 are not strictly comparable, since the latest revision was
-carried back only to 1977.
-Source: Tables 6.1 and 6.2 of the National Income and Products Accounts (1928-1982)
-and Survey of Current Business (May 1993).  aAgriculture, mining, manufacturing, and transportation and utilities.
 An example of the consequences of this
 shift is what has come to be known as the
 "computer paradox." We have made major
@@ -29447,55 +28908,10 @@ the positive contribution of computers in
 manufacturing, but given the needle-in-the
 haystack aspect of this problem, it is not
 particularly strong (see e.g., Alan Krueger,
-dustries produce largely intermediate products and ser-
-vices. But personal consumption expenditures account
-only for about 68 percent of GDP, while services
-represent 56 percent of personal consumption. Thus, it
-is unlikely that looking at consumption data in more
-detail would change the tenor of my remarks much. A
-cursory look at Personal Consumption Expenditures
-(Bureau of Economic Analysis, 1990) yields a rough
-estimate of 47 percent of total consumption expendi-
-tures not easily measurable in real terms. The two
-largest difficult items consist of hard-to-measure ser-
-vices in the medical, insurance, legal, entertainment,
-and education areas (23 percent) and housing-related
-services (21 percent).
 
 
 ### ---Economics-1994-0-14.txt---
-125
-100
-Government '-r
-75
-_ | ~Tota1l ; _>,_
-50 > , Trade, Finance, and Other Services
-?'z' ~~~~~~~Construcition,_ __
-25gp ';~~-
-Agriculture, Mining, Manufacturing,
-Transportation, and Public Utilities
-1930 1940 1950 1960 1970 1980 1990
-FIGURE 6. PERSONS ENGAGED IN PRODUCTION BY INDUSTRY, UNITED STATES,
-1929-1980
-TABLE 3-INVESTMENT IN COMPUTERS (OCAM) IN THE U.S. ECONOMY
-(PERCENTAGE OF TOTAL)
-Industry 1979 1989 1992
-Agriculture 0.1 0.1 0.1
-Mining 2.4 1.1 0.9
-Construction 0.1 0.3 0.2
-Manufacturing 29.4 20.3 20.0
-Transportation 1.3 2.0 1.0
-Communication 1.5 1.4 1.5
-Utilities 1.2 2.8 3.7
-Trade 19.9 16.3 20.0
-Finance, insurance, and real estimate (F.I.R.E.) 32.5 38.7 37.8
-Other services 11.6 17.0 13.9
-"Unmeasurable" sectorsa 64.1 72.3 71.9
-Plus consumer and government
-purchases as percentage of all
-computer (OCAM) purchases 67.7 77.6 77.0
-Notes: OCAM = office, computing, and accounting machinery.
-Source: Unpublished BEA tabulations.  aConstruction, trade, F.I.R.E., and other services.
+
 1991; Donald Siegel and Griliches, 1992;
 Erik Brynjolfson and Lorin Hitt, 1993; Igal
 Hendel, 1993). Some of the gains from com-
@@ -29695,24 +29111,6 @@ one-third, and health and education statis-
 tics each less than one-half of the funds
 allocated to agricultural statistics?17 How
 does one explain the failure of the most
-16I refrain from offering a detailed list of my own
-favorite data improvements; but a census of real wealth
-(i.e., a survey of structure, equipment, and other re-
-sources and their utilization-not just what is on the
-books, but what is actually out there in the field) would
-be high on my list. I would also like to see a survey of
-patent owners on the use and potential value of their
-property rights.  17j am not arguing that too much is being currently
-spent on agricultural statistics. That would require a
-substantive analysis, which has not been done. I am
-saying, however, that the other areas of federal statis-
-tics could use both more funding and a redirection of
-existing funding. We are also currently spending far
-more on monthly employment and average hourly
-earnings data than we spend to collect all of the other
-inputs and outputs annually. With Congressional prod-
-ding, we spend much more on local-markets data than
-on national-level data.
 
 
 ### ---Economics-1994-0-17.txt---
@@ -29796,24 +29194,6 @@ productivity growth as a summation of
 above- (and below-) average returns to vari-
 ous current investment decisions and capital
 gains (or losses) on existing physical- and
-180ne should probably worry also about the overall
-level of support for economic research. As a percent-
-age of total academic research funding, it fell from
-1.5 percent in 1979 to 1.2 percent in 1990. While the
-number of economists doing academic research was
-rising at 5.5 percent per year, funds per researcher
-were falling in real terms at - 2.3 percent per year, and
-the Federal share in these funds was also dropping
-from 48 percent to only 27 percent (in 1989). At the
-same time, real funds per researcher in the academy as
-a whole were rising at 0.4 percent per year (National
-Science Board, 1991). What is it that we have been
-doing wrong?
-19The recent shift toward a "three essays" Ph.D.
-thesis is also not conducive to a serious involvement
-with data creation.
-20Unfortunately, the usage is apt. Data already
-means "given" rather than collected or observed.
 
 
 ### ---Economics-1994-0-18.txt---
@@ -29906,13 +29286,6 @@ participating in the conferences and work-
 shops circuit knows how small this tip is
 relative to the informal-communications
 iceberg itself.
-21This is not a new idea. Versions of it appear in
-Harry Johnson (1964), Arnold Harberger (1990), and
-Theodore Schultz (1990) and presumably also else-
-where.
-22The story is similar for externalities from human-
-capital investments, another linchpin of the new growth
-theories, but I will not pursue it here.
 
 
 ### ---Economics-1994-0-19.txt---
@@ -30010,12 +29383,6 @@ sortment we have today for that of
 yesteryear? Our health system, warts and
 all? The air pollution? The civil-rights situa-
 tion? The fear of nuclear war? These are
-23Between 1970 and 1989, average hours of work
-per worker went down by 7 percent, air pollution went
-down significantly, and the crime rate came close to
-doubling (Baily et al., 1993). Of course, these data are
-also problematic (see Scott Boggess and John Bound,  1993).
-
 
 ### ---Economics-1994-0-20.txt---
 not just idle intellectual curiosities. They
@@ -30210,15 +29577,6 @@ being based only on what Arrow calls
 spective characterizations of individual ra-
 tionality, and through the presumption of
 rational behavior (shared by most economic
-3Dennis C. Mueller (1989) provides an excellent
-introduction to public choice theory and its relation to
-social choice theory. See also Atkinson (1987) and
-Sandmo (1990) on Buchanan's contributions.
-4The canonical treatise on the "public choice" ap-
-proach is Buchanan and Tullock (1962), but it is impor-
-tant to note the differences in emphases between the
-appendix by Buchanan and that by Tullock.
-
 
 ### ---Economics-1995-0-04.txt---
 models), the depiction of actual conduct
@@ -30307,16 +29665,7 @@ fies a social ordering R over all the social
 states for every set of individual preference
 orderings. In addition to assuming-not es-
 pecially controversially-that there are at
-5Arrow (1951) himself points out "the unreality of
-this assumption" (p. 8).
-6The importance of politics as discussion has also
-been stressed in the Habermasian tradition; on this see
-Jon Elster and Aanund Hylland (1986) and Jiirgen
-Habermas (1994). See also Albert Hirschman (1970)
-and the works inspired by his writings.
-7Robbins (1938) himself was opposed not so much
-to making interpersonal comparisons, but to claiming
-them to be "scientific."
+
 
 
 ### ---Economics-1995-0-05.txt---
@@ -30377,47 +29726,6 @@ tioning (and each time picking the decisive
 part), we arrive at a decisive individual, who
 must, thus, be a dictator. Hence the impos-
 sibility.
-8The strategy of proof employed here (as in Sen
-[1986b]) is more direct and simpler than the versions
-used in Arrow (1963) and Sen (1970) and does not
-require defining additional concepts (such as "almost
-decisiveness").
-9For proof, take two pairs of alternative states (x, y)
-and (a, b), all distinct (the proof when they are not all
-distinct is quite similar). Group G is decisive over
-(x, y); we have to show that it is decisive over (a, b) as
-well. By unrestricted domain, let everyone in G prefer
-a to x to y to b, while all others prefer a to x, and y
-to b, but rank the other pairs in any way whatever. By
-the decisiveness of G over (x, y), x is socially preferred
-to y. By the Pareto principle, a is socially preferred to
-x, and y to b. Therefore, by transitivity, a is socially
-preferred to b. If this result is influenced by individual
-preferences over any pair other than (a, b), then the
-condition of independence would be violated. Thus, a
-must be ranked above b simply by virtue of everyone in
-G preferring a to b (since others can have any prefer-
-ence whatever over this pair). So G is indeed decisive
-over (a, b).
-10For proof, take a decisive group G and partition it
-into G1 and G2. Let everyone in G1 prefer x to y and
-x to z, with any possible ranking of (y, z), and let
-everyone in group G2 prefer x to y and z to y, with
-any possible ranking of (x, z). It does not matter what
-those not in G prefer. If, now, x is socially preferred to
-z then the members of group G1 would be decisive
-over this pair, since they alone definitely prefer x to z
-(the others can rank this pair in any way). If G1 is not
-to be decisive, we must have z at least as good as x for
-some individual preferences over (x, z) of nonmembers
-of G1. Take that case, and combine this social ranking
-(that z is at least as good as x) with the social
-preference for x over y (a consequence of the decisive-
-ness of G and the fact that everyone in G prefers x to  y). By transitivity, z is socially preferred to y. But only
-G2 members definitely prefer z to y. Thus G2 is
-decisive over this pair (z,y). Thus, from the Field-
-Expansion Lemma, G2 is decisive. So either G1 or G2
-must be decisive-proving the lemma.
 
 
 ### ---Economics-1995-0-06.txt---
@@ -30496,27 +29804,7 @@ social preference itself. All that is needed
 from the point of view of choice is that the
 decision mechanisms determine a "choice
 function" for the society, which identifies
-11On some analytical problems involved in deriving
-"the revealed preference of a government" by observ-
-ing its choices, see Kaushik Basu (1980).  12 Binariness requires a combination of two types of
-choice consistency: basic "contraction consistency" (a)
-and basic "expansion consistency" (y). These condi-
-tions are quite exacting, and they have to be further
-strengthened to get transitivity and other additional
-properties (on this, see Sen [1971, 1977a], Rajat Deb
-[1983], and Isaac Levi [1986]).
-13On this, see Harsanyi (1955 p. 310): "Of course,
-when I speak of preferences 'from a social standpoint,'
-often abbreviated to 'social' preferences and the like, I
-always mean preferences based on a given individual's
-value judgments concerning 'social welfare."'
-14This has been established in a sequence of results,
-presented by Gibbard, Hansson, Andreu Mas-Colell,
-Hugo Sonnenschein, Donald Brown, Georges Bordes,
-Kelly, Suzumura, Douglas Blair, Robert Pollak, Julian
-Blau, Deb, David Kelsey, and others; for critical
-overviews, see Blair and Pollak (1982), Suzumura
-(1983), and Sen (1986a).
+
 
 
 ### ---Economics-1995-0-07.txt---
@@ -30603,25 +29891,6 @@ pendent of individual preferences over pairs
 other than (x, y). It can be shown that there
 is no way of going from individual prefer-
 ences to social choice satisfying these
-15The pioneering work on choice-functional formu-
-lations came from Hansson (1968, 1969), Thomas
-Schwartz (1972, 1985), Fishburn (1973), and Plott
-(1973). Mark Aizerman and his colleagues at the Insti-
-tute of Control Sciences in Moscow provided a series
-of penetrating investigations of the general choice-
-functional features of moving from individual-choice
-functions to social-choice functions (see Aizerman,
-1985; Aizerman and Fuad Aleskerov, 1986). On related
-matters see also Aizerman and A. V. Malishevski
-(1981).
-16A sequence of contributions on this and related
-issues has come from Plott, Fishburn, Hansson, Donald
-Campbell, Bordes, Blair, Kelly, Suzumura, Deb, R. R.
-Parks, John Ferejohn, D. M. Grether, Kelsey, V. Deni-
-colo, and Yasumi Matsumoto, among others. For gen-
-eral overviews and critiques, see Blair et al. (1976),
-Suzumura (1983), and Sen (1986a).
-17See also Buchanan and Tullock (1962).
 
 
 ### ---Economics-1995-0-08.txt---
@@ -30708,18 +29977,6 @@ not (50, 50). I am not arguing here that
 (50,50) must necessarily be taken to be the
 best, but it is absurd that we are not even
 permitted to consider (50,50) as a claimant
-18For exact statements of the conditions and a proof
-of the theorem, see Sen (1993).  19On this issue, see Sen (1977b, 1982a).
-20Formally, person 2 is "almost decisive" over the
-first pair (in the sense of winning against opposition by
-all others-in this case, person 1), and an alternative
-version of the Field-Expansion Lemma shows that he
-will be almost decisive (indeed fully decisive) over all
-other pairs as well (see Lemma 3a in Sen [1970 pp.
-43-44]). Note that "field expansion" is based inter alia
-on the use of the condition of "unrestricted domain,"
-allowing the possibility that the individuals involved
-could have had other preferences as well.
 
 
 ### ---Economics-1995-0-09.txt---
@@ -30796,36 +30053,6 @@ lar when people are compared in terms of
 some other feature, such as real income,
 holdings of primary goods, or capabilities to
 function. There are, thus, whole varieties of
-210n different types of interpersonal comparisons,
-and the relevance of distinct "spaces" in making effi-
-ciency and equity judgments, see Sen (1982a, 1992a),
-John Roemer (1986), Martha Nussbaum (1988),
-Richard Arneson (1989), G. A. Cohen (1989), Arrow
-(1991), Elster and Roemer (1991), and Nussbaum and
-Sen (1993).  22On the other hand, Arrow's impossibility theorem
-can be generalized to accommodate cardinality of utili-
-ties without interpersonal comparisons; see Theorem
-8.2 in Sen (1970).
-23Maximin gives complete priority to the interest of
-the worst off. It was proposed by John Rawls (1963), as
-a part of his "difference principle" (though the com-
-parisons that he uses are not of utilities, but of hold-
-ings of primary goods). Lexicographic maximin, some-
-times called "leximin," was proposed in Sen (1970) to
-make the Rawlsian approach consistent with the strong
-Pareto principle, and it has been endorsed and used in
-his Theory of Justice by Rawls (1971). Axiomatic deriva-
-tions of leximin were pioneered by Peter J. Hammond
-(1976), and Claude d'Aspremont and Gevers (1977),
-among others. See also Edmund Phelps (1973).
-24See Harsanyi (1955), Patrick Suppes (1966), Sen
-(1970, 1977b), Phelps (1973), Hammond (1976, 1985),
-Arrow (1977), d'Aspremont and Gevers (1977), Gevers
-(1979), Eric Maskin (1978, 1979), Roberts (1980a,b),
-Roger B. Myerson (1981), James Mirrlees (1982),
-Suzumura (1983), Blackorby et al. (1984), d'Aspremont
-(1985), and Kelsey (1987), among others.
-
 
 ### ---Economics-1995-0-10.txt---
 ways in which social welfare judgments can
@@ -30899,37 +30126,6 @@ shown (Sen, 1966) that this condition can be
 far extended and generalized to a much less
 demanding restriction called "value restric-
 tion."27
-25The literature on such measures is now quite
-large. Different types of exercises are illustrated by Sen
-(1973), Frank Cowell (1977), Blackorby and Donaldson
-(1978,1980), Siddiq Osmani (1982), Sudhir Anand
-(1983), Atkinson (1983, 1989), S. R. Chakravarty (1983),
-Anthony Shorrocks (1983), Suzumura (1983), James E.
-Foster (1984, 1985), Ravi Kanbur (1984), Michel
-Le Breton and Alain Trannoy (1987), W. Eichhorn
-(1988), Peter J. Lambert (1989), and Martin Ravallion
-(1994), among many other contributions.
-26The policy discussions include those surrounding
-the influential Human Development Reports, produced
-by the United Nations Development Programme. An-
-other strong force in that direction has been the se-
-quence of UNICEF reports on The State of the World's
-Children. Policy issues related to such social judgments
-have been discussed by Paul Streeten et al. (1981),
-Nanak Kakwani (1986), Jean Dreze and Sen (1989),
-Alan Hamlin and Philip Pettit (1989), Keith Griffin and
-John Knight (1990), Anand and Ravallion (1993),
-Partha Dasgupta (1993), and Meghnad Desai (1995).  27,, Value restriction" turns out to be necessary and
-sufficient for this class of domain conditions for consis-
-tent majority rule when individual preferences are lin-
-ear orderings, though the conditions are more complex
-in the general case of weak orderings (see Sen and
-Prasanta Pattanaik, 1969; see also Ken-ichi Inada, 1969,
-1970). These relations can be generalized to all
-Arrovian social welfare functions and for nonmanipu-
-lable voting procedures (on which see Maskin [1976]
-and E. Kalai and E. Muller [1977]). Other types of
-conditions have been proposed by Tullock (1967) (with
 
 
 ### ---Economics-1995-0-11.txt---
@@ -31018,24 +30214,6 @@ is not devoid of other merits (and is fre-
 quently used in practice).30 Other types of
 voting rules have also been shown to have
 different desirable properties.3'
-a somewhat exaggerated title: "The General Irrele-
-vance of the General Possibility Theorem") and in a  definitive paper by Jean-Michel Grandmont (1978).  Fine discussions of the issues involved in the different
-types of domain conditions can be found in Gaertner
-(1979) and Arrow and Herve Raynaud (1986).
-28The ubiquitous presence of voting cycles in ma-
-jority rule has been extensively studied by R. D.  McKelvey (1979) and Norman Schofield (1983).
-29Even individual social welfare judgments (and
-more generally, individual views of social appropriate-
-ness) presumably have some influence on political pref-
-erences.
-30Positional rules of other kinds have been studied
-extensively by Peter Gardenfors (1973) and Ben Fine
-and Kit Fine (1974a,b). On different versions of the
-Borda rule, see Sen (1977a, 1982a pp. 186-87).
-31For example, Andrew Caplin and Barry Nalebuff
-(1988) provide a case for 64-percent majority rule. Also
-see the symposium on voting procedures led by
-Jonathan Levin and Nalebuff (1995).
 
 
 ### ---Economics-1995-0-12.txt---
@@ -31131,12 +30309,7 @@ on a limited class of consequences), Nozick's
 other end (focusing on the right rules that
 cover personal liberties as well as rights of
 holding, using, exchanging, and bequeathing
-32Buchanan (1986) expresses some basic sympathy  for "libertarian socialists" (as opposed to antilibertar-
-ian socialists) but attributes what he sees as their  well-intentioned but mistaken opposition to markets to  their not having "the foggiest notion of the way the  market works" and to their being "blissfully ignorant
-of economic theory" (pp. 4-5). Consequential analysis
-incorporated in economic theory is precisely what
-Buchanan is invoking here to dispute the libertarian
-socialist position.
+
 
 
 ### ---Economics-1995-0-13.txt---
@@ -31226,15 +30399,6 @@ an adequately rich characterization of states
 of affairs. The dichotomy is far from pure,
 and it is mainly a question of relative con-
 centration.
-330n this see Sen (1981), linking starvation to un-
-equal entitlements, with actual case studies of four
-famines. See also Ravallion (1987), Dreze and Sen
-(1989), and Desai (1995).
-34See also Nozick's (1974) discussion of "Locke's
-proviso."
-350n this question, see Sen (1982a,b).
-360n this question, see Sen (1982b), Hammond
-(1986), and Levi (1986).
 
 
 ### ---Economics-1995-0-14.txt---
@@ -31314,32 +30478,6 @@ last is an important subject on its own (quite
 independently of any use it might have
 as an attempt to resolve the impossibility),
 and I shall presently consider it. But as has
-37Utilities can be defined in terms of choices made,
-desires entertained, or satisfactions received, but the
-point at issue applies to each of these interpretations.
-Utilitarian welfare economics has tended traditionally
-to focus on satisfactions, partly because individual
-choices do not immediately yield any basis for interper-
-sonal comparisons unless some elaborately hypotheti-
-cal choices are considered, on which see Harsanyi
-[1955]), but also because "satisfaction" had appeared
-to utilitarian economists as providing a more solid basis
-for judging individual welfare. For example, this was
-the reason given by A. C. Pigou (1951 pp. 288-89):
-Some economists ... have employed the term
-'utility' indifferently for satisfactions and for
-desiredness. I shall employ it here to mean
-satisfactions, so that we may say that a man's
-economic welfare is made up of his utilities.
-38The idea of "personal domains" and "protected
-spheres" goes back to Mill (see Riley, 1987), and more
-recently has found strong and eloquent expression in
-the writings of Friedrich Hayek (1960).
-39For general accounts of the literature, see Kelly
-(1978), Suzumura (1983, 1991), Wriglesworth (1985),
-Paul Seabright (1989), and Pattanaik and Suzumura
-(1994a, b). For public-choice critiques, see Sugden
-(1981, 1993) and Rowley (1993).
 
 
 ### ---Economics-1995-0-15.txt---
@@ -31424,28 +30562,7 @@ appears that not banning smoking in certain
 gatherings (leaving the matter to the discre-
 tion of the people involved) would actually
 lead to unwilling victims having to inhale
-40The belief that the problem can be resolved
-through Pareto-improving contracts, which has been
-suggested by some authors, overlooks the incentive-
-incompatibility of the touted solution and, perhaps  more importantly, confounds the nature of the conflict
-itself, since the conflict in values keeps open the ques-
-tion as to what contracts would be offered or accepted
-by the persons involved. For example, in the (rather
-overdiscussed) case of whether the prude or the lewd
-should read Lady Chatterley's Lover, it is not at all
-clear that the prude, if he has any libertarian inclina-
-tions, would actually offer a contract by which he
-agrees to read a book that he hates to make the lewd
-refrain from reading a book he loves. In fact, while the
-prude may prefer that the lewd does not read that
-book, consistent with that he may not want to bring
-this about through an enforceable contract, and the
-"dilemma of the Paretian liberal" could be his dilemma
-too. The lewd too faces a decision problem about
-whether to try to alter the prude's personal life rather
-than minding his own business. On these issues, see
-Sen (1983, 1992b), Basu (1984), and Elster and Hylland  (1986).  41Stig Kanger (1985) has illuminatingly discussed  "nonrealization" of rights, and the variety of ways this
-can occur.
+
 
 
 ### ---Economics-1995-0-16.txt---
@@ -31524,29 +30641,7 @@ may be called the "low-minded sentimental-
 ism" of assuming that everyone is constantly
 motivated entirely by personal self-
 interest.44
-420n related matters, see also Pattanaik and Suzu-  Imura (1994a, b).
-A set of studies on this and related issues is
-presented in Jane Mansbridge (1990).  44Efforts to explain every socially motivated action  as some kind of a cunning attempt at maximization of
-purely private gain are frequent in part of modern
-ecnonomics. There is an interesting question as to  whether the presumption of exclusive self-interested-  ness is a more common general belief in America than
-in Europe, without being a general characteristic of
-actual behavior. Alexis de Tocqueville thought so:
-The Americans... are fond of explaining almost
-all the actions of their lives by the principle of  self-interest rightly understood; they show with
-complacency how an enlightened regard for
-themselves constantly prompts them to assist
-one another and inclines them willingly to  sacrifice a portion of their time and property to
-the welfare of the state. In this respect, they
-frequently fail to do themselves justice; for in
-the United States as well as elsewhere people
-are sometimes seen to give way to those disin-
-terested and spontaneous impulses that are
-natural to man; but the Americans seldom
-admit that they yield to emotions of this kind;
-they are more anxious to do honor to their
-philosophy than to themselves.
-(Tocqueville, 1840 [Book II, Chapter VIII; in the 1945
-edition, p. 122]).
+
 
 
 ### ---Economics-1995-0-17.txt---
@@ -31638,19 +30733,7 @@ applies as much to the poorer democratic
 countries (such as India, Zimbabwe, or
 Botswana) as to the richer ones.47 This is
 largely because famines, while killing mil-
-450n this subject, see Nozick (1989).
-46See also Dreze and Sen (1989) and World Disas-
-ters Report (1994 pp. 33-37).
-In contrast, China-despite its fine record of pub-
-lic health and education even before the reforms-
-managed to have perhaps the largest famine in recorded
-history, during 1959-1962, in which 23-30 million peo-
-ple died, while the mistaken public policies were not
-revised for three years through the famine. In India, on
-the other hand, despite its bungling ways, large famines
-stopped abruptly with independence in 1947 and the
-installing of a multiparty democracy (the last such
-famine, "the great Bengal famine," had occurred in  1943).
+
 
 
 ### ---Economics-1995-0-18.txt---
@@ -31729,13 +30812,7 @@ depart both from the assumption of given
 preferences (as in traditional social choice
 theory) and from the presumption that peo-
 ple are narrowly self-interested homo eco-
-480n this general question, see Rawls (1971) and
-Thomas Scanlon (1982). See also Daniel Hausman and
-Michael McPherson (1993).  49See the discussion and the literature cited in Sen
-(1994 pp. 62-71), particularly Dasgupta (1993). See  also Adam Przeworski and Fernando Limongi's (1994)  international comparisons, which indicate a fairly strong  association between democracy and fertility reduction.  In the rapid reduction of the total fertility rate in the  Indian state of Kerala from 4.4 in the 1950's to the  present figure of 1.8 (a level similar to that in Britain  and France and lower than in the United States), value  formation related to education, democracy, and public  discussion has played a major part. While the fertility  rate has also come down in China (though not as much  as in Kerala), China's use of compulsion rather than  consensual progress has resulted in relatively high  infant-mortality rates (28 per thousand for boys and 33  per thousand for girls, compared with Kerala's 17 per  thousand for boys and 16 per thousand for girls in
-1991). Such public dialogues are, however, hard to  achieve in many other parts of India, despite democ-  racy, because of the low level of elementary education,
-especially for women. These and related issues are
-discussed in Dreze and Sen (1995).
+
 
 
 ### ---Economics-1995-0-19.txt---
@@ -32004,20 +31081,7 @@ out of my research on the service industries
 by a desire to gain a better understanding of
 the postindustrial society that was emerging in
 the United States and other developed coun-
-' In an extension of the crossword puzzle analogy sug-
-gested by Richard J. Zeckhauser in a 1995 personal com-
-munication, it seems that economics might make more
-progress if theorists didn't tend to concentrate on the lower
-left-hand corner of the puzzle while empiricists work the
-upper right-hand corner.
-6 The relatively new International Health Economics
-Association will hold its inaugural conference in Vancou-
-ver in May 1996.
-7 The Journal of the American Medical Association has
-twenty international editions published weekly in eleven
-languages, with 40 percent more recipients than the reg-
-ular U.S.-based edition (George D. Lundberg and Annette
-Flanagin, 1995).
+
 
 
 ### ---Economics-1996-0-04.txt---
@@ -32110,17 +31174,7 @@ some manmade problem, such as capitalism or
 socialism, market failure or excessive govern-
 ment interference. In the 1960's and 1970's,
 many physicians said that there was no need
-to limit expenditures for medical care if only  ' For an explanation, see Fuchs (1994 pp. 108-10); also
-see Fuchs (1974a Ch. 2, 1974b, 1993); Robert H. Brook
-et al. (1983); Johan Calltorp (1989); Leslie L. Roos et al.
-(1990); Peter Townsend and N. Davidson (1982); and
-Richard G. Wilkinson (1986).
-9 See Fuchs and Marcia Kramer (1973), Fuchs (1978b,
-1990), Alan M. Garber, Fuchs and James F. Silverman
-(1984), Fuchs and James S. Hahn (1990), Donald A.
-Redelmeier and Fuchs (1993).  10 See David Dranove and Paul Wehner (1994).
-" See Jonathan Gruber and Maria Owings (1996).
-
+to limit expenditures for medical care if only
 
 ### ---Economics-1996-0-05.txt---
 we would cut defense spending. In 1996, when
@@ -32209,22 +31263,6 @@ policy is worth noting. The American Cancer
 Society accepted his conclusions and the So-
 ciety's recommendation to screen once every
 3 years made the front page of the New York
-'2 As a sign of the times, Sweden, Norway, Finland,
-and the World Health Organization are sponsoring the first
-international conference on priorities in health care in Oc-
-tober 1996.
-' Economists fall into their own monotechnic trap
-when they offer policy advice under the assumption that
-efficiency is society's only goal.
-'4 See Feldstein (1967).
-'5 To put this in perspective, consider the choice be-
-tween tissue plasminogen activator (TPA) and its cheaper
-alternative, streptokinase, as the treatment to dissolve a
-clot during a heart attack. The latest studies suggest that
-the incremental cost of TPA rather than streptokinase is
-$33,000 per year of life extended (D. B. Mark et al., 1995).
-In the United States TPA is usually the treatment of
-choice, but Canadians use streptokinase.
 
 
 ### ---Economics-1996-0-06.txt---
@@ -32312,21 +31350,7 @@ schooling and health.
 To explore this question I examined sur-
 vey data on smoking behavior collected
 by colleagues in the Stanford Heart Dis-
-ease Prevention Program as part of a health  16 Eddy's analysis focuses on the incremental benefit
-and cost of more services to all the patients in a population.
-Another important example of margin is the cost and ben-
-efit of extending a (usually) once-in-a-lifetime service
-such as- coronary bypass surgery to more and more  patients.
-Antibiotics, drugs for hypertension, surgery for
-trauma, and care of infants born prematurely are examples
-of outstanding successes.
-18 Standard errors of the regression coefficients shown
-in parentheses. Mortality rates are 3-year averages cen-
-tered on the years shown. Regressions are weighted by
-state population.  '" This is in sharp contrast to the effects of income and
-medical care on health-their marginal products diminish
-rapidly over, the ranges usually found in high-income
-countries.
+ease Prevention Program as part of a health
 
 
 ### ---Economics-1996-0-07.txt---
@@ -32413,22 +31437,7 @@ I prepared a 20-question survey concerning
 health economics and health policy and sent it
 to health economists, economic theorists, and
 practicing physicians. The health economists
-were those whom I considered to be the lead-  20 It is worth noting that the negative relation between
-schooling and smoking is only evident for cohorts that
-reached age 17 after the information about the effects of
-smoking on health became available. It is also of interest
-that the relationship has not diminished for more recent
-cohorts even though the information about the nega-
-tive consequences of smoking has become more widely
-available.
-21 There are alternative or complementary "third vari-
-able" explanations possible; compare Albert Bandura's
-(1991) concept of self-efficacy.  22 Stigler's optimism regarding the impact of empirical
-research on policy may have had more vindication in other
-fields, but my research into family issues (Fuchs, 1983)
-and gender issues (Fuchs, 1988a) do not lead me to such
-a conclusion.
-
+were those whom I considered to be the lead-
 
 ### ---Economics-1996-0-08.txt---
 ing people in the field, plus some of the more
@@ -32514,94 +31523,15 @@ sharply. For example, in replies to the four ques-
 tions dealing with support for national health in-
 surance, the health economists never depart
 significantly from a 50-50 split. On question 8,
-23 In order to keep a clear distinction between health
-economists and theorists, I excluded any theorist who'had
-done a substantial amount of work on health care.
-24 An empirical researcher who specializes in public
-economics, a law professor who teaches a course in health-
-policy and who has read widely in philosophy, and a the-
-orist who specializes in law and economics.  25 The fact that there is perfect unanimity for only one
-of the seven positive questions should not be a cause for  surprise. Even physics has its dissenters. Steven Weinberg
-(1995), winner of the Nobel Prize in physics, has noted
-"If you had a law suit that hinged on the validity of the
-unified weak and electromagnetic theory, you could prob-  ably find an expert witness who was a Ph.D. physicist with  a good academic position who would testify that he didn't
-believe in the theory" (p. 12).
-26 I believe the health economists' majority responses
-are correct for all seven questions.
+
 
 
 ### ---Economics-1996-0-09.txt---
-Survey Health Economic Practicing
-question economists theorists physicians
-number' Question (n c 46) (n c 44) (n c 42)
-A. Positive Questions:
-4 The high cost of health care in the United States makes U.S. firms 9** 17** 64
-substantially less competitive in the global economy.
-9 Third-party payment results in patients using services whose costs 84** 93** 73*
-exceed their benefits, and this excess of costs over benefits
-amounts to at least 5 percent of total health care expenditures.
-10 Physicians have the power to influence their patients' utilization 68* 77** 67  of services (i.e., shift the demand curve), and their propensity
-to induce utilization varies inversely with the level of demand.
-12 Widespread use of currently available screening and other 11** 83** 37
-diagnostic techniques would result in a significant (more than
-3%) reduction in health care expenditures (from what they
-would otherwise be) 5 years from now.
-13 The primary reason for the increase in the health sector's share of 81** 37 68*
-GDP over the past 30 years is technological change in
-medicine.
-18 Differential access to medical care across socioeconomic groups 0** 17** 34*  is the primary reason for differential health status among these  groups.
-19 In the long run employers bear the primary burden of their 13** 8** 43
-contributions to employees' health insurance.
-B. Policy-Value Questions:
-National health insurance questions:
-3 The U.S. should now enact some plan that covers the entire 62 65* 68*
-population.
-7 The U.S. should seek universal coverage through a broad-based 54 56 56  tax with implicit subsidies for the poor and the sick.
-14 The U.S. should seek universal coverage through mandates, with 38 29* 46
-explicit subsidies for the poor and the sick.
-15 Given a choice between the Clinton health care plan or no federal 36 33* 28**  health care legislation for at least 5 years, the Clinton plan
-should be approved.
-Insurance company underwriting questions:
-8 Insurance companies should be required to cover all applicants 51 29** 69*  regardless of health condition and not allowed to charge sicker
-individuals higher premiums.
-17 Health insurance premiums should be higher for smokers than for 71** 90** 85**
-nonsmokers.
-20 Health insurance premiums charged to individuals born with 14** 20** 13**  genetic defects (that result in above average use of medical
-care) should be higher than those charged to individuals  without such defects.
-All other policy-value questions:
-I It is inequitable for the govemment to vary subsidies for health 62 36 86**  insurance by size of firm.
-2 "Any willing provider" legislation (that requires health plans to 12** 12** 39
-include any physician who wants to be included) is desirable
-for society as-a whole.
-5 National standardized health insurance benefit packages should be 42 51 63
-established.
-6 It is inefficient for the govemment to vary subsidies for health 66* 42 73*  insurance by size of firm.
-11 Expenditures on medical R&D are greater than is socially 27* 29* 16**  optimal.
-16 All health insurance plans should be required to offer "point of 30** 55 83**
-service" options (that allow patients to obtain care outside the
-basic plan at additional cost).
-'Of those who agree or disagree. * Significantly different from 50 percent at p < 0.05.  Question numbers refer to order of questions in original survey. ** Significantly different from 50 percent at p < 0.01.
+
 
 
 ### ---Economics-1996-0-10.txt---
-TABLE 2-AVERAGE ABSOLUTE DIFFERENCE BETWEEN PERCENTAGE AGREEING AND
-PERCENTAGE DISAGREEING BY TYPE OF QUESTION
-Health Economic Practicing
-economists theorists physicians
-Mean absolute difference:
-7 positive questions 71.6 64.3 30.9
-13 policy-value questions 33.8 36.5 45.0
-Difference in means 37.8 27.8 -14.1
-Median absolute difference:
-7 positive questions 73.9 66.7 31.7
-13 policy-value questions 27.3 33.3 45.0
-Difference in medians 46.6 33.3 -13.3
-Standard error of the mean:
-7 positive questions 6.8 7.1 3.5
-13 policy-value questions 5.9 6.5 6.4
-Standard error of the difference in means 9.0 9.6 7.3
-Difference in means divided by standard error of the difference 4.2 2.9 -1.9
-Chi-square of the difference between type of question 5.5 5.5 2.0
+
 which would require insurance companies to
 cover all applicants regardless of health condi-
 tion with no premium surcharge for the sick, the
@@ -32643,18 +31573,6 @@ ing and percentage disagreeing.29 This differ-
 ence (22 percentage points) was much smaller
 (and less statistically significant) than the dif-
 ference I found for the health economists.
-27 This was confirmed by Byron Wm. Brown, who ex-
-amined the data using the bootstrap method (Bradley
-Efron, 1993).  28 The identification is in a longer, unpublished version
-of their paper.  29 I also tried treating "agree, with provisos" as "no
-opinion"; this reduced the difference between the positive
-and normative questions with respect to consensus.
-30 Comparisons based on the entropy index used by
-Alston et al. (1992) are even more striking. The mean
-entropy (a measure of lack of consensus) was 0.70 for their
-micro-positive questions, but only 0.52 for the health
-economists' answers to our positive questions. The mean
-for their micro-normative questions (0.80) was just about
 
 
 ### ---Economics-1996-0-11.txt---
@@ -32739,26 +31657,6 @@ of genetic factors in disease, it is hardly
 surprising that health economists are unable
 to reach agreement. The state of knowledge
 about the links between genes and disease is
-the same as for the health economists' policy-value ques-
-tions (0.77).  " For a discussion of alternative conceptions of justice,
-see Amartya Sen (1987).
-32 In Essays in Positive Economics, Friedman (1953)
-wrote "Differences about economic policy among disin-
-terested citizens derive predominantly from different
-predictions about the economic consequences of taking
-action ... " (p. 5).
-33 See Dollars and Deficits (1966 p. 6); personal com-
-munication in 1995.
-34 In 1974 I recommended universal comprehensive in-
-surance for several reasons, one of which was the specu-
-lation that "a national health insurance plan to which all
-(or nearly all) Americans belong could have considerable
-symbolic value as one step in an effort to forge a link
-between classes, regions, races, and age groups." I also
-thought it important to add "It will be more likely to serve
-that function well if not too much is expected of it-if it
-is not oversold-particularly with respect to its probable
-impact on health" (Fuchs, 1974a p. 150).
 
 
 ### ---Economics-1996-0-12.txt---
@@ -32850,43 +31748,10 @@ of national health insurance with an index value
 of 0. Not surprisingly, there is a negative cor-
 relation between the national health insurance
 index and the actuarial model index. But there
-35 For a comprehensive review of the role of uncer-
-tainty in decision-making see C. F. Camerer and M. Weber
-(1992).  36 The physicians also differed from the health econo-
-mists, choosing "no opinion" more often for the positive
-than for the policy-value questions (15 percent versus 9
-percent).
-" In actuarially-based insurance it is presumed that
-premiums will be determined (to the extent feasible) by
-expected loss. Health insurance did not begin with that
-assumption; the early Blue Cross/Blue Shield premiums
-were typically "community rated," with healthy individ-
-uals paying the same premiums as those who were ill.
 
 
 ### ---Economics-1996-0-13.txt---
-TABLE 3-INDEXES OF SUPPORT FOR NATIONAL HEALTH INSURANCEa AND FOR AN ACTUARIAL MODEL
-OF PRIVATE INSURANCE UNDERWRITINGb
-Health, Economic Practicing
-economists theorists physicians All
-National health insurance index:
-Mean 0.48 0.48 0.49 0.48
-Standard error of the mean 0.05 0.05 0.05 0.03
-Coefficient of variation (percent) 71 70 67 69
-Percentage with index = 1 15 9 14 13
-Percentage with index = 0 13 18 14 15
-Actuarial model index:
-Mean 0.46 0.61 0.44 0.50
-Standard error of the mean 0.05 0.04 0.04 0.03
-Coefficient of variation (percent) 71 42 64 60
-Percentage with index = 1 7 16 7 10
-Percentage with index = 0 22 5 14 14
-Coefficient of correlation between
-the two indexes -0.37t -0.34t -0.37t _0.35**
-a National health insurance index is based on answers to survey questions 3, 7, 14 and 15.
-'Actuarial model index is based on answers to survey questions 8, 17 and 20.
-t Significant at p < 0.02.
-** Significant atp < 0.01.
+
 is a significant difference between the groups in
 the extent of support for the actuariai model in-
 dex. The economic theorists have a value of
@@ -32935,36 +31800,9 @@ questions and the two indexes is also revealed
 in Table 5, which presents the results of re-
 gressing the indexes on the positive ques-
 tions.38 In the national health insurance
-38 The reliability of the OLS regressions was checked
-in several ways: values for each respondent were predicted
-from each regression and found to be always between 0
-and 1; regressions run with the dependent variable trans-
-
 
 ### ---Economics-1996-0-14.txt---
-TABLE 4-COEFFICIENTS OF CORRELATION BETWEEN THE TWO INDEXES AND THE POSITIVE QUESTIONS
-AND THE OTHER POLICY-VALUE QUESTIONS
-National health insurance index Actuarial model index
-Survey question Health Economic Practicing Health Economic Practicing
-number economists theorists physicians All economists theorists physicians All
-7 positive questions:
-4 0.17 0.00 0.12 0.09 -0.08 0.03 -0.09 -0.09
-9 0.10 0.17 0.02 0.09 0.40** 0.01 -0.20 0.11
-10 0.3 1* 0.11 -0.07 0.12 -0.34* -0.20 -0.10 -0.20*
-12 -0.11 0.21 -0.14 -0.03 0.06 0.19 0.14 0.20*
-13 -0.27 -0.01 -0.19 -0.14 0.11 0.17 0.20 0.06
-1 8 -0.21 0.04 0.09 0.04 -0.06 0.13 0.15 0.09
-1 9 0.24 0.06 0.10 0.13 -0.02 -0.00 -0.13 -0.11
-6 other policy-value
-questions:'
-I 0.11 0.01 0.02 0.06 -0.34* -0.13 -0.06 -0.27**
-2 0.12 0.24 -0.27 0.01 -0.09 -0.29 0.17 -0.06
-5 0.62** 0.49** 0.47** 0.52** -0.54** -0.17 -0.31* -0.35**
-6 -0.04 -0.16 -0.28 -0.14 -0.06 -0.05 0.12 -0.07
-1 1 0.14 0.05 0.13 0.10 -0.02 0.03 0.26 0.11
-1 6 0.19 0.13 -0.01 0.11 -0.24 -0.13 0.02 -0.14
-Policy-value questions not included as part of national health insurance index or actuarial model index.  * Significant at p < 0.05.
-** Significant at p < 0.01.
+
 regression the only statistically significant co-
 efficient is for question 10 for health econo-
 mists. Other things being equal, those who
@@ -33009,72 +31847,10 @@ genetic defects). In the latter case the high per-
 centage responding "no opinion" may reflect
 uncertainty regarding the magnitudes of the
 efficiency and distributional implications of
-formed to the odds ratio or to a dichotomous variable es-
-timated with a logistic specification that showed even less
-predictive value than the OLS regressions.
-9 This one question accounted for one fourth of the
-health economists' "no opinion" replies to the 13 policy-
-value questions.
 
 
 ### ---Economics-1996-0-15.txt---
-TABLE 5-RESULTS OF ORDINARY LEAST SQUARES REGRESSIONS OF THE NATIONAL HEALTH INSURANCE INDEX
-AND THE ACTUARIAL MODEL INDEX ON SEVEN POSITIVE QUESTIONS
-Survey question Health Economic Practicing
-number economists theorists physicians All groups
-National health
-insurance index:
-4 0.206 -0.007 0.048 0.022 0.029
-(0.165) (0.163) (0.158) (0.079) (0.088)
-9 0.053 0.138 0.046 0.056 0.052
-(0.139) (0.195) (0.162) (0.084) (0.086)
-10 0.239* 0.032 -0.104 0.079 0.077
-(0.112) (0.157) (0.151) (0.074) (0.075)
-12 -0.167 0.221 -0.100 -0.053 -0.043
-(0.154) (0.196) (0.128) (0.076) (0.084)
-13 -0.169 0.027 -0.121 -0.088 -0.093
-(0.124) (0.133) (0.123) (0.066) (0.071)
-18 -0.776 -0.031 0.087 0.007 0.012
-(0.699) (0.162) (0.133) (0.093) (0.094)
-19 0.231 0.049 -0.016 0.087 0.089
-(0.141) (0.198) (0.145) (0.080) (0.083)
-ET dummy' -0.026
-(0.086)
-PP dummy' -0.024
-(0.089)
-Constant 0.402 0.201 0.598 0.438 0.454
-(0.189) (0.198) (0.178) (0.099) (0.112)
-R 2 0.287 0.066 0.080 0.052 0.053
-Adjusted R2 0.156 -0.116 -0.110 -0.001 -0.017
-F 2.18 0.36 0.42 0.98 0.76
-Actuarial model
-index:
-4 -0.102 0.079 -0.029 -0.069 -0.029
-(0.160) (0. 1 19) (0.131) (0.068) (0.073)
-9 0.373** 0.027 -0.102 0.146* 0.142*
-(0.135) (0.142) (0.135) (0.072) (0.072)
-1 0 -0.224* -0.211 -0.013 -0. 187** -0. 190**
-(0.108) (0.115) (0.125) (0.063) (0.062)
-12 0.026 0.216 0.023 0.146* 0.091
-(0.149) (0.143) (0.106) (0.065) (0.070)
-13 0.094 0.149 0.090 0.041 0.090
-(0.120) (0.097) (0.102) (0.056) (0.059)
-18 0.432 0.068 0.113 0.114 0.109
-(0.678) (0.118) (0.111) (0.079) (0.079)
-19 -0.010 0.080 -0.075 -0.062 -0.028
-(0.137) (0.145) (0.120) (0.068) (0.070)
-ET dummy' 0.130
-(0.071)
-PP dummy' -0.033
-(0.074)
-Constant 0.234 0.491 0.454 0.446 0.391
-(0.184) (0.144) (0.148) (0.085) (0.093)
-R 2 0.279 0.166 0.114 0.145 0.182
-Adjusted R2 0.146 0.004 -0.068 0.096 0.122
-F 2.10 1.02 0.63 3.00 3.02*
-Notes: Standard error in parentheses.
-Health economist is the excluded class (ET = economic theorists and PP = practicing physicians).  * Significant at p < 0.05.
-** Significant at p < 0.01.
+
 
 
 ### ---Economics-1996-0-16.txt---
@@ -33176,7 +31952,6 @@ versus nonsmokers, savers versus nonsavers,
 men versus women, and so on. Health econ-
 omists who are unanimous in approving gains
 in efficiency might have very different views
-40 See Arthur Okun (1975).
 
 
 ### ---Economics-1996-0-17.txt---
@@ -33277,9 +32052,7 @@ for creditable people, even of the lowest order,
 to be without" (1776; republished 1937 p.
 821). To achieve universal coverage there
 must be subsidization for those who are too
-4' For example, Kenneth Arrow, Zvi Griliches, Ed
-Mansfield, Richard Nelson, Nathan Rosenberg, and Jacob
-Schmookler.
+
 
 
 ### ---Economics-1996-0-18.txt---
@@ -33365,25 +32138,7 @@ Market competition also has its problems. It
 assumes a preoccupation with the bottom line
 and governance by a corporate mentality that
 judges the success of each division by its profit
-growth. Physician-led systems will also have  42 It is true that most of the uninsured currently receive
-some care, but it is financed through a haphazard hodge-
-podge of self-pay, cost shifting, government subsidies, and
-philanthropy.  " The choice of the tax base is primarily a problem of
-public finance, not health economics. I prefer a value-
-added tax because it is more efficient than a payroll tax (it
-does not tax labor while ignoring capital), and I prefer it
-to an income tax because it encourages saving and dis-
-courages consumption (a value judgment). The VAT ap-
-peals to my sense of faimess because it is more difficult
-to escape its impact through tax loopholes or tax evasion,
-and, when taken in conjunction with the benefit that it
-provides, is clearly progressive.
-" See Arrow (1963) for a discussion of professional
-control in medicine.
-4S The patient-physician relationship presents an ex-
-treme case of the principal-agent problem; research by
-specialists on that topic is badly needed.
-
+growth. Physician-led systems will also have 
 
 ### ---Economics-1996-0-19.txt---
 to pay attention to costs, and physicians will
@@ -33464,30 +32219,7 @@ arm' s-length competition with one another.
 Patients can benefit from cooperation among
 physicians and hospitals, both in reduced costs
 and better service. Managed competition alone
-will not be enough to contain costs; it must be  46 The effects on television network news departments
-of the subordination of professional norms to the pursuit
-of profits shows what could happen in medical care.
-4 Readers whose values lead them to prefer a more
-egalitarian system might consider how individuals now
-have options to use their income to live in safer neigh-
-borhoods, drive safer cars, avoid unhealthy occupations,
-and make other choices that have larger and more pre-
-dictable effects on health than the options available in my
-recommendation for health care.
-48 Many advances in medicine do not spring full-blown
-from the test tube. They require long periods of develop-
-ment through trial and error and incremental improve-
-ments. In my judgment it is desirable to have a system in
-which technologic opportunities can be explored on a rea-
-sonably large scale with the cQsts borne by those patients
-who are most willing and able to pay for a chance at un-
-proven benefits. Government- or industry-financed ran-
-domized clinical trials with small samples of selected
-patients treated in selected environments are not always a
-satisfactory substitute for larger scale efforts to establish
-the effectiveness, and especially the cost-effectiveness of
-a medical technology.
-4 See Alain Enthoven (1986, 1988).
+will not be enough to contain costs; it must be 
 
 
 ### ---Economics-1996-0-20.txt---
@@ -33579,19 +32311,6 @@ hear in the media and what their relatives and
 friends tell them has been their experience.
 The threat of malpractice suits lurks in the
 background. A major function of the center
-50For general discussions, see Joseph P. Newhouse
-(1992), William B. Schwartz (1987), and Burton A.
-Weisbrod (1991). For a detailed examination of the role
-of technology in increasing expenditures on heart attack
-patients, see David M. Cutler and Mark McClellan (1995).
-5' See Paul M. Romer (1993).  52 The federal government's Agency for Health Care
-Policy and Research has shown that even a modest budget
-can produce valuable information about medical technol-
-ogies, but the agency now faces extinction because of the
-opposition from politically influential medical and surgi-
-cal specialists who expect to be adversely affected by its
-findings. See Neil A. Lewis (1995).
-
 
 ### ---Economics-1996-0-21.txt---
 would be to give legitimacy and a stamp of
@@ -33691,11 +32410,7 @@ past. Through skillful analysis of the interac-
 tions between values and the conclusions of
 positive research, we will be able to contribute
 more effectively to public policy debates. And,
-13 For an interesting discussion of the "topping off"
-problem, see Robert H. Frank (1996).
-5 This would undoubtedly require research to uncover
-the reasons for the erosion of professional control. See, for
-example, Steven Brint (1994).
+
 
 
 ### ---Economics-1996-0-22.txt---
@@ -33861,22 +32576,6 @@ to reinforce prejudices and perpetuate the "old
 wisdom." Perhaps that is inevitable in the
 "marketplace of ideas" as new paradigms are
 brought forth to replace old ones.
-'To name just one example from another field, con-  sider the pioneering work of Theodore W. Schultz ( 1964),
-challenging the view that irrational peasants were unre-
-sponsive to incentives. Once his work was accepted, it was
-no longer possible to maintain low prices for agricultural
-commodities and believe that there would be little or no
-output effects.
-4 An example is the line of research, which continued
-into the 1970's, improving methodology for planning
-models. This research certainly contributed greatly to un-
-derstanding both the functioning of the economy and also
-to one aspect of what would be necessary in order for the
-planning approach to succeed. Without those research
-contributions, it is possible that many would claim that
-planning failed because it was incorrectly done (rather
-than, as most would now believe, it was misconceived).
-
 
 ### ---Economics-1997-0-04.txt---
 I. Evolution of Theory, Understanding,
@@ -33953,132 +32652,6 @@ price elasticities of demand for primary com-
 modities were low. Consequently, it was an-
 ticipated that export earnings would not grow
 very rapidly, if at all.8
-'Latin America and a few other countries (including
-China, Thailand, and Turkey), then deemed "underde-
-veloped," were not formally colonies prior to the Second
-World War. However, it was widely believed that they had
-been "economically dependent." The leaders and elite in
-most poor countries shared the perception that their econ-
-omies were "different" from industrialized countries and
-like other developing countries. The G-77 (77 countries),
-or nonaligned nations, were all developing countries
-whose leaders perceived themselves to be in a similar eco-
-nomic situation with similar goals of rapid growth and
-improved living standards.
-6 As was then conventional, I shall assume here that
-higher living standards, more rapid growth, and economic
-development were/are synonymous for purposes of ana-
-lyzing trade policy.  7 There was, to be sure, a growing literature on the con-
-tribution of technical change and factor accumulation to
-growth in the industrialized countries. But most develop-
-ment economists saw that research as irrelevant for de-
-veloping countries.
-8 Another widely held view, closely related to export  pessimism, was the proposition that the terms of trade had
-inexorably deteriorated against primary commodities and
-would continue to do so. Investigation of this proposition
-
-
-### ---Economics-1997-0-05.txt---
-A fourth premise was that the labor force
-in developing countries, predominantly en-
-gaged in agricultural activities as it was, had
-a marginal product of labor that was "neg-
-ligible, zero, or even negative," to quote W.
-Arthur Lewis (1954 p. 141). The stylized
-"fact" that there was "surplus" labor, or
-disguised unemployment in less developed
-countries (LDCs) was widely accepted.9 In
-many analytical formulations, it was explic-
-itly or implicitly assumed that labor was a
-free good while capital was the scarce factor
-of production.'0
-Related to the fourth premise was a fifth
-premise: that capital accumulation was crucial
-for growth, and in early stages of development
-it could occur only with the importation of
-capital goods. Since it was expected that the
-demand for capital goods imports, and im-
-ports of other products used in the production
-process, would grow rapidly while foreign
-exchange earnings would not, it appeared that
-growth could follow only if domestic produc-
-tion of import-competing goods could expand
-rapidly.
-Yet a sixth widely accepted premise was
-that there was very little response to price
-incentives in developing countries: peasants
-were "traditional" in their behavior, and
-there were "structural" problems within the
-economy." '
-Based on these stylized facts and premises, it
-was a straightforward step to believe that the
-process of development was that of industriali-
-zation, by which was essentially meant the
-accumulation of capital for investment in man-
-ufacturing industry and related infrastructure.
-Moreover, since most manufactured goods were
-imported, it seemed to follow logically that, as
-stated by Chenery (1958 p. 463) among many
-others: "Industrialization consists primarily in
-the substitution of domestic production of man-
-ufactured goods for imports."
-C. Initial Policies
-Policy prescriptions were derived from
-these propositions, or stylized facts. Since it
-was thought that industrialization was neces-
-sary for development and that free trade would
-leave underdeveloped countries specialized in
-primary commodity production, it followed
-that there had to be investment in new manu-
-facturing industries whose output would sub-
-stitute for imports. Further, it was widely
-believed that new industries in poor countries
-could not possibly compete with their estab-
-lished counterparts in the developed world.
-Therefore, industry would have to be protected
-during its initial phase. Import-substitution
-policies therefore became the hallmark of de-
-velopment strategies for manufacturing and
-the underlying rationale for trade policy."2
-The case for import substitution was based
-both on the premises outlined above and also
-on received doctrine: the infant industry ar-
-gument. The notion that dynamic considera-
-tions and externalities might imply that an
-industry, although economic, would not be es-
-tablished by private agents had been accepted
-by economists as a legitimate exception to the
-case for free trade since Hamilton and List."3
-tended to demonstrate that at the very least the deteriora-
-tion had been much less than was believed. John Spraos
-(1980) provided a classic review of the evidence.  9 A modem interpretation would be that there are many
-people in developing countries with very low marginal
-products of labor. While they are too poor to remain un-
-employed, the process of development entails equipping
-people with the capabilities (partly through education)
-and opportunities to increase their productivity.
-' To be sure, all analysts recognized the importance of
-increased provision of education and health services. But
-for purposes of analyzing trade policy, emphasis was al-
-most exclusively on investment.
-" This gave rise to a great deal of literature based on
-"structuralism." According to some, it was the absence
-of responsiveness to price that made developing countries
-"different." Structuralism was also used as an argument
-that inflation was necessary in order to achieve growth.
-See Hollis B. Chenery ( 1975) for a fuller description.  2 There were many important subthemes that are not
-elaborated here, since they are not essential to the main
-argument. It should, however, be noted that there were
-many who believed that the situation of developing coun-
-tries was "structural" and that marginal changes would
-not matter. It was then concluded that a "big push" was
-needed, with many new investments simultaneously gen-
-erating additional demand and then becoming profitable.
-Ragnar Nurkse's ( 1958) "balanced growth" prescription
-reflected the same viewpoint.
-'" See Robert E. Baldwin's (1969) classic analysis of
-the argument, which not only sets up the conditions under
-which there might be an infant industry, but also carefully
 
 
 ### ---Economics-1997-0-06.txt---
@@ -34164,22 +32737,6 @@ production capacity was available. Similar
 provisions, or very high tariffs, were used to
 encourage import substitution in most devel-
 oping countries."
-and critically scrutinizes the various circumstances in
-which those conditions might hold. Baldwin's article was
-an important contribution to better understanding of the
-empirical relevance of the theory, as I shall argue below.
-'4 It was also believed that there was a revenue con-
-straint, making the first-best production subsidy infeasible.
-More recent analyses would also point to the greater po-
-tential for corruption inherent in production subsidies as
-yet another reason why protection might be preferable.  '" See Kenneth Dam (1970 Ch. 14) for a full discussion.  16 In Argentina, an effort was made to liberalize the
-trade regime by lowering tariffs in the late 1970's. To the
-surprise of officials, there was no apparent effect of the
-first round of tariff cuts. Subsequent investigation revealed
-that the tariffs in question had been between 500 and 1,000
-percent, and that they had been above the rates at which
-domestic producers could compete.
-
 
 ### ---Economics-1997-0-07.txt---
 In some countries and industries, the trade
@@ -34268,25 +32825,7 @@ usually on a relatively uniform and across-the-
 board procedure, controls over foreign trade
 generally became more restrictive and com-
 plex over the next two decades, both in
-'7 See Raul Prebisch ( 1984) for the argument. It can be
-argued that, with uniform incentives, import substitution
-would have taken place first in those industries with least
-comparative disadvantage. In fact, the use of import li-
-censing and prohibitions meant that rates of protection
-were not uniform even across import-competing activities.
-In addition, monopoly power in the domestic market was
-conferred to domestic producers, so that profitability
-hinged more on the price elasticity of the demand curve
-than on producers' abilities to reduce costs and compete
-with imports.
-8 Agricultural protection in Japan, Europe, and the
-United States may have contributed somewhat to this re-
-sult. But in most developing countries, the demand for
-food was growing more rapidly than the supply (as pro-
-ducer prices were suppressed relative to the prices of in-
-dustrial goods) and, thus, the supply (demand) curve for
-exports (imports) of agricultural commodities was shift-
-ing down (up) (see Krueger, 1990 p. 95).
+
 
 
 ### ---Economics-1997-0-08.txt---
@@ -34366,27 +32905,6 @@ foreign exchange was "scarce" in devel-
 oping countries. In this model, export earnings
 were exogenously given and growing more
 slowly than the demand for foreign exchange.
-'9 For a description, see Jagdish N. Bhagwati (1978).  20 See William R. Cline and Sydney Weintraub ( 1981 )
-for analyses of some of these episodes.  21 See Carlos Diaz-Alejandro ( 1976) for an analysis of
-the "stop-go" cycle in Colombia.  22 For a modem presentation of the "big push" need
-for balanced growth, see Kevin M. Murphy et al. ( 1989).
-The notion of balanced growth and "big push" in the
-1940's and 1950's was associated with such analysts as
-Paul Rosenstein-Rodan (1943) and Nurkse (1958),
-among others.
-23 See Chenery and Paul Clark (1959) for an exposi-
-tion. Economists in India probably carried planning mod-
-els the furthest into practice. The Indian Second Five-Year
-Plan was explicitly based on the P. C. Mahalanobis ( 1955)
-model, and contained estimates of output levels for the
-subsequent five years which were used as a basis for grant-
-ing investment licenses. No licenses were issued once
-the increased capacity already had been allocated. See
-Bhagwati and Padma Desai (1970) for an account.
-24There was a huge literature on this subject. See
-Bhagwati ( 1971 ) for a synthesis of many of the papers.
-25 See Christopher Bliss (1989 p. 1194) for a modem  statement of the proposition that if demand and supply are
-sufficiently inelastic, prices do not matter.
 
 
 ### ---Economics-1997-0-09.txt---
@@ -34480,13 +32998,7 @@ of the ways in which protection actually
 worked. Here, attention focussed on rent-
 seeking (Krueger, 1974) as a by-product of
 protection (and, indeed, as a user of resources
-26 See Ronald I. McKinnon (1966), who provided the
-first demonstration of this important proposition at the  time.  27 They did not, in principle, have to be partial equilib-
-rium estimates if shadow prices were known and used
-in calculations. In practice, however, that was seldom
-feasible.
-28 For an exposition of the development of these models
-into the 1970's, see Kemal Dervis et al. (1982).  29 See the survey in Bhagwati (1969).
+
 
 
 ### ---Economics-1997-0-10.txt---
@@ -34584,8 +33096,6 @@ intermediate goods and raw materials.
 The Korean economic performance was
 transformed, as growth rates entered the
 double-digit range and living standards
-30See Corden (1971 p. 51) for a summary of that  literature.  " For an account of Taiwan's turnaround, see Tsiang
-(1985).
 
 
 ### ---Economics-1997-0-11.txt---
@@ -34661,33 +33171,7 @@ that the economics profession, whose consen-
 sus on the principle of comparative advantage
 was at least as great as that on any other policy
 issue, endorsed a highly protectionist policy
-stance?36 Second, what factors contributed to  32 Chenery and Strout ( 1966) actually had a third con-
-straint, "absorption," which restrained growth to 8 per-  cent of GDP or less, on the grounds that more rapid growth
-would not be feasible.
-33 See Jeffrey Sachs (1985) for an early development  of the argument.
-34The World Bank (1983) documented that this phe-
-nomenon of a greatly increased average savings rate with
-no increase in the growth rate and, therefore, a presumed
-relatively sharp increase in the incremental capital output
-ratio, affected most developing countries.
-35 It can be argued that this is a difference between
-those who see the East Asian trade policies as "free trade"
-and those who see them as intervention, but of a different  type, from that under import substitution. The critical dif-
-ference is probably between those who would stress uni-
-formity of incentives for earning or saving foreign
-exchange (and, therefore, would argue that the East Asian
-NICs were arbitrarily close to a free trade regime), and
-those who believe the "dynamic externalities" earlier as-
-sociated with infant industry protection really call for the
-"right kind" of intervention and argue that the trade strat-
-egy was really one of "export substitution."
-36 It can also be asked why it took so long for policy
-makers in countries such as India to recognize that import
-substitution (and other policies) as a strategy for devel-
-opment was not delivering the hoped-for results and that
-a preferable path existed. That is an important question
-that is well beyond the scope of this paper.
-
+stance?36 Second, what factors contributed to
 
 ### ---Economics-1997-0-12.txt---
 changing the entrenched views of the 1950's
@@ -34777,16 +33261,6 @@ One can hardly argue with the proposition
 that the presence of a positive externality gives
 rise to a basis for intervention; if the external-
 ity is dynamic and temporary, then temporary
-3 Another example of misapplication of good theory
-was the early defense, such as that of Hagen (1958), of
-protection because of a domestic distortion. But it took the
-development of the theory of domestic distortions to cor-
-rect that, as is discussed below.  38 Some of Johnson's (1958) research on trade and
-growth went some way toward refuting this proposition,
-but still in a 2 x 2 framework. Moreover, Johnson's work
-implied that labor-abundant countries would, while accu-
-mulating capital, undergo "ultra anti-trade biassed"
-growth, which seemed to support import substitution.
 
 
 ### ---Economics-1997-0-13.txt---
@@ -34881,15 +33355,7 @@ proposition that comparative advantage should
 form the basis for trade policy, contrasted with
 those focussing on circumstances where pro-
 tection was too high! In undergraduate inter-
-39 The same is true of the optimum tariff argument. In
-the presence of many goods with varying degrees of mo-
-nopoly power, the formula becomes hopelessly complex.
-It is certainly true that many tariff structures would lead
-to lower, rather than higher, welfare in the presence of
-monopoly power in trade. Yet, in practice, many policy
-makers have been misled into thinking that they could
-defend very high tariffs (sometimes even on goods that
-their countries import in small quantities) on optimum tar-  iff grounds.
+
 
 
 ### ---Economics-1997-0-14.txt---
@@ -35083,21 +33549,7 @@ the 1950's and 1960's? I can address this ques-
 tion more rapidly because much of the answer
 was implicit in the description of the evolution
 of developing countries' trade policies.
-40 Another example of the "negative results" research
-arises from early findings (see Bhagwati and Srinivasan,
-1973; Jones, 1971a) that the resource pulls associated with
-raising an effective rate of protection did not necessarily
-accord with those associated with increasing a nominal
-rate of protection. These findings did not significantly af-
-fect research efforts in part because the authors made clear
-the relatively extreme conditions necessary to generate the
-"perverse" resource pull, and partly because other re-
-searchers were able to demonstrate that there seemed to
-be few, if any, empirical counterparts to the perverse pull
-cases.
-4' See Pranab Bardhan (1996), tracing how the pre-
-sumed "efficiency-equity" trade-off has been shown to
-be false in considerable measure.
+
 
 
 ### ---Economics-1997-0-16.txt---
@@ -35191,16 +33643,7 @@ demonstrating some of the problems with trade
 regimes and also in preventing at least a few of
 the worst excesses that might otherwise have oc-
 cuffed. More generally, recognition and rein-
-troduction of the proposition that there is a  42 The ideas and events influencing policy makers in
-one country may not have been precisely the same as those
-in the next one. And, of course, no precise measurement
-of the relative influence of research results and of expe-
-rience is possible. There is also the question of the role of
-research, relative to the role of experience itself. However,
-in fact, the ways in which people in other developing
-countries learned about the East Asian experience was
-largely the consequence of research efforts.
-
+troduction of the proposition that there is a 
 
 ### ---Economics-1997-0-17.txt---
 response to incentives that cannot be overlooked
@@ -35299,9 +33742,7 @@ own, often idiosyncratic, incentive effects. A
 good example is Gene Grossman's (1981)
 classic analysis of domestic content regula-
 tions and their effects.
-" However, those advocating import substitution
-seized upon the infeasibility of first-best policy as a de-
-fense for following the policies they wished in any event  to follow.
+
 
 
 ### ---Economics-1997-0-18.txt---
@@ -35384,16 +33825,7 @@ Perhaps the most obvious generalization
 from the various factors that have been dis-
 cussed is that empirical research which tests
 for the presence and order of magnitude of
-stylized facts which are used in modelling and  " To be sure, there are still doubters. Some claim that  South Korea and Taiwan were major recipients of foreign  aid, which is said to account for much of their rapid growth
-(although the announcement that foreign aid would di-
-minish was what triggered policy reform in Korea). The
-status of Hong Kong and Singapore as city-states is al-
-leged by some to render their experience of little rele-
-vance. Even today, those resisting policy changes assert
-that conditions in the 1950's and 1960's were conducive  to export expansion in ways in which the world market of  the 1990's is not-despite the rapid expansion of exports
-from China and Southeast Asian countries.  45 Some have argued that the East Asian outer-oriented  trade strategy might not have succeeded without an earlier  stage of import substitution. In that view, East Asia moved
-away from import substitution at the "right time,"  whereas other countries stayed with the strategy too long.
-See Gustav Ranis (1984) for one such argument.  46 For that matter, trade policy reform is still resisted in  many countries, notably most of Sub-Saharan Africa.
+stylized facts which are used in modelling and 
 
 
 ### ---Economics-1997-0-19.txt---
@@ -35489,17 +33921,6 @@ are "dynamic" factors which contravene part
 of the static efficiency criterion, they too are
 measurable. Yet the "anything can happen"
 theories do not provide guides as to how the
-4 There is another example from a related field. As is
-well known, multilateral negotiations with regard to ag-
-ricultural protection were completely stalled until the
-1980's. In the 1980's, economists at the OECD proposed
-the use of a "producer subsidy equivalent" to measure
-the degree of government intervention in various agricul-
-tural commodities across countries. That tool permitted
-negotiations to begin restricting and dismantling agricul-  tural protection.
-48 See Arnold C. Harberger (1993) for a discussion of
-the roles played by economists in some key policy reform
-episodes.
 
 
 ### ---Economics-1997-0-20.txt---
@@ -35620,31 +34041,6 @@ or more.
 
 
 ### ---Economics-1998-0-02.txt---
-| | e46; 2~~~~~. . . . . . . . . . . . . .. . .
-~~~~~~~~~~~.. . . . ......... s
-% ~ ~ ~ ~ ~ ~ ~ . .. .. . .. .. .. .. .. .. .. .. .. .. .. .. ..
-.: . ::'.'.':. ::R . .'.. . '- : -, ' ,:: .:. ..,.. . . .. . . . . .... .. . . """....
-:::: : :::::::::':' : '.:-'::. ..: .: : :::: ::::. . . . . . . . . . . . . . . . . :. : -. : . . . . ..  .. . .. . . .. ... ...: : . ::: ::::::: : .: :-::: :::..:.. .: ...:.. . ....: . . ........:': ::b -::  i, -' .: :: .:':::..,::. ...... . .. ....; .. .... .. .. ::. :-:. : ...: : ,... .. .. . :.: ::: : @ .::-:
-| .,, '"':.-:u:."..... ...... , . ... .......
-tei. . . . . . . . . . . . . |\ - .s
-X ;.... :... .. .: - . .--:~ i:; - : -: - :-...."-.> ||s.|::':: Z: :...' :: S
-''''.'".''.'-.~~~~~~~~~~~.'..'...
-|k:-..'.-..^.;:-'-.'..:'..''..... .........
-'.~~~~~~~~~~~~~~~~~~~~.. . .. ...
-_S .>.?............;"'.
-f>~~~~~~~~~~~~~~~~~.. ..........
-_ | ~ ~~~ ~~~~~~~~ .. .....
-__ _. . . . . . . . . .. . . . . . . . . . . _
-_E,,.. ,~~~~~~~~~~.. ...,..
-...... .........
-.............. . ...
-. . . . . . . . . . . .
-..... ... ... ......... ..... .. ....
-____........ . .. . ...
-___ ...._
-_ _......
-_ _ _ _ _~~~~~~~..........
-_ ~~~~~~~~~~~~~~.........
 
 
 ### ---Economics-1998-0-03.txt---
@@ -35862,16 +34258,7 @@ tion can be reduced to a single metric, and can
 
 
 ### ---Economics-1998-0-05.txt---
-TABLE 1-GROWTH BREAKDOWN TREATING REAL COST REDUCTION As ADDITIVE
-TFP growth Absolute amount
-over period of real cost
-(1.0 = 100 reduction Cum. sum Initial value Cum. sum
-Industry percent) [(1) X (4)] of (2) added of (4)
-(1) (2) (3) (4) (5)
-1 0.800 $80b. $80b. $100b. $100b.
-2 0.600 $120b. $200b. $200b. $300b.
-3 0.500 $150b. $350b. $300b. $600b.
-All the rest 0.107 $150b. $500b. $1,400b. $2,000b.
+
 be made additive. For a quick appreciation of
 this, assume that total factor productivity grew
 by 80 percent in one industry over a decade,
@@ -35946,34 +34333,7 @@ readily with a vision such as ours, of real cost
 
 
 ### ---Economics-1998-0-06.txt---
-TABLE 2-CONCENTRATION OF TFP GROWTH AMONG U.S. INDUSTRIES 1958-1967
-[COLUMNS (2) TO (5) IN BILLIONS OF 1958 DOLLARS]
-Absolute amount
-of real cost Cum. GDP by Cum.
-TFP growth over period reduction sum of industry sum of
-(1.0 = 100 percent) [(1) X (4)] (2) 1958 (4)
-(1) (2) (3) (4) (5)
-Lumber & Wood Products 0.72 2.51 2.51 3.50 3.50
-Railroad Transport 0.63 5.52 8.03 8.70 12.20
-Textile Mill Products 0.61 2.49 10.52 4.10 16.30
-Electrical Machinery 0.55 5.10 15.66 9.30 25.60
-Transport Equipment 0.46 7.05 22.71 15.20 40.80
-Chemicals 0.44 3.97 26.68 9.10 49.90
-Public Utilities 0.42 4.65 31.33 11.00 60.90
-Petroleum and Coal 0.41 1.27 32.60 3.10 64.00
-Rubber and Products 0.41 1.23 33.83 3.00 67.00
-Mining 0.41 5.20 39.03 12.60 79.60
-Communication 0.40 3.61 42.64 9.00 88.60
-Trade 0.33 24.93 67.57 76.40 165.00
-There follow 18 more industries
-the combined results of which are 0.03 7.53 75.10 239.80 404.80
-Notes: Top 10 percent (these percentages are contributions to GDP of industries ranked according to their present rate of
-TFP growth over period) of industries account for 30 percent of total TFP contribution.
-Top 22 percent (these percentages are contributions to GDP of industries ranked according to their percent rate of TFP
-growth over period) of industries account for 52 percent of total TFP contribution.
-Top 40 percent (these percentages are contributions to GDP of industries ranked according to their percent rate of TFP
-growth over period) of industries account for 70 percent of total TFP contribution.
-Sources: Kendrick and Grossman (1980). GDP data from U.S. national accounts.
+
 reductions stemming from 1001 different
 causes, though I recognize that one can build
 scenarios in which even 1001 causes could
@@ -36106,38 +34466,11 @@ resent those experiencing declining TFP.
 Some interest attaches to the ordinate of the
 maximum point on each curve. In the first pe-
 riod, TFP growth ended up accounting for close
-' For a review of the current status of analysis of R&D
-expenditures and their impact on economic growth see
-Griliches (1994).
+
 
 
 ### ---Economics-1998-0-08.txt---
-Percentile 300
-of Real
-Cost
-Reduction
-170 ______________ 240,
-Percentile
-of Real
-Cost
-Reduction
-100 1
-100* _
-0 ____
-, | | , , ~~~~~~~~~~~~~~~~~PercentFieof Initial Value Added  0 Percentile of Initial Value Added
-A. 1970-1975 B. 1975 -1980
-150 - 150
-127 - E
-118 ___--
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 1 0 0 _ _ _ _ _ _
-Percentite
-Percentile of Rest
-of Restaos
-Cost ~~~~~~~~~~~~~~Reduction  Reduxtion
-0 _ _ _ _ _ __0 _ __ _
-0 Percentile of Initial Vatue Added 10 Percentite of Initial Vatun Added
-C. 1980-1985 D. 1985-1990
-FIGURE 1. PROFILES OF TFP GROWTH AMONG U.S. MANUFACTURING BRANCIHES
+
 to 170 percent of the RCR for total manufactur-
 ing. In 1975-1980 this figure was about 240
 percent, in 1980-1985 only about half that, and
@@ -36181,34 +34514,7 @@ trial branch made up of four industries, A, B,
 
 
 ### ---Economics-1998-0-09.txt---
-.01
-Gum. Rate
-of TFP
-Cum. Sum G rowth
-Real Cost
-Reduction
-/.005
-0 0
-0 1
-Percentile of initial value added
-.0105 - <-0
-Cum. Rate  of TFP
-Cum. Sum Growth
-Real Cost
-Reduction
-_~~~~~~~~~~~~~~~~~~~ t .0025
-0 1
-Percentile oi initial value added
-.005 - .005
-Cum. Rate  ofiTF P
-_ Growth
-Cum. Sum  Real Cosa
-Reduction
-w ~~~~~~~~~~~~~~~~~~~~0
--005 - | -005
-01
-Percentile of initial value added
-FIGURE 2. ILLUSTRATIVE TFP GROWTH PROFILES (SUNRISE-SUNSET DIAGRAMS)
+
 C, and D. First, we order the industries in de-
 scending order, according to their rates of TFP
 increase in the period. Then we calculate cu-
@@ -36228,63 +34534,6 @@ would show up peaking at over 400 percent in
 
 
 ### ---Economics-1998-0-10.txt---
-U.S. wnodacturinp 1948-53,32 Sectors 1J.S. Wnufactuip 1953-57, 32 SectorsC
-Rase of 01 TFRo
-TFP TFP
-.0085 Growth Growth
-CumoSu Gun Sum
-Roat 0ea .007
-Cost ___ _Cost
-Roduction -0037 Reduction
-O- j 2 A ,, .2 A O O -8 1
-Percentile ot Value Added Percentle ot Value Added
-US.Mantacturin195760 32 Sectors LU-.nn Cu.S.ManCacturnp196066 32Sectors ? Cons
-S015 Rateot .015 Rate ot
-TFP TFP
-Growth Grwth
-Cuns Sms .008 Cuon. S .005
-Coot sos cost .0056
-Reducttnot Reduction
-________________________________ .015 .015
-O .2 .4 .6 ;8 t 0 .2 .4 .6 .8
-Percentile ot Vaoue Added Percent0le ot Value Added
-U.S. Manutactuoly 1966690 32 Sectors GO. Monulac18t
-C 9 . 33Cum. tn ' t Curn.
-.01 5 Rosate .015S Raob at
-TFP TFP
-Growth G
-Cuon Sua CunmSum .0073
-Reotal. 05 Reoal ~ a - ~ 07
-cost 009Cost
-Reduction Reduction
-o- ----- - 9006
-O~ / T _ iS, -?.0014
-._ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .015 .015
-0 .2 .4 .6 .8 1 . .4 6 .8 1
-Percentie ot Vatue Added Percentile o at Vou Added
-U.S. MoWuacturod 1973-79 32 Sectors U.S. Manuactuorin 1979-85 32 Sectows
-.015 Ra at .015 Rateot
-TFP TFP
-Growth Growth
-Cum Sum Cum Sun
-Reaot Root
-Coot - .0051 Cost . 0052
-Reduction -Il>_0Reduction = - _
-0010 .- Rot to
-ZZ ~ ~ ~ ~ E ~~~ ~~ 0093 i
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .015o s
-i' -.Ot5 i g . -.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~015
-o .2 04 .6 .8 t
-Percentile ot Value Added Percentile of Value Added
-U0S. Manuaotausp 1948-85 32 Sectors
-L 015 Rate oa  Growth
-v _ ~~~~~~~~~~~~~~~~~.0063
-Cum Suo --r-- .0055  Real  Reduction
-FIGURE 3. TF GROWTHPROFILESFORUS.MANUFACTUR015
-0 2 .4 .6 .8 t
-Percentl,e of Value Added
-FIGURE 3. TFP GROWTH PROFI1.ES FOR UJ.S. MANUFACTURING
-
 
 ### ---Economics-1998-0-11.txt---
 a Lorenz-type diagram) and of negative TFP
@@ -36394,18 +34643,7 @@ an industry, depending on that industry's
 
 
 ### ---Economics-1998-0-12.txt---
-.06
-Cum. Sum Cum.
-Real Rate of
-Cost TFP
-Reduction Growth
-.03 -
-0 ~~~~~~~~~~~~~~~~~0
--.03
-. - --II ' I -I
-0 .2 .4 .6 .8 1
-Percentile of Initial Value Added
-FIGURE 4. TFP GROWTH PROFILE IN MEXICAN MANUFACTURING SECTOR (1892 ESTABLISHMENTS, 1984- 1994)
+
 luck in the technological draw, side by side
 with highly diverse experience between indus-
 tries because the distribution of technical ad-
@@ -36461,35 +34699,7 @@ the previous section for industries within the
 
 
 ### ---Economics-1998-0-13.txt---
-MexAcan Manufacturing: Soft Drinks [66 Establishments]
-.06 -
-Cum.
-Rate .03- _ .0302
-of TFP -.0204
-Growth 0
--.03
--.06 -
-0 .2 .4 .6 .8 1
-Percentile of Initial Value Added
-Mexican Manufacturing: Cement [79 Establishments]
-.06 - Cum.
-Rate ______________ _- .0337
-of TFP-03 -
-Growth .0159
-0 '- 0
--.03
--.06
-Percentile of Initial Value Added
-Mexdcan Manufacturing: Other Wood Prods. [43 Establishments]
-I I I I ~ ~~~~~~~ I
-.06 - Cum. Rate
-of TFP.03 - .0179
-Growth - = =. . 0026
-O- ~ ~ ~ ~ ~~ ___________ .002
--.03
--.06 5A. T T L F W N E A R 8
-6 .2 ~Percentile of InitalIau AddA
-FIGURE, 5A. TFP GROWTH PROFILES FOR FAST-GROWING BRANCHES (MEXICAN MANUFACTURING, 1984- 1994)
+
 economy-rampant overshooting of sunrise-
 sunset diagrams, great influence of firms with
 negative TFP growth in determining the TFP
@@ -36509,38 +34719,7 @@ dence presented so far is: how much of what
 
 
 ### ---Economics-1998-0-14.txt---
-Mexican Manufacturing: Medicines [65 Establishments]
-.06 -
-Cum.
-Rate .03 .-. .............0253........
-of TFP ____________.0253
-Growth
-0 0
--.03
--.06 _ _ ._._,_L_t
-64  Percentile of lnitiA ualue AddeA
-Mexican Manufacturing: Paper [90 Establishments]
-.06 -
-Cum.
-Rate .03 -.0157
-of TFP ........
-Growth _ 0
-0
--.0076
--.03
--.06 -, - --,-t1r-- -1
-- Percentile of lnitialalue Adcd
-Mexican Manufacturing: Toiletries [39 Establishments]
-.06-
-Cum.
-Rate .03 -
-of TFP ... . _.0132
-Growth
-0 - 0  -.008
--.03
--.06 , _ ,_,_,__ _
-0 Percentile of InitiaIalue Add 1
-FIGURE 5B. TFP GROWTH PROFILES FOR MEDIUM-GROWING BRANCHES (MEXICAN MANUFACTURING, 1984-1994)
+
 we have seen and emphasized might simply
 be the result of errors of observations? This
 is by no means a frivolous question. For one
@@ -36564,35 +34743,7 @@ maximum point on a sunrise diagram. Its
 
 
 ### ---Economics-1998-0-15.txt---
-MexAcan Manufacturing: Spinning (87 Establishments]
-.06 -
-Cum.
-Rate 03  of TFP
-Growth .. ... L .006
-0- 0
--.03- .= -.0395
--.06 - d F Percentile of InitialA'aue AddA
-Mexcan Manufacturing: Wearing Apparel [90 Establishments]
-.06 -
-Cum.
-Rate .03-
-of TFP .0086  Growth
-0 0
--.03
--.038
--.06
-Percentile of initia.'alue Added
-Mexican ManufactLring: S nthetic Resins [35 Establishments]
-.06
-Cum.
-Rate .03 -
-of TFP
-Growth .- e ............... ....... -.0059
-0 0
--.03-
--.0377
--.06RE SC. TPRW PRIEFRL -Percentile of lnitiaNH(aluE Addd
-FIGURE 5C. TFP GROWTH PROFILES FOR SLOW-GROWING BRANCHES (MEXICAN MANUFACTURING, 1984-1994)
+
 complement (32 percent) would represent
 the initial value added associated with neg-
 ative TFP performance during the period.
@@ -36618,18 +34769,7 @@ frequency distributions of firms. TFP is mea-
 
 
 ### ---Economics-1998-0-16.txt---
-Frequency
-12
-10
-8
-6
-2H
-0
-I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ I I II
--6 -4.5 -3 -1.5 0 1.5 3 4.5 6
-TFP Growth Rate
-FIGURE 6A. AVERAGE ANNUAL TFP GROWTH RATE: MEXICAN MANUFACTURING 1984-1994
-FREQUENCY DISTRIBUTION, 44 INDUSTRIAL BRANCHES
+
 sured in two ways-one using value added by
 a set of firms on the one hand, and the other
 using "output" by those same firms, mea-
@@ -36684,20 +34824,7 @@ otherwise). And since Torre worked with real
 
 
 ### ---Economics-1998-0-17.txt---
-24-
-20-
-16-
-U
-or a,~~~~~~~~~~~
-m~
-LL 1
-6
-4
--6 -4.5 -3 -1.5 0 1.5 3 4.5 6
-TFP Growth Rate
-FIGURE 6B. MAXIMUM AVERAGE ANNUAL TFP GROWTH RATE (MAX. ORDINATE OF TFP PROFILE):
-MEXICAN MANUFACTURING, 1984-1994
-FREQUENcy DISTRIBUTION, 44 INDUSTRIAL BRANCHES
+
 value added as his quantity variable, this sug-
 gests that, if anything, the substitution of the
 "true quantity variable" q for observed value
@@ -36801,27 +34928,10 @@ We cannot lose by making a major effort to
 understand the process of TFP improvement
 where it happens-at the level of the firm.
 This is all the more true because of the
-2 The idea of creative destruction has come up in recent  literature, in a context of formal modeling as distinct from
-this paper's focus on growth accounting and the intuitive
-economic interpretation of its results (see Gene M.
-Grossman and Elhanan Helpman, 1991, 1994; Philippe
-Aghion and Peter Howitt, 1992). For an econornetric study
-emphasizing the variability of performance among firns,
-see Jacques Mairesse and Griliches (1993 pp. 200-04).
 
 
 ### ---Economics-1998-0-19.txt---
-12
-8-
-U-
-4
-3
-2
-1 --- --- --- ---
-25 50 75 100
-Percentiles
-FIGURE 6D. PERCENTILE WHERE CUM. SUM TFP CONTRIBUTION = 100 PERCENT:
-MEXICAN MANUFACTURING 1984-1994
+
 pervasiveness of negative as well as positive
 TFP performance among the components of
 almost any aggregate. By learning more about
@@ -36869,27 +34979,6 @@ ment rather than saving in studying the
 
 
 ### ---Economics-1998-0-20.txt---
--.15
-Cum.
-Cum. Sum - Rateof
-Real Cost Grot
-Reduction Growth
-.08862
-.05
-0 .5 1  Percentile of Initial Value Added
-A. 1970-1981
-I.. . ...... ........................ ............... . ........................ ....... ......................... _ . ........
-.08
-Cum. Sum Cum.
-Real Cost Rate of
-Reduction TFP  Growth  .06
-.04
-... ... ... ... . ...... ...... . .................... . . ... .0241.................... .............48...........
-0
-0 .5 1
-Percentile of Initial Value Added
-B. 1982-1994
-FiG,URE 7. TFP GROWTH PROFILES FOR U.S. OIL FIRMS
 
 
 ### ---Economics-1998-0-21.txt---
@@ -37421,37 +35510,7 @@ butions and high rates of TFP improvement.
 
 
 ### ---Economics-1998-0-26.txt---
-TABLE 3-GROWTH RATES, RATES OF RETURN, AND RATES OF TFP IMPROVEMENT
-(SELECTED FROM A SAMPLE OF 32 COUNTRIES, 1971-1991)
-Ten fastest- GDP Rate of Capital cont. TFP
-growing countries growth rate return to growth rate growth rate
-Taiwan 8.83 15.0 3.81 3.68
-Korea 8.47 13.2 4.30 2.38
-Thailand 7.65 12.5 3.68 2.96
-Hong Kong 7.91 20.0 3.56 2.28
-Ecuador 5.58 14.0 2.70 0.36
-Cyprus 5.12 10.6 2.99 1.92
-Zimbabwe 4.62 13.6 2.42 0.97
-Colombia 4.43 11.3 1.99 0.74
-Iceland 4.35 9.4 1.95 1.77
-Ireland 4.12 6.7 1.70 0.36
-Median 5.35 12.85 2.84 1.83
-Mean 6.10 12.63 2.91 1.74
-Ten slowest- GDP Rate of Capital cont. TFP
-growing countries growth rate return to growth rate growth rate
-Austria 2.87 5.1 1.13 1.29
-France 2.80 6.1 1.21 (.99
-Germany 2.60 6.3 0.97 1.29
-Belgium 2.56 6.8 1.06 1.60
-Netherlands 2.52 7.0 1.12 0.83
-United States 2.52 9.1 1.20 0.23
-South Africa 2.16 7.5 1.58 -0.97
-Denmark 2.15 7.5 1.01 0.82
-United Kingdom 2.12 9.6 0.95 0.22
-Sweden 1.84 4.3 0.66 0.24
-Median 2.52 6.90 1.09 0.825
-Mean 2.41 6.93 1.09 0.661
-Source: Beyer (1996), Tables 111.1.1 through 111.1.32; also Appendix I for rates of return.
+
 This is all the more interesting because in the
 calculation of TFP a higher level of the rate of
 return operates to reduce the calculated TFP
@@ -37463,13 +35522,6 @@ should presumably be negatively correlated
 with R'). What we are seeing here, in my
 opinion, is a genuine syndrome in which all
 sorts of good things go together. Strong real
-3 The standard expression for the residual, R = pdy -
-iwIdL - (p + 5)dK has a "dual" representation, which is:
-R - Ldw + Kd(p + 6) - y-dp. T'his form simply says
-that the fruits of real cost reduction have to go some-
-where-either to workers (Ldw) or to owners of capital
-[Kd(p + 6)] or, in the form of lower prices to the activ-
-ity's customers (-y7dp).
 
 
 ### ---Economics-1998-0-27.txt---
@@ -37557,29 +35609,6 @@ give us a clear picture of lots of winners and
 lots of losers, with the losers being strongly
 characterized by falling real value added and/
 or by falling real rates of return.4
-4 Of Torre's observations with negative TFP growth,
-over three-fourths had negative growth in real value
-added, and over one-half had falling real rates of return.
-Less than 15 percent showed increases both in real value
-added and in their real rate of return. Many of Torre's
-"anomalies" of negative TFP improvement together with
-positive real output growth stem from very high rates of
-return (p) being imputed to the observed increases (AK)
-in the capital stock.
-This points to a problem that extends to all (or nearly
-all) growth-accounting frameworks. Implicitly, they as-
-sign to new investment a marginal product based on the
-average observed gross rate of return (p + 6) or average
-observed capital share Sk. This makes little sense in cases
-where the observed p is far above or far below the going
-market rates. Firms earning 50 percent real return in their
-historical investments are very unlikely to be "requiring"
-such a high expected yield on new investments. Similarly,
-firms going through periods of actual accounting losses
-may often still be investing, but it is absurd to think they
-are expecting (or typically getting) negative returns on
-their new investments (AK). There are, I think, good rea-
-sons for us to experiment with alternative ways of select-
 
 
 ### ---Economics-1998-0-28.txt---
@@ -37679,14 +35708,6 @@ gence of growth rates among countries, or an
 ultimate convergence of levels of output per
 head. To me, the natural convergence is prod-
 uct by product, not country by country. And
-ing the rate of return (p) imputed to new investments.
-Arguments can be developed for using arbitrary but "sen-
-sible" rates (like 10, 15, or 20 percent), or for applying
-to investments by individual firms and/or industries rates
-of return T that are obtained not from those specific firms
-or industries but from broad sectoral (e.g., manufacturing)
-or economywide averages. I am pursuing these avenues in
-work that will be reported at a later time.
 
 
 ### ---Economics-1998-0-29.txt---

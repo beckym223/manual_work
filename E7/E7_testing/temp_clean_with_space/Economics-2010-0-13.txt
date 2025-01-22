@@ -1,0 +1,22 @@
+Notes: The first number in the top panel, 19.49, is the Bank's global poverty line of $38 a  month ($1.25 a day) converted into Indian rupees using the conversion factor of 15.602 which  is the PPP for household individual consumption for India relative to the United States taken  from the final ICP report. If we calculate this number directly, using the poverty lines of the  15 poorest countries, converted to international dollars using their PPPs for household indi  vidual consumption, and taking an unweighted average, we get 1,24 international dollars or  19.34 world rupees. If we exclude Guinea-Bissau from the 15 poorest countries, so as to make  the calculations comparable with our own calculations for which we do not have a survey for  Guinea-Bissau, we get 1.22 international dollars or 19.06 world rupees. The column headed  NAS 105 shows the simple average of poverty lines converted at the PPP for household indi  vidual consumption on a NAS basis directly calculated using a one step multilateral set of  indexes, and using all 105 basic heads. The column headed NAS 102 is the same as NAS 105,  but with three basic heads dropped: FISIM, prostitution, and actual and imputed household  rents. The column labeled Surveys also uses 102 basic heads and also uses an aggregate PPP,  but uses surveys to estimate aggregate expenditures instead of the national accounts. The  bottom panel shows three sets of poverty lines that use P4s for conversion to international  rupees; in all cases, the global poverty line is calculated simultaneously with the P4s. In the  first column, the global line is calculated as the simple average of the 14 poorest country pov  erty lines at the final estimates of the P4s. The second column uses poverty lines from 50  countries, weighted by the number of poor in each country at the final global poverty line. See  Deaton and Dupriez (2009) for details of calculations.
+Source: Adapted from Deaton and Dupriez (2009, Table 11).
+to be plausible as minimum subsistence requirements, but this can be dealt with by weighting
+each line by the number of poor people in the country so that the Indian line?currently excluded
+from the computation of the $1.25 line?receives around a third of the total weight. At the same
+time, very little weight is assigned to tiny countries like Guinea-Bissau, whose national poverty
+lines or estimated PPPs are thereby prevented from having large effects on the global poverty
+count by bringing millions of Indians and Chinese in and out of the counts. Without endorsing
+the quality of the national accounts of large poor countries such as India and China?around
+which there has been much debate?it is surely unwise to place great weight on the quality of the  data from at least some of the countries in Table 2.
+Tables 3 and 4 show a range of calculations for the global poverty lines and the associated
+counts; these are extracted from Deaton and Dupriez (DD) (2009). The first figure in Table 3,
+19.49 rupees per person per day, is the $1.25 poverty line converted to Indian rupees at the ICP
+Indian rupee to dollar consumption PPP of 15.60. (It should be noted that this is considerably
+higher than the government of India's own lines for 2004-5, which are 11.77 rupees per day for
+rural and 17.77 rupees per day for urban.) If we exclude Guinea-Bissau, which in the absence
+of household survey data cannot be included in the poverty-weighted PPP calculations, but use
+otherwise identical procedures, the line falls only slightly to R19.06 or $1.22. If the ICP numbers
+are replaced by PPPs calculated in a one-step multilateral calculation using the ICP raw data,
+but not its regional aggregation procedure, the line falls to R 18.98. There is a further drop to
+R 18.05 once we exclude three basic headings that are not covered by household surveys, FISIM
+(financial intermediation services indirectly measured by the profits of banks and insurance

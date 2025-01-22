@@ -1,0 +1,40 @@
+The aggregate consumption data have mistreated (5) and the Euler equation
+(6) 1 - ^mt+l(xt+l)RJJ+l(xt+l)f(xt+l\x') dxt+l.
+One reaction has been to retain the rational expectations assumption but to add backward
+looking (see John Y. Campbell and John H. Cochrane 1999) or forward-looking (see Larry G.
+Epstein and Stanley E. Zin 1989) contributions to time t felicity. Another reaction has been to
+let disparate beliefs contribute to the stochastic discount factor. Hansen and Ravi Jagannathan
+(1991) treated the stochastic discount factor mt+l as an unknown nonnegative random variable
+and deduced what observed returns RJt+\ and restriction (6) imply about the first and second
+moments of admissible stochastic discount factors (with incomplete markets, there exist multiple
+stochastic discount factors). Their idea was that prior to specifying a particular theory about
+the utility function linking m to real variables like consumption, it is useful to characterize the
+mean and standard deviation that an empirically successful m must have. This approach leaves
+open the possibility that a successful theory of a stochastic discount factor will assign a role to a
+fluctuating probability ratio/(jc/+1 |jc')//(*,+1 |*r) ^ 1, even for an economy in which agent / is a
+single representative agent. The likelihood ratio/(xf+1 \xf)/f{xt+x |jc') creates a wedge relative to
+the Euler equation that has usually been fit in the rational expectations macroeconomic tradition
+originating in Hansen and Singleton (1983) and Rajnish Mehra and Prescott (1985). Likelihood
+ratio wedge approaches have been investigated by Peter Bossaerts (2002, 2004), Hansen (2007),
+Hansen and Sargent (2007), and Timothy Cogley and Sargent (2007), among others. The art
+in Hansen (2007) is to extend rational expectations enough to understand the data better while
+retaining the econometric discipline that rational expectations models acquire by economizing
+on free parameters that characterize agents' beliefs.12
+D. Another Empirical Reason to Allow for Belief Heterogeneity
+Applied macroeconomists study data that can be weakly informative about parameters and
+model features. Ultimately, this is why differences of opinion about how an economy works can
+persist. The philosophy of Evan W. Anderson, Hansen, and Sargent (2003), Hansen (2007), and
+Hansen and Sargent (2007) is to let agents inside a model have views that can diverge from the
+truth in ways about which the data speak quietly and slowly.
+III. Rational Expectations Econometrics
+Ideas from rational expectations econometrics motivate stories and models that feature gaps
+between an objective distribution and the temporary subjective distributions used by a government
+ that solves a sequence of intelligent design problems. I review econometric methods that
+allow an outsider to learn about a rational expectations equilibrium and introduce some objects
+and possibilities that are in play in models containing agents who are learning an equilibrium.
+A rational expectations equilibrium is a joint probability density/(jcr|0o) over histories x*
+indexed by free parameters 0OG0 that describe preferences, technologies, endowments, and
+information. For reasons that will become clear, I have called the parameter vector 0 rather than
+p as in Section I. Rational expectations econometrics tells an econometrician who is outside
+the model how to learn 6. The econometrician knows only a parametric form for the model and
+therefore initially knows less about the equilibrium joint probability distribution than nature and

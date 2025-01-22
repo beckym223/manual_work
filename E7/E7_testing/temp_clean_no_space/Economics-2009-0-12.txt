@@ -1,0 +1,26 @@
+likely to meet in the future. In equilibrium there is a threshold of distance such that pairs located
+within this distance play honestly and those located farther apart cheat.
+If the circle is small enough, honesty may be achievable over all of it. The left-hand circle is of
+the critical size, where an agent located at O is just indifferent between honesty and cheating if
+he happens to be matched with P located diametrically opposite. The right-hand circle is slightly
+larger. The distances OPx and OP2 along the shorter arcs are exactly equal to the critical distance
+OP (measured either way) in the left-hand circle, but there are added people in the short arc PXP2.
+Now if O meets Px and cheats, the probability that P2 gets to hear of this is strictly less than one,
+whereas in the left-hand circle the probability that someone just to one side of P would get to
+hear of O's cheating another agent just to the other side of P was almost equal to one. Therefore
+?'s indifference when playing someone at the distance OP in the left circle changes to favoring
+cheating someone at equal distance OPx (or OP2) in the larger right circle.
+By continuity, O will also cheat people located slightly closer than Px (or P2). Enlargement
+of the circle beyond the critical size actually shrinks the distance over which honesty can be
+achieved!8
+D. Private External Enforcement
+In my classification, third-party institutions provide governance by outsiders who are not
+direct parties to this class of transactions. This works in several different ways: (1) private adjudication
+and enforcement under the shadow of formal law; (2) provision of information that then
+becomes an input to second-party enforcement; and (3) enforcement for profit by the third party.
+Industry-based arbitration forums mentioned above are an example of the first. Gambetta's Don
+Peppe acts in the second as well as the third of the categories. He can provide one or both of
+two types of services. In an information role, he keeps track of the behavior of all traders in his
+area and tells his customers whether the others with whom they are proposing to do business
+have good reputations; in this aspect he is like a credit-rating agency. In an enforcement role, he
+inflicts punishment, including (especially) physical violence, on those who cheat his clients; in

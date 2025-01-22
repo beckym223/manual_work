@@ -1,0 +1,34 @@
+All figures in this study apply to annual output and prices for 201 1 in 201 1 US$.
+The figures are often provided with two or three significant digits, but this is for
+presentational purposes and should be interpreted in the context of the uncertainties
+inherent in modeling as well as the results of the sensitivity analyses discussed below.
+First consider a Kyoto-type regime, with no sanctions when countries do not
+participate, which is the first line in Table 1 . If the United States does not participate,
+it expends $0.3 billion per year for abatement and has reduced damages (from
+all countries' abatement relative to zero abatement) of $7.3 billion per year. Net
+climate-related benefits are $7.0 billion per year. In the no-sanctions regime, if the
+US participates and sets a domestic carbon price of $25 per ton, it expends $1 1 .9 billion
+annually in abatement and has reduced damages of $10.7 billion per year, for
+net climate-related benefits of -$1.2 billion annually. So without sanctions, the best
+national strategy is not to participate, with an annual net advantage of $8.2 billion.
+However, with a 4 percent penalty tariff on nonparticipants, the numbers change
+dramatically. Here, the US has trade impacts of -$15.6 billion per year if it does
+not participate. This comes primarily from the terms of trade losses induced by
+tariffs on the US imposed by participants. If the US does participate, it has positive
+trade impacts of $36.7 billion per year because it levies tariffs on the remaining
+nonparticipants.
+Taking the sum of climate-related gains and trade benefits with the 4 percent
+penalty tariff, the US would have a positive impact of $35.5 billion per year as a
+participant. By contrast, the US would have an annual impact of -$8.6 billion as a
+nonparticipant. The US would have an incentive of a net gain $44.1 billion per year
+to join the agreement taking account only of its own national economic benefit. In
+this example, it is not even a close call on whether to participate.
+The point of this simple example is to show that nations acting in their self-interest
+would join a high-income club with a 4 percent tariff but would not join such a club
+with a zero penalty tariff.
+B. Basics of the Simulations
+The central analysis undertaken here examines 44 different regimes for the Climate
+Club. A regime in the following is defined as a combination of target carbon price
+and tariff rate. The regimes analyzed here involve four different international target
+carbon prices and 1 1 different tariff rates. The carbon prices are $12.5, $25, $50, and
+$100 per ton of C02. While other values have been used in the literature, this s

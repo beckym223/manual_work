@@ -1,0 +1,22 @@
+Since 1980, interest rates on US government bonds have steadily decreased. They
+are now lower than the nominal growth rate, and according to current forecasts, this
+is expected to remain the case for the foreseeable future. Ten-year US nominal rates hover around 3 percent, while forecasts of nominal growth are around 4 percent ( 2
+percent real growth, 2 percent inflation) . The inequality holds even more strongly in
+the other major advanced economies. The 10-year UK nominal rate is 1.3 percent, compared to forecasts of 10-year nominal growth around 3.6 percent (1.6 percent
+real, 2 percent inflation) . The 10-year Euro nominal rate is 1.2 percent, compared to
+forecasts of 10-year nominal growth around 3.2 percent ( 1.5 percent real, 1.7 percent
+inflation) .
+1 The 10-year Japanese nominal rate is 0.1 percent, compared to forecasts
+of 10-year nominal growth around 1.4 percent ( 1.0 percent real, 0.4
+percent infl
+ation) .
+The question I ask in this lecture is what the implications of such low rates should
+be for government debt policy. It is an important question for at least two reasons. From a policy viewpoint, whether or not countries should reduce their debt, and by how much, is a central policy issue. From a theory viewpoint, one of the pillars of macroeconomics is the assumption that people, firms, and governments are subject to intertemporal budget constraints. If the interest rate paid by the government is less than the growth rate, then the intertemporal budget constraint facing the government no longer binds. What the government can and should do in this case is definitely worth exploring.
+The paper reaches strong, and, I expect, surprising, conclusions. Put (too) simply,
+the signal sent by low rates is not only that debt may not have a substantial fiscal cost, but also that it may have limited welfare costs.
+Given that these conclusions are at odds with the widespread notion that government
+debt levels are much too high and must urgently be decreased, I consider several counterarguments, ranging from distortions, to the possibility that the future may be very different from the past, to multiple equilibria. All these arguments have merit, but they imply a different discussion from that dominating current discus-sions of fiscal policy.
+The lecture is organized as follows.Section I looks at the past behavior of US interest rates and growth rates. It concludes
+that the current situation is actually not unusual. While interest rates on pub-lic debt vary a lot, they have on average, and in most decades, been lower than growth rates. If the future is like the past, the probability that the US government can do a debt rollover, that it can issue debt and achieve a decreasing debt to GDP ratio without ever having to raise taxes later, is high.
+That debt rollovers may be feasible does not imply however that they are desirable.
+Even if higher debt does not give rise later to a higher tax burden, it still has effects on capital accumulation, and thus on welfare. Whether and when higher debt increases or decreases welfare is taken up in Sections II and

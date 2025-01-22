@@ -1,0 +1,41 @@
+Obviously the typical monthly members have an arbitrage opportunity available.
+Why pay $17 a visit when they could be paying $10? One possible explanation
+for this behavior is that customers understand that they are affected by sunk costs
+(whether or not they realize it is a fallacy) and are strategically using the membership
+fee as a (rather ineffective) commitment device to try to induce more frequent gym
+usage. Let's suppose that explanation is correct. What could a competing gym do to
+both make more money and reduce or eliminate the less than fully rational behavior
+of their clients? It would certainly not be a great strategy to explain to customers
+that they could save a lot of money by switching to the 10-ticket package. Not only
+would the gym be losing money on a per visit basis, but they would also forego the
+payments from infrequent gym users who procrastinate about quitting. The average
+person who quits has not been to the gym in 2.3 months. So if competing gyms
+can't make money by turning them into Econs, who can? I suppose Della Vigna and
+Malmendier could have started a service convincing people to switch to paying by
+the visit, but I think they made a wise career choice in selecting academia over personal
+finance consulting.
+The same analysis applies to the recent financial crisis. Many homeowners took
+out mortgages with initial low "teaser rates." Once the rates reset, some homeowners
+found they were unable to pay their mortgage payments unless home prices continued
+to go up and mortgage refinancing remained available at low interest. The mortgage
+lenders who initiated such mortgages and then immediately sold the loans to
+be securitized made lots of money while it lasted, but the subsequent financial crisis
+was painful to nearly everyone. Let's assume that at least some of these mortgage
+borrowers were fooled by fast-talking mortgage brokers.4 How would the market
+solve this problem? No one has ever gotten rich convincing people not to take out
+unwise mortgages.
+Similarly if people fail to follow the dictates of the life-cycle hypothesis and fail
+to save adequately for retirement, how is the market going to help them? Yes, there
+are firms selling mutual funds but they are competing with other firms selling fast
+cars, big screen televisions, and exotic vacations. Who is going to win that battleThe
+bottom line is there is no magic market potion that miraculously turns Humans
+into Econs; in fact, the opposite pattern is more likely to occur, namely that markets
+will exacerbate behavioral biases by catering to those preferences.
+The conclusion one should reach from this section is that the explainawaytions
+are not a good excuse to presume that agents will behave as if they were Econs.
+Instead we need to follow Milton Friedman's advice and evaluate theories based on
+the quality of their predictions, and, if necessary, modify some of our theories.
+III. Financial Markets3
+A good place to start in an evaluation of the potential importance of
+less-than-fully-rational agents is financial markets. I say this because financial markets
+have the features that should make it hardest to find evidence of misb

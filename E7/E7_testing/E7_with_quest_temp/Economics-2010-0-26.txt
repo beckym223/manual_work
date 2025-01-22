@@ -1,0 +1,23 @@
+income, something that holds out the hope of measuring the living standards near the bottom of  the distribution around the world.
+On the supposition that the Gallup measures provide a useful indication of how people see
+their own lives, I conclude by using them to document changes in perceptions from 2006 to
+2009, an exercise that, at the least, illustrates the possibility for real-time global monitoring.
+In order to use the incomplete 2009 data, and to allow for the fact that not all countries are
+included in every year, I estimate a population-weighted year and country model in which the
+national average of each indicator is regressed on a set of country dummies and a set of year
+dummies, with national population as weights. I do this for the whole world, and for each of the
+standard World Bank regions of the world; the average predictions for each year then serve as
+the measures of living standards in the aggregate under consideration. The results are shown in
+Table 8. For the world as a whole?which, given the population weights, is heavily influenced by
+India and China?2007 was a better year than 2006; in 2008, more households reported being
+in difficulty and being dissatisfied with their living standards, and these reports were worse still
+in 2009. The number without enough money for food continued to fall into 2008, but, like the
+difficulty and dissatisfaction measures, was worse in 2009 than in 2008. This pattern varies
+somewhat over the other two regions, with South Asia resembling the world as a whole, and
+sub-Saharan Africa looking uniformly worse, with 2008 worse than 2007 and 2009 worse still.
+Without any other measures, I have no way of cross-checking these numbers, but they are cer
+tainly not transparently incorrect. They agree with the poverty rankings in placing sub-Saharan
+Africa in a worse position than South Asia on all measures, and they are consistent with nega
+tive effects of increases in world food prices in 2007-08, further exacerbated by the effects of
+the financial crisis of 2008-09. These effects appear to have been more severe in Africa than
+in South Asia.

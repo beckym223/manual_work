@@ -1,0 +1,28 @@
+procedure by itself is credible: see again Anand and Segal (2008) for a discussion of how little
+we know. For my purposes here, I note that inequality between countries has dominated the total
+in recent history (see Francois Bourguignon and Christian Morrison 1998), and within country
+inequality is not affected by the choice of PPPs?at least if we ignore regional price differences
+within countries?and so is not my topic here. The graphs in Figure 1 are falling over time in
+large part because the per capita national incomes of the world's largest countries, India and
+China, have been growing very rapidly and moving from the bottom of the world income distri  bution towards its middle.
+The top two graphs in the figure show the two time-series using World Bank PPP data before
+and after the 2005 revision of the ICP The bottom two graphs use data from the Penn World Table
+(PWT) and compare version 5.6, which used PPPs referenced on 1985, with version 6.2, which
+uses PPPs referenced on 1993. This second pair of graphs is chosen to illustrate the 1993 revi
+sion to the ICP, which is the one immediately prior to the latest 2005 revision. The Penn World
+Table uses a different type of PPP than does the data from the World Bank, Geary-Khamis rather
+than EKS?which tends to understate the level of global inequality because of Gershenkron or
+substitution bias; see for example Steve Dowrick and Muhammad Akmal (2005). PWT also uses
+different rules for updating between benchmark years and exercises more freedom than does
+the World Bank in editing growth rates from country national data, e.g., from China; there are
+no published World Bank data on a 1985 basis. In consequence, the 1993 inequality numbers
+from the PWT are not identical to the World Bank estimates, but for my purposes, they are close
+enough and follow a similar trend. The main point to note is that the revision from 1985 to 1993,
+like the later revision from 1993 to 2005, moved measured inequality upwards. In fact, the revi
+sions are about the same on both occasions, about 5 percentage points to the Gini coefficient;
+using Anthony Atkinson's (2003) useful metric, a substantive (as opposed to statistical) offset
+ting decrease in the Gini coefficient could be accomplished by each country's contributing five
+percent of its per capita GDP into a common pool which is then equally distributed among all
+countries, a proposal that dwarfs even the most ambitious programs for international aid.
+The World Development Indicators did not provide data on aggregate household consump
+tion in international dollars prior to 2008, so it is not possible to replicate Figure 1 for per capita

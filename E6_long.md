@@ -45724,7 +45724,6 @@ and add the needed compensations to obtain the
 
 
 ### ---Economics-2003-0-03.txt---
-THE AMERICAN ECONOMIC REVIEW
 welfare gain for the group. We can also specify
 the compensation in terms of one or a subset
 of goods, rather than all of them: There is no
@@ -45828,7 +45827,6 @@ MARCH 2003
 
 
 ### ---Economics-2003-0-04.txt---
-LUCAS: MACROECONOMIC PRIORITIES
 ful that all of it can be obtained simply by
 rearranging the tax structure. It entails a reduc-
 tion in government spending as well, which
@@ -45926,7 +45924,6 @@ VOL. 93 NO. I
 
 
 ### ---Economics-2003-0-05.txt---
-THE AMERICAN ECONOMIC REVIEW
 indifferent between the deterministic stream
 and the compensated, risky stream. That is, A is
 chosen to solve
@@ -46018,7 +46015,6 @@ MARCH 2003
 
 
 ### ---Economics-2003-0-06.txt---
-LUCAS: MACROECONOMIC PRIORITIES
 minus the inflation rate) and the change in the
 relative price of oil. The coefficients of an in-
 vertible vector autoregression are estimated,
@@ -46117,7 +46113,6 @@ VOL. 93 NO. 1
 
 
 ### ---Economics-2003-0-07.txt---
-THE AMERICAN ECONOMIC REVIEW
 measurement questions and goes directly to an
 estimation of the importance of nominal shocks
 in general, those we know how to measure and
@@ -46215,7 +46210,6 @@ MARCH 2003
 
 
 ### ---Economics-2003-0-08.txt---
-LUCAS: MACROECONOMIC PRIORITIES
 tials than those we see between fast-growing
 economies like Taiwan and mature economies
 like the United States. This is the kind of evi-
@@ -46307,7 +46301,6 @@ VOL. 93 NO. 1
 
 
 ### ---Economics-2003-0-09.txt---
-THE AMERICAN ECONOMIC REVIEW
 years or less-is two orders of magnitude
 smaller, around 0.3 percent. Most of the high
 return on equity is estimated to be compensation
@@ -46408,7 +46401,6 @@ MARCH 2003
 
 
 ### ---Economics-2003-0-10.txt---
-LUCAS: MACROECONOMIC PRIORITIES
 anything people were working with numerically
 15 years ago, and without the method developed
 in Krusell and Smith (1998) it would not have
@@ -46508,7 +46500,6 @@ VOL. 93 NO. 1
 
 
 ### ---Economics-2003-0-11.txt---
-THE AMERICAN ECONOMIC REVIEW
 would borrow against future labor income if
 they could-enjoy a utility gain equivalent to a
 4-percent perpetual increase in consumption.
@@ -46613,7 +46604,6 @@ MARCH 2003
 
 
 ### ---Economics-2003-0-12.txt---
-LUCAS: MACROECONOMIC PRIORITIES
 fare gains from the elimination of aggregate
 risk, and even accepting the Storesletten et al.
 view entails an upward revision of a factor of
@@ -46718,27 +46708,7 @@ VOL. 93 NO. 1
 
 
 ### ---Economics-2003-0-13.txt---
-THE AMERICAN ECONOMIC REVIEW
-him, a purely static theory of general equilib-
-rium. Fluctuations in production and employ-
-ment, due to monetary disturbances or to shocks
-of any other kind, were viewed as inducing
-disequilibrium adjustments, unrelated to any-
-one's purposeful behavior, modeled with vast
-numbers of free parameters. For us, today, value
-theory refers to models of dynamic economies
-subject to unpredictable shocks, populated by
-agents who are good at processing information
-and making choices over time. The macroeco-
-nomic research I have discussed today makes
-essential use of value theory in this modem
-sense: formulating explicit models, computing
-solutions, comparing their behavior quantita-
-tively to observed time series and other data
-sets. As a result, we are able to form a much
-sharper quantitative view of the potential of
-changes in policy to improve peoples' lives than
-was possible a generation ago.
+
 ## Economics-2004-0
 
 
@@ -46819,7 +46789,6 @@ I also note that the financial problems of Social Secu-  rity are smaller than t
 
 
 ### ---Economics-2004-0-03.txt---
-THE AMERICAN ECONOMIC REVIEW
 makes sense to have a progressive benefit for-
 mula; that it makes sense to limit benefits to
 those who are old enough and stop working or
@@ -46915,7 +46884,6 @@ MARCH 2004
 
 
 ### ---Economics-2004-0-04.txt---
-DIAMOND: SOCIAL SECURITY
 the best evidence for evaluating whether work-
 ers make adequate preparation for retirement.
 I prefer the term "inadequate preparation" to
@@ -47017,7 +46985,6 @@ VOL. 94 NO. 1
 
 
 ### ---Economics-2004-0-05.txt---
-THE AMERICAN ECONOMIC REVIEW
 would be more severe in the absence of a pro-
 gram. These different shortcomings in prepara-
 tion for retirement relate to different issues-
@@ -47118,7 +47085,6 @@ MARCH 2004
 
 
 ### ---Economics-2004-0-06.txt---
-DIAMOND: SOCIAL SECURITY
 since the political process is not equivalent to a
 consistent approach to policy over time (which,
 it seems to me, is an essential property of de-
@@ -47213,7 +47179,6 @@ VOL. 94 NO. 1
 
 
 ### ---Economics-2004-0-07.txt---
-THE AMERICAN ECONOMIC REVIEW
 Despite the advantages of annuities, we see
 only a small fraction of people doing voluntary
 annuitization.14 Furthermore, those who do an-
@@ -47307,7 +47272,6 @@ MARCH 2004
 
 
 ### ---Economics-2004-0-08.txt---
-DIAMOND: SOCIAL SECURITY
 informed and well-educated. The presence of
 mandatory annuitization does not prevent be-
 quests, although it raises the cost and requires
@@ -47376,7 +47340,6 @@ VOL. 94 NO. I
 
 
 ### ---Economics-2004-0-09.txt---
-THE AMERICAN ECONOMIC REVIEW
 comparing two mandatory programs, one with
 lump-sum payments and one with annuities.
 This comparison would be easy if individual
@@ -47454,8 +47417,6 @@ MARCH 2004
 
 
 ### ---Economics-2004-0-10.txt---
-DIAMOND: SOCIAL SECURITY
-B. Labor Incentives
 The implicitly uniform-price annuitization in
 Social Security also affects labor market incen-
 tives. The use of uniform annuity pricing (over-
@@ -47552,7 +47513,6 @@ VOL. 94 NO. 1
 
 
 ### ---Economics-2004-0-11.txt---
-THE AMERICAN ECONOMIC REVIEW
 individuals and families.33 So my answers here
 are speculative and primarily meant to identify
 where research might lead us to policy
@@ -47633,7 +47593,6 @@ MARCH 2004
 
 
 ### ---Economics-2004-0-12.txt---
-DIAMOND: SOCIAL SECURITY
 In sum, mandating benefits for the families of
 workers is important, along with mandating
 savings and mandating annuitization-the in-
@@ -47701,7 +47660,6 @@ VOL. 94 NO. I
 
 
 ### ---Economics-2004-0-13.txt---
-THE AMERICAN ECONOMIC REVIEW
 makes benefits a progressive function of life-
 time earnings offers insurance about lifetime
 earnings that is not available in the market.
@@ -47781,7 +47739,6 @@ MARCH 2004
 
 
 ### ---Economics-2004-0-14.txt---
-DIAMOND: SOCIAL SECURITY
 second is the extent to which additional work,
 and so additional payroll taxes, increase the
 measure of lifetime earnings and so add to  benefits.
@@ -47867,7 +47824,6 @@ VOL. 94 NO. 1
 
 
 ### ---Economics-2004-0-15.txt---
-THE AMERICAN ECONOMIC REVIEW
 simulations have assumed that younger workers
 perceive no increase in future benefits as a con-
 sequence of additional earnings. This leads to a
@@ -47961,7 +47917,6 @@ MARCH 2004
 
 
 ### ---Economics-2004-0-16.txt---
-DIAMOND: SOCIAL SECURITY
 Cumulative: billions of 2002 dollars  14,000
 400 188, 6 19 190 0- 12,000
 ,- S " >^ Cumulative Sum: net  transfers to all cohorts bom in
@@ -48015,7 +47970,6 @@ VOL. 94 NO. 1  15
 
 
 ### ---Economics-2004-0-17.txt---
-THE AMERICAN ECONOMIC REVIEW
 Security displacing transfers to the elderly from
 the government (through the program for the
 poor elderly-Old Age Assistance, which be-
@@ -48118,7 +48072,6 @@ MARCH 2004
 
 
 ### ---Economics-2004-0-18.txt---
-DIAMOND: SOCIAL SECURITY
 them to be lower later.59 Politically, the trust
 fund is very likely to be used for Social Security
 purposes in the sense that the constraint on
@@ -48204,7 +48157,6 @@ VOL. 94 NO. 1  17
 
 
 ### ---Economics-2004-0-19.txt---
-THE AMERICAN ECONOMIC REVIEW
 the realized net cash balance of Social Security
 is added to the trust fund and another year is
 added at the end of the 75-year horizon. With a
@@ -48303,7 +48255,6 @@ MARCH 2004
 
 
 ### ---Economics-2004-0-20.txt---
-DIAMOND: SOCIAL SECURITY
 inely usable, empirically validated theory and
 we are studying a process that generates very
 limited data relating outcomes to underlying
@@ -48395,7 +48346,6 @@ VOL. 94 NO. 1
 
 
 ### ---Economics-2004-0-21.txt---
-THE AMERICAN ECONOMIC REVIEW
 rate each year to produce enough revenues to
 cover expenditures for given values of
 points.71 Both types of adjustment need a
@@ -48465,7 +48415,6 @@ MARCH 2004
 
 
 ### ---Economics-2004-0-22.txt---
-DIAMOND: SOCIAL SECURITY
 and so even less pressure for legislation? For
 example, we could use additional adjustments
 depending on real wage growth. Or we could go
@@ -48558,7 +48507,6 @@ VOL. 94 NO. 1
 
 
 ### ---Economics-2004-0-23.txt---
-THE AMERICAN ECONOMIC REVIEW
 system that is less than fully funded will have less
 correlation with the returns on private retire-
 ment savings, as it adjusts benefits in response
@@ -48642,47 +48590,7 @@ MARCH 2004  22
 
 
 ### ---Economics-2004-0-24.txt---
-DIAMOND: SOCIAL SECURITY
-as part of lifetime earnings insurance and redis-
-tribution, to offset some of the redistributive
-effects of uniform annuitization, and to address
-the low antipoverty protection for the elderly
-(SSI) in contrast with other advanced countries.
-The retirement test at some ages makes sense.
-Having redistributed to earlier cohorts,
-spreading the implied cost over the indefinite
-future (not fully funding Social Security) makes
-sense and incomplete funding contributes to
-risk sharing across cohorts. Relying on a mix of
-a smaller mandatory system than is common in
-Europe and voluntary private supplementation
-makes sense, even though the voluntary system
-is so incomplete in its coverage (and in need of
-improved regulation). This is not to say there
-are not other approaches that have led to sys-
-tems that function reasonably well. It is just to
-say there is no need for radical reform in order
-to have a good system-just a need to put the
-program on a stronger financial footing while
-improving the benefit structure at the same time.
-I chose to write about why Social Security is
-better than many people think rather than why
-trying a radical reform would be worse than
-many people think. A preference for a radical  reform can reflect different values and different
-political predictions from mine. However, I
-think that much of the apparent appeal of radical
-reform lies in the implausible implicit assump-
-tion that such a reform will pass into legislation
-untouched by political hands, making for a
-faulty comparison with the current system
-which has flaws introduced and preserved by
-the political system. A major reason for my
-concern about radical reform is the potential for
-ill-advised design, driven by political ideology
-rather than a realistic assessment of likely out-
-comes. A better goal than seeking radical re-
-form is trying to improve the highly satisfactory
-current structure.
+
 ## Economics-2005-0
 
 

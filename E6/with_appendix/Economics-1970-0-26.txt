@@ -1,0 +1,102 @@
+ponement of the onset of the yield of the
+progress-generating activities.49 We will have
+to accept this noncomparability. This differ-
+ence is probably outweighed by another
+difference which our lagless approach will at
+first also neglect but for which we will have
+to make crude allowances subsequently. I
+mean the length of the gestation period
+elapsing between some of the progress-
+generating inputs and their industrial re-
+sults, as compared to the shorter gestation
+period for physical capital formation at a
+given level of technological knowledge.
+Our conclusions for the Cobb-Douglas
+model are valid also in the CES framework,
+provided we supplement the latter with a
+distributive-shares equilibrium mechanism
+and assume that the economy is moving in
+the neighborhood of that equilibrium (with
+pure labor-augmentation).50 In such a model,
+given degrees of now achieved labor-aug-
+mentation will in all future have to be
+multiplied by the same weight to give the
+proportionate rate of progress-generated net
+addition to output, and hence the propor-
+tionate output-increment will remain con-
+stant, as a permanent flow. From here on-
+i.e., concerning the comparison with phys-
+ical investment-the reasoning is the same
+as for the dynamic Cobb-Douglas model.
+For the relationship between these models
+and "reality," see my December 1967
+article in this Review to which I referred in
+Section I. See also Sections II and IV.
+APPENDIX B
+(see Section V)
+Explanation of Statements on
+Input-Trends
+1) The "Real-input" Versus the "Relative-
+value" Component of the Rise of Recorded
+R &- D.
+In Section V it was said that from 1953 to
+1966 total recorded R & D rose from $5.2
+billions, the equivalent of 1.6 percent of
+private GNP, to $22.2 billions, the equiv-
+alent of 3.3 percent. The industry-financed
+recorded R & D rose from $2.2 billions, the
+equivalent of 0.7 percent of private GNP, to
+$7.2 billions, the equivalent of 1.1 percent.
+How large is the "real" component of this
+increase?
+A. One way of trying to answer this ques-
+tion is to go through the following moves:
+a) We note that from 1953 to 1966 the
+number of R & D scientists and engineers,
+expressed in "full-time equivalents," rose
+about 2.3-fold (from about 225,000 to about
+520,000), and we now assume that the total
+real R & D input rose in the same propor-
+tion;
+b) since during this period real private
+GNP (in 1958 prices) rose by 62 percent, we
+consider that the "real" component of the
+increase would have raised the ratio of total
+R & D cost to private GNP by 42 percent of
+the initial ratio (i.e., 230. 162=142);
+c) since in fact this ratio rose not by 42
+percent but by 111 percent (from 1.57 to
+3.31 percent), the relative-valuation com-
+ponent raised it by 49 percent of the initial
+ratio;
+d) since for the industry-financed R & D
+the relative-valuation component was prob-
+ably similar (49 percent), and since the
+ratio of the industry-financed R & D to
+private GNP actually rose by 60 percent
+(from 0.67 to 1.07 percent), the "real" com-
+ponent raised this ratio by merely 7 percent.
+B. Another way of going about the matter
+would be to use Helen Milton's index as if it
+were an index of R & D input-prices-i.e.,
+of cost of research per unit of R & D input in
+general-though in reality it is an index of
+cost of research per research worker (in-
+cluding supporting personnel). Use of this
+index requires a small amount of extrapola-
+tion, because the index stops in 1965. How-
+ever with reasonable extrapolation this pro-
+cedure leads to the conclusion that the rela-
+tive-valuation component was somewhat
+larger than that estimated under A. The
+Milton index points to a doubling of cost-of-
+49 On the generous assumption of a 1 percent per
+annum increase of the output-base as a specific result
+of physical investment, and assuming a 10 percent dis-
+count rate, this noncomparability is the equivalent of a
+postponement of the onset of the yield of progress by
+roughly one year.
+50 In this framework the elasticity of substitution is
+smaller than one and hence labor-augmenting innova-
+tions are also labor-saving in Hicks's sense, though in
+shares-equilibrium the process is Harrod-neutral.

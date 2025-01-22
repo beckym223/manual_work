@@ -1,0 +1,104 @@
+to average incomes in the economy, though
+this is not true of all periods considered in
+this paper.
+The question now arises as to the propor-
+tion of the private GNP to which this "2
+percent to 3 percent increase" corresponds.
+For 1953, HEW estimates its narrowly
+defined "educatonal expenditures" at an
+amount corresponding to 4 percent of the
+private GNP; for 1966 the same figure comes
+out at 6.8 percent. On the basis of Machlup's
+estimates for the second half of the 'fifties-
+estimates involving a few deductions from
+the HEW figures and a good many addi-
+tions-the 4 percent and the 6.8 percent need
+to be multiplied by a factor of about 2.8 in
+order to arrive at education (knowledge-
+distribution) costs in the broad sense, the
+concept which is relevant from our point of
+view.55 We arrive at 11 percent for 1953 and
+19 percent for 1966. The text in Section V
+implies that "between 2 percent and 3 per-
+cent of 11 percent" may be regarded as 0.3
+percent, and that "between 2 percent and
+3 percent of 19 percent" may be regarded as
+0.5 percent.
+Using R & D statistics and education
+statistics additively is apt to lead to some
+amount of double-counting (the accounts are
+hardly kept with such consistency as to
+exclude this), but "imprecision" of the
+figure of 0.3 percent or of 0.5 percent result-
+ing from this and from other reasons is very
+unlikely to affect the calculations presented
+in the paper.
+APPENDIX C
+(see Section V)
+Listing the Unrecorded Costs of
+Technological Progress
+1) Obsolescence of capital goods, as con-
+ventionally defined (i.e., including residen-
+tial buildings).
+2) Obsolescence of durable consumer
+goods as conventionally defined (i.e., ex-
+cluding residential buildings). This would be
+a weighty item but it is a questionable candi-
+date for inclusion because of the understate-
+ment of the quality-improvement of con-
+sumer goods in the productivity statistics.
+3) Expenditures on R & D plant. These
+are not included in the "recorded R & D"
+figures of the paper, though incomplete
+numerical information is available on them.
+In some years the item may have corre-
+sponded to as much as 0.3 percent of private
+GN1P.
+4) "Technological" unemployment and
+underemployment. This is a doubtful item in
+the present context because it raises the
+question of the limitations of full-employ-
+ment policies given alternative rates of
+technological progress. In some countries
+with a high rate of progress unemployment
+is exceedingly low.
+5) The abandonment of methods of pro-
+duction which would remain associated with
+further learning by doing. This presumably
+is a small item because with given facilities
+and for givent models learning by doing tapers
+off rapidly and the methods that are aban--
+doned are usually the relatively old ones.
+6) Unrecorded research workers with
+essentially the same characteristics as those
+66 See pp. 103 ff. in Machlup's book, the reference to
+which is found in Section V, supra; and cf also p. 83
+in Machlup, op. cit.
+Two remarks need to be added here. (1) The multi-
+plier must have been different for different years but
+this can hardly have had an appreciable effect on the
+figure we are using in our yield-estimates for progress-
+generating inputs as a whole. (2) For our purpose some
+minor items should be omitted from those listed by
+Machlup on pp. 104-105 of op. cit., but on the other
+hand, some roughly equivalent items should be added
+which Machlup interprets as knowledge expenditures
+but not as education costs and which he therefore does
+not list on pp. 104-105. For my purpose I omit from
+his education items the cost of tax-exemptions and the
+basic-training component of his military education-
+expenditures; and I replace these with the cost of books,
+periodicals and newspapers valued at prices charged to
+consumers (so valued because advertising expenditures
+do not belong in the field of our present concern).
+Machlup, when relating education costs to GNP adds
+to measured GNP some items which he rightly regards
+as education costs but which are not included in the
+conventionally measured GNP. This I have not done,
+because for the present purpose, all costs should be
+related to the same output-base to which the measured
+productivity-increases are related.
+The largest item included in Machlup's list but not
+in the HEW education expenditures consists of the
+earnings foregone by students and by the mothers of
+pre-school children.

@@ -36085,28 +36085,6 @@ other rich countries today.
 
 
 ### ---Economics-1999-0-03.txt---
-6000- Genome Project PCs
-Man on Moon \ /  \ Man on MoonNuclear Energy
-High-Speed Computers \ Discovery of DNA
-5000- War on Malaria Penicillin
-Invention of Airplane
-4000- Discovery of New World Invention of Automobile
-Population 01 Black Plague~
-(millions) 0 Peak of Rome
-3000- 0A Peak of Greece:
-'V~~~~ & 10 ~~~~~~Invention of Telephone
-\$w '/ Germ T eory
-6% Os 1ttttt>,% s ' ', . BeginningofRailroads
-1000- Invention of WattEngine
-4; e$;tNtttH ' ~~~~~~~Beginning of Industrial Revolution
-%V. ~~~~~Beginning ofRalod
-YIL..YY Y _ 82nd Agricultural Revolution
-0 --7 t 1. ...r TT T -- - - - _
--9000 -6000 -4000 -2000 0 2000
--5000 -3000 -1000 1000
-Time (years)
-FIGURE 1. THE GROWTH OF THE WORLD POPULATION AND SOME MAJOR EVENTS IN THE HISTORY OF TECHNOLOGY
-Notes: There is usually a lag between the invention of a process or a machine and its general application to production.  "Beginning" means the earliest stage of this diffusion process.  Sources: Carl W. Bishop, 1936; T. K. Derry and T. I. William, 1960; Graham Clark, 1961; B. H. Slicher von Bath,  1963; Stuart Piggott, 1965; Glenn T. Trewartha, 1969; William McNeill, 1971; Jacob Bronowski, 1973; Carlo M.  Cipolla, 1974; B. M. Fagan, 1977. See also E. A. Wrigley, 1987; Robert C. Allen, 1992, 1994.
 I. Some Implications of Technophysio Evolution
 The rapid acceleration in technological
 change is apparent in the decline in mortality
@@ -36189,27 +36167,6 @@ Orville Wright traveled only a few hundred
 feet. Just 66 years later, an astronaut was
 standing on the moon, talking to another as-
 tronaut on earth, and hundreds of millions of
-TABLE I-A COMPARISON OF ENERGY AVAILABLE FOR
-WORK DAILY PER CONSUMING UNIT IN FRANCE,
-ENGLAND AND WALES, AND T'HE UNITED STATES,
-1700-1994 (IN KILOCALORIES)
-England and United
-Year France Wales States
-(1) (2) (3)
-1700a 720 2,313
-1705 439
-1750 812
-1785 600
-1800 858
-1840 1,810
-1850 1,014
-1870 1,671
-1880 2,709
-1944 2,282
-1975 2,136
-1980 1,793
-1994 2,620
-Source: Fogel and Floud (1999).  a Prerevolutionary Virginia.
 people around the world overheard and
 watched that conversation.
 Worldwide, the most important aspect of
@@ -36228,17 +36185,6 @@ States provided potential energy for work
 equal to or greater than late-twentieth-century
 levels during the eighteenth and early nine-
 teenth centuries, although some of that energy
-'Between circa 1775 and 1995 weight in England in-
-creased by about 40 percent, while weight in France in-
-creased by about 60 percent (cf., Fogel and Roderick
-Floud, 1999).  2 Even the English peerage, with all its wealth, had a
-diet during the sixteenth and seventeenth centuries that
-was deleterious to health. Although abundant in calories
-and proteins, aristocratic diets were deficient in some nu-
-trients and included large quantities of toxic substances,
-especially alcoholic beverages and salt (Fogel, 1986).
-3 Procedure for construction of Table 1 are described
-in Fogel and Floud, 1999.
 
 
 ### ---Economics-1999-0-05.txt---
@@ -36395,21 +36341,6 @@ of working farmners, artisans, and manual la-
 borers, wives rose before their husbainds and
 continued working until bedtimle at 10 or I1
 P.M. That routine suggests a workday that
-TABLE 2--SECULAR TRENDS IN TIME USE: THE AVERAGE
-HOURLY DIviSION OF 1[HE DAY OF rHE AVERAGE MALE
-HOUSEHOLD HEAD (BASED ON A 365-DAY YEAR)
-c. 1 880 c. 1995 c.2040
-Sleep 8 8 8
-Meals and essential
-hygienie 2 2 2
-Chores 2 2 2
-Travel to and from
-work 1 1 0.5
-Work 8.5 4.7 3.8
-Illness 0.7 0.5 0.5
-Subtotal 22.2 18.2 16.8
-Residual for leisure
-activities 1.8 5.8 7.2
 may have run about 15 niinutes longer than
 that of males, implying an annual workyear of
 perhaps 3,200 hours.
@@ -36445,19 +36376,10 @@ that members of the leisure class were indo-
 lent. In their youth they were students and ath-
 letes. In young adult years they were warriors.
 In middle and later ages they were judges,
-Trhis section draws on Fogel, 2000.
 
 
 ### ---Economics-1999-0-07.txt---
-TABLE 3-ESTIMATED TREND IN THE LIFETIME
-DISTRIBUTfION OF DiSCRETIONARY TIME
-C. 1880 c. 1995 c. 2040
-Lifetime discretionary
-hours 225.900 298&500 321,900
-Lifetinle earnwork
-hours 182,100 122,400 75,900
-Lifetime volwork
-hours 43,800 176,100 246,000
+
 bishops, merchant princes, and patrons of the
 arts. Whatever they did was for the pleasure it
 gave them since they were so rich that earning
@@ -36545,8 +36467,7 @@ the annual food supply, but today it takes jus.t
 used to account for over 80 percent of house-
 hold consumption can now be obtained in
 greater abundance than previously, with less
-"Saturation" in this context tneans that niost pur-
-chases are for replacement rather than for new use.
+
 
 
 ### ---Economics-1999-0-08.txt---
@@ -36587,21 +36508,7 @@ labor. The procedure increases the share of lei-
 sure in consumption in both 1875 and 1995.
 While leisure (volwork) remains a relatively
 small share of expanded consumption in 1875,
-TABLE 4-THE LONG-TERM TREND IN THE STRUCTURE
-OF EXPANDED CONSUMPTION AND THE IMPLIED INCOME
-ELASTICITIES OF SEVERAL CONSUMPTION CAT'EGORIES
-(Percent)
-Distribution of
-expanded Long-term
-Consumption consumption ncome
-class c. 1875 c. 1995 elasticities
-Food 49 5 0.2
-Clothing 12 2 0.3
-Shelter 14 5 0.7
-Health care 1 9 1.6
-Education 1 5 1.6
-Other 6 7 1.1
-Leisure 18 67 1.4
+
 it accounts for two-thirds of expanded con-
 sumption in 1995.'
 The failure to include the value of volwork
@@ -36629,23 +36536,7 @@ I1I. Shifting to Life-Cycle Data Sets for
 Successive Cohorts and to Intergenerational
 Data Sets
 It is no secret that cross-sectional data sets
-are cheaper to construct and more abundant  6 "Other" consists mainly of expenditures on utilities  and transportation, and of purchases of the supplies, fur-
-nishings, equipment, and services involved in the opera-
-tion of households.
-7 The elasticities are not adjusted for prices. Since their
-prices declined, the price-adjusted income elasticities are
-lower than shown for the first three expenditure categories
-and the last one. Since the prices of the other three expen-
-diture categories rose, their price-adjusted income elasti-
-cities are higher than shown.
-x I have also excluded savings and taxes. Nordhaus
-(1997) points out that when account is taken of the in-
-crease in health and other forms of human capital, the
-savings rate has not declined.
-' This procedure was previously followed by Simon
-Kuznets ( 1952) and others who corrected the national in-
-come and product accounts for the omission of volwork.
-See Robert Eisner (1988).
+are cheaper to construct and more abundant
 
 
 ### ---Economics-1999-0-09.txt---
@@ -36736,17 +36627,6 @@ crease as birth weight declined. Evidence of a
 connection between birth size and later coro-
 nary heart disease has been found in England,
 Wales, Sweden, India, and Finland.12
-"? This theory holds that the prevalence of chronic dis-
-eases is unrelated to the prevalence of acute infectious
-diseases but depends only on the natural process of senes-
-cence that precedes mortality.
-" BMI is measured by the ratio of weight in kilograms
-to height in square meters (BMI = kg/m2).
-i2 See Stephen Frankel et al., 1996; Law and Shiell,
-1996; C. E. Stein et al., 1996; Swen-Olef Andersson et al.,
-1997; D. J. Barker, 1997; Barker and C. N. Martyn, 1997;
-J. L. Cresswell et al., 1997; T. Forsen et al., 1997; Jan A.
-Henry et al., 1997; Ilona Koupilova et al., 1997; Scrim-
 
 
 ### ---Economics-1999-0-10.txt---
@@ -36836,23 +36716,6 @@ ity), taxable earnings, job characteristics,
 hours of work, job turnover, family character-
 istics, pensions, health insurance, and owner-
 ship of an array of assets including real estate,
-shaw, 1997; Stein et al., 1997, A. J. C. Ravelli et a., 1998.
-However, a number of researchers who attempted to rep-  licate the Barker results have been unable to do so (Denny
-Vaigero and David Leon, 1994; Kaare Christensen et al.,
-1995; Kannisto et al., 1997). It has also been pointed out
-that some of the key predictors of a link between fetal and
-infant development and later chronic disease are often
-found to be uncorrelated with CHD and other chronic dis-
-eases (Ivan J. Perry et al., 1995; Michael S. Kramer and
-K. S. Joseph, 1996). Nevertheless, the volume of studies
-confirning the life-cycle connection has increased sub-
-stantially since 1994. What is agreed on both sides of the
-debate is the need for studies that take better account of
-environmental factors in utero and between birth and the
-onset of chronic conditions, including middle-aged vari-
-ations in nutrition and lifestyle from one population to  another, and other confounding factors, such as mother's
-lifestyle (including smoking) (Nigel Paneth and Mervyn
-Susser, 1995; Perry et al., 1995; Scrimshaw, 1997).
 
 
 ### ---Economics-1999-0-11.txt---
@@ -37165,11 +37028,6 @@ produce spiritual regeneration. The middle and
 working classes became preoccupied with the
 acquisition of automobiles and those house-
 hold appliances made possible by electricity:
-" This calculation neglects a variety of goods and ser-
-vices, such as heart bypass operations, that are available
-today through Medicaid, but which were unavailable at
-any income a century ago.
-
 
 ### ---Economics-1999-0-14.txt---
 irons, lamps, telephones, toasters, refrigera-
@@ -37646,20 +37504,7 @@ dent in fewer famines, increased caloric intakes,
 reduced child and infant mortality, increased
 life expectancy, great reductions in time
 worked, and greatly increased percentage of the
-population that is literate.  1 I have an enormous intellectual debt to many people for
-the ideas that I have tried to put together in this paper.
-Rather than interrupt the flow of the text with the numerous
-citations that could be made, I wish to specify the individ-
-uals and publications that have had the greatest influence:
-Theodore W. Schultz (1964), Simon Kuznets (1966, 1979),
-Paul M. Romer (1986, 1990), Paul Bairoch (1988), Zvi
-Griliches (1988, 1998), Robert E. Lucas, Jr. (1988, 1993),
-Gary S. Becker (1991), Malthus (1992), and Robert W.
-Fogel (1996, 1999). I have not provided a full list of papers
-that have influenced my thinking but only the one or two
-that had the most influence. My debts to many others for
-data are indicated at the appropriate points.
-
+population that is literate.
 
 ### ---Economics-2000-0-04.txt---
 This lecture proceeds in the following way. I
@@ -37747,24 +37592,7 @@ times. But if life expectancy in Roman times
 were 25 years (Donald J. Bogue, 1969 p. 566),
 it is highly probable that the available food per
 capita was very limited. Fogel has estimated the
-2 To say that a high percentage of the working popu-
-lation was engaged in agriculture does not mean that this
-was the share of labor time devoted to the production of
-agricultural products. Prior to the nineteenth century,
-farm families were largely self-sufficient and had to
-devote a significant percentage of their labor to provide
-for their housing, to collect fuel, and to make their own
-clothing, bedding and furniture, and most of the simple
-tools and equipment that they used on the farm and in the
-house. In temperate climatic zones much of this work
-may have occurred during the colder periods when little
-or no farm work could be done, other than caring for
-animals. The percentage of the labor force engaged in
-agriculture is a rough inverse indicator of the percentage
-of their food production that they could sell to nonfarm-
-ers. If 80 percent of the population were engaged in
-agriculture, they could sell or trade approximately a fifth
-of the food they produced.
+
 
 
 ### ---Economics-2000-0-05.txt---
@@ -37859,17 +37687,7 @@ I[I. Agriculture and the Industrial Revolution
 What was agriculture's contribution to the
 Industrial Revolution? The Industrial Revolu-
 tion is generally considered to have started
-3 England was the exception; it had a significant increase
-in urbanization during the eighteenth century. Bairoch
-(1988 p. 215) estimates that the percentage of the population
-that was urban in 1700 was 13-16, in 1750, 17-19, and in
-1800, 22-24. For Europe, excluding England, there was no
-increase in urbanization as a percentage of the total popu-
-lation in the eighteenth century. England was also an imn-
-portant exception because it had a significant growth rate of
-population in the last half of the eighteenth century of 0.82
-percent annually compared to 0.5 percent for Europe (ex-
-cluding Russia).
+
 
 
 ### ---Economics-2000-0-06.txt---
@@ -37944,33 +37762,6 @@ and the early years of the nineteenth century
 were insignificant compared to the changes that
 occurred in the rest of the century. Throughout
 history for most of the world's population the
-4During the nineteenth century the United Kingdom was
-transformed from a rural to an urban economy. In 1800 it
-was 19.4 percent urban and in 1900, 67.6 urban. The pop-
-ulation increased from 16 million in 1800 to 41 million in
-1900, an increase of 25 million, while the urban population
-increased by 24 million. Continental Europe was only 32.9
-percent urban in 1900 (Bairoch, 1988 p. 290).
-5 It is not clear whether the increase in food production
-in Western Europe in the eighteenth century after 1725 was
-due primarily to productivity improvements or to a lengthy
-period of good weather. Ronald Maxwell Hartwell (1971 p.
-283) speculates that good weather might have been a sig-  nificant factor:
-An important, neglected and completely exogenous
-factor (perhaps the only one that is really exoge-
-nous), affecting eighteenth-century growth was the
-beginning after 1730 of more than two centuries of
-"good" weather (relative to the "bad" weather of the
-previous more than two centuries). The coincidence  in time of the beginnings of the industrial revolution
-and a long period of good weather suggests the
-possibility of a theory of weather-induced growth:  better weather enabling an increase in food supplies,
-increasing real incomes, and also an increasing pop-  ulation.
-The weather, through its effects on food production, could
-have been a factor in the slow growth of England's popu-
-lation of 0.13 percent annually from 1621 to 1721 compared
-to the much more rapid annual growth rate of 0.77 percent
-in the following century (Wrigley and Schofield, 1981 pp.
-528-29).
 
 
 ### ---Economics-2000-0-07.txt---
@@ -38171,17 +37962,6 @@ expanded and many private research institutes
 were created and developed. Prior to World
 War II federal support of research was largely
 concentrated in agriculture and the military.6
-6One of the great achievements of the presidency of
-Abraham Lincoln was the creation of a land grant college in
-each state. These colleges were to specialize in agriculture
-and engineering and to provide e-ducation that emphasized
-the practical as well as the theoretical. Approximately two
-decades later the agricultural experiment stations were es-
-tablished. The establishment of the agricultural experiment
-stations were especially noteworthy. Agriculture was a com-
-petitive industry, which meant that no individual farmer
-could devote any significant amount of resources to
-
 
 ### ---Economics-2000-0-09.txt---
 As the twentieth century ends, both the share
@@ -38269,21 +38049,6 @@ decline lagged behind the mortality decline by a
 decade or more and high rates of population
 growth occurred in the 1960's and the 1970's.
 For example, between 1960 and 1978, in the 38
-research. In addition, then and for at least the next century,
-the results of agricultural research were public goods- once
-a discovery was made, it became available to all. The
-private sector cannot afford to significantly invest in public
-goods. Today a significant fraction of agricultural research
-is undertaken in the private sector due to legal protection for
-intellectual property rights.
-7The declines in total fertility rates in several European
-countries from 1875 to 1900 were very rapid-Germany, 48
-percent; Sweden, 46 percent; England and Wales, 42 per-
-cent; Italy, 30 percent. In the United States the decline was
-30 percent (Livi-Bacci, 1992 p. 122). These declines were
-actually greater than what occurred in a similar period in the
-low-income developing countries as a group but the de-
-clines occurred much later in the demographic transition.
 
 
 ### ---Economics-2000-0-10.txt---
@@ -38381,12 +38146,6 @@ ference in mortality was not confined to infants;
 life expectancy at age 15 in Sweden was more
 than four years higher in rural than in urban
 areas in 1881-1890 (Bairoch, 1988 p. 235).8
-8 The higher rates of infant mortality and mortality in
-general in urban than rural areas has long been well known
-to demographers. Wrigley and Schofield (1981 p. 415), for
-example, wrote as follows:
-... the absence of any improvement in mortality in
-the second and third quarters of the nineteenth
 
 
 ### ---Economics-2000-0-11.txt---
@@ -38471,26 +38230,6 @@ spect to several very important variables the
 gaps narrowed significantly during the twenti-
 eth century and especially during the last half of
 that century.
-century at a time of rapidly improving real wages is
-certainly due in part to the very rapid growth in the
-percentage of the population living in towns where
-the death rates were high. ... Better wages in the
-same economic and social environment may reduce
-mortality, but since better wages may also mean
-moving to a less healthy environment, there was a
-negative rather than positive relationship between
-wealth and health.
-9 For the countries that moved from low- to middle- or to
-high-income levels in the past half century, the improve-
-ments in terms of nutrition, infant mortality rates, and life
-expectancies have been significantly greater than what has
-occurred in countries that have remained low income. South
-Korea, Singapore, and Hong Kong are examples. Their
-infant mortality rates ranged from 4 to 11 per thousand in
-1995 and life expectancy at birth from 72 to 79 years
-(World Bank, 1997), approaching the levels in Europe and
-North America. In 1950 their incomes were in the range of
-the current low-income countries.
 
 
 ### ---Economics-2000-0-12.txt---
@@ -38579,25 +38318,6 @@ plies that occurred in the developing countries,
 with nearly 80 percent of the world's popula-
 tion. There are reasonably reliable estimates of
 daily per capita supply of calories for 1961-
-10 Other data on life expectancies indicate that in 1896-
-1997 it was 32 years in Russia and in 1900, 35 years in
-Spain (Bogue, 1969 pp. 576-77). The earliest estimates for
-several African countries are for the 1940's and 1950's and
-range from 27 to 40 years.  "1 The area of the world that appears to have participated
-least in the recent improvements in well-being is Sub-
-Saharan Africa. Per capita income measures show that in the
-majority of the countries real incomes have fallen in the last
-three decades. However, John Sender (1999) has shown that
-there have been significant improvements in infant mortality
-and life expectancy in the region. He estimates that in 1950
-life expectancy was about 30 years, whereas a girl born in
-1995 had a life expectancy of 54 years (Sender, 1999 p. 91).
-The unweighted child mortality rate (per thousand) for the
-18 countries was 254 in 1960 and it declined to 139 in 1995,
-a decline of 45 percent. Sender shows that by a number of
-other measures, such as female enrollment rates in schools,
-the number of tractors, average grain yields, and the number
-of radio and television sets, substantial improvements oc-  cuffed.
 
 
 ### ---Economics-2000-0-13.txt---
@@ -38684,25 +38404,6 @@ sumption expenditures went for food and that
 the percentage was even higher at the beginning
 of the twentieth century for the developing
 countries. 13
-12 Grain provides 75 to 80 percent of calories consumed
-in the low-income developing countries. From 1961-1963
-to 1988-1990, per capita grain production increased by 25
-percent, almost the same as the per capita increase in per
-capita calorie supplies. Data are available on grain produc-
-tion for 1948-1952. From that period to 1961-1963 per
-capita grain production increased by 14 percent. Thus one
-may estimate that per capita calorie supplies in 1948-1952
-were approximately 1,700 (1,940/1.14 = 1,701).  13In discussing the benefits of the increase in knowledge
-and substantially higher incomes generated by that knowl-
-edge, I have said nothing directly about the possibility of
-environmnental degradation. While in some and, perhaps,
-many respects the environment has been degraded in the
-twentieth century, in terms of the effects on life and overall
-health, the net effect has been strikingly positive. The de-
-clines in infant mortality and increases in life expectancy
-have been due largely to improved nutrition and environ-
-mental improvements in terms of sanitation and clean water.
-True, some features of the twentieth century, such as air
 
 
 ### ---Economics-2000-0-14.txt---
@@ -38751,23 +38452,7 @@ confident that whoever speaks from this plat-
 form just 25 years from now could point to
 further dramatic reductions in worldwide in-
 equalities in well-being.
-pollution, do have an adverse effect on life expectancy, but
-these effects are probably measured in months rather than
-years. But those of us who live in high-income countries
-often consider problems from the standpoint of our envi-
-ronment, not the environment facing the majority of the
-world's population. For example, with respect to air pollu-
-tion, the World Health Organization has estimated that in
-the world in 1996 there were 2.7 million deaths from air
-pollution (UNDP, 1998 p. 70). However, less than 7 percent
-were in industrial countries. Of the 2.5 million deaths in
-developing countries, almost 2.2 million deaths were attrib-
-uted to indoor air pollution, not to outdoor pollution, and
-most were in rural areas. As real incomes in the developing
-countries increase, leading to improvements in the quality
-of housing and the replacement of indigenous fuels by
-modem fuels, the adverse environmental effects of air pol-
-lution will be significantly reduced.
+
 ## Economics-2001-0
 
 
@@ -38945,8 +38630,7 @@ and William Shockley.4
 The next major milestone in information tech-
 nology was the coinvention of the integrated cir-
 cuit by Jack Kilby of Texas Instruments in 1958
-4 On Bardeen, Brattain, and Shockley, see: http://www.
-nobel.se/physics/laureates/l956/.
+
 
 
 ### ---Economics-2001-0-05.txt---
@@ -39036,33 +38720,9 @@ cycle. This is reflected in the 2000 Update of
 the International Technology Road Map for
 Semiconductors,'0 prepared by a consortium of
 industry associations.
-5 Charles Petzold (1999) provides a general reference on
-computers and software.
-6 On Kilby, see: http://www.nobel.se/physics/laureates/
-20001 On Noyce, see: Tom Wolfe (2000 pp. 17-65).
-7 Moore (1965). Vernon W. Ruttan (2001 pp. 316-67)
-provides a general reference on the economics of semicon-
-ductors and computers. On semiconductor technology, see:
-http.//euler.berkeley.edu/-esrc/csm.
-8 Moore (1997).
-9 Moore (1996).  10 On International Technology Roadmap for Semicon-
-ductors (2000), see: http://public.itrs.net/.
-
 
 ### ---Economics-2001-0-06.txt---
-100,000.0
-10,000.0
-1,000.0
-_0E
-i 100.0
-0
-1.0
-0.1
-0.0
-1959 1964 1969 1974 1979 1984 1989 1994 1999
--u-Computers - Memory- Logic
-FIGURE 1. RELATIVE PRICES OF COMPUTERS AND SEMICONDUCTORS, 1959-1999
-Note: All price indexes are divided by the output price index.
+
 C. Constant Quality Price Indexes
 The behavior of semiconductor prices is a
 severe test for the methods used in the official
@@ -39109,7 +38769,6 @@ capacity. A constant quality price index isolates
 the price change by holding these characteristics
 of semiconductors fixed.
 Beginning in 1997, the U.S. Bureau of Labor
-" See J. Steven Landefeld and Robert P. Parker (1997).
 
 
 ### ---Economics-2001-0-07.txt---
@@ -39205,22 +38864,10 @@ computer price decline parallels the accelera-
 tion in the semiconductor price decline that
 resulted from the changeover from a three-year
 product cycle to a two-year cycle in 1995.
-12 See Moore (1996).  13 Further details are given by Ernst R. Berndt (1991 pp.
-102-49).  14 Denison cited his 1957 paper, "Theoretical Aspects of
-Quality Change, Capital Consumption, and Net Capital
-Formation," as the definitive statement of the traditional
-BEA position.
 
 
 ### ---Economics-2001-0-08.txt---
-10,000 -
-1,000 X
-100
-10 -
-1948 1953 1958 1963 1968 1973 1978 1983 1988 1993 1998
-- Computers Communications Software Services
-FIGURE 2. RELATIVE PRICES OF COMPUTERS, COMMUNICATIONS, SOFTWARE, AND SERVICES, 1948-1999
-Note: All price indexes are divided by the output price index.
+
 E. Communications Equipment and Software
 Communications technology is crucial for the
 rapid development and diffusion of the Internet,
@@ -39260,21 +38907,10 @@ signals over an optical fiber simultaneously. In-
 stallation of DWDM equipment, beginning in
 1997, has doubled the transmission capacity of
 fiber-optic cables every 6-12 months.'6
-15 A general reference on the Internet is Soon-Yong Choi
-and Andrew B. Whinston (2000). On Internet indicators,  see: http://www.internetindicators.com/.  16 Rick Rashad (2000) characterizes this as the "demise"
-of Moore's Law. Jeff Hecht (1999) describes DWDM tech-
-nology and provides a general reference on fiber optics.
 
 
 ### ---Economics-2001-0-09.txt---
-10,000:. - . .
-1,000
-'- 100 . .
-1?0|_
-1W59 196 I 1974 197 19 1" lm 1
--K Compu s Cordrl Offl> SwfchbV Equipmte- Pd Sartef
-nGURE 3. RELATIVE PRICES OF COMPUTERS, COMMUNICATIONS, AND SOFrWARE, 1959-1999
-Note: All price indexes are divided by the output price index.
+
 Both software and hardware are essential for
 information technology and this is reflected in
 the large volume of software expenditures. The
@@ -39320,9 +38956,7 @@ based on programmer wage rates. This implic-
 itly assumes no change in the productivity of
 computer programmers, even with growing in-
 vestment in hardware and software to support
-the creation of new software. Custom software  17 Brent R. Moulton (2000) describes the eleventh com-
-prehensive revision of NIPA and the 1999 update.
-
+the creation of new software. Custom software
 
 ### ---Economics-2001-0-10.txt---
 prices are a weighted average of prepackaged
@@ -39417,92 +39051,12 @@ BEA. Both measures include final outputs pur-
 chased by businesses, governments, house-
 holds, and the rest of the world. Unlike the BEA
 concept, the output measure in Table 1 also
-18 See Alfred D. Chandler, Jr. (2000 Table 1.1 p. 26).  19 See Jorgenson and Kevin J. Stiroh (2000b Appendix
-A) for details on the estimates of output.
-
 
 ### ---Economics-2001-0-11.txt---
-TABLE 1-INFORMATION TECHNOLOGY OUTPUT AND GROSS DOMESTIC PRODUCT
-Gross domestic
-Computer Software Communications IT services Total IT product
-Year Value Price Value Price Value Price Value Price Value Price Value Price
-1948 1.8 0.81 0.4 3.26 2.3 2.47 307.7 0.19
-1949 1.7 0.81 0.4 2.19 2.0 2.29 297.0 0.18
-1950 1.9 0.83 0.6 2.38 2.5 2.38 339.0 0.19
-1951 2.2 0.86 0.8 2.30 3.0 2.43 370.6 0.19
-1952 2.7 0.84 1.1 2.50 3.9 2.43 387.4 0.19
-1953 3.0 0.80 1.5 2.56 4.5 2.38 418.2 0.20
-1954 2.7 0.81 1.3 1.86 3.9 2.15 418.3 0.20
-1955 3.0 0.81 1.8 2.25 4.7 2.30 461.3 0.20
-1956 3.7 0.82 2.0 2.27 5.7 2.33 484.7 0.21
-1957 4.3 0.85 1.9 1.79 6.2 2.22 503.6 0.21
-1958 3.8 0.86 2.1 1.84 5.9 2.25 507.2 0.22
-1959 0.0 662.98 4.7 0.86 2.7 2.14 7.4 2.37 551.9 0.22
-1960 0.2 662.98 0.1 0.58 5.1 0.84 2.8 1.99 8.2 2.28 564.9 0.22
-1961 0.3 497.23 0.2 0.59 5.6 0.82 2.8 1.88 9.0 2.19 581.8 0.22
-1962 0.3 350.99 0.2 0.59 6.2 0.82 3.3 1.99 10.0 2.20 623.3 0.22
-1963 0.8 262.69 0.5 0.59 6.2 0.81 3.3 1.81 10.8 2.08 666.9 0.23
-1964 1.0 218.30 0.6 0.57 6.9 0.79 3.6 1.76 12.1 2.01 726.5 0.24
-1965 1.3 179.45 0.9 0.58 8.1 0.78 4.7 1.99 15.0 2.03 795.1 0.25
-1966 1.9 126.16 1.2 0.54 9.7 0.76 5.2 1.85 18.0 1.88 871.3 0.25
-1967 2.1 102.41 1.5 0.58 10.7 0.76 5.0 1.50 19.3 1.75 918.2 0.26
-1968 2.1 87.48 1.6 0.58 11.6 0.78 5.4 1.40 20.7 1.71 973.0 0.26
-1969 2.7 79.16 2.3 0.63 13.0 0.79 5.8 1.31 23.8 1.70 1,045.8 0.27
-1970 3.0 71.13 3.1 0.70 14.4 0.81 6.7 1.34 27.1 1.73 1,105.2 0.29
-1971 3.1 54.17 3.2 0.69 14.7 0.83 8.1 1.47 29.0 1.73 1,178.8 0.30
-1972 3.9 43.67 3.7 0.70 15.6 0.85 9.0 1.48 32.2 1.72 1,336.2 0.32
-1973 3.9 41.39 4.3 0.72 18.2 0.86 12.1 1.78 38.4 1.82 1,502.5 0.34
-1974 4.3 33.80 5.3 0.77 19.9 0.90 10.9 1.45 40.4 1.73 1,605.9 0.37
-1975 4.0 31.27 6.6 0.83 21.3 0.96 12.0 1.46 43.9 1.79 1,785.8 0.41
-1976 4.9 26.12 7.1 0.85 23.8 0.98 14.2 1.58 50.0 1.83 2,017.5 0.44
-1977 6.3 22.72 7.5 0.87 28.1 0.97 22.5 2.28 64.4 2.02 2,235.7 0.46
-1978 8.5 15.44 9.2 0.90 32.7 0.99 20.3 1.86 70.6 1.85 2,517.7 0.49
-1979 11.4 12.81 11.9 0.94 38.4 1.02 26.5 2.18 88.2 1.92 2,834.9 0.54
-1980 14.0 9.97 14.5 1.00 43.9 1.07 23.5 1.73 95.9 1.80 2,964.5 0.57
-1981 19.2 8.75 17.8 1.08 48.6 1.13 22.4 1.46 108.0 1.76 3,285.2 0.62
-1982 22.0 7.80 21.1 1.12 50.9 1.17 25.6 1.49 119.5 1.77 3,445.4 0.66
-1983 28.8 6.44 24.9 1.13 55.0 1.17 29.5 1.50 138.1 1.71 3,798.8 0.70
-1984 37.4 5.24 30.4 1.15 62.9 1.18 33.3 1.44 163.9 1.63 4,288.1 0.74
-1985 39.6 4.48 35.2 1.15 69.9 1.17 38.5 1.44 183.1 1.57 4,542.6 0.75
-1986 45.9 4.45 38.5 1.13 72.7 1.17 42.7 1.36 199.7 1.54 4,657.4 0.74
-1987 48.6 3.93 43.7 1.14 74.9 1.15 50.3 1.37 217.5 1.50 5,078.1 0.78
-1988 54.1 3.72 51.2 1.15 82.1 1.14 59.3 1.40 246.7 1.48 5,652.0 0.83
-1989 56.9 3.52 61.4 1.13 85.1 1.13 63.0 1.31 266.3 1.43 5,988.8 0.85
-1990 52.4 3.09 69.3 1.12 86.5 1.12 68.5 1.28 276.6 1.38 6,284.9 0.88
-1991 52.6 2.85 78.2 1.13 83.9 1.12 67.5 1.13 282.2 1.32 6,403.3 0.90
-1992 54.9 2.44 83.9 1.06 88.1 1.11 77.3 1.15 304.1 1.27 6,709.9 0.92
-1993 54.8 2.02 95.5 1.06 92.6 1.09 84.7 1.11 327.6 1.21 6,988.8 0.93
-1994 57.6 1.80 104.6 1.04 102.6 1.07 96.6 1.12 361.4 1.17 7,503.9 0.96
-1995 70.5 1.41 115.7 1.03 112.4 1.03 108.7 1.10 407.2 1.11 7,815.3 0.97
-1996 78.3 1.00 131.0 1.00 120.1 1.00 115.1 1.00 444.5 1.00 8,339.0 1.00
-1997 86.0 0.73 158.1 0.97 131.5 0.98 123.0 0.90 498.7 0.91 9,009.4 1.04
-1998 86.9 0.53 193.3 0.94 140.4 0.95 131.9 0.79 552.5 0.82 9,331.1 1.03
-1999 92.4 0.39 241.2 0.94 158.1 0.92 140.9 0.69 632.6 0.75 9,817.4 1.04
-Notes: Values are in billions of current dollars. Price are normalized to one in 1996. Information technology output is gross  domestic product by type of product.
 
 
 ### ---Economics-2001-0-12.txt---
-TABLE 2-GROwTH RATES OF OUTPUTS AND INPUTS
-1990-1995 1995-1999
-Prices Quantities Prices Quantities
-Outputs
-Gross domestic product 1.99 2.36 1.62 4.08
-Information technology -4.42 12.15 -9.74 20.75
-Computers -15.77 21.71 -32.09 38.87
-Software -1.62 11.86 -2.43 20.80
-Communications equipment -1.77 7.01 -2.90 11.42
-Information technology services -2.95 12.19 -11.76 18.24
-Noninformation technology investment 2.15 1.22 2.20 4.21
-Noninformation technology consumption 2.35 2.06 2.31 2.79
-Inputs
-Gross domestic income 2.23 2.13 2.36 3.33
-Information technology capital services -2.70 11.51 -10.46 19.41
-Computer capital services -11.71 20.27 -24.81 36.36
-Software capital services -1.83 12.67 -2.04 16.30
-Communications equipment capital services 2.18 5.45 -5.90 8.07
-Noninformation technology capital services 1.53 1.72 2.48 2.94
-Labor services 3.02 1.70 3.39 2.18
-Note: Average annual percentage rates of growth.
+
 includes imputations for the service flows from
 durable goods, including IT products, employed
 in the household and government sectors.
@@ -39564,11 +39118,7 @@ that the output of software is the largest IT
 
 
 ### ---Economics-2001-0-13.txt---
-5
-IN$ 1" 195 8 os 1903 190B 193 1978 ISM 1" 1 -3 199
-_-m Compubus _-w ComnsSc_ _-F- 8dlwa _ SOnhA8 Total
-FIGURE 4. OUTPUT SHARES OF INFORMATION TECHNOLOGY BY TYPE, 1948-1999
-Note: Percent of current dollar gross domestic product.
+
 category as a share of GDP, followed by the
 outputs of computers and communications
 equipment.
@@ -39603,13 +39153,6 @@ poration of the rate of decline of asset prices
 into the cost of capital. The assumption of per-
 fect foresight or rational expectations quickly
 emerged as the most appropriate formulation
-20 See Jorgenson and Stiroh (2000b Appendix B) for
-details on the estimates of capital input.  21 Jorgenson (2000) presents a model of capital as a
-factor of production. BLS (U.S. Bureau of Labor Statistics,
-1983) describes the version of this model employed in the
-official productivity statistics. For a recent update, see:  http://www.bls.gov/news.release/prd3.nrO.htm. Charles R.  Hulten (2001) surveys the literature.  22 Jorgenson and Kun-Young Yun (1991 p. 7).  23 Jorgenson and Stiroh (1995 pp. 300-03).
-24 Lawrence J. Lau (2000) surveys applications of the  cost of capital.
-
 
 ### ---Economics-2001-0-14.txt---
 and has been used in almost all applications of
@@ -39703,146 +39246,16 @@ input for the U.S. economy from 1948 to 1999.
 These incorporate individual data from the Cen-
 suses of Population for 1970, 1980, and 1990,
 as well as the annual Current Population Sur-
-veys. Constant quality indexes for the price and  25 See, for example, Jorgenson et al. (1987 pp. 40-49)
-and Jorgenson and Griliches (1996).
-26 Jorgenson and Stiroh (2000b Table B4 pp. 196-97)
-give the depreciation rates employed in this study. Barbara
-M. Fraumeni (1997) describes depreciation rates used in the
-NIPA. Jorgenson (2000) surveys empirical studies of depre-  ciation.
-27 See Jorgenson and Yun (2001). Diewert and Denis A.
-Lawrence (2000) survey measures of the price and quantity
-of capital input.
+veys. Constant quality indexes for the price and
 
 
 ### ---Economics-2001-0-15.txt---
-TABLE 3-INFORMATION TECHNOLOGY CAPITAL STOCK AND DOMESTIC TANGIBLE ASSETS
-Total domestic
-Computer Software Communications Total IT tangible assets
-Year Value Price Value Price Value Price Value Price Value Price
-1948 4.7 0.81 4.7 1.37 711.7 0.13
-1949 5.9 0.82 5.9 1.37 750.5 0.13
-1950 7.3 0.84 7.3 1.41 824.5 0.13
-1951 9.0 0.87 9.0 1.46 948.1 0.14
-1952 10.6 0.84 10.6 1.41 1,017.5 0.14
-1953 12.2 0.81 12.2 1.36 1,094.9 0.15
-1954 13.7 0.81 13.7 1.37 1,146.9 0.15
-1955 15.2 0.81 15.2 1.36 1,238.4 0.15
-1956 17.5 0.82 17.5 1.38 1,373.2 0.16
-1957 20.7 0.86 20.7 1.44 1,494.1 0.17
-1958 22.5 0.86 22.5 1.45 1,562.3 0.17
-1959 0.2 752.87 0.1 0.54 24.7 0.86 25.0 1.45 1,655.7 0.18
-1960 0.2 752.87 0.1 0.54 26.5 0.84 26.8 1.42 1,755.3 0.18
-1961 0.5 564.66 0.3 0.55 28.8 0.83 29.5 1.39 1,854.8 0.18
-1962 0.6 398.58 0.4 0.55 31.7 0.83 32.7 1.38 1,982.7 0.19
-1963 1.1 298.31 0.8 0.56 33.8 0.81 35.7 1.34 2,088.5 0.19
-1964 1.6 247.90 1.1 0.55 36.4 0.79 39.1 1.31 2,177.3 0.19
-1965 2.2 203.79 1.6 0.55 40.0 0.78 43.8 1.28 2,315.4 0.20
-1966 2.9 143.27 2.3 0.52 44.5 0.76 49.7 1.22 2,512.1 0.20
-1967 3.7 116.30 3.2 0.56 50.8 0.77 57.6 1.22 2,693.3 0.21
-1968 4.3 99.34 3.8 0.56 57.7 0.79 65.7 1.23 2,986.0 0.22
-1969 5.3 89.90 5.1 0.61 65.4 0.80 75.7 1.25 3,319.1 0.24
-1970 6.2 80.77 7.0 0.68 74.4 0.83 87.5 1.29 3,595.0 0.25
-1971 6.3 61.52 7.9 0.67 82.1 0.84 96.3 1.28 3,922.6 0.26
-1972 7.3 49.59 9.1 0.67 90.6 0.86 107.0 1.29 4,396.8 0.28
-1973 8.6 47.00 10.7 0.69 99.9 0.88 119.2 1.31 4,960.3 0.31
-1974 9.1 38.38 13.2 0.75 112.8 0.91 135.0 1.35 5,391.6 0.32
-1975 9.7 35.51 16.3 0.80 128.7 0.98 154.6 1.43 6,200.5 0.36
-1976 10.4 29.66 18.3 0.82 142.1 1.01 170.7 1.45 6,750.0 0.38
-1977 12.4 25.81 20.4 0.84 152.3 0.99 185.1 1.42 7,574.4 0.41
-1978 14.1 17.46 23.5 0.87 171.8 1.02 209.4 1.42 8,644.9 0.46
-1979 19.3 14.47 28.7 0.91 195.0 1.04 243.0 1.43 9,996.7 0.51
-1980 24.2 11.27 35.3 0.97 225.7 1.09 285.2 1.47 11,371.0 0.56
-1981 33.6 9.90 43.6 1.04 260.9 1.15 338.1 1.53 13,002.5 0.63
-1982 42.4 8.84 52.0 1.08 290.0 1.19 384.3 1.55 13,964.7 0.66
-1983 52.6 7.32 60.6 1.09 314.3 1.20 427.5 1.53 14,526.0 0.68
-1984 66.2 5.95 72.3 1.11 344.8 1.20 483.3 1.50 15,831.0 0.71
-1985 77.7 5.08 84.2 1.11 375.0 1.20 537.0 1.46 17,548.6 0.77
-1986 86.0 4.34 94.9 1.10 404.3 1.18 585.1 1.41 18,844.3 0.80
-1987 94.1 3.71 108.5 1.11 434.8 1.17 637.4 1.37 20,216.2 0.84
-1988 107.2 3.45 125.2 1.12 467.7 1.16 700.0 1.35 21,880.1 0.89
-1989 121.0 3.23 144.4 1.11 499.7 1.15 765.1 1.33 23,618.7 0.93
-1990 122.3 2.89 165.2 1.10 527.1 1.14 814.5 1.29 24,335.1 0.94
-1991 124.6 2.58 189.9 1.10 548.3 1.13 862.8 1.27 24,825.7 0.95
-1992 128.2 2.17 203.8 1.04 569.7 1.11 901.7 1.21 25,146.8 0.95
-1993 135.6 1.82 231.8 1.05 589.5 1.10 956.9 1.17 25,660.4 0.95
-1994 150.4 1.61 255.8 1.02 612.8 1.07 1,019.0 1.13 26,301.0 0.95
-1995 170.3 1.33 286.7 1.03 634.1 1.03 1,091.1 1.07 27,858.4 0.98
-1996 181.6 1.00 318.1 1.00 659.3 1.00 1,158.9 1.00 29,007.9 1.00
-1997 198.7 0.76 365.2 0.97 695.8 0.98 1,259.7 0.94 30,895.3 1.04
-1998 210.0 0.55 431.2 0.95 730.9 0.94 1,372.1 0.87 32,888.5 1.07
-1999 232.4 0.41 530.6 0.95 778.5 0.90 1,541.5 0.81 35,406.9 1.11
-Notes: Values are in billions of current dollars. Prices are normalized to one in 1996. Domestic tangible assets include fixed
-assets and consumer durable goods, land, and inventories.
 
 
 ### ---Economics-2001-0-16.txt---
-TABLE 4- INFORMATION TECHNOLOGY CAPITAL SERVICES AND GROSS DOMESTIC INCOME
-Gross domestic
-Computer Software Communications Total IT income
-Year Value Price Value Price Value Price Value Price Value Price
-1948 1.7 1.20 1.7 4.31 307.7 0.14
-1949 1.3 0.79 1.3 2.83 297.0 0.14
-1950 1.8 0.91 1.8 3.27 339.0 0.15
-1951 2.1 0.90 2.1 3.21 370.6 0.15
-1952 2.6 0.94 2.6 3.36 387.4 0.15
-1953 3.2 0.96 3.2 3.46 418.2 0.15
-1954 2.7 0.70 2.7 2.49 418.3 0.15
-1955 3.6 0.85 3.6 3.05 461.3 0.16
-1956 4.2 0.87 4.2 3.12 484.7 0.17
-1957 3.7 0.68 3.7 2.44 503.6 0.17
-1958 4.1 0.68 4.1 2.45 507.2 0.17
-1959 0.2 444.36 0.1 0.63 5.2 0.80 5.5 2.87 551.9 0.18
-1960 0.2 433.59 0.1 0.62 5.4 0.75 5.6 2.68 564.9 0.18
-1961 0.3 637.21 0.1 0.58 5.6 0.71 6.0 2.59 581.8 0.18
-1962 0.4 508.68 0.2 0.62 6.6 0.76 7.2 2.71 623.3 0.19
-1963 0.6 311.81 0.3 0.58 6.5 0.67 7.3 2.34 666.9 0.20
-1964 0.8 211.28 0.4 0.60 7.1 0.67 8.3 2.26 726.5 0.21
-1965 1.3 182.17 0.6 0.59 9.1 0.78 11.0 2.52 795.1 0.22
-1966 2.2 173.57 1.0 0.64 9.6 0.73 12.8 2.40 871.3 0.23
-1967 2.3 110.97 1.1 0.50 9.8 0.66 13.2 2.01 918.2 0.23
-1968 2.6 87.05 1.6 0.60 10.2 0.61 14.5 1.86 973.0 0.24
-1969 2.8 68.23 1.7 0.52 11.3 0.61 15.8 1.76 1,045.8 0.25
-1970 3.6 65.38 2.3 0.56 13.3 0.65 19.1 1.83 1,105.2 0.26
-1971 5.2 72.48 3.7 0.77 14.9 0.67 23.9 1.99 1,178.8 0.27
-1972 4.9 48.57 4.0 0.71 16.6 0.69 25.4 1.85 1,336.2 0.30
-1973 4.4 33.06 4.5 0.71 22.8 0.88 31.7 2.04 1,502.5 0.32
-1974 6.6 38.82 5.1 0.70 20.3 0.72 32.0 1.84 1,605.9 0.34
-1975 5.9 28.43 6.7 0.80 23.2 0.77 35.7 1.85 1,785.8 0.37
-1976 6.6 26.07 7.7 0.81 25.0 0.78 39.2 1.84 2,017.5 0.41
-1977 7.0 20.69 8.4 0.82 41.8 1.20 57.2 2.40 2,235.7 0.44
-1978 11.8 22.49 9.7 0.86 35.5 0.93 57.0 2.07 2,517.7 0.47
-1979 11.6 13.33 11.6 0.90 47.9 1.14 71.1 2.15 2,834.9 0.51
-1980 16.6 11.81 13.6 0.91 42.0 0.90 72.2 1.82 2,964.5 0.53
-1981 17.7 7.89 15.5 0.90 40.5 0.79 73.6 1.53 3,285.2 0.58
-1982 19.6 5.93 17.6 0.89 43.1 0.77 80.3 1.41 3,445.4 0.60
-1983 26.4 5.46 20.6 0.91 49.4 0.82 96.4 1.43 3,798.8 0.66
-1984 36.1 4.87 25.4 0.96 54.3 0.83 115.7 1.41 4,288.1 0.71
-1985 39.6 3.70 30.6 0.99 63.1 0.89 133.3 1.35 4,542.6 0.73
-1986 43.1 3.04 35.3 0.99 69.3 0.89 147.6 1.27 4,657.4 0.73
-1987 53.4 2.93 42.1 1.04 86.5 1.02 181.9 1.36 5,078.1 0.77
-1988 52.7 2.31 50.5 1.10 104.1 1.14 207.3 1.36 5,652.0 0.81
-1989 57.6 2.08 60.4 1.13 105.8 1.07 223.8 1.29 5,988.8 0.84
-1990 64.7 2.01 67.2 1.08 109.8 1.04 241.7 1.25 6,284.9 0.86
-1991 64.2 1.76 70.8 1.00 104.2 0.93 239.2 1.12 6,403.3 0.88
-1992 71.7 1.66 89.9 1.11 112.2 0.96 273.7 1.16 6,709.9 0.91
-1993 77.8 1.45 90.4 0.98 126.9 1.03 295.1 1.11 6,988.8 0.92
-1994 80.1 1.19 109.5 1.05 142.4 1.10 331.9 1.10 7,503.9 0.96
-1995 99.3 1.12 115.5 0.99 160.7 1.16 375.6 1.09 7,815.3 0.96
-1996 123.6 1.00 131.9 1.00 149.0 1.00 404.5 1.00 8,339.0 1.00
-1997 134.7 0.76 156.2 1.02 157.1 0.98 448.1 0.92 9,009.4 1.04
-1998 152.5 0.59 178.2 0.97 162.0 0.93 492.6 0.82 9,331.1 1.04
-1999 157.7 0.42 204.4 0.91 175.3 0.91 537.4 0.72 9,817.4 1.06
-Notes: Values are in billions of current dollars. Prices are normalized to one in 1996.
-
 
 ### ---Economics-2001-0-17.txt---
-4
-0
-1949 1954 1959 1964 1969 1974 1979 1984 1989 1994 1999
-Year
--- Computers -- Communications wpment - Softwe Total
-FIGURE 5. INPUT SHARES OF INFORMATION TECHNOLOGY BY TYPE, 1948-1999
-Note: Percent of current dollar gross domestic income.
+
 quantity of labor input account for the hetero-
 geneity of the workforce across sex, employ-
 ment class, age, and education levels. This
@@ -39887,70 +39300,9 @@ markable resurgence since the mid-1990's with
 accelerating growth in output, labor productiv-
 ity, and total factor productivity. The purpose of
 this section is to quantify the sources of growth
-for 1948-1999 and various subperiods. An  28 See Jorgenson and Stiroh (2000b Appendix C) for
-details on the estimates of labor input. Gollop (2000) dis-
-cusses the measurement of labor quality.
-
+for 1948-1999 and various subperiods. An 
 
 ### ---Economics-2001-0-18.txt---
-TABLE 5-LABOR SERVICES
-Labor services Weekly Hourly Hours
-Year Price Quantity Value Quality Employment hours compensation worked
-1948 0.08 1,924.6 156.1 0.75 61,536 39.1 1.2 125,127
-1949 0.09 1,860.0 171.5 0.75 60,437 38.5 1.4 121,088
-1950 0.09 1,961.0 179.2 0.76 62,424 38.5 1.4 125,144
-1951 0.10 2,133.0 214.4 0.78 66,169 38.7 1.6 133,145
-1952 0.10 2,197.2 227.2 0.79 67,407 38.5 1.7 135,067
-1953 0.11 2,254.3 241.8 0.80 68,471 38.3 1.8 136,331
-1954 0.11 2,190.3 243.9 0.81 66,843 37.8 1.9 131,477
-1955 0.11 2,254.9 256.7 0.81 68,367 37.8 1.9 134,523
-1956 0.12 2,305.0 275.0 0.82 69,968 37.5 2.0 136,502
-1957 0.13 2,305.1 295.5 0.83 70,262 37.0 2.2 135,189
-1958 0.14 2,245.3 309.1 0.83 68,578 36.7 2.4 130,886
-1959 0.14 2,322.1 320.1 0.84 70,149 36.8 2.4 134,396
-1960 0.15 2,352.2 344.1 0.84 71,128 36.5 2.5 135,171
-1961 0.15 2,378.5 355.0 0.86 71,183 36.3 2.6 134,451
-1962 0.15 2,474.1 376.7 0.87 72,673 36.4 2.7 137,612
-1963 0.15 2,511.4 386.2 0.88 73,413 36.4 2.8 139,050
-1964 0.16 2,578.1 417.6 0.88 74,990 36.3 3.0 141,447
-1965 0.17 2,670.6 451.9 0.89 77,239 36.3 3.1 145,865
-1966 0.18 2,788.5 500.3 0.89 80,802 36.0 3.3 151,448
-1967 0.19 2,842.4 525.5 0.90 82,645 35.7 3.4 153,345
-1968 0.20 2,917.0 588.3 0.91 84,733 35.5 3.8 156,329
-1969 0.22 2,992.1 646.6 0.91 87,071 35.4 4.0 160,174
-1970 0.23 2,938.6 687.3 0.91 86,867 34.9 4.4 157,488
-1971 0.26 2,924.9 744.5 0.90 86,715 34.8 4.7 156,924
-1972 0.27 3,011.7 817.6 0.91 88,838 34.8 5.1 160,873
-1973 0.29 3,135.0 909.4 0.91 92,542 34.8 5.4 167,271
-1974 0.31 3,148.2 988.5 0.91 94,121 34.2 5.9 167,425
-1975 0.35 3,082.9 1,063.9 0.92 92,575 33.8 6.5 162,879
-1976 0.38 3,174.4 1,194.0 0.92 94,922 33.9 7.1 167,169
-1977 0.41 3,277.4 1,334.5 0.92 98,202 33.8 7.7 172,780
-1978 0.44 3,430.3 1,504.2 0.92 102,931 33.8 8.3 180,842
-1979 0.47 3,554.7 1,673.2 0.92 106,463 33.7 9.0 186,791
-1980 0.52 3,535.7 1,827.9 0.92 107,061 33.3 9.9 185,591
-1981 0.55 3,563.8 1,968.8 0.93 108,050 33.2 10.6 186,257
-1982 0.60 3,519.7 2,096.3 0.93 106,749 32.9 11.5 182,772
-1983 0.63 3,586.7 2,269.8 0.94 107,810 33.1 12.2 185,457
-1984 0.66 3,786.7 2,499.1 0.94 112,604 33.2 12.9 194,555
-1985 0.69 3,882.9 2,679.0 0.95 115,205 33.1 13.5 198,445
-1986 0.75 3,926.3 2,931.1 0.95 117,171 32.9 14.6 200,242
-1987 0.74 4,075.1 3,019.7 0.96 120,474 32.9 14.6 206,312
-1988 0.75 4,207.7 3,172.2 0.96 123,927 32.9 15.0 211,918
-1989 0.80 4,348.4 3,457.8 0.97 126,755 33.0 15.9 217,651
-1990 0.84 4,381.5 3,680.8 0.97 128,341 32.9 16.8 219,306
-1991 0.88 4,322.0 3,800.2 0.98 127,080 32.5 17.7 214,994
-1992 0.94 4,353.9 4,086.9 0.98 127,238 32.6 19.0 215,477
-1993 0.96 4,497.4 4,297.7 0.99 129,770 32.8 19.5 221,003
-1994 0.96 4,628.3 4,453.1 0.99 132,799 32.9 19.6 226,975
-1995 0.98 4,770.7 4,660.5 1.00 135,672 33.0 20.0 232,545
-1996 1.00 4,861.7 4,861.7 1.00 138,018 32.8 20.6 235,798
-1997 1.03 4,987.9 5,122.0 1.00 141,184 33.0 21.1 242,160
-1998 1.08 5,108.8 5,491.5 1.00 144,305 33.0 22.2 247,783
-1999 1.12 5,204.8 5,823.4 1.00 147,036 32.9 23.1 251,683
-Notes: Value is in billions of current dollars. Quantity is in billions of 1996 dollars. Price and quality are normalized to one
-in 1996. Employment is in thousands of workers. Weekly hours is hours per worker, divided by 52. Hourly compensation is
-in current dollars. Hours worked are in millions of hours.
 
 
 ### ---Economics-2001-0-19.txt---
@@ -40041,9 +39393,6 @@ and, hence, no place for constant quality IF price
 indexes for outputs of IF investment goods.
 Greenwood et al. employ a price index for
 consumption to deflate the output of all
-29 The production possibility frontier was introduced
-into productivity measurement by Jorgenson (1996 pp. 27-  28). 30 Services of durable goods to governments and house-
-holds are included in both inputs and outputs.
 
 
 ### ---Economics-2001-0-20.txt---
@@ -40135,36 +39484,11 @@ output Y to hours worked H, and k = KIH is
 the ratio of capital services K to hours worked:
 (3) A Iny== VKA Ink
 + VL(A InL - A In H) + A In A.
-3' Karl Whelan (1999) also employs Solow's concept of
-embodiment.
-32 See, for example, John Y. Campbell and Robert J.
-Shiller (1998).
+
 
 
 ### ---Economics-2001-0-21.txt---
-TABLE 6-SOURCES OF GROSS DOMESTIC PRODUCT GROWTH
-1948-1999 1948-1973 1973-1990 1990-1995 1995-1999
-Outputs
-Gross domestic product 3.46 3.99 2.86 2.36 4.08
-Contribution of information technology 0.40 0.20 0.46 0.57 1.18
-Computers 0.12 0.04 0.16 0.18 0.36
-Software 0.08 0.02 0.09 0.15 0.39
-Communications equipment 0.10 0.08 0.10 0.10 0.17
-Information technology services 0.10 0.06 0.10 0.15 0.25
-Contribution of noninformation technology 3.06 3.79 2.40 1.79 2.91
-Contribution of noninformation technology investment 0.72 1.06 0.34 0.23 0.83
-Contribution of noninformation technology consumption 2.34 2.73 2.06 1.56 2.08
-Inputs
-Gross domestic income 2.84 3.07 2.61 2.13 3.33
-Contribution of information technology capital services 0.34 0.16 0.40 0.48 0.99
-Computers 0.15 0.04 0.20 0.22 0.55
-Software 0.07 0.02 0.08 0.16 0.29
-Communications equipment 0.11 0.10 0.12 0.10 0.14
-Contribution of noninformation technology capital services 1.36 1.77 1.05 0.61 1.07
-Contribution of labor services 1.14 1.13 1.16 1.03 1.27
-Total factor productivity 0.61 0.92 0.25 0.24 0.75
-Notes: Average annual percentage rates of growth. The contribution of an output or input is the rate of growth, multiplied by
-the value share.
+
 Equation (3) allocates ALP growth among three
 sources. The first is capital deepening, the
 growth in capital input per hour worked, and
@@ -40222,298 +39546,8 @@ tion of IT into its components. Although the
 
 
 ### ---Economics-2001-0-22.txt---
-4.5 .
-..
-...:,%,.'....
-.,". .
-... .. - .... .. 1,
-......... ...'.
-. .......i
-.-.. . i, . .. - "'. .... Rm.
-... .:
-...-, ..' . :.::. ''
-%.-....:. - - -
-... ...',%.. ''... i.- , '':, ;-
-- -
-''"
-'' ".''.:.. -
-.:.' ... ....................................,- ........: -'- :- ...,:.:,..."...........:..,....
-... .1
-'
-...-.-......,..,..,...-.........,....,..::.,........, ...'........ .........:...'.:
-.
----'---.--'-:'-'
-''" ""' ,,,,,,
-... .....: - --::-: .. - :
-%. . ..
-...
-.. ' '' . ... .:-'-.-
-... ...-I.. :.:.
-'%. . ..
-."..",,'..',..".',.,".,.
-..... ... ..:.!'.:-.-
-...:,., -'.'-.''-"":.-- ...........-..........--........
-........::'......
-.. -- ::. ...".. ......... ...........'..
-.... .:. -'.--.-..'.'.-'-..'-'.-'.-'. -..-'.'--.".-.-..'-'..-.'.-.  ...-...-......-.---...-.-..-.--.-..'.-.-.--............................-..
-.
-':
-.:.:.
-.....-..... .,.:,.""'""',-"""'...... .::
--:------'-.--' .. " ". - .,.,.:, ... .:..:..'
-'
-.11. ..
-....
-'.". ' '.' :..
-4 .0 - '' %. I"'.
-...
-.. ... -'
-....... %.
-"....
-......' ....
-- '
-I
-%...
-.
-.
-..
-. . . .
-.
-""""'"  .
-. . .. :
-""' '"' I.......: '- ."--, ..' -' .,-.,: ..... - - .
-,
-..."..". "........." -1-:'-1 .:..:.
-- .:.-... -- -. - - .. ... .
-..'..-'..-.".'..-.-. .
-. .
-. . .
-.
-'.. - - , -', ,,
-: ..
-3.5 - ..... .
-,-." -" - , -, ..' -'-
-.
--..
-.........
-- -............
-. . .
-- -
-... '
-- -
-:%.'. .
-,,
-..'.:
-.... . ... ....
-1
-. .... .
-. .
-' ""
--
-- - - ....
-....-,.- :' -'? .... . . - . ... .. ......... ... ......:
-' '
-: .... ......
-'"
-". . ....1
-......,.. ....%
-.. .:- . -.:. - - - '-.'.....-..'...-..-..'.'.....,..,.,,-.....,."-....,.,.,,.."-,..:.'-.......
--.- : '.'. -, ....% ..  '----.--------1- - ::.,...,.......,..,.....'..'...-."...,...,...'.,'..'.....'...'..".."..'....'.."......-...'.....'...--.-:--.-.--.-.., "...... .:. ...... ...... .:--.-: :: ...' ':. , -'.
-3.0 -
-.. . ..:% ...... ......
-.... .. - -. .".'.
-. .. ...,..,...,.,..,,.
-.,...,,,..,.,..,,..,,.,,.,,.,,.,...,..,,.,.,..,.,,.,..,,.,..,.,"..,,.,..- ". ' "'':.,
-... .....................................-....-.......-...........................-.-
-, ,............................................  .........:,,....,..,.....,,....,.::....,..,..........,...-........,............,.
-.... ..... .. ... - .. .. .... ..
-...... ... ....... - ..... ....
---:-:%%:'--.------'.'....... .. ...........
-......
-...............
-.....
-......
-.....
-...... :'  ....:-' ' .'.'.'.-"'.'..."".-.'..'..""..'.".'."-'.'...'-.'..'.-'..'L- .......:... :- ..,...,.....:.-.".,.".."
-:.... ...........
-..''...:..--
-.,. .:....%
-...- . . .. ..... ... .. . .. ..
-. .- ':: -.'.
-.
-2 .5 - '--' %. . .
-.....--.- ..-...-... -.'
-, ,
-..%-
-'I -"
--'---- - .:----..:..:. . . .%
-. - - .
-.. . . .... .. . . . .
-' '
-.. . . % -
-.
-"---'-.'---':'-'.- .. .
-....
-'
-.. . . . . . ..... ..:
--:% .. ........,
--
-'...-.,",..i..,..,...-...'.'..'...'..'..,."......'
-%%...... ... .. . . ....... .- ... ...
-' . .
-'
-.
-' '
-' ' "
--'.. 1. .. " ..'. . : . .
-% ' "
-... ...
-,.-:' .... .'..."....% ...
--.......'.' ::. % '% ..-.. : -,-
-'
-2 .0 f '......'.."..'...".."
-1-.... ----,-
-..'.... . ..,. ...
-.... ..'i.'..'.,.'....,:..,.,.l......'..'......'.'.
-,:".-%:-'-,-::- -, "...... ....
---.':.'-'. ..... ....... .... .... .. :%. .%......
-' '  .
-"
-. %
-%
--
-..: ..
-.. i:
-.
-. .
-- ''
-.-1-'':::--'.-'---:-'-.-:-'.- ..il -.%
-.: .. .,.- -;------.--% .-:---.-: .:-.. ' :.::......
-.. ............................ ... .. --;;'.---'--- .. . --: ..' %. ..'. ;.'-'.--.-;,-- ..
-1.5 -
-i.,...".."".,.".",.,"."'."".,'.  ...-?. ..................................
-.. . . .....  .. %': ..,.,..,,.,.,,.,,.
-.... .......................
-:'.... %::..,...,..::"."..,...".,.,,..
--- %.." ' ",.'',.",..."....
-.- ..
-.
-:
-... ... ...- .....
-%
-.
-.0 -:, .
-- .
-.. '-.' ..
-.':...:.. :...:.,.%....:: .-..... ..
-"-'--'--'-'..%... .:...%. -..... ': :...'. :
-..
-.
-.
-'
-.
-.-.-I
-,...,.::.... "'%.
-,
-.
-..-. ..
-,
-. .
-.- -' "....---:....-%.'-..-
-' ,
-%... , :
-'-' : -.".'-L-- ...: .:
-.
-.'
-.. ......:.
-0.5 . ..
-.%
--
-.
-. .. %..
-.-'
-.. .
-. ..
--
-.. %
-"-
-.".'
-...
-..
-": ....
-'' '
-.%:..:..
-,
-...
-- -
-'
-..
--
-..
-0.0 .
-1948-73 1973-W
-SNon-ITConsumpbon MITConsumpd
-FiGuRE 6. OUTPUT CONTRIBUTIO
-Note: Output contributions are the average annual (pe
-2.00 ,
-.
-.
-.
-.
-.
-.
-.
-.
-..''....
-.
-,,
-.... -::"
-- . .
-. . .
--
--' -'.' -, :' . .
-. .
-. . . . .
-. ' .
-,
-. . .
-. .
-. : .. .
-.
-. . .. .
-. .
-.: -...::. .
-.6 0 - . ... %. .. %. % : .
-.
-.
-,...-.
-...,. . ....-: .
-'.. - : -:-:-:- ...'... .':.. - !..'... ..': "
-,'
-'
-,,......
-'''
-
 
 ### ---Economics-2001-0-23.txt---
-2.50
-2.S . .............................. . : : :. : . ; .. . .~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~... . .
-2.00
-1.50
-1050
-.. : | | 1::: . . ' _ .~~~~~~~~~~~ ~~~ ~~~~ ~ ~ - -;.; - - .; - - -
-1948-73 17-019-519-
-ENon-IT Capital SerAices SIT Capital Services
-FIGuRE 8. CAPITAL INPUT CONTRIBUTON .OF INFORMATION TECHNoLoGY
-Note: Input contributions are the average annual (percentage) growth rates, weighted by the income shares.
-1.20w
-1,00.
-0.80. . . t. l . [ : . ' . : _ ...................... .g .i.; .~~~~~~~~~~... ..... .........
-0.20
-1948-73 1973-0 1990-96 199:-99
-EComputems UComnmunications USoftware
-FIGuRE 9. CAPITAL INPUTr CONTRIBUTION OF INFORMATION TECHNOLOGY By TYPE
-Note: Input contributions are the average annual (percentage) growth rates, weighted by the income shares.
 
 
 ### ---Economics-2001-0-24.txt---
@@ -40606,41 +39640,10 @@ cline are weighted by ratios of the outputs of IT
 products to the GDP. Table 7 reports details of this
 TFP decomposition for 1948-1999; the IT and
 non-IT contributions are presented in Figure
-33 Bosworth and Triplett (2000) compare the results of
-Jorgenson and Stiroh (2000b) with those of Oliner and
-Sichel (2000).
-34 The dual approach is presented by Jorgenson et al.
-(1987 pp. 53-63).
-35 Dulberger (1993), Triplett (1996), and Oliner and
-Sichel (2000) present models of the relationships between
-computer and semiconductor industries. These are special
-cases of the Evsey Domar (1961) aggregation scheme.  36 See Jorgenson et al. (1987 pp. 63-66, 301-22).
 
 
 ### ---Economics-2001-0-25.txt---
-TABLE 7-SOURCES OF TOTAL FACTOR PRODUCTIVITY GROWTH
-1948-1999 1948-1973 1973-1990 1990-1995 1995-1999
-Total factor productivity growth 0.61 0.92 0.25 0.24 0.75
-Contributions to TFP growth
-Information technology 0.16 0.06 0.19 0.25 0.50
-Computers 0.09 0.02 0.12 0.15 0.32
-Software 0.02 0.00 0.02 0.05 0.09
-Communications equipment 0.05 0.03 0.06 0.05 0.08
-Noninformation technology 0.45 0.86 0.06 -0.01 0.25
-Relative price changes
-Information technology -6.16 -4.3 -7.4 -7.2 -11.5
-Computers -23.01 -23.5 -21.1 -18.0 -34.5
-Software -3.29 -3.0 -3.2 -3.9 -4.8
-Communications equipment -3.71 -3.1 -4.2 -4.0 -5.3
-Noninformation technology -0.41 -0.9 0.0 0.1 -0.1
-Average nominal shares
-Information technology 2.07 1.09 2.60 3.46 4.26
-Computers 0.40 0.10 0.61 0.81 0.94
-Software 0.51 0.08 0.60 1.30 1.84
-Communications equipment 1.16 0.91 1.39 1.34 1.48
-Noninformation technology 97.20 98.46 96.55 95.35 94.35
-Notes: Average annual rates of growth. Prices are relative to the price of gross domestic income. Contiibutions are relative
-price changes, weighted by average nominal output shares.
+
 10. The IT products contribute 0.50 percentage
 points to TFP growth for 1995-1999, compared to
 0.25 percentage points for 1990-1995. This re-
@@ -40696,18 +39699,7 @@ tribution of capital input jumped by 0.95
 
 
 ### ---Economics-2001-0-26.txt---
-1.00
-0.80.II IE
-0.60
-0.40
-0.20
-0.00
--0.20 --
-1948-i3 197340 1990405 1995-99
-ONon-IT P cMl arT Produ
-FIGURE 10. CONTRIBUTIONS OF INFORMATION TEcHNoLoGY To TOTAL FACTOR PRODucTIviTy GRowTH
-Note: Contributions are average annual (percentage) relative price changes, weighted by average nominal output shares from
-Table 7.
+
 percentage points, the contribution of labor input
 rose by only 0.24 percent, and TFP accelerated by
 0.51 percent. Growth in ALP rose 0.92 as more
@@ -40752,45 +39744,11 @@ per year for 1948-1999, while hours increased
 about 1.4 percent per year. As shown in equa-
 tion (3), ALP growth depends on capital deep-
 ening, a labor-quality effect, and TFP growth.
-37 Katz and Krueger (1999) analyze the recent perfor-
-mance of the U.S. labor market.
+
 
 
 ### ---Economics-2001-0-27.txt---
-4.5
-4.0
-3 .5 ... . . .. .
-3.0
-2.5
-2.0
-1.5
-1.0
-0.5
-0.0
-19.48-73 1973-90 1990-5 1995--99
-ELabor Input ENon-IT CapRal Input EIT Capital Input ONon-rr ProducttY4 IT Productivity
-FIGURE 11. SOURCES OF GROSS DOMESTIC PRODUCT GROWTH
-Notes: Input contributions are average annual (percentage) rates of growth, weighted by average nominal income shares from
-Table 6. Productivity contributions are from Table 7.
-TABLE 8-SOURCES OF AVERAGE LABOR PRODUcTnIViTY GROWTH
-1948-1999 1948-1973 1973-1990 1990-1995 1995-1999
-Gross domestic product 3.46 3.99 2.86 2.36 4.08
-Hours worked 1.37 1.16 1.59 1.17 1.98
-Average labor productivity 2.09 2.82 1.26 1.19 2.11
-Contribution of capital deepening 1.13 1.45 0.79 0.64 1.24
-Information technology 0.30 0.15 0.35 0.43 0.89
-Noninformation technology 0.83 1.30 0.44 0.21 0.35
-Contribution of labor quality 0.34 0.46 0.22 0.32 0.12
-Total factor productivity 0.61 0.92 0.25 0.24 0.75
-Information technology 0.16 0.06 0.19 0.25 0.50
-Noninformation technology 0.45 0.86 0.06 -0.01 0.25
-Addendum
-Labor input 1.95 1.95 1.97 1.70 2.18
-Labor quality 0.58 0.79 0.38 0.53 0.20
-Capital input 4.12 4.64 3.57 2.75 4.96
-Capital stock 3.37 4.21 2.74 1.82 2.73
-Capital quality 0.75 0.43 0.83 0.93 2.23
-Notes: Average annual percentage rates of growth. Contributions are defined in equation (3) of the text.
+
 Figure 12 reveals the well-known productivity
 slowdown of the 1970's and 1980's, emphasizing
 the acceleration in labor productivity growth in the
@@ -40804,16 +39762,7 @@ and an up-tick in TFP growth. A slowdown in
 
 
 ### ---Economics-2001-0-28.txt---
-3.50
-300
-2.50
-200
-1.50
-0.00
-1948-73 1973-90 1990-95 1995-09
-*Labor Quality 8 Non-IT Capital Deepening EIT Captal Deepening El Non-IT Productivlty OIT Productivity
-FIGURE 12. SOURCES OF AVERAGE LABOR PRODUCTIVITY GROWTH
-Note: Contributions are from Table 8.
+
 hours combined with slowing ALP growth during
 1990-1995 to produce a further slide in the
 growth of output. In previous cyclical recoveries
@@ -40858,11 +39807,6 @@ TFP growth only if there are spillovers from
 IT-producing industries to IT-using industries.
 Top priority must be given to identifying the
 impact of investment in IT at the industry level.
-Stiroh (1998) has shown that this is concen-
-38 Stiroh (2000) shows that ALP growth is concentrated
-in IT-producing and IT-using industries.
-39 Economics and Statistics Administration (2000 Table
-3.1 p. 23) lists IT-producing industries.  40 Martin N. Baily and Robert J. Gordon (1988).
 
 
 ### ---Economics-2001-0-29.txt---
@@ -40942,31 +39886,6 @@ for developing countries like China and India?
 As policy makers attempt to fill the widening
 gaps between the information required for
 sound policy and the available data, the
-41 See also: David (1990) and Gordon (2000).  42 Griliches (1994), Erik Brynjolfsson and Shinkyu Yang
-(1996), and Triplett (1999) discuss the Solow Paradox.
-43 Campbell and Shiller (1998) and Shiller (2000) dis-
-cuss equity valuations and growth prospects. Michael T.
-Kiley (1999), Brynjolfsson and Lorin M. Hitt (2000), and
-Robert E. Hall (2000), present models of investment with
-internal costs of adjustment.
-44 Daron Acemoglu (2000) and Katz (2000) survey the
-literature on labor markets and technological change.
-45 See, for example, Andrew S. Grove (1996) on the
-market for computers and semiconductors and Clayton M.
-Christensen (1997) on the market for storage devices.
-46 Douglas A. Irwin and Peter J. Klenow (1994), Flamm
-(1996 pp. 305-424), and Elhanan Helpman and Manuel
-Trajtenberg (1998 pp. 111-19) present models of the semi-
-conductor industry.
-47 The role of information technology in U.S. economic
-growth is discussed by the Economics and Statistics Ad-
-ministration (2000); comparisons among OECD countries
-are given by the Organization for Economic Cooperation
-and Development (2000).
-48 The measurement gap between the United States and
-other OECD countries was first identified by Andrew W.
-Wykoff (1995). Paul Schreyer (2000) has taken the initial
-steps to fill this gap.
 
 
 ### ---Economics-2001-0-30.txt---
@@ -41286,12 +40205,7 @@ consists of three distinct points in the (p,z)
 
 
 ### ---Economics-2002-0-05.txt---
-Plp'(z) 92(z)
-P, Af0'(z(
-00(Z)~~~~~~Z
-A I
-0,0 Zi Zh z
-FIGURE 1. SPATIAL EQUILIBRIUM
+
 plane, as in Figure 1. A consumer lives at point
 A, (0,0), if neither variety is purchased, at point
 B, (pl,zl), if the low-quality variety is most
@@ -41689,15 +40603,7 @@ in the preferred locations. On the other hand,
 
 
 ### ---Economics-2002-0-09.txt---
-PG _ 2(z)
-Ph2t ./
-phI B I/0
-A F 0'(z) H _(
-Ph2 D .............O E
-P12 7 O"(Z)
-4 4 ~ ~I I I I I
-ZI Z1 2 Zb I ZLI Zh2' z
-FIGURE 2. TIME-SERIES EFFECTS
+
 innovations that extend the quality range of
 goods tend to reduce the real costs of services
 and reduce living costs for those who buy them.
@@ -41893,13 +40799,7 @@ bias in estimating the importance of equalizing
 
 
 ### ---Economics-2002-0-11.txt---
-Wage
-\ -0~~~~~2
-N . \
-(p1 (p
-yp2
-Pension
-FIGuRE 3. ACTUAL VERSUS OBSERVED FUNCTIONS
+
 differences. It is not that coefficients are noisy;
 it is rather that they have the wrong sign. This
 frequently occurs in the labor-market setting
@@ -42307,11 +41207,7 @@ cause of the complementarity in consumption
 
 
 ### ---Economics-2002-0-15.txt---
-Utility
-U(Y-Ph,Zh)
-As>_ ~~~~U(Y-pi,ZI)
-Y1 YO Yk Y2 Income
-FIGURE 4. MANUFACTURED INEQUALITY
+
 between other goods and housing, those whose
 incomes are below Yk derive higher utility from
 living in the low-quality house in a low-amenity

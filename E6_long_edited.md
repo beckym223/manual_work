@@ -41364,8 +41364,8 @@ their respective talents and different prefer-
 ences, respond to these valuations and create
 important induced differentiation in consump-
 tion patterns, earnings, and occupational choices.
-## Economics-2003-0
 
+## ---Economics-2003-0
 
 ### ---Economics-2003-0-02.txt---
 Macroeconomics was born as a distinct field
@@ -41403,6 +41403,48 @@ Section II describes a thought-experiment in
 which a single consumer is magically relieved
 of all consumption variability about trend. How
 much average consumption would he be willing
+to give up in return? About one-half of one-
+tenth of a percent, I calculate. I will defend this
+estimate as giving the right order of magnitude
+of the potential gain to society from improved
+stabilization policies, but to do this, many ques-
+tions need to be addressed.
+How much of aggregate consumption vari-
+ability should be viewed as pathological? How
+much can or should be removed by monetary
+and fiscal means? Section III reviews evidence
+bearing on these questions. Section IV consid-
+ers attitudes toward risk: How much do people
+dislike consumption uncertainty? How much
+would they pay to have it reduced? We also
+know that business-cycle risk is not evenly dis-
+tributed or easily diversified, so welfare cost
+estimates that ignore this fact may badly under-
+state the costs of fluctuations. Section V reviews
+recently developed models that let us explore
+this possibility systematically. These are hard
+questions, and definitive answers are too much
+to ask for. But I argue in the end that, based on
+what we know now, it is unrealistic to hope for
+gains larger than a tenth of a percent from better
+countercyclical policies.
+I. Welfare Analysis of Public Policies:
+Logic and Results
+Suppose we want to compare the effects of
+two policies, A and B say, on a single consumer.
+Under policy A the consumer's welfare is
+U(CA), where CA is the consumption level he
+enjoys under that policy, and under policy B it
+is U(CB). Suppose that he prefers cB: U(CA) <
+U(csB). Let A > 0 solve
+U((l + A)CA) = U(CB).
+We call this number A-in units of a percentage
+of all consumption goods-the welfare gain of
+a change in policy from A to B. To evaluate the
+effects of policy change on many different con-
+sumers, we can calculate welfare gains (perhaps
+losses, for some) for all of them, one at a time,
+and add the needed compensations to obtain the
 
 
 ### ---Economics-2003-0-03.txt---
@@ -41453,9 +41495,6 @@ sions of neoclassical growth theory to examine
 the effects of taxation on the total stock of
 capital, not just the composition of that stock.2
 The models used in these studies differ in their
-' Lucas (2000). My estimates are based on the money
-demand estimates in Allan H. Meltzer (1963).  2 For example, William A. Brock and Stephen J.
-Tumovsky (1981), Christophe P. Chamley (1981), Law-
 details, but all were variations on a one-good
 growth model in which consumers (either an
 infinitely lived dynasty or a succession of gen-
@@ -41503,9 +41542,7 @@ increase in work effort!
 The gain from reducing French taxes to U.S.
 levels can in part be viewed as the gain from
 adopting a flat tax on incomes,3 but it is doubt-
-rence H. Summers (1981), Alan J. Auerbach and Laurence  J. Kotlikoff (1987), and Kenneth L. Judd (1987).  3 See also Robert E. Hall and Alvin Rabushka (1995).
-2
-MARCH 2003
+
 
 
 ### ---Economics-2003-0-04.txt---
@@ -41599,10 +41636,6 @@ to a risky path with the same mean. We quantify
 this utility difference by multiplying the risky
 path by the constant factor 1 + A in all dates
 and states, choosing A so that the household is
-4 This calculation replicates the one I carried out in
-Lucas (1987, Ch. Il).
-VOL. 93 NO. I
-3
 
 
 ### ---Economics-2003-0-05.txt---
@@ -41649,7 +41682,7 @@ from fiscal and monetary policy changes that I
 cited above, this estimate seems trivially small:
 more than an order of magnitude smaller than
 the gain from ending a 10-percent inflation!
-5 The comparable figure using a Hodrick-Prescott trend  with the smoothing parameter 400 is 0.022.  Even if we do not know exactly how much
+Even if we do not know exactly how much
 consumption risk would be removed by an op-
 timal monetary and fiscal policy, it is clear that
 it would fall far short of the removal of all
@@ -41692,8 +41725,6 @@ worked, a log real GDP measure, and the cor-
 responding implicit price deflator. To these
 three rates of change are added an ex post real
 interest rate (the three-month Treasury bill rate
-4
-MARCH 2003
 
 
 ### ---Economics-2003-0-06.txt---
@@ -41742,16 +41773,6 @@ identification seems to me questionable, and in
 any case it is of an entirely different nature from
 the neutrality of nominal shocks. I will just
 lump the effects of the real shocks together, as
-6 To remove any doubt on the latter point, they quote  from Milton Friedman's (1968) Presidential Address.
-7 A similar, and similarly motivated, identification pro-  cedure was used in Olivier J. Blanchard and Danny Quah  (1989). Thomas J. Sargent and Christopher A. Sims (1977)  is a predecessor in spirit, if not in detail.  TABLE 1-PERCENTAGE OF VARIANCE DUE TO NOMINAL  SHOCKS AT DIFFERENT FORECAST HORIZONS
-Quarter Output Hours Inflation Interest rate
-1 28 36 89 83
-4 28 40 82 71
-8 20 31 82 72
-12 17 27 84 74
-20 12 20 86 79
-36 8 12 89 85
-x0 0 0 94 94
 Shapiro and Watson do with the two nominal
 shocks, and interpret their paper as partitioning
 the variance of output and hours into nominal
@@ -41789,10 +41810,6 @@ tighter or easier money later on, by changes in
 financial regulations, by statements of influen-
 tial people, and by many other factors. Shapiro
 and Watson's method bypasses these hard
-8 For example, Lawrence J. Christiano, et al. (1996).
-VOL. 93 NO. 1
-5
-
 
 ### ---Economics-2003-0-07.txt---
 measurement questions and goes directly to an
@@ -41842,7 +41859,7 @@ resulted in output variability that was about 84
 percent of actual variability.9 In a complemen-
 tary study, S. Rao Aiyagari (1994) arrived at an
 estimate of 79 percent for the contribution of
-9 Questions of measurement errors are discussed in the  paper and by Summers (1986) in the same volume. In  Prescott (1986b), estimates of 0.5 to 0.75 for the contribu-  tion of technology shocks to output variance are proposed.  technology shocks, based on comovements of
+technology shocks, based on comovements of
 production and labor input over the cycle.
 Shapiro and Watson find that at most 30
 percent of cyclical output variability can be
@@ -41884,12 +41901,6 @@ return on capital is around 0.05, so the fact that
 p must be positive requires that y in (6) be at
 most 2.5. Moreover, a value as high as 2.5
 would imply much larger interest rate differen-
-lO For example, Shapiro and Watson attribute a large  share of output variance to a shock which they call "labor  supply" [and which I would call "household technology,"
-following Jess Benhabib et al. (1991) and Jeremy
-Greenwood and Zvi Hercowitz (1991)].
-6
-MARCH 2003
-
 
 ### ---Economics-2003-0-08.txt---
 tials than those we see between fast-growing
@@ -41936,8 +41947,7 @@ aversion is left free to account for the equity
 premium perfectly.13 Tallarini estimates a wel-
 fare cost of aggregate consumption risk of 10
 percent of consumption, comparable to some
-11 See also Lars Peter Hansen and Kenneth J. Singleton  (1983).  12 Two especially informative surveys are John H.  Cochrane and Hansen (1992) and Narayana R. Kocherla-
-kota (1996).  13 Similar results, obtained in a closely related context,  were reported by Hansen et al. (1999).  of the supply-side gains cited in Section I, and
+of the supply-side gains cited in Section I, and
 two orders of magnitude larger than the estimate
 I proposed in Section II.14 As Maurice Obstfeld
 (1994) shows, this result is basically the for-
@@ -41975,12 +41985,6 @@ premium, and can be compared to Tallarini's
 estimate of 10 percent. But the gain from re-
 moving risk at what Alvarez and Jermann call
 business-cycle frequencies-cycles of eight
-14 James Dolmas (1998) uses still another preference  family, obtaining much higher cost estimates than mine.  Like Tallarini, Christopher Otrok (1999) develops and an-
-alyzes a complete real-business-cycle model. He uses a  preference family proposed by John Heaton (1995). His cost  estimates are close to mine. A recent paper by Anne
-Epaulard and Aude Pommeret (2001) contains further  results along this line, and provides a very useful quantita-  tive comparison to earlier findings.  15 Alvarez and Jermann offer many estimates in their  Tables 2A-2D. My summary is based on Table 2D, which  uses postwar (1954-1997) data and requires that consump-  tion and dividends be cointegrated. From this table, I follow  the authors and cite averages over the columns headed "8  years" and "inf."
-VOL. 93 NO. 1
-7
-
 
 ### ---Economics-2003-0-09.txt---
 years or less-is two orders of magnitude
@@ -42076,10 +42080,7 @@ across households induce different individual
 choices, which in turn lead to differences in
 individual capital holdings. The state space in
 this economy is very large, much larger than
-i6 For example, Ayse Imrohoroglu (1989), Andrew  Atkeson and Christopher Phelan (1994), Krusell and Smith  (1999, 2002), Kjetil Storesletten et al. (2001), and Tom
-Krebs (2002).  17 This way of modeling wealth changes within a fixed  distribution across families was introduced in John Laitner  (1992).
-8
-MARCH 2003
+
 
 
 ### ---Economics-2003-0-10.txt---
@@ -42127,7 +42128,7 @@ y = (a + c)E(z) + *1.
 Not only is the direct effect of the productivity
 shock z removed but also the indirect effects of
 z on the individual employment shocks e.18 In
-18 This is a linear illustration of the more generally  defined procedure described in Krusell and Smith (1999).  this particular application, removing the vari-
+this particular application, removing the vari-
 ance of the aggregate shock is estimated to
 reduce the standard deviation of the individual
 employment shocks by 16 percent.19
@@ -42175,10 +42176,6 @@ tion, about twice the estimate in Section II of
 this paper. (Krusell and Smith also assume log
 utility.) But this figure masks a lot of diversity.
 Low wealth, unemployed people-people who
-19 Here and below, the numbers I cite are taken from
-Krusell and Smith (2002).
-VOL. 93 NO. 1
-9
 
 
 ### ---Economics-2003-0-11.txt---
@@ -42228,8 +42225,7 @@ increases from 0.6 of a percent to 2.5 as y is
 increased from 2 to 4.
 Two features of the theory interact to bring
 this about.22 First, and most crucial, is a differ-
-20 See Satyajit Chatterjee and Dean Corbae (2000).  21 Based on Exhibits 2 and A.3.1.
-22 Storesletten et al. do a good job of breaking the  differences into intelligible pieces. I also found the example  explicitly solved in Krebs (2002) very helpful in this regard.  ence in the way reductions in the variance of
+ence in the way reductions in the variance of
 aggregate shocks affect risks faced at the indi-
 vidual level. In the Storesletten et al. simula-
 tions, a bad realization of the aggregate
@@ -42281,8 +42277,6 @@ panel evidence to bear on this and other mac-
 roeconomic questions is an enormous step for-
 ward. But Krusell and Smith find only modest
 effects of heterogeneity on the estimates of wel-
-10
-MARCH 2003
 
 
 ### ---Economics-2003-0-12.txt---
@@ -42385,35 +42379,16 @@ theory and evidence bear on these conclusions.
 When Don Patinkin gave his Money, Interest,
 and Prices the subtitle "An Integration of Mon-
 etary and Value Theory," value theory meant, to
-VOL. 93 NO. 1
-11
 
 
 ### ---Economics-2003-0-13.txt---
-him, a purely static theory of general equilib-
-rium. Fluctuations in production and employ-
-ment, due to monetary disturbances or to shocks
-of any other kind, were viewed as inducing
-disequilibrium adjustments, unrelated to any-
-one's purposeful behavior, modeled with vast
-numbers of free parameters. For us, today, value
-theory refers to models of dynamic economies
-subject to unpredictable shocks, populated by
-agents who are good at processing information
-and making choices over time. The macroeco-
-nomic research I have discussed today makes
-essential use of value theory in this modem
-sense: formulating explicit models, computing
-solutions, comparing their behavior quantita-
-tively to observed time series and other data
-sets. As a result, we are able to form a much
-sharper quantitative view of the potential of
-changes in policy to improve peoples' lives than
-was possible a generation ago.
+
 ## Economics-2004-0
 
 
 ### ---Economics-2004-0-02.txt---
+Social Securityt
+By PETER DIAMOND*
 I frequently find economists who express a
 view of the system that is very far from mine.
 For example, many young economists and eco-
@@ -42442,6 +42417,43 @@ worker. This projection is a far cry from no
 benefits.
 Moreover, I anticipate that Congress will act
 before the trust fund is exhausted, both lowering
+benefits relative to those scheduled under cur-
+rent law and providing additional revenues to
+finance higher benefits than are payable after
+2042. After all, the financial problem of Social
+Security is not so very large (unlike the larger
+and more complex set of financial problems of
+Medicare and Medicaid).1 An increase in tax
+revenue of just over 15 percent of currently
+projected payroll tax revenues would handle the
+projected cash flow problem for 75 years on a
+present value basis. On an annual cash flow
+basis, the share of GDP needed to provide all of
+the benefits scheduled in current law would
+increase from 4.4 percent of GDP today to 7.0
+percent in 2077.2 Like almost everyone else, I
+do not favor addressing the projected deficit by
+simply adding more revenues with no other
+changes. Nor do I picture that solution as having
+any political prospects. But solving the problem
+with a mix of benefit reductions and revenue
+increases does not require large changes, nor
+does it require a fundamental restructuring of
+the program.
+It is not just in the perception of the projec-
+tions and the forecast of politics that I find
+myself in disagreement with opinions that I
+often hear. More generally, I think the system
+works better than many economists think. I
+hope to convince you that the approach inherent
+in the current U.S. system broadly makes good
+sense. In particular, I will argue that it makes
+sense to mandate taxes to finance a reasonable
+replacement of earnings after retirement; that it
+makes sense to mandate that retirement benefits
+be paid as an annuity; that it makes sense to
+mandate protection for family members, both
+young children and surviving spouses; that it
 
 
 ### ---Economics-2004-0-03.txt---
@@ -42494,7 +42506,7 @@ tribution, insurance, and labor supply (Section
 IV), the degree of funding (Section V), and
 adjustments over time to benefits and taxes
 (Section VI).3 Not discussed but worth keeping
-3My approach has some similarity to the three-  dimensional analysis of different pension systems in Assar  in mind are the supporting antipoverty pro-
+in mind are the supporting antipoverty pro-
 grams as they affect the elderly [Supplemental
 Security Income (SSI) and Medicaid], and the
 provision of medical insurance for the elderly
@@ -42531,12 +42543,6 @@ Excessive reliance on Social Security, despite
 its relatively low replacement rates, together
 with a more general picture of many workers
 with inadequate wealth at retirement age, seem
-Lindbeck and Mats Persson (2003). They refer to the three
-dimensions as the distinction between defined benefit and
-defined contribution, funded and unfunded, and actuarial  and nonactuarial. All three are matters of degree, not zero-  one choices. A primary difference is that my presentation is  focused on issues particularly salient in the U.S. context,  while I think that theirs was influenced by the Swedish  reform.
-4 Of women receiving benefits in 2002, roughly one-  third received benefits solely as beneficiaries. The rest had  at least ten years of earnings history. For the latter group,  the replacement rate for the couple would be lower than the  one reported for the case of a nonearning spouse.
-MARCH 2004
-2
 
 
 ### ---Economics-2004-0-04.txt---
@@ -42588,8 +42594,7 @@ proposing that these market opportunities be
 banned-although improvement in regulation
 would be welcome. Rather, I am saying that
 analysts of Social Security should be realistic
-5 For an overview on 401(k)'s, see Alicia Munnell and  Annika Sund6n, 2004.
-6 Deposits into an account each year for 40 years are  present in the account for roughly 20 years on average.  about the actual functioning of the market
+about the actual functioning of the market
 alternatives.
 Investing is only part of the story. We lack
 market institutions to provide good insurance
@@ -42635,10 +42640,6 @@ insurance opportunities (missing perhaps be-
 cause poor decision making implies low de-
 mand). The various shortcomings that are
 apparent even in the presence of Social Security
-7 If they existed, one could hedge some of earnings risk  through traded indices of wages in different regions and  industries. One could try to approximate that through trad-  ing in assets correlated with the indices.  8 Of course this is dependent on the relative measures of  need of singles and couples.
-VOL. 94 NO. 1
-3
-
 
 ### ---Economics-2004-0-05.txt---
 would be more severe in the absence of a pro-
@@ -42733,11 +42734,7 @@ too literally, failing to recognize the tight links
 between the different selves who are the same
 person at somewhat different ages, is failing to
 address adequately the underlying issues.'? And
-9 The growth of two-career families has altered the na-  ture of this concern and presumably the most sensible  design for the system, but has not made the problem go  away. There is a tension in social security systems, just as  there is in income taxation, between treatment of individu-  als and treatment of the family. Diversity in the way re-
-sources are allocated within different families affects the
-evaluation of different benefit designs.  10 More generally, there is a difference between taking a  model literally and taking it seriously-which involves  learning from models in order to think about a reality that is  more complex than is captured in any model-indeed that is
-4
-MARCH 2004
+
 
 
 ### ---Economics-2004-0-06.txt---
@@ -42781,7 +42778,7 @@ drawal penalty, direct loans) could wonder how
 much more might be paid if the investor were
 still alive provided there was no payment at all
 if the investor were no longer alive. With a
-what a model is all about. On this subject, see Alfred  Marshall (1948, p. 366).  11 That is, thinking only in terms of lifetime utilities and  sustained government policy rules seems to me inadequate.  12 For example, when Congress removed the retirement  test between the age of full benefits and age 70, some  wanted to remove the test for all those over age 62. Noting  only that the test discourages work, without noting its ef-  fects on the timing and size of benefit receipt would be an  example of such partial first-best thinking.  noticeable probability of the investor's dying
+noticeable probability of the investor's dying
 before reaching the end of the contract period
 and little cost for checking whether the investor
 is still alive, it would be worthwhile for a bor-
@@ -42827,11 +42824,6 @@ the amount of bequest and its timing. Without
 complete markets, a willingness to invest in
 illiquid assets for future consumption leads to
 the same advantage for some annuitization.
-13 This is the way a defined benefit system works for  workers without any dependents eligible for benefits. The  risk could be shifted from the borrower to the set of inves-
-tors by distributing a fraction of the amount not paid to  deceased investors to surviving investors. This is the way
-that CREF annuities work.
-VOL. 94 NO. 1
-5
 
 
 ### ---Economics-2004-0-07.txt---
@@ -42869,14 +42861,7 @@ become extensive if the programs were re-
 moved. Asymmetric information is another can-
 didate for explaining this situation, and it does
 cause an adverse selection effect on pricing that
-14 There is a thriving market in what are called variable  annuities, but these are tax-favored investment vehicles
-with a bit of insurance included (to get the favorable tax  treatment) and an option to purchase a genuine annuity, an  option that appears to be rarely taken. With the recent  addition of a lump-sum option in many defined benefit  plans, many workers may be forgoing an annuity, although  it is difficult to tell since some may simply be waiting to
-annuitize later.
-15 Among TIAA-CREF annuitants roughly three-  quarters choose some guarantee period (John Ameriks,
-2002).
-16 Guarantees may play a role in addressing adverse  selection, but that is, itself, a reflection of poor functioning
-in this market relative to ideals.
-17 Although markets provide both term life insurance  and whole-life contracts, the only annuities in the market are  for payments over the rest of one's life, from the date of the  first payment.  would discourage some individuals from annu-
+would discourage some individuals from annu-
 itizing. While large systematic differences in
 life expectancy do exist, much of the difference
 is readily attributed to easily measured factors,
@@ -42919,12 +42904,7 @@ prices or wages (or a combination). This is a
 simple application of the view that in a manda-
 tory program, individuals should be given what
 we think they would want if they were well-
-18 Antidiscrimination rules do limit the variables that
-insurance companies can recognize in pricing. But more  could readily be done with allowable categories, such as  smoking, type of job, earnings level. The adaptations of the  life insurance market to the presence of adverse selection  are suggestive that adaptations would occur if the market for  annuities were of a comparable size to that for life insur-
-ance.  19 Note that there is considerable risk classification for
-life insurance.
-6
-MARCH 2004
+
 
 
 ### ---Economics-2004-0-08.txt---
@@ -42967,7 +42947,7 @@ premia used for administrative costs and profit.
 The private market is more expensive and does
 not do a better job of delivering annuity prod-
 ucts that people need.21 This is one reason to
-20 The timing of the purchase of both life insurance and  annuities is important for obtaining insurance. Waiting to  insure passes up insurance opportunities. The effects of  waiting depend on the extent of risk classification in the  pricing of insurance.  21 With any commodity, selling costs could be avoided  by mandating payment for government provision. What  distinguishes retirement annuities from most other products  are the similarity of needs of different workers (compared  with the diversity of tastes for different commodities) and  the reasons why a retirement income mandate is needed.  These reasons suggest that public provision is not blocking  an otherwise creative dynamic product development. The  have government provision rather than a man-
+have government provision rather than a man-
 date to purchase an annuity in the private mar-
 ket.22 As with many other settings, we expect
 individuals to undo little of what is provided.23
@@ -42985,14 +42965,6 @@ is an annuity in some form.24
 A. Lifetime Income Distribution
 Mandated annuitization affects lifetime
 income distribution.25 Suppose one were
-nature of the cash-in, cash-out annuity product also suggests  that we are not missing cost improvements that would  otherwise come. The small size of replacement provided by  Social Security leaves lots of room for such private devel-  opments if they did represent a significant opportunity.  22 With mandated private purchase, if allowed, we would  get risk classification and separate pricing, as has happened  in the United Kingdom. Separate risk classification has  advantages and disadvantages, and it is unclear whether it
-would be better.
-23 While many of the elderly have life insurance policies,  these appear to arise mostly from coverage for funeral  arrangements, small old policies that were not terminated,  and tax avoidance among the wealthy, rather than from a  conscious attempt to undo annuitization.  24 Mandatory annuitization in a social security program  raises the interesting question of how monthly benefit  should vary over time-with prices, wages, and possibly
-other variables such as rates of return. Relevant for this
-issue are the age structure of optimized expenditures, the  relative importance of both real and relative consumption,  and the allocation of risk bearing between the elderly and  the rest of the population. Currently, benefits in force are  increased for inflation as measured by the CPI. While this is  a reasonable solution, I suspect it would be better, on a  revenue neutral basis, to have lower initial benefits that then
-grew faster (for example as a weighted average of prices  and wages). This would help the longer-lived more than the  shorter-lived, but the effect on expected lifetime income  distribution could be partially adjusted by changing the benefit  formula. But this issue has not received detailed analysis.  25 A full analysis of the income distribution effects of  Social Security should consider the disability program along  with the retirement income program since there is a negative  correlation between life expectancy and the likelihood of  collecting disability benefits and dying young enough to  leave children who collect young survivor benefits.
-7
-VOL. 94 NO. I
 
 
 ### ---Economics-2004-0-09.txt---
@@ -43039,8 +43011,7 @@ pected lives-women relative to men, male
 high earners relative to male low earners,
 female high earners relative to female low
 earners. A progressive benefit formula can be
-26W. H. Beveridge (1942) argued that in the United  Kingdom the government systematically did better than  private insurance markets.  27 Annuity pricing that varies with stochastic health out-  comes implies a risk of the classification to which one will  belong. With annuitization done at a single time in life, the  degree of risk classification involves a tension between  providing more insurance and providing more accurate la-
-bor market incentives.  used to offset the systematic variation in life
+used to offset the systematic variation in life
 expectancy with earnings within genders.
 For this or any income distribution compar-
 ison, we must have a counterfactual, prefera-
@@ -43067,9 +43038,6 @@ tion. Thus the differences in expected pay-
 ments from different life expectancies have
 less distributional impact in utility terms than
 in expected payment calculations.30
-281 ignore the role of access to minimum income guar-  antees (SSI).  29 Someone with a higher probability of dying would  find a larger decrease in the price of consumption when  going from unconditional purchase to purchase conditional  on being alive with fair pricing. Without annuitization,  someone with a higher probability of dying would generally  consume less in later years, ceteris paribus, and so have less  consumption on which to receive a price decrease. Given  the preference structure in Brown, the net result of these two  effects is that those with shorter lives gain more from fair  annuitization, tending to offset the redistribution from a  change from fair to uniform annuity pricing. Interpretation  of the Brown analysis of the total impact of annuitization is  aided by the analysis in Bernheim (1987) of the valuation of  marginal annuitization relative to life expectancy and li-  quidity constraints.  30 Implicitly this income distribution discussion has as-  sumed rational lifetime consumption allocation-the only  behavioral element being an unexplained, and unexplain-  able (on rational grounds), failure to purchase annuities.  Similarly, the simulations showing the value of annuiti-  zation assume optimal consumption paths both with and  without annuitization. Any full normative evaluation of  annuitization should reflect the fact that those living  longer after retirement will have a larger marginal utility  of consumption for any given wealth for retirement  consumption.
-MARCH 2004
-8
 
 
 ### ---Economics-2004-0-10.txt---
@@ -43119,7 +43087,7 @@ worker benefit. He or she is also eligible for a
 spouse benefit if married to a retired worker
 beneficiary. But the total amount of benefit is
 equal to the maximum of the two benefits. Sim-
-31 There is a family maximum that proportionally re-  duces all benefits except those of the worker if it binds.  ilarly, someone eligible for a worker benefit and
+ilarly, someone eligible for a worker benefit and
 also eligible for a survivor benefit receives only
 the larger benefit.32 A central design feature is
 that these auxiliary benefits are not paid for on
@@ -43162,11 +43130,7 @@ of allocations within the family is still in an
 early stage of development. And normative
 analysis has not progressed much beyond iden-
 tification of the dilemma in recognizing both
-32 If the spouse or survivor benefit is larger, the person is  referred to as having dual eligibility. In 2002, 38 percent of  elderly women received only a worker benefit, 34 percent  received only an auxiliary benefit and 28 percent were  "dually entitled." These fractions are expected to change as
-more and more women with substantial careers reach retire-
-ment age.
-VOL. 94 NO. 1
-9
+
 
 
 ### ---Economics-2004-0-11.txt---
@@ -43209,7 +43173,7 @@ ferent system would be politically sensitive and
 complex and would need detailed analysis.
 The determination of survivor benefits has
 also received considerable criticism. Recogniz-
-33 If one wants to do a normative analysis solely on the  basis of individual experience, one needs to consider how  resource allocation within the family is affected by the rules  determining benefits and the impact of benefits on marriage  rates. Such an analysis could consider the effects of extend-  ing auxiliary benefits to all long-term relationships, includ-  ing same-sex marriages.  34 Scaling back the spousal benefit for spouses of high  earners (for example by a cap), or a more general overhaul  of auxiliary benefits is likely to meet considerable political  resistance. This suggests not tackling this issue in reform  plans hoping for an early restoration of actuarial balance. In  addition, a general overhaul should be preceded by consid-  erable further analysis.  ing the role of couples in sharing resources at
+ing the role of couples in sharing resources at
 least partially, it makes sense to relate the ben-
 efits of an elderly survivor to the benefits that
 had been received by the couple-a survivor
@@ -43240,13 +43204,6 @@ better, recognizing both labor market incentives
 and income distribution issues, or if such a design
 could survive political hurdles.37 But it is worth
 thinking hard about.
-35 It is common to cite the range of one-half to two-thirds  for the survivor's replacement rate, ignoring actuarial ad-  justments. But there are cases above this range once we  include adjustments for the ages at which the benefits are
-claimed.
-36 Among the TIAA-CREF annuitants who choose a  joint-life annuity from the three available options, roughly  70 percent choose a full benefit to the survivor, nearly 20  percent choose two-thirds, and the rest choose one-half.  Roughly 70 percent of men and 30 percent of women  choose joint-life annuities (Ameriks, 2002).  37 Research hurdles come from combining concerns
-about individuals and families. Incentives for retirement
-depend on benefits relative to individual earnings, while  need reflects family incomes. Political hurdles come from  the diversity of views about the structure of benefits. Some  like the discouragement of labor force participation by those  with children, others prefer not to subsidize that activity.  Divorced women are among the most vulnerable beneficia-  ries. With the benefits for divorcees with limited earnings  tied to the benefits for spouses, reducing spouse benefits for  high earners affects both well-off and vulnerable groups.  Finding a way to satisfy diverse constituencies will not be  easy, as is shown by repeated groups looking at this issue.
-10
-MARCH 2004
 
 
 ### ---Economics-2004-0-12.txt---
@@ -43282,9 +43239,7 @@ subject to tax)41 and of using a wage index to
 weight the earnings in different years in de-
 termining benefits (as opposed to using an
 interest rate)42 and concentrate on the effects
-38 For a discussion of the links among tax theory, incom-  plete market theory, and social security, see Diamond  (2002).
-39 Earnings after age 60 enter in nominal terms, not in  indexed form. This should be changed to have labor incen-  tives not vary this way with inflation.  40 Such progressivity is missing in Europe, where in-  come distribution issues are addressed more fully in other  parts of retirement income provision.  41 Depending on the nature of the underlying stochastic  process of wage rates, both underweighting early years  (relative to the use of interest rates) and not counting some  low years may or may not help with insuring lifetime  earnings-this is not an area that has received much re-  search attention.
-42 We can contrast the earnings incentives between ben-  efit formulas that accumulate earnings with a wage index  and those that accumulate with a (presumably higher on  average) interest rate. This is most readily done in a break-  even comparison, assuming the same level of resources for  of a progressive benefit formula and a retire-
+of a progressive benefit formula and a retire-
 ment test.43
 Consider the stochastic process of earnings
 opportunities. Individual workers face consider-
@@ -43307,13 +43262,6 @@ ticipate successful execution of far more
 complex financial strategies. By having replace-
 ment rates that are higher for lower levels of
 lifetime earnings, a social security system that
-a cohort in each case. Using a wage index gives less weight  to the earlier years and more weight to the later years than  does use of an interest rate. Thus, use of a wage index would  be implicit taxation on younger workers and implicit sub-
-sidization of older workers and would be a distortion in a
-first-best world. However, the annual income tax is progres-  sive, so that an upward-sloping age-real earnings profile  implies that on average older workers have higher marginal  income tax rates than younger workers. Thus, the sum of the  marginal income tax plus the implicit Social Security tax is  smoother across ages with a wage index than with weight-  ing by interest rate. Also, preferences are not intertempo-  rally additive. The standard of living to which retirees have  become accustomed is more affected by earnings later in  life than earlier in life. While the effect of introducing a  standard-of-living effect into annual utility has been ex-  plored in simulations of the value of annuities (Davidoff et  al., 2003), no similar analysis has been done for the weight-  ing given earnings in different years.  43 I do not discuss the issues behind the choice of 62 as
-the earliest age of eligibility for retirement benefits (EEA).  Increasing the EEA helps those who would otherwise retire  too early for their own good and hurts those who are right  in their early retirement decision and are hurt by the illi-  quidity from benefit nonavailability until the EEA. Measur-  ing the size of the two groups would be very hard and only  a little has been done in identifying people who are affected.  Increasing the EEA would have little effect on long-run  Social Security financing as explained below. Similarly, it  would be hard to design a good method for automatically  indexing the EEA.  44Robert C. Merton (1983) has examined the role of  Social Security in sharing aggregate earnings risks more
-widely.
-VOL. 94 NO. I
-11
 
 
 ### ---Economics-2004-0-13.txt---
@@ -43362,7 +43310,7 @@ a function of annual earnings, or annual capital
 income. The use of a lifetime measure also
 separates out issues of lifetime earnings from
 the age-earnings profile in doing redistribu-
-45 This resembles an EITC being financed by a positive  income tax. Unlike the EITC, which has a region of high  marginal taxes as the subsidies are phased out, Social Se-  curity has a monotonic transition from marginal subsidies to  marginal taxes.  tion.46 While both annual income taxation and
+tion.46 While both annual income taxation and
 lifetime social security have received analyses
 of the trade-off among redistribution, insurance,
 and distortions, there has not been much work
@@ -43389,10 +43337,6 @@ tives for continued work past age 62 has two
 parts. One is the effect of a delay in the start of
 benefits together with their later increase as a
 consequence of the delay in their start.48 The
-46 For example, if everyone had the same age-earnings  profile, Social Security would do no redistribution within a  cohort, while annual income taxes would subject each per-  son to earnings subsidies when younger and taxes when  older.
-47 Benefits are paid to workers younger than the age for  full benefits if earnings are below the exempt amount, which  equals $11,640 in 2004. Earnings above this amount result  in a 50-percent reduction in benefits, until benefits reach  zero. Rules are different for the year in which the age for  full benefits is reached. After reaching the age for full  benefits, benefits may be claimed whatever the ongoing  level of earnings. A worker can receive a larger benefit by  delaying the start of benefits up to age 70.  48 The start of benefits can be delayed even if the worker  retires. For a worker without liquidity constraints, labor  supply is not encouraged by a net subsidy from delay (in the  case of a long expected life) since delay is available any-  way. But work is discouraged for those with shorter life  expectancies. While some eligible workers do not claim  benefits right away, overwhelmingly, retired workers do  claim fairly quickly. For those who would claim as soon as  they stopped working, work is encouraged by a larger  increase in benefits from delay as a result of a longer  expected life.
-12
-MARCH 2004
 
 
 ### ---Economics-2004-0-14.txt---
@@ -43430,13 +43374,7 @@ expectancy. Empirical estimates find that the
 overall labor supply effect is modest, suggesting
 that the increase in monthly benefits effect is
 more important. The retirement test also helps
-49 Courtney Coile and Jonathan Gruber (2001). The mar-  ginal tax reflects the loss of a year of benefits, the increase  in benefits thereafter, the payment of the payroll tax, and the  increase in benefits from an increase in AIME, since
-earnings in a late year are likely to be among the top 35.  For example, of the Health and Retirement Survey sam-  ple of those born in 1931, over one-third of men and  four-fifths of women had fewer than 35 years of positive  earnings when entering the year in which they turned 61.  Without a tax on continued work, increasing the age at
-which benefits can first be claimed, without other
-changes, would not save money for Social Security on a  permanent basis.  50 Of course, these earnings are also subject to the annual
-income tax.
-51 Also valuable is that the higher monthly benefits come  as an annuity while savings from benefits would not provide
-this insurance.  with the risk in earnings trajectories that comes
+with the risk in earnings trajectories that comes
 from how opportunities to earn (and disutilities)
 develop toward the end of a career. The retire-
 ment test addresses that risk to the extent that
@@ -43473,12 +43411,6 @@ ment age often gather information on the work-
 ings of the system and seek advice on the
 advantages of different timing of retirement,
 younger workers are not well informed.53 Some
-52 1 note that in a model with homogeneous life expect-  ancy, if we have fully rational workers and if the increase in  benefits implies an implicit tax, there is an increase in  insurance insofar as early retirement is a consequence of an  adverse realization of opportunities. This is a familiar opti-
-mal insurance result-that one taxes observable variables in
-the states where they signal a lower marginal utility of  consumption.  53 Information is also supplied in annual statements  which give individual benefit levels for different retirement  ages. Someone anticipating no benefits at all might see no  link (although inconsistent anticipations about the future are  common). Presumably that would change with a reform that  was widely perceived as restoring long-run sustainability.
-VOL. 94 NO. 1
-13
-
 
 ### ---Economics-2004-0-15.txt---
 simulations have assumed that younger workers
@@ -43564,32 +43496,9 @@ tion effects. I am not aware of any study of the
 impact on savings from the progressive benefit
 formula-the presence of higher benefits rela-
 tive to taxes for low earners who have a lower
-54 Perhaps the largest effect comes from the cutoffs
-below which benefits are not taxed or are taxed at a lower
-rate. Since the cutoffs are compared with income including  capital income, there is an increase in the tax wedge on  savings for those who are affected in this way. Another  effect comes from the possibility that taxable benefits might  increase the marginal tax bracket. But Social Security dis-  places some private savings. Whatever savings are dis-  placed by Social Security might themselves have affected  the marginal tax rates (depending on the tax treatment of  displaced savings). Moreover, one needs to consider the  effect of Social Security on the income tax rate when the  savings are done as well as when the proceeds are  received-the employer share of the payroll tax is not part  of taxable income for the income tax. Thus, the effect could
-be positive or negative depending on the level of displaced  savings and their income tax treatment. This indirect link is  present in many other programs that are not talked about in  this way. For example, government support of education  raises earnings and so marginal tax rates. The implied  increase in savings distortions does not seem to be of
-consequence.
-MARCH 2004
-14
 
 
 ### ---Economics-2004-0-16.txt---
-Cumulative: billions of 2002 dollars  14,000
-400 188, 6 19 190 0- 12,000
-,- S " >^ Cumulative Sum: net  transfers to all cohorts bom in
-B,/~ i'~ r t h Y and prior to each year
-300 / 10,000
-Net transfers to cohort
-born in each year
-200 / / 8,000
-100 < / ' 6,000
-0 4,000
--100 / " 2,000
--200 I,,,,,,,,, , I I,,, I, , ,,, ,,,,,, , ,,,,,,,,,,,,, 0,,
-1876 1886 1896 1906 1916 1926 1936 1946
-Birth Year
-FIGURE 1. NET INTERCOHORT TRANSFERS UNDER SOCIAL SECURITY
-Source: Leimer, "Cohort-Specific Measures of Lifetime Net Social Security Transfers," Social Security Administration  Office of Research and Statistics Working Paper No. 59, February 1994, updated to present value 2002 dollars.
 propensity to save than high earners.55 The re-
 distribution across generations has received par-
 ticular attention and has led to consideration of
@@ -43604,8 +43513,7 @@ analysis done by Dean R. Leimer (1994), shows
 the lifetime transfers by cohort (left scale) and
 the cumulative net payments by cohort (right
 scale) for cohorts born through 1949, and so
-55 The difference in propensities to save is also relevant  for the impact of any use of payroll tax revenues to lower
-income tax rates.  turning 55 this year.56 The aggregate net trans-
+turning 55 this year.56 The aggregate net trans-
 fers to these cohorts is roughly $11.5 trillion.
 How much did this early generosity reduce
 national capital? We have some estimates but
@@ -43621,9 +43529,6 @@ gram. Surely, a simulation with all workers
 being fully rational lifetime utility maximizers
 has no credibility. And we would also need to
 track the effects on national savings from Social
-56 To extend the figure to later cohorts, we would want to  consider how actuarial balance is restored, and I do not
-present such a figure. Leimer assumed phased-in tax in-  creases to balance the present value of taxes and benefits.
-VOL. 94 NO. 1  15
 
 
 ### ---Economics-2004-0-17.txt---
@@ -43724,8 +43629,6 @@ roll tax revenues in excess of current outlays in
 order to build a trust fund which would then be
 used to finance the retirement of this very large
 cohort. That is, taxes were higher early to allow
-57 In his charge to the Commission to Strengthen Social  Security, President Bush included the principle that Social  Security reform not affect the benefits of anyone 55 or older  (Commission to Strengthen Social Security, 2002).  58 This is the same as the "closed group" measure of  balance, with the group including everyone 55 and over.  16
-MARCH 2004
 
 
 ### ---Economics-2004-0-18.txt---
@@ -43763,8 +43666,7 @@ choice of tax rates and benefit formulas. Thus
 the redistribution has affected labor supplies as
 well as savings decisions. In the early days, the
 generous benefit formulas (in effect or antici-
-59 That has shown up in the assets in the trust fund-  currently over $1.5 trillion or roughly 2.8 times annual  expenditures. This ratio of trust fund to expenditures is  projected to peak at 4.7 in 2016.  60 Note that the analysis needs to be done in terms of  taxes and benefits, the causes of changes in the trust fund.  The question of the impact of the trust fund on national  capital requires a distinction among different ways in which  trust fund size can be changed.  61 There has been a relatively short time during which  there is a plausible linkage between Social Security and the  rest of the budget. Moreover, specific pieces of legislation  imply different time shapes of revenue changes and spend-  ing changes over subsequent years. Thus, there is no simple  link between deficits and lagged deficits (or between unified  deficits and Social Security surpluses) that could reliably be  discovered by time-series analysis. In particular, it is not  credible to believe that econometric analysis could uncover  the counterfactual pattern of taxes and spending that would  have occurred if the 1983 Social Security legislation had
-involved lower tax rates.  pated in the future) subsidized labor, just as the
+pated in the future) subsidized labor, just as the
 lower benefits relative to taxes for younger
 workers today taxes labor.62 This is similar to
 the role of the progressive benefit formula dis-
@@ -43809,9 +43711,6 @@ quickly (although the trust fund exhaustion date
 was distant). Projected deficits returned quickly
 because of what is called the terminal year
 problem, or the cliff problem. That is, each year,
-62 The effects of benefit increases of the already retired  (through 1972) affect labor supply insofar as they were  anticipated earlier. A similar issue arises for benefit in-  creases at different times during a career.
-VOL. 94 NO. 1  17
-
 
 ### ---Economics-2004-0-19.txt---
 the realized net cash balance of Social Security
@@ -43905,11 +43804,6 @@ officials with their concerns about reelection, as
 well as election outcomes (R. Douglas Arnold,
 1990). It is not that this is unknowable in prin-
 ciple, but that we are a long way from a genu-
-63 Some of the income tax revenue from the taxation of
-benefits goes to Social Security as well. This revenue is  dependent on future income tax rates.  64 In the list of reasons why members of the Panel on  Privatization of Social Security of the National Academy of  Social Insurance disagreed on the advantages of individual  accounts, a central element was the divergence of views on  the political implications of accounts-particularly the sus-  tainability both of rules for the accounts and of the structure  of traditional benefits (Diamond, 1999).  65 The legislative process can also change what is com-  pletely specified, but at least we can analyze what happens  if there are not any changes.
-18
-MARCH 2004
-
 
 ### ---Economics-2004-0-20.txt---
 inely usable, empirically validated theory and
@@ -43949,10 +43843,7 @@ lates a notional balance for each worker that
 increases each year by taxes paid and a no-
 tional interest rate.68 At retirement, this bal-
 ance is converted into an annuity based on the
-66 For example, if we want to project a legislative re-  sponse to a possible drop in fertility, we do not have much  of a database for evaluating the relationship. With underly-  ing country differences being very significant in social  security politics, we may have basically one data point.  67 When workers purchase real annuities from insur-  ance companies, there is always the possibility that the  insurance companies will become unable to pay the con-  tracted amounts. But even with recognition of this  possibility, we still have a fully specified outcome-as  we do in models with incomplete markets and bankruptcy
-rules.
-68 That is, unlike the United States where benefits de-
-pend on earnings subject to payroll tax, in Sweden benefits  depend on taxes paid. Since the Swedes currently seem  determined not to change the tax rates this difference is  likely to have little consequence for the future.  life expectancy of that cohort and the same  notional interest rate.69 The notional interest
+life expectancy of that cohort and the same  notional interest rate.69 The notional interest
 rate is set administratively (with automatic
 adjustment), not by returns realized on assets
 held. In this way an NDC system mimics a
@@ -43996,10 +43887,6 @@ many, points could be converted into cash
 benefits by automatically adjusting the value
 of a point to exhaust available revenues. Con-
 versely, we could think of adjusting the tax
-69 Also automatically adjusted is the relationship be-  tween the level of benefits and the age at which an individ-  ual starts them. There is not automatic adjustment for the  earliest age at which retirement benefits can be claimed.  70 To some, this is the heart of a defined contribution
-system, rather than a relationship involving realized rates of  return on assets actually owned.
-VOL. 94 NO. 1
-19
 
 
 ### ---Economics-2004-0-21.txt---
@@ -44025,8 +43912,7 @@ imbalance in a way that may be easier politi-
 cally than comparable direct changes.
 But what mix of benefit and revenue changes
 is the best response to increased life expectancy?75
-71 To some, this is the heart of a defined benefit system,  including possibly placing the risk outside the labor market,  as can be done if the risk is shifted to corporations or  general revenues.  72 One difference is that if we attempt to increase tax  revenues (as opposed to lowering benefit payments), we  face the risk of exceeding the maximum that could be  collected (i.e., moving to the wrong side of the Laffer  curve). Presumably, with a sensible execution of this ap-  proach, this risk would be so low as not to be a problem.  Adjustment possibilities are more complex than just some  combination of tax increases and benefit decreases (or the  converses). In the presence of a projected deficit, benefit  reduction can be large enough to lower tax rates and tax  increases can be large enough to raise benefits. Recognizing  more complexity, some tax rates could go up while others  go down and benefits for some groups could go up while  benefits for other groups go down. Indeed, several proposed  reform plans include increased benefits for some vulnerable  groups along with general benefit cuts.  73 The current indexing is not complete-there is no  adjustment of benefits for inflation between the years a  worker is 60 and 62. This gap should be closed.  74 Indeed, the 1972 automatic indexation for inflation
-(which was done incorrectly) was an attempt to codify how  Congress had been behaving, thereby reducing the fre-  quency of the need to legislate. The automatic indexing was  done incorrectly because congressional actions had been  unsatisfactory in structure, without this being as apparent as  when the changes became automatic and inflation increased.  75 We could also consider an automatic adjustment of the  earliest eligibility age and of the actuarial adjustments for  the age at which benefits start. The latter, but not the  former, is included in Sweden. Indexing the earliest  eligibility age is complex since the sizes of the groups  Part of an approach to this question is to ask
+Part of an approach to this question is to ask
 how individual lifetime plans should vary with
 life expectancy. This depends on how the po-
 tential earnings trajectory and the difficulty
@@ -44067,8 +43953,7 @@ justment for life expectancy that included ad-
 justment in both benefits and tax rates would be
 a good idea.
 Should we have more automatic adjustments
-helped and hurt by an increase are not likely to be simply  related to life expectancy.  76 Automatic adjustment of benefits for life expectancy  is naturally done on a cohort basis, while any adjustment in  taxes is naturally done on a yearly basis. Thus more rapid  increases in life expectancy would fall differently on differ-  ent cohorts when taxes are included in the adjustment than  when they are not. My plan with Orszag (2004) takes the  approach of a mix of automatic tax and benefit changes for  life expectancy, while Model 3 of the Commission to  Strengthen Social Security does all its automatic adjustment  for life expectancy on the side of benefits.  20
-MARCH 2004
+
 
 
 ### ---Economics-2004-0-22.txt---
@@ -44112,8 +43997,7 @@ the political ease of legislation addressing sur-
 pluses and deficits, an asymmetry that is re-
 duced by legislating automatic adjustments.
 Also there may be more similarity across the
-77 With this approach, Social Security would become  fully specified and so easier to analyze and more in keeping  with Arrow-Debreu thinking. But, making it easier to ana-  lyze does not necessarily make it better. Just as mathemat-  ical convenience, for example from additive preferences,  while convenient for theoretical analysis, does not neces-  sarily add to empirical reliability.  78 If the tax rate is thought to be too high and politically  can not be lowered, then doing the adaptation to anticipated  higher cost outcomes fully in terms of lower benefits may  make sense as a political fallback. I, for one, do not think the  current tax rate and replacement rates in the United States
-are too high.  political spectrum in normative evaluations of
+political spectrum in normative evaluations of
 the impacts of monetary policy than of the eval-
 uations of the sizes of taxes and benefits for
 different workers and family structures. As with
@@ -44158,10 +44042,6 @@ retirement savings. Thus the increased use of
 defined contribution private pensions raises the
 value of a defined benefit Social Security system
 relative to individual accounts.79 In contrast, a
-79 Social Security needs to be considered in the context  of all retirement income provision, not just by itself, recog-  nizing the great diversity in the extent to which people have  private sources of retirement income. The Social Security  reform debate has recognized non-Social Security retirement
-VOL. 94 NO. 1
-21
-
 
 ### ---Economics-2004-0-23.txt---
 system that is less than fully funded will have less
@@ -44191,12 +44071,7 @@ the redistribution required to build up funding
 hurts the oldest cohorts who provide the funding
 and are affected by the diversification argument
 very little or not at all.83 Thus the diversification
-income issues in that some reform proposals have been  packaged with increased tax incentives for individual retire-  ment savings. The debate has not included the possibility of  a mandatory widening of employer-provided retirement in-  come (with a government-provided default) along the lines  of the recent reform in Australia and earlier discussion in the
-United States (President's Commission on Pension Policy,  1981). The diversity in private savings is also relevant for  considering the right size for mandated benefit provision.  80 For example, with an NDC system, the notional assets  in an account earn a notional rate of return that might be set  to equal the growth rate of the wage bill (if other factors are  not too strong). Then, one can consider the correlation  between the return on assets and the growth rate of the wage
-bill over different time horizons. Since the internal rate of
-return in a pay-as-you-go system is related to the timing of  tax payments and benefits as well as the growth rate of the  wage bill, a more complicated correlation could be exam-  ined.
-81 In principle, diversification could also be accom-  plished by swaps of different tax revenues.  82 Throughout this address, I have assumed that the  interest rate is above the growth of wages, so that the  economy is not on the wrong side of the golden-rule level of
-capital.  83 This logic is clear in a two-period model. With more  periods and externalities, one might find a complex way to  argument by itself does not lead to the possibil-
+argument by itself does not lead to the possibil-
 ity of a Pareto gain from adding funding to an
 unfunded system, just from reducing funding of
 a fully funded defined contribution system.
@@ -44242,8 +44117,9 @@ sure of lifetime earnings surely makes sense. A
 progressive benefit formula makes sense to pro-
 vide higher replacement rates for lower earners,
 in order to supplement annual income taxation
-benefit everyone, taking advantage of the externalities to  offset the payment for funding. But I have not seen anyone  show such a possibility.
-MARCH 2004  22
+
+### ---Economics-2004-0-24.txt---
+
 
 
 ### ---Economics-2004-0-24.txt---

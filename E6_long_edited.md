@@ -46273,7 +46273,6 @@ about the desirability of making such changes.
 
 
 ### ---Economics-2006-0-03.txt---
-By DANIEL MCFADDEN*
 You cannot simply tell a person in dire
 need, wait for the market to take care of
 you. That is a most callous thing to say,
@@ -46302,11 +46301,6 @@ man of economics is a maximizer, who will
 settle for nothing less than the best." Some
 economists have even taken self-interest to ex-
 plain choice tautologically:
-t Presidential Address delivered at the one hundred sev-
-enteenth meeting of the American Economic Association,  January 7, 2006, Boston, MA.
-* Department of Economics, University of California,  Berkeley, 549 Evans Hall, #3880, Berkeley, CA 94720  (e-mail: mcfadden@econ.berkeley.edu). This paper was  prepared with the support of the National Institute of Aging  and the E. Morris Cox Endowment, University of Califor-  nia, Berkeley. I thank particularly Joachim Winter, and also  Sam Bowles, Frank Caro, Colin Camerer, Ernst Fehr, Flo-  rian Heiss, Dana Goldman, Elizabeth Goldstein, Arie
-Kapteyn, Alan Krueger, Byunghill Jun, Rosa Matzkin, Ellen  Peters, Richard Suzman, David Weir, Robert Willis, and
-David Wise for comments and suggestions.
 An article can have no value unless it has
 utility. No one will give anything for an
 article unless it yield him satisfaction.
@@ -46701,9 +46695,7 @@ well-being were experienced on an absolute scale.
 Second, the picture that emerges from brain
 studies is that the dopamine reward pathways in
 the limbic region play a central role in experi-
-1See Limo R. Becerra et al. (1999), Kent C. Berridge  (2003), Meghana Bhatt and Colin F. Camerer (2005), Mi-  chael A. Bozarath (1994), Camerer (2003), Antonio  Damasio (2005), John Dickhaut et al. (2003), Ernst Fehr et  al. (2005), de Quervain et al. (2004), Paul W. Glimcher et
-al. (2005), David Laibson (2005), Kevin McCabe et al.  (2001), Samuel M. McClure et al. (2004), Michael Kosfield
-et al. (2005), Aldo Rustichini et al. (2003), Alan G. Sanfey  et al. (2003), and Fehr and Tania Singer (2005).  encing pleasure, and also mitigate, with a lag,
+encing pleasure, and also mitigate, with a lag,
 the sensation of pain (see Becerra et al., 1999;
 McClure et al., 2004). Adaptation to homeosta-
 sis and differentiation between the pleasure and
@@ -46838,14 +46830,10 @@ may appear in experiments, they are not impor-
 tant for economic behavior. This may be true in
 repeated, familiar market settings where the
 conduct and rewards of others provide good
-2 Edited volumes that survey this subject include Kah-  neman et al. (1999), Kahneman and Amos Tversky (2000),  Thomas D. Gilovich (2002), John H. Kagen and Alvin E.  Roth (1995), George Loewenstein et al. (2003), and Charles  R. Plott (forthcoming). See also Charles Bellemare et al.  (2005), Ronald Bosman et al. (2005), Camerer (1999),  Camerer and Thaler (1995), Donald Green et al. (1998),  Teck H. Ho et al. (forthcoming), Michael D. Hurd et al.  (1998), and Olaf Johansson-Stenman and Hector Svedsater
-(2003).
 
 
 ### ---Economics-2006-0-09.txt---
-TABLE 1-FACTUAL AND AFFECTIVE MEMORY
-Effect Description
-Affective attenuation Affective memories are recalled/anticipated with diminished intensity  Availability Memory reconstruction is tilted toward the most available and salient information  Primacy/recency Initial and recent experiences are the most available  Reconstructed memory Imperfect memories are rebuilt using contemporary cues and context, historical exemplars,  customary search protocols  Selective memory Coincidences are more available than noncoincidences  Subjective time History is compressed and attenuated, duration neglected
+
 examples. Some consumers are slow learners,
 however, and many markets are inconsistent
 teachers, providing more irritation than illumi-
@@ -46924,14 +46912,6 @@ tween events, taking natural events personally,
 
 
 ### ---Economics-2006-0-10.txt---
-TABLE 2-JUDGMENT AND THE FORMATION OF PERCEPTIONS AND BELIEFS
-Effect Description
-Anchoring Judgments are influenced by quantitative cues contained in the decision task  Context/framing History and framing of the decision task influence perception and motivation  Endowment/reference point Status quo is a "safe" known alternative: "The devil you know is better than the devil
-you don't"
-Extension Representative rates are more available than integrated experience  Prominence/order The format or order of decision tasks influences the weight given to different aspects
-Prospect Probability calculus is inconsistent; asymmetry in gains and losses
-Regression Causal structure attributed to fluctuations; failure to anticipate regression to mean
-Representativeness Frequency neglect in exemplars
 and persuading themselves that they are system-
 atically lucky or unlucky in handling market
 risk.
@@ -47010,22 +46990,7 @@ called a reference point or status quo effect, in
 
 
 ### ---Economics-2006-0-11.txt---
-Median
-O1 100
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0 Ask
-Bid
-0 10 20 30 40 50 60 70 80 90 100
-Quantity
-FIGURE 1. PENCIL EXPERIMENT OFFERS
+
 which consumers show a reluctance to trade
 away from any position in which they are es-
 tablished. The endowment effect appears in
@@ -47175,12 +47140,7 @@ with little academic aptitude. This may be be-
 
 
 ### ---Economics-2006-0-13.txt---
-TABLE 3-DECISION CALCULATION AND PROCESSING DESCRIPTION
-Effect Description
-Awareness Recognition of choices, subjective definition of choice set  Construal/constructive Cognitive task misconstrued, preferences constructed endogenously
-Disjunction Failure to reason through or accept the logical consequences of choices
-Engagement Limited attention to and engagement in the cognitive task
-Innumeracy Limited capacity to "run the numbers"  Suspicion/superstition Mistrust of offers and questioning of motives of others in unfamiliar situations; avoidance  of choices that "tempt fate"
+
 cause we are adapted to trade, and because we
 are good at copying successful behavior. Nev-
 ertheless, such processing deficiencies as dis-
@@ -47348,8 +47308,6 @@ ton of tightly packed riders in a bicycle race,
 with riders tightly clustered and constrained
 in order to save energy in preparation for
 "breakaways."
-3 See Gary S. Becker (1976), Francis Bloch et al. (2005),  Alan P. Hamlin (1991), and Matthijs Poppe (2005).
-
 
 ### ---Economics-2006-0-15.txt---
 B. Reciprocity and Altruism
@@ -47497,8 +47455,7 @@ issue.4 In the Medicare population, people with
 prescription drug coverage average 1.1 more
 prescriptions than those without. If the 26 per-
 cent of the population who currently pay all
-4 See Peter Adams et al. (2003), Dana P. Goldman et al.  (2004), Anne E. Hall (2004), Haiden A. Huskamp et al.  (2004, 2005), John R. Moran and Kosali I. Simon (2005),
-and Z. Yang et al. (2004).  their pharmacy bills enroll in Part D, experience
+their pharmacy bills enroll in Part D, experience
 this increase in number of prescriptions, and
 face the current average monthly cost of a new
 prescription, $66, then this increases the cost of
@@ -47551,22 +47508,7 @@ Medigap policies that do not cover drugs
 
 
 ### ---Economics-2006-0-17.txt---
-TABLE 4-2006 PRESCRIPTION DRUG BENEFITS UNDER
-MEDICARE PART D STANDARD PLAN
-Annual Percent Percent of
-pharmacy Patient Medicare paid by patients with
-bill pays pays patient higher bills
-$0 $ 0 $ 0 - 85.4%
-$250 $ 250 $ 0 100% 80.5%
-$500 $ 313 $ 188 63% 77.4%
-$842 $ 398 $ 444 47% 73.0%
-$1,000 $ 438 $ 563 44% 70.7%
-$2,250 $ 750 $ 1,500 33% 49.4%
-$5,100 $3,600 $ 1,500 70% 16.3%
-$8,000 $3,745 $ 4,255 47% 6.4%
-$12,000 $3,945 $ 8,055 33% 2.1%
-$20,000 $4,345 $15,655 22% 0.4%
-$40,000 $5,345 $34,655 13% 0.1%
+
 Standard Medicare with Medigap policies
 that cover drugs
 Employee- or union-provided coverage, in-
@@ -47653,18 +47595,6 @@ tical hardware (Web TVs) through which they
 
 
 ### ---Economics-2006-0-18.txt---
-TABLE 5-NUMBER OF PRESCRIPTIONS
-Age 50-64 2.8
-Age 65 + All 4
-Age 65+ Pay own pharmacy bills 3.3
-Age 65+ Others pay pharmacy bills 4.4
-TABLE 6--PERCENT WITH LITTLE OR No KNOWLEDGE OF
-PART D
-All 39.5
-High SES 32.5
-Bad health 49.8
-Low cognition 46.9
-Low SES, bad health, and low cognition 54.3
 respond to periodic surveys. Members are com-
 pensated for participation on the panel. For our
 study, 5,879 members of the panel aged 50
@@ -47699,12 +47629,6 @@ less informed and may fail to take advantage of
 the program. Table 6 gives the fractions of the
 Medicare population who just before enroll-
 ment started said they had little or no knowl-
-TABLE 7-PERCENT NOT LIKELY TO ENROLL
-All 17.0
-Good health 19.0
-Bad health 11.7
-Well informed 14.7
-Poorly informed 19.6
 edge of Part D. Table 7 gives the percentages of
 the Medicare population who said just before
 enrollment started they were unlikely to enroll
@@ -47750,18 +47674,6 @@ threshold, an individual who seeks to minimize
 
 
 ### ---Economics-2006-0-19.txt---
-m m m $1,000
-$800
-$600
-$400
-Enroll Now
-Probably
-Enroll Now
-Probably
-Delay
-65 75 85 95
-Age in 2005
-FIGURE 2. ENROLLMENT THRESHOLDS MINIMIZATION OF EPV OF OPC
 EPV of OPC cost will choose to delay. We
 simplify this computation by approximating a
 necessary condition for delay, ignoring the in-
@@ -47782,8 +47694,7 @@ Figure 2 gives the thresholds we obtain using
 this approximation; these apply to people who
 do not receive means-tested premium reduc-
 tions. There are four factors that may modify
-5 Some plans offer reduced or zero premiums, and may  be attractive to the healthy. However, most appear to be  available only to those who meet a low-income means test
-or enroll in bundled HMO services.  this calculation for an individual. First, addi-
+this calculation for an individual. First, addi-
 tional information on health that will be re-
 vealed in the future, and decisions contingent on
 this information, give delay some added option
@@ -47812,21 +47723,6 @@ pected value of the consumer's new pharmacy
 
 
 ### ---Economics-2006-0-20.txt---
-TABLE 8-ENROLLMENT INTENTIONS
-Intended
-choice
-Action that minimizes EPV of OPC
-Enroll Delay Total
-Enroll 63.3% 19.4% 82.7%
-Delay 10.0% 7.3% 17.3%
-Total 73.4% 26.6% 100.0%
-TABLE 9-PLAN CHOICE
-Min EPV
-Alternative Choice of OPC
-Standard 46.9% 45.5%
-Guaranteed Benefit 27.1% 3.3%
-Major Cost Protection 6.0% 0.0%
-No Copay 20.0% 51.2%
 bills in 2006. About 72.5 percent of the Medi-
 care population meet this condition. For those
 with lower bills, there is an annual pharmacy
@@ -48137,8 +48033,7 @@ rectly dependent on cash flow, in violation of
 Modigliani-Miller;
 * A realistic norm will make wages and prices
 dependent on nominal considerations and
-thus violate natural rate theory;  6 Of course, it took some time for the implications of  these neutrality results to be fully appreciated. For example,  life-cycle consumption and Modigliani-Miller were initially  considered as nothing more than useful codicils to Keyne-
-sian thinking.
+thus violate natural rate theory;
 
 
 ### ---Economics-2007-0-05.txt---
@@ -48230,7 +48125,6 @@ increasing deflation.9 A fiscal/monetary policy
 mix that sought to maintain employment that
 was any higher would result in permanently
 increasing inflation. A fiscal/monetary mix that
-7 See Friedman (1957) and Franco Modigliani and Rich-  ard Brumberg (1954).  8 See Modigliani and Merton H. Miller (1958).  9 See Edmund S. Phelps (1968) and Friedman (1968).
 
 
 ### ---Economics-2007-0-06.txt---
@@ -48307,13 +48201,6 @@ versation ought to be worthy of the Gospel of
 Christ [emphasis added]."'" How is a good
 Christian supposed to feel when she has not
 lived up to her conception of that ideal?  Ashamed.16
-10 See Lucas (1972), Thomas J. Sargent (1973), and  Lucas and Sargent (1979).  11 See Robert J. Barro (1974) for the modem reincarna-
-tion of these ideas, first discovered by Ricardo.  12 This section, including much of its exact wording, has
-been taken from a joint manuscript with Rachel Kranton  (Akerlof and Kranton 2006). I should emphasize that these  insights have been developed jointly. The initial instigation  of our project is wholly due to Kranton. It is impossible for  me to say which ideas or wordings are mine and which are
-hers. 13 See Pareto (1920). George C. Homans and Charles P.
-Curtis (1934) give an excellent summary of Pareto that is  fully consistent with the emphasis here. Jon Elster (1989)  also presents a similar conception of norms.  14 For example, the protagonist of the novel Rice Mother  (Rani Manicka 2002) did not believe she should wear red  with black.
-15 See http://www.orthodoxytoday.org/articles/StBasil-
-Behavior.php.  16 Of course, there are many interpretations of the Gos-  pel, and some of them are even contradictory. But that does  not affect whether the person should be ashamed or not. She
 
 
 ### ---Economics-2007-0-07.txt---
@@ -48414,7 +48301,7 @@ have predictably different reactions. For the
 toddlers, riding a wooden horse is an accom-
 plishment. They show their joy at fulfilling what
 they should do with smiles and waves as they
-pass by. In contrast, for older children, there is  thinks she should be ashamed if she fails to live up to her  interpretation of the Gospel.
+pass by. In contrast, for older children, there is
 
 
 ### ---Economics-2007-0-08.txt---
@@ -48479,15 +48366,7 @@ standards, and their discomfort and reactions
 when they fail to do so.
 We now turn to examining the role of
 norms in each of the five macroeconomic neu-
-tralities.20 In each case we shall ask whether  17 Goffman (1961) observed the behavior of such stu-
-dents in medical operations.  18 Another example, the Milgram experiment (Stanley
-Milgram 1963, 1965) demonstrates the strength of such  motivation-by showing the lengths that people will take to  do what they think they should be doing. To see this  interpretation of this experiment, which is only one of many  ways of viewing it, it is useful to give a brief description. On  arrival, subjects were told that they were involved in a  learning experiment. They were put in the role of the  "teacher," who should administer shocks to a "learner"
-whenever he gave a wrong answer. The subjects are led to  identify with their role as teacher in this experiment, and  feel that they should obey the experimenter. Rather than  being another subject, and, rather than being wired, as it  appeared, actually the learner was an unwired, trained con-  federate of the experimenter. Subjects were then instructed  to administer shocks of escalating voltage as the learner  made errors. A surprising fraction of subjects escalated their  shocks to the maximum 450 volts-even though such a
-dosage in real life would have been lethal. There are many  different versions of the experiment, but the version where  the confederate grunts and moans at 75 volts, asks to be let  out of the experiment at 150 volts, and refuses to give any  more answers at 300 volts, is typical. Here more than 60
-percent of subjects went all the way. Nor is such motivation  limited to the laboratory. The rampage of the Nazi Reserve  Police Battalion #101 in Poland during World War II  (Christopher R. Browning 1999) gives a real-world mirror  of the behavior Milgram obtained in the laboratory. Like  Milgram's subjects, the members of this unit, were just  Ordinary Men (Browning's title). They were recruited from  the most prosaic civilian occupations.  19 See Douglas S. Massey and Nancy A. Denton (1993,  table 3.1, 64).
-20 Some years ago, at a conference in Spoleto, Italy,  Edmund Phelps gave a still-unpublished lecture wondering  why the economics of the twentieth century had failed to  discover what was central to most of the arts, which was the
-role of subjectivity. This paper is about the direct relevance  of such subjectivity for macroeconomics. I have very much  benefitted from enjoyable conversations with Professor
-
+tralities.20 In each case we shall ask whether
 
 ### ---Economics-2007-0-09.txt---
 people's views as to how they should behave
@@ -48555,15 +48434,7 @@ the public; (f) growth of the economy in excess
 of the interest rate, allowing steady debt issu-
 ance; (g) lack of foresight regarding the effect
 of social security on future taxes; (h) foreign
-ownership of debt; (i) tax distortions;26, 27, 28 (j)  Phelps. He has summarized for me the content of that talk
-in an e-mail.  21 For each of the five neutralities we see that the inclu-
-sion of broader preferences, inclusive of norms, will bring  Keynesian behaviors back to life. But, of course, that does
-not mean that the competitive forces and the maximizing  behaviors responsible for the five neutralities are not im-  portant as well.  22 That appreciation is of course due to Barro (1974).  23 This model is quite close to Ricardo's original discus-  sion. It is a considerable simplification of Barro's model.  His model had a sequence of overlapping generations, each  of which lived for two periods. Barro's contribution was not
-only to show Ricardian equivalence in the two-generation  model, but also its extension to a sequence of generations  when parents' utility depended only on their own utility and  the utility of their own children. Ricardo's discussion,  which is close to the two-generation model here, was then  subsequently rediscovered. There is no uncertainty, and all  taxes are lump-sum. This proposition may be generalized,  for example, following Barro, to a model with m overlap-  ping generations, each of which has different consumption  when young and old. Each parent derives utility from his  own consumption and the utility of his child.  24 The tax and the transfer are both lump-sum.  25 The conventional wisdom is, of course, that social
-security will affect aggregate savings. Martin Feldstein  (1974) and Feldstein and Anthony Pellechio (1979) act as if  increases in social security of the current generation will  result in increased consumption, so that the next generation  will have a lower capital stock.
-26 I take this list mainly from the review article by John  J. Seater (1993).
-27 Barro (1989) also gives a careful review of the frictional  reasons why Ricardian equivalence may not in fact occur.  28 In the case of strategic bequests, the bequest is an  unusual form of incentive payment for a service rendered.
-
+ownership of debt; (i) tax distortions;26, 27, 28 (j)
 
 ### ---Economics-2007-0-10.txt---
 constraints on the consumption of parents (so they
@@ -48633,17 +48504,7 @@ about this additional motivation. But this seg-
 ment of the utility function is, in fact, very
 different from economists' usual characteriza-
 tion of motivation. We know that the "warm
-glow" does not come from the utility the parent  This argument suggests that a "bequest" is not really what it
-seems. This is an argument where the preferences of the  parent do play a role, but quite different from the type of  reason that I think would have surprised the Keynesians. I  want to show that parents who make bequests for the  conventional reasons, because they care about the welfare of  their children, will still routinely violate Ricardian equiva-  lence, even in the absence of most of the commonplace  frictions that almost surely invalidate exact Ricardian equiv-
-alence.  29 This was Ricardo's own reason for dismissal of the
-argument. He said that the parent would alter her bequest
-because she would not take into account the added tax
-payments of the child (see Gerald P. O'Driscoll Jr. 1977).  Uncertainty regarding the size of the future tax payments is  different from such myopia, in which the payment is alto-
-gether ignored. But, with quadratic utility and expected  utility maximization, uncertainty regarding the child's fu-  ture tax payments will have no effect on the size of the  parent's bequest.  30 For example, Feldstein (1974) and Feldstein and Pel-  lechio (1979) engage in no theoretical soul-searching re-
-garding the negative effects of social security on current  savings. There is a voluminous literature (see Roberto Ric-  ciuti 2003) examining the empirical validity of Ricardian  equivalence. Largely because of the problem of endogene-  ity, it is difficult to come to firm conclusions regarding its  empirical validity. There are studies with findings both for  and against such crowding out.  31 See also John Laitner (2002), Laitner and Henry Ohls-  son (2001), Alan S. Blinder (1975) and Michael D. Hurd  (1989), who have also modeled the bequest motive as com-
-ing from the utility of the parent from giving the bequest.  32 Formally, she trades off the marginal utility of her  own consumption against the marginal utility from gift-  giving and the marginal utility she gets from her child's  consumption. In making this trade-off, she takes due ac-  count of the fact that one unit of consumption today is
-traded off against (1 + r) units of consumption next period.
-
+glow" does not come from the utility the parent
 
 ### ---Economics-2007-0-11.txt---
 derives from her own consumption; nor, yet
@@ -48721,8 +48582,7 @@ sumption will depend only on the discounted
 value of her current and future income and the
 rate of interest. This proposition is easy to
 prove. It generalizes to many different com-
-modities and to many different time periods,  33 The literature on gift-giving is of course replete with  the notion that gift-giving will be determined by what assets  people consider to be theirs and how much of those assets  should be given to others (Ruth Benedict 1946), rather than  by the final utility outcomes for the gift-giver and for the  gift-receiver. Theodore Caplow (1984) describes the im-  plicit rules for Christmas gift-giving in "Middletown." Peo-  ple believe that the gifts they should give, and receive, should  be given according to these rules. Caplow suggests that one  might consider these "rules" as norms for gift-giving.  34 For the history of the Anglo-Saxon family and the  change of its conception from dynastic to nuclear, see  Lawrence Stone (1977).
-35 Using tax data, Mark D. Wilhelm (1996) found that only  10 percent of estates differed by more than 5 percent from  equality between bequests to siblings. His data are only for  bequests from estates larger than the federal minimum for  taxation. For a more general population, Jere R. Behrman and  Mark R. Rosenzweig (2004) have examined the difference in  bequests to twins. Once measurement error is taken into ac-  count, they find no significant differences in the bequests.  36 She receives income of Y, in period 1, income Y2 in  period 2, and she can borrow and lend at the rate of interest r.
+modities and to many different time periods,
 
 
 ### ---Economics-2007-0-12.txt---
@@ -48784,13 +48644,7 @@ upon whether three or five periods are used to
 predict the change in current income).
 Other studies corroborate such excess depen-
 dence on current income: John Shea (1985), for
-union members whose contracts specified their  37 The simple proof is that her utility-maximizing con-  sumption will depend upon the intercept and the slope of the  budget line. The budget line states that the present dis-  counted value of consumption is the present discounted  value of her future income, which is what Friedman calls
-her wealth. The intercept of the budget line is her wealth.  That is how much she could consume today if she consumed
-nothing tomorrow. And the slope of the budget line is  determined by the rate of interest r: on the budget line for  every unit of c, she gives up (1 + r) units of c2. Her  consumption will be on the highest attainable utility indif-  ference curve. That will be the indifference curve that is just  tangent to the budget line. As a result, we see that, given the
-utility function, c1 will be a function of W and r. Note that  current income does not come into this expression.  38 Formally, permanent income is the product of the rate  of interest and wealth.
-39 The permanent income hypothesis also generalizes to  currently popular models of present bias. In these models  consumers have present bias in the form of "hyperbolic dis-  counting," which means that they put extra weight in their  utility functions on their current consumption. In this case, the  typical consumer's plans will not be consistent, but they can be  analyzed as if she has multiple selves. Her self today decides  on how much to consume today and then passes on the re-  maining assets to her self tomorrow. There is an exact analogy  to the parent's maximization in Barro's model of bequests. In  that model, today's consumer passes on assets to her child in  the next generation; in consumer theory, today's consumer  passes on assets to her new self in the next period. Since the  standard model of intertemporal consumption and Barro's  model of consumption are exactly isomorphic, Ricardian  equivalence then tells us that current consumption-which is  the consumption of the initial self-depends only on the con-  sumer's wealth. David I. Laibson (1997) thus shows that
-consumption with forward-looking consumers with hyperbolic  discounting will balance the marginal utility of present con-  sumption out of wealth against the marginal utility of future  consumption according to an Euler condition. Such a condition  is wealth-based. It is the generalization of the tangency of the
-utility indifference curve to the budget line in the two-period  model of Irving Fisher. Both Friedman and Laibson obtain  consumption that is determined solely by current income if  there is a constraint on current borrowing, and consumers'  desires for current consumption exceed their current income.  There is nothing inherent in the preferences in either case that  causes current consumption to be based on current income.
+union members whose contracts specified their
 
 
 ### ---Economics-2007-0-13.txt---
@@ -48875,13 +48729,6 @@ material needs.""44 Here the purpose of saving is
 to live up to an ideal. The Calvinists are thrifty
 because they think they should not be consum-
 ing. That turns the motivation of the life-cycle
-40 See Dornbusch and Fischer (1987, 284).
-41 I am extremely grateful to Robert Akerlof for help in  formulating the argument of this section.  42 Bourdieu views this as important because of the role
-of such differential consumption in the transmission of class  structure from one generation to the next. The focus on  consumption as a reflection of who people want to be can be  seen throughout the sociology of consumption. On the low-  brow-highbrow scale, a study by Ian Woodward (2003) is at  the opposite end of the spectrum from Bourdieu: Woodward
-asked Australian housewives about the reasons for their
-choice of furniture. Some went for comfort; others, for
-aesthetics. But they also indicated, with a surprising degree  of moral fervor, that their choices reflected who they wanted  to be.
-43 See Weber (1958).  44 Weber (1958, 53).
 
 
 ### ---Economics-2007-0-14.txt---
@@ -48965,10 +48812,7 @@ unimportant. Why? because in their view people
 are smart about what they want, and their deci-
 sions are also very purposeful. But norms cannot
 be dismissed so easily. As I argued earlier, people
-feel strongly about adherence to them. Their  45 Guiso, Sapienza, and Zingales (2006, 39) report re-  gressions of savings ratios on GDP growth, dependency  ratios, and responses to the question: "Do you consider it  especially important to encourage children to learn thrift  and savings?" A one-standard-deviation difference to GDP  growth and to attitude toward thrift both produce a 1.8-  percentage-point difference in the savings ratio. (A one-  standard-deviation difference in the dependency ratio,  which could be the result both of cultural differences and of
-life-cycle considerations, produces a 3.2-percentage-point
-difference.)  46 See, for example, David Cannadine (1977).  47 See Woody Holton (1999).  48 But it turns out that there is quite possibly a substan-  tive difference between the two interpretations. With the
-mental accounting interpretation the losers of the ticket  could be induced to buy one, if only a wise friend would  make them aware of the logical problems of their reasoning.  In contrast with the norms interpretation the friend cannot  be so helpful. Buying a new ticket is a departure from the  person's norm, and she loses utility by it.
+feel strongly about adherence to them. Their
 
 
 ### ---Economics-2007-0-15.txt---
@@ -49055,12 +48899,6 @@ model into one with norms regarding entitle-  ments to consume. The rules of men
 ing become the norms regarding how money
 should be spent. The basic norm is that con-
 sumption should come from current income.
-49 These are the results for females. The men gave al-  most nothing so their differentials are irrelevant. The
-women gave on average about 10 percent of their earnings.  Those who were asked to donate before the task gave twice
-as much as those who were asked afterward. The task lasted
-40 minutes and was to highlight phrases in a manuscript to  be used in making an index.  50 Shefrin and Thaler themselves are explicit about the  possibility of other models.  51 We should also note that the Shefrin-Thaler model
-has elements not discussed in the text. In general, the  discontinuous penalties from mental accounting are one  reason why consumption might be at a corner solution in  one of the three mental accounts. Shefrin and Thaler have
-another reason. They view saving as taking willpower,  which entails a cost in terms of lost utility. The less  people save the less of this costly willpower they need to  expend. This gives another reason why consumption  might be on one of the boundaries of the mental accounts.  It is useful to remember that at one of the boundaries,  consumption will conform to current income.
 
 
 ### ---Economics-2007-0-16.txt---
@@ -49145,8 +48983,7 @@ special place for current variables, such as cash
 flow and liquid asset holdings in the investment
 decision. In the original version of the theory,
 James Tobin (1969) suggested that a firm's op-
-timal investment strategy arbitrages between  52 Shefrin and Thaler (1988, 619-20).  53 Shefrin and Thaler (1988, 622-24).
-54 Shefrin and Thaler (1988, 626-27). Especially, they  say that there would be vast undersaving in the absence of  social security and forced private pensions to prevent it.  There is some ambiguity regarding whether there is under-  saving in the presence of these institutions to counteract it.  55 Shefrin and Thaler (1988, 633).  56 See, especially, John R. Meyer and Edwin Kuh  (1957).
+timal investment strategy arbitrages between
 
 
 ### ---Economics-2007-0-17.txt---
@@ -49222,12 +49059,7 @@ case of investment, economists are already
 aware of a fundamental reason why investment
 will depend on current cash flow. Modigliani-
 Miller and q-theory both assume that managers
-57 See Andrew B. Abel (1979), Lawrence H. Summers  (1981), and Fumio Hayashi (1982).  58 This should not be a surprise, because the assumptions  of this version of q-theory are in accord with Modigliani-  Miller: competitive financial markets and investment that  maximizes shareholder value. Thus, the firm's current fi-
-nancial position should play no role in investment. In q-  theory, current profits are just one component of the stream  of current and future profits that determine the value of q. In  this sense, they play no special role in the determination of  investment. This de-emphasis of current cash flow (and thus  current profits) in investment is analogous to the denial of  any special role of current income in the permanent income
-hypothesis.  59 See, for example, Fazzari, Hubbard, and Petersen  (1988). Stewart C. Myers and Nicholas S. Majluf (1984)  also argued that cash flow would affect investment when  managers had information not available to investors.
-60 An examination of the investment spending of firms  with cash windfalls from winning or settling lawsuits sup-  ports this finding (Olivier J. Blanchard and Florencio
-Lopez-de-Silanes 1993). These firms had no problems re-
-garding credit constraints; yet they invested in projects they  would not have otherwise pursued. Another striking finding  also shows excess sensitivity of investment to cash flow. In  1986, when the price of oil declined dramatically, non-oil  subsidiaries of oil companies cut their investment relative to  the median in their industry (Owen Lamont 1997). But  because this study examines the investment implications of  afall, rather than of a rise, in the price of oil, it is not useful  in resolving the role of credit constraint.
+
 
 
 ### ---Economics-2007-0-18.txt---
@@ -49323,8 +49155,7 @@ has come a change in function. CFOs are typi-
 cally central to major decisions. Such a change
 affects investment decisions. If they are com-
 mitted to their missions, managers with sales or
-61 Empire-building is especially emphasized by Jeremy  C. Stein (2003), following Jensen (1986, 1993).  62 Jensen (1986, 327).  63 See Jensen (1993, 853).
-64 That distinction was emphasized earlier, for example,  by Neil Fligstein (1990).
+
 
 
 ### ---Economics-2007-0-19.txt---
@@ -49416,8 +49247,7 @@ deflationary spiral. The natural rate is the only
 sustainable level of unemployment without ac-
 celerating or decelerating inflation. It corre-
 sponds to the exact level of demand where firms
-wish to set a real price of exactly one.  65 Curiously, the rise of the CFO may have substituted  one overenthusiasm (from the point of view of shareholders)  for another. There is considerable division regarding whether  mergers and acquisitions have positive returns to the buyer.  Robert Bruner's meta-analysis (2002) of many different stud-  ies concludes that, on balance, the returns to bidders have been
-zero. This is a poor return for an activity that has involved so  much corporate time and initiative. Furthermore, if some op-  portunities can be identified as having positive returns, then, to  reach an average return of zero, the marginal merger and  acquisition has negative payoff.
+wish to set a real price of exactly one.
 
 
 ### ---Economics-2007-0-20.txt---
@@ -49495,10 +49325,6 @@ relative to the respective neutrality? Natural
 rate theory is based on the assumption that
 wages and prices are set only with real con-
 siderations in mind. "Excess sensitivity" here
-66 See, for example, Robert J. Gordon (1977, table 3,  lines 6 and 7, 260).  67 Given the importance of such findings, it is remark-  able that their robustness to specifications of time period,  data, and exact specification of the Phillips curve has never  been subjected to tough tests-even though everything else  about the Phillips curve, including the natural rate of un-  employment itself, is considered to be estimated with great  imprecision. Akerlof, William T. Dickens, and George L.  Perry (2000) show a range of estimates for both wage and  price equations with many different specifications. These  estimates, particularly when made for periods of low infla-  tion, show considerable variation in the sum of the coeffi-
-cients on lagged inflation, dependent on the specification.  Another bit of evidence that suggests such estimates will be  sensitive to specification comes from the high standard  errors on the natural rate itself (Douglas Staiger, James H.  Stock, and Mark W. Watson 1997); it would be surprising  that the sum of lagged coefficients could be estimated  precisely if another component of the Phillips curve, the  natural rate, could be estimated only with very low preci-  sion. Gordon's own estimates show very different values for  this sum of coefficients. Of course, there is a theoretical
-reason why estimates of such a sum should not be robust.  With rational expectations, rather than a simple mechanical  theory of formation of inflationary expectations, Sargent  (1971) shows that there is no theoretical reason that they
-should sum to one.
 
 
 ### ---Economics-2007-0-21.txt---
@@ -49568,15 +49394,7 @@ from a money wage decline. Sticky money
 wages then result, as the bargains between em-
 ployers and employees reflect the presence of
 this ideal in the utility function.
-Indeed, the study by Bewley (1999) gives  68 These distributions have accumulations at zero, and
-they are also asymmetric: there are more wage changes  above zero than below zero. This suggests that the accumu-  lations at zero do not occur just because there is a menu cost  for changing wages.  69 The following studies have all found significant signs  of nominal wage rigidity: Truman Bewley (1999), David  Card and Dean Hyslop (1997), Shulamit Kahn (1997),  David E. Lebow, Raven E. Saks, and Beth Anne Wilson
-(1999), and Joseph G. Altonji and Paul J. Devereux (1999)  for the United States; Pierre Fortin (1996) for Canada;
-Vincenzo Cassino (1995) and Simon Chapple (1996) for  New Zealand; Jacqueline Dwyer and Kenneth Leong (2000)  for Australia; Sara G. Castellanos, Rodrigo Garcia-Verdii,  and David Kaplan (2004) for Mexico; Sachiko Kuroda and  Isamu Yamamoto (2003a, b, c) and Takeshi Kimura and
-Kazuo Ueda (2001) for Japan; Ernst Fehr and Lorenz Goette  (2003) for Switzerland; Thomas Bauer, Holger Bonin, and  Uwe Sunde (2003) and Christoph Knoppik and Thomas  Beissinger (2003) for Germany; Stephen Nickell and  Glenda Quintini (2001) for the United Kingdom; and Jonas
-Agell and Per Lundborg (2003) for Sweden.  70 See, for example, Anthony P. O'Brien (1989) and  Christopher Hanes (2000).  71 See Janet L. Yellen and Akerlof (2006, 12).  72 There are other possible reasons for this failure of the
-standard predictions from natural rate theory. Inflationary  expectations may not have been adaptive; the failure of  deflation to accelerate could be due to expectations that the  price level would return to some normal level. In the United
-States, the National Recovery Act, which encouraged firms  to increase prices, and unionization, which gave a fillip to  wages, could also have affected the trade-off between in-  flation and unemployment. But since unemployment was so  very high for so very long, and since the absence of accel-  erating deflation was so universal across countries, this still
-seems to be a dog that did not bark. It seems to point to a  problem with natural rate theory.  73 See Akerlof, Dickens, and Perry (1996, table 4).
+Indeed, the study by Bewley (1999) gives
 
 
 ### ---Economics-2007-0-22.txt---
@@ -49658,9 +49476,7 @@ worse off than Ann economically. Nevertheless,
 would be happier.76 Such responses are con-
 trary to the natural rate hypothesis that em-
 ployees only care about real returns. But an
-easy explanation for this phenomenon occurs if  74 In more detail, Bewley (1999, 1-2) summarizes his  findings: "Other theories fail in part because they are based  on unrealistic psychological assumptions that people's abil-  ities do not depend on their state of mind and that they are  rational in the simplistic sense that they maximize a utility  that depends only on their consumption and working con-  ditions, not on the welfare of others. Wage rigidity is the  product of more complicated employee behavior, in the face  of which manager reluctance to cut pay is rational. Worker  behavior, however, is not always rational and completely  understandable. A model that captures the essence of wage  rigidity must take into account the capacity of employees to  identify with their firm and to internalize its objectives. This  internalization and workers' mood have a strong impact on
-job performance and call for material, moral, and symbolic  reciprocation from company leadership."
-75 Following the argument by Raj Chetty and Adam  Szeidl (2006), some employers may have been concerned  with the fact that their employees had fixed mortgages that  they would find difficult to pay with cuts in nominal wages.  This puts the violation of natural rate theory in another  place: why were these financial contracts in nominal rather  than in real terms?  76 Shafir, Diamond, and Tversky (1997, 351-52).
+easy explanation for this phenomenon occurs if
 
 
 ### ---Economics-2007-0-23.txt---
@@ -49732,18 +49548,6 @@ maintain price stability. Failure to appreciate this
 realistic possibility again may be another case in
 which the absence of norms from utility functions
 has unduly blinkered macroeconomic thinking.79
-77 Shiller (1997, 37).  78 Bankruptcy and financial considerations become es-
-pecially important when inflation is very high. It is also  worth noting, at least parenthetically, that high levels of  bankruptcy at times of high inflation are themselves a symp-  tom of money illusion. Such bankruptcies reflect the non-  indexation of financial contracts.
-79 In addition to the two questionnaire studies I have  mentioned, indexed contracts give another indicator for the  existence of nominal notions concerning what wage in-
-creases should or should not be. Economists are often sur-
-prised at the small fraction of union contracts that are
-indexed at all. (Louis N. Christofides and Amy Chen Peng  2004, for example, analyzed a sample of almost 12,000
-Canadian union contracts from 1976 to 2000. The mean
-length of these contracts was slightly more than two years  (25 months). Only 19 percent of these contracts were in-  dexed.) But even when such indexation occurs, their form
-violates the condition that they were struck with only real  considerations in mind. For an imperfect index such as the  CPI, which reflects both supply shocks and demand shocks,  the optimal COLA adjustment will be less than one, but it  will always be (almost) symmetric for positive and negative  deviations of inflation from a threshold. (See Jo Anna Gray  1978, Ronald G. Ehrenberg, Leif Danziger, and Gee San  1983, and David Card 1986 for the derivation of optimal  indexation.) But COLA adjustments are only positive. (Card  1986, S146, has expressed this in terms of a formula: w(t) =
-w"(t) + max{0, a[p(t) - p1}, where w(t) is the nominal  wage, wn(t) is the nominal target, p(t) is the actual price  level, and p' is the threshold.) Thus, the form of the contract
-violates optimality. In practice, this violation is also biting.  For example, in roughly one-third of a large Canadian  sample of indexed contracts, inflation was always below the  threshold (see Christofides and Peng 2004, 11, fn. 19). Thus,
-the form of indexed contracts, when they exist, shows that  union wage negotiators think that COLA adjustments  should never be negative. The form of indexed contracts  gives another robust indicator that, indeed, wage setters
 
 
 ### ---Economics-2007-0-24.txt---
@@ -49827,14 +49631,6 @@ forming. Thus, by buying a particular brand, or
 patronizing a particular store, consumers are
 putting themselves in a position where they can
 be exploited. Their loyalty puts the firm in a
-have notions regarding what nominal wage increases should  or should not be. This, of course, is just one of many
-anomalies in the form of indexed contracts.
-80oMarika Karanassou, Hector Sala, and Dennis J.  Snower (2003) find considerable long-run trade-off between  inflation and unemployment in a model with nominal price  staggering and money growth.  81 See also Blinder and Don Choi (1990) and Blinder et
-al. (1998).  82 The meaning of customer markets was especially ex-
-plored by Arthur Okun (1978).  83 derive this result from Kackmeister's data in the
-following way. He finds that in the nineteenth century, only  5 percent of items changed their prices per month. This  means that the average spell of constant prices would have  been 20 months (the inverse). But that is a biased statistic
-for the average length of time between price changes for an  item on the shelf. The difference between the average spell  of employment or unemployment and the average spell  being experienced by an individual suggests a rule of thumb  ratio for four to one. Using this ratio as a rule of thumb  suggests that the spell between price changes averaged over
-the individual items on the shelf would be 80 months.
 
 
 ### ---Economics-2007-0-25.txt---
@@ -49925,9 +49721,6 @@ a key role in each of the five neutralities. Why
 have economists made such systematic omis-
 sions? The omission of norms from macroeco-
 nomics, as well as from economics more
-84 Also, COLA clauses are asymmetrically positive. See
-footnote 79 above.  85 Empirically there is a theoretical puzzle of excess  sensitivity to monetary shocks (Lawrence J. Christiano,  Martin Eichenbaum, and Charles L. Evans 1998). Christina
-and David Romer (1989) have shown that such a response  occurs with lags that would be surprisingly long if expected  monetary shocks were always neutralized.
 
 
 ### ---Economics-2007-0-26.txt---
@@ -50027,7 +49820,6 @@ Watson were, indeed, profoundly correct.
 What are the implications for social science?
 Positive economics, with its emphasis on statis-
 tical analysis of populations, would suggest that
-86 Some of the thoughts and wording in this section have  been presented in Akerlof (2005).  87 As dramatically described by Watson (1969).
 
 
 ### ---Economics-2007-0-27.txt---
@@ -50221,9 +50013,6 @@ edge of human nature and from the detailed
 facts of experience." They used their intuitions
 regarding the norms of how consumers, inves-
 tors, and wage and price setters thought they
-88 This lecture has been very much influenced by the
-insights of the Ph.D. thesis of Robert Akerlof (2006) on  preferences for beliefs. His thinking on this subject has  influenced many of the sections of this paper, especially on  consumption and the endogeneity of norms.
-
 
 ### ---Economics-2007-0-29.txt---
 should behave. There is systematic reason why

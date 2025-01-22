@@ -44343,8 +44343,7 @@ general equilibrium effects of Social Security
 tilt the pretax distribution of income toward
 higher income individuals by reducing capital
 accumulation, which in turn lowers real wages
-and raises the return to capital.  2 See Robert A. Moffitt (2003) for detailed studies of a
-variety of welfare programs.
+and raises the return to capital.
 
 
 ### ---Economics-2005-0-04.txt---
@@ -44441,10 +44440,7 @@ insurance or health care. The opposite view
 emphasizes that individuals differ in their tastes
 and are better able than governments to judge  what is in their own best interest.
 I believe in the diversity of individual pref-
-erences and the ability of most individuals to act  3 The unemployment tax is technically levied on the  employer but the incidence is likely to be primarily on the
-employee.  4 Although Medicaid is a means-tested program, more  than half of its outlays are for nursing home care for the  very aged rather than care for those with low lifetime
-incomes.
-
+erences and the ability of most individuals to act
 
 ### ---Economics-2005-0-05.txt---
 in their own self interest. But I also believe that
@@ -44934,10 +44930,7 @@ remains the same when the tax rate changes.
 Taxable labor income is, therefore, a Hicksian
 composite good that can be used to assess the
 deadweight loss (Feldstein, 1999a).10
-6 The 15.3 percent rate includes Medicare as well as the
-Social Security pension and disability taxes. Currently the  pension and survivor insurance portion is 10.6 percent of  taxable payroll. The disability tax is 1.8 percent and the  Medicare portion is 2.9 percent. The costs of these three  components will rise at different speeds but the combined  cost will eventually increase the required tax to 150 percent  of the 15.3 percent rate.  7 Since the employer half of the 15.3 percent payroll tax  is excluded from the personal income tax base, the effective  marginal rate of tax in this example is 30 percent plus the  7.65 percent paid by the employee plus 70 percent of the  7.65 percent payroll tax paid by the employer: 0.30 +  0.0765 + 0.70(0.0765) = 0.43. The extent to which a labor  supply response causes the tax to be shifted does not alter  the appropriate calculation of the marginal tax rate.  8 Feldstein and Samwick (1992) show that the present
-actuarial value of the incremental benefits varies substan-
-tially among different age and demographic groups, from no  value for young workers and some married women to more  than a 100 percent offset of the incremental tax for older  men with dependent wives. If this offset is approximated by  50 percent of the 10.6 percent of the old age and survivors  portion of the tax, the 43 percent marginal tax rate calcu-  lated in footnote 8 is reduced to 37.7 percent.  9 The increase in the payroll tax rate is subject to the  income tax offset (reducing the additional 7.65 percent to  6.5 percent). There is no incremental benefit associated with  the higher tax rate.  10 The situation is more complex when we deal with  taxes on capital income. These distort choices among finan-  cial instruments by both issuers and purchasers, choices  about the form of business (corporate vs. non-corporate,  domestic vs. foreign) and choices about saving vs. spend-  ing. The key elasticity that matters in the saving vs. spend-
+
 
 
 ### ---Economics-2005-0-10.txt---
@@ -45017,11 +45010,7 @@ pay-as-you-go plan that substitutes a 2-percent
 real return for private saving that would other-
 wise earn a 5-percent real return is equivalent
 over a lifetime of saving and dissaving to a tax
-rate of about 75 percent.13  ing distortion is not the elasticity of saving with respect to  the net-of-tax return but the elasticity of future consumption  with respect to that net of tax return; Feldstein (1978b).  Saving is equivalent to expenditure on future consumption.  The relevant elasticity is therefore much larger than the elas-  ticity of saving. If saving does not respond to changes in the net  interest rate, the relevant compensated elasticity is equal to one  minus the marginal propensity to save.  " The formula for the increase in the deadweight loss is  0.5 E (t22 - t12) TLI/(1 - t,) where TLI is taxable labor  income, t2 = 0.442 and t, = 0.377. With TLI equal to 40  percent of GDP or $4.5 trillion and E = 0.5, the implied  increase in the deadweight loss is $96 billion.  12 With a compensated elasticity of 0.5 and an income  effect of 0.15, raising the marginal tax rate from 37.7  percent to 44.2 percent on an initial tax base of $4.5 trillion  reduces taxable income by $199 billion and therefore re-  duces tax revenue by $88 billion. The net tax increase is
-thus reduced from $293 billion to $205 billion and the
-deadweight loss per dollar of incremental revenue increases  to 46 percent.  13 An individual who can get a real net of tax rate of
-return of (say) 5 percent in an individual retirement account  (IRA) or a 401(k) plan converts one dollar saved at age 45  (in the middle of his working life) to $4.32 at age 75 (in the  middle of his retirement). But if the implicit return on a  pay-as-you-go Social Security tax is only 2 percent, the
-
+rate of about 75 percent.13
 
 ### ---Economics-2005-0-11.txt---
 A much more substantial reduction in the
@@ -45118,8 +45107,7 @@ insurance that protects individual savings. The
 unemployment insurance and Social Security
 that may have been appropriate in the 1930s is
 no longer appropriate for the economy of the
-twenty-first century.  dollar paid into such a plan at age 45 only grows to $1.81.  The mandatory saving in the form of the low-return Social  Security is therefore equivalent to a 75.6 percent tax (that  reduces the gain of $3.32 to $0.81).
-
+twenty-first century.
 
 ### ---Economics-2005-0-12.txt---
 A second relevant change has been in the
@@ -45221,7 +45209,7 @@ count (PRA) saving by more than 2 percent of
 payroll earnings, or about 1 percent of GDP, and
 without reducing the benefit that retirees receive
 from the combination of the traditional tax-
-financed program and the new investment-based  14 See Sylvester J. Schieber and John B. Shoven (1999)  for a valuable discussion of the origins of the Social Secu-  rity legislation.
+financed program and the new investment-based
 
 
 ### ---Economics-2005-0-13.txt---
@@ -45323,8 +45311,7 @@ investment-based accounts: unemployment insur-
 ance savings accounts (UISAs) backed up by a
 government line of credit, personal retirement ac-
 counts (PRAs) that supplement ordinary pay-as-
-you-go Social Security benefits, and personal  15 Alternative plans could achieve the transition without  any rise in taxes by allowing the Social Security Trust Fund  to borrow for a temporary period.
-
+you-go Social Security benefits, and personal
 
 ### ---Economics-2005-0-14.txt---
 retirement health accounts (PRHAs) that finance a
@@ -45633,9 +45620,6 @@ cause most of the payroll taxes collected in each
 year are used to pay concurrent benefits. There
 is not the kind of asset accumulation and finan-
 cial investment that there would be in a private
-16 Feldstein and Liebman (2002a) provides a survey for  the Handbook of Public Economics of the large theoretical  and empirical literature on Social Security. See also my Ely
-Lecture to the American Economic Association (Feldstein,  1996a) and a forthcoming article in the Journal of Economic  Perspectives (Feldstein, 2005b) that deals with the current
-reform debate in more detail.
 
 
 ### ---Economics-2005-0-17.txt---
@@ -45843,8 +45827,7 @@ ployment rates that we see in Europe. The U.S.
 experience shows that this problem can be elim-
 inated within the pay-as-you-go system. It
 would, of course, also be eliminated in an
-investment-based system in which retirement  17 For an explicit derivation of the neutrality result and an  examination of the implication of capital income taxes and of  other discount rates, see Feldstein and Liebman (2002a).  18 For example, with a per capita growth rate of two
-percent and an elasticity of the marginal utility function of  two percent per year, the rate of decline of the marginal  utility of consumption would be 4 percent.
+investment-based system in which retirement
 
 
 ### ---Economics-2005-0-19.txt---
@@ -45935,10 +45918,6 @@ the "trust fund" balances, the transition need not
 involve borrowing by the Social Security sys-
 tem from general revenue (Feldstein and Sam-
 wick, 2002).21
-19 The 19 percent is based on Social Security Administra-  tion's "intermediate" demographic and economic assumptions  but ignores the effect of the higher tax rate of the size of the tax  base for the payroll and personal income taxes.  20 The matching rate could be higher for low income  individuals to assure very high levels of participation. In the  extreme, the entire contribution for low-income individuals
-could come from payroll tax revenue, requiring no contri-  bution of their own. High income individuals would gener-  ally welcome a chance for more tax favored saving and  could therefore be induced to participate with little or no
-matching.  21 Stated differently, the Social Security Trust Fund  could remain positive and be rising at the end of the 75 year  projection period, showing that the system has long-run
-stability.
 
 
 ### ---Economics-2005-0-20.txt---
@@ -46028,11 +46007,7 @@ system does very little redistribution and leaves
 some 10 percent of seniors with incomes below
 the poverty line. Women who were never mar-
 ried, widows, and particularly those who were
-widowed or divorced at a relatively early age  22 Feldstein and Liebman (2002a, section 7.1.3) used an
-overlapping generation model to show how such a debt  financed transition could raise the present value of con-  sumption. The rise in saving does not happen in the first  period but begins after that. The debt service on the initial  borrowing cannot be financed by additional borrowing  alone; the growth of the debt must be less than the growth  of the economy.  23 See Shoven (2000) for several discussions of admin-  istrative issues. The chapter by Fred T. Goldberg, Jr., and  Michael J. Graetz (2000) shows how administrative costs  can be reduced while maintaining the individual account
-structure.  24 See John McHale (2001) for more evidence on this
-point. 25 See Feldstein (2005a, 2005b) for a more extensive
-discussion of the risk issue.
+widowed or divorced at a relatively early age
 
 
 ### ---Economics-2005-0-21.txt---
@@ -46241,9 +46216,7 @@ evolve because of the HSAs for those under age
 fect future Medicare benefits and therefore the
 spending incentives of the Medicare population.
 A mixed financing system for Medicare
-could combine a tax-financed Medicare annuity  26I discussed this type of health insurance reform in
-Feldstein (1971) and Feldstein and Gruber (1995).
-
+could combine a tax-financed Medicare annuity
 
 ### ---Economics-2005-0-23.txt---
 for retirees geared to the then-current cost of
@@ -46300,6 +46273,7 @@ about the desirability of making such changes.
 
 
 ### ---Economics-2006-0-03.txt---
+By DANIEL MCFADDEN*
 You cannot simply tell a person in dire
 need, wait for the market to take care of
 you. That is a most callous thing to say,
@@ -46328,6 +46302,57 @@ man of economics is a maximizer, who will
 settle for nothing less than the best." Some
 economists have even taken self-interest to ex-
 plain choice tautologically:
+t Presidential Address delivered at the one hundred sev-
+enteenth meeting of the American Economic Association,  January 7, 2006, Boston, MA.
+* Department of Economics, University of California,  Berkeley, 549 Evans Hall, #3880, Berkeley, CA 94720  (e-mail: mcfadden@econ.berkeley.edu). This paper was  prepared with the support of the National Institute of Aging  and the E. Morris Cox Endowment, University of Califor-  nia, Berkeley. I thank particularly Joachim Winter, and also  Sam Bowles, Frank Caro, Colin Camerer, Ernst Fehr, Flo-  rian Heiss, Dana Goldman, Elizabeth Goldstein, Arie
+Kapteyn, Alan Krueger, Byunghill Jun, Rosa Matzkin, Ellen  Peters, Richard Suzman, David Weir, Robert Willis, and
+David Wise for comments and suggestions.
+An article can have no value unless it has
+utility. No one will give anything for an
+article unless it yield him satisfaction.
+Doubtless people are sometimes foolish,
+and buy things, as children do, to please a
+moment's fancy; but at least they think at
+the moment that there is a wish to be
+gratified. Doubtless, too, people often buy
+things which, though yielding pleasure for
+the moment, or postponing pain, are in the
+end harmful. But here ... we must accept
+the consumer as the final judge. The fact
+that he is willing to give up something in
+order to procure an article proves once for
+all that for him it has utility,-it fills a
+want.
+Frank Taussig, 1912
+Consumers who know their own tastes, and
+are relentlessly self-interested and self-reliant,
+relish choice, and welcome market opportuni-
+ties that expand their options. Most economists
+accept this concept of the consumer, and the
+attendant economic theory that demonstrates
+the efficiency and Pareto optimality of decen-
+tralized, competitive markets. Over the past 30
+years in the United States and elsewhere, these
+market-oriented views have driven economic
+policy, leading to deregulation of air and truck
+transportation, telecommunications, and energy
+markets; establishment of property rights and
+markets to manage environmental externalities;
+and globalization of international markets for
+goods, capital, and services. Notable successes
+were the deregulation of truck and air transpor-
+tation, and of telecommunications, where dys-
+functional regulation worked at cross-purposes
+to competition. Another success was making
+air pollution a property right, allowing Coasian  markets to internalize environmental externali-
+ties. There have also been striking failures,
+such as the breakdown of the incompletely de-
+regulated energy market in California a few
+years ago, the rail transport deregulation in
+Great Britain which got wrong the incentives
+for track maintenance, and the British system
+of private retirement accounts which allowed
+5
 
 
 ### ---Economics-2006-0-04.txt---

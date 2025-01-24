@@ -41365,7 +41365,7 @@ ences, respond to these valuations and create
 important induced differentiation in consump-
 tion patterns, earnings, and occupational choices.
 
-## ---Economics-2003-0
+## Economics-2003-0
 
 ### ---Economics-2003-0-02.txt---
 Macroeconomics was born as a distinct field

@@ -17091,15 +17091,10 @@ affecting unit costs, and three firms can pro-
 duce as much as 3 ym, that is, as much as
 4ym. In sum, the intervals of linear homo-
 geneity for the industry are the following:
-
 Interval 1: from ym to I ym
-
 Interval 2: from 2ym to 22ym
-
 Interval 3: from 3ym to 4ym
-
 Interval 4: from 4ym to 54ym
-
 Interval 5: from Sytm to 62y'
 That is, each interval begins at an integer
 multiple of ym and extends 1/3 ym further
@@ -17183,8 +17178,6 @@ periods to be formally equivalent to different
 goods we may take our supplier to be an
 intertemporal natural monopolist in a multi-
 product industry. That is, no combination of
-
-
 ### ---Economics-1982-0-15.txt---
 two or more firms can produce the industry's
 intertemporal output vector as cheaply as he.
@@ -18202,8 +18195,6 @@ put and employment. As the persistence of
 such cycles comes to be expected, and their
 amplitude to be accepted, it is not surprising
 that full flexibility of prices comes to be seen
-by many firms as a useless and unprofitable
-course of conduct.
 
 
 ### ---Economics-1983-0-11.txt---

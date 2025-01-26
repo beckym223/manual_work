@@ -1,5 +1,4 @@
 LUCAS: MACROECONOMIC PRIORITIES
-
 anything people were working with numerically
 15 years ago, and without the method developed
 in Krusell and Smith (1998) it would not have
@@ -17,11 +16,9 @@ an iterative procedure that works like a dream:
 For determining the behavior of aggregates,
 they discovered, realistically modeled household
 heterogeneity just does not matter very
-
 much.
 
 For individual behavior and welfare, of
-
 course, heterogeneity is everything. In the
 thought-experiments that Krusell and Smith run
 with their model, removal of the business cycle
@@ -55,14 +52,11 @@ z on the individual employment shocks e.18 In
 defined procedure described in Krusell and Smith (1999).
 this particular application, removing the variance
 of the aggregate shock is estimated to
-
 reduce the standard deviation of the individual
 employment shocks by 16 percent.19
-
 The first such thought-experiment Krusell
 and Smith describe involves a comparison between
 the expected utility drawn from the
-
 steady state of the economy with aggregate
 shocks and the expected utility from the steady
 state of the economy with aggregate shocks and
@@ -82,14 +76,12 @@ there is nothing really distributional about a
 steady-state comparison: Every infinitely lived
 dynasty is assigned a place in the wealth distribution
 at random, and no one of them can be
-
 identified as permanently rich or poor. The
 whole motivation of the paper is to focus on the
 situation of people described as "hand-to-mouth
 consumers," but a steady-state comparison
 misses them. This observation motivates a second
 thought-experiment-one with much more
-
 complicated dynamics than the first-in which
 an economy is permitted to reach its steadystate
 wealth distribution with realistic aggregate

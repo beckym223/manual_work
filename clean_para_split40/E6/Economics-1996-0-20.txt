@@ -1,7 +1,6 @@
 supplemented by constraints on the supply
 side, especially with respect to technology and
 the specialty mix of physicians.
-
 In 1995 Americans spent about $1 trillion
 for health care, broadly defined. If, during the
 past 30 years, health care spending had grown
@@ -23,16 +22,13 @@ technologies used for diagnosis and treatment
 are more expensive than in the past. Much of
 this technological change is welcome; it contributes
 to enhancing the length and quality of
-
 life. Some of the change is less desirable because
 it adds more to cost than to patient benefit.
 Unfortunately, there is great uncertainty
 regarding the merits of many technologies.
 Moreover, even when the advantages and disadvantages
 are known, there are often significant
-
 barriers facing physicians who would
-
 like to practice in a cost-effective manner.
 To deal with this problem, I propose the creation
 of a large, private center for technology
@@ -40,14 +36,11 @@ assessment. Financing for this center would
 come from a small levy (less than one tenth of
 1 percent) on all health care spending. A centralized
 approach is necessary, because health
-
 care is highly fragmented. Individual physicians
 and health plans lack the incentive and
-
 ability to commit the resources needed to assess
 -new technologies. Even the largest insurance
 companies individually account for only
-
 a small percentage of the health care market;
 they are, therefore, understandably reluctant to
 pay for large-scale assessments that would
@@ -57,7 +50,6 @@ and a private center would be able to avoid the
 political interference that often intrudes on
 government-run agencies.52 Health care providers
 would fund and set the agenda for the
-
 center, much as the electric power companies
 do for the Electric Power Research Institute.
 This institute is financed by a small levy on
@@ -69,7 +61,6 @@ would help to develop and disseminate systematic
 knowledge about the cost-effectiveness of
 medical technology through support of research
 and through a comprehensive program of
-
 publications and conferences. The center would
 have some intramural research capability, but
 most of the research would be conducted extramurally
@@ -77,7 +68,6 @@ at medical schools, hospitals, and research
 institutes throughout the country. It would
 provide health professionals with essential information
 to evaluate and improve their clinical
-
 practices and offer a rational basis for deciding
 what services should be included in the basic
 plan.
@@ -88,9 +78,7 @@ of medicine. Currently, many directors of
 health plans and many individual physicians
 know they could be practicing in a more costeffective
 way, but they are inhibited from doing
-
 so because they do not practice in a
-
 vacuum. Physicians are influenced by peers
 who have been trained in settings that emphasized
 the use of the latest technologies regardless

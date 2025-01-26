@@ -5,7 +5,6 @@ is added to the trust fund and another year is
 added at the end of the 75-year horizon. With a
 constant tax rate and the current benefit formula,
 the added year is in worse fiscal shape
-
 than the average of years before. Indeed of the
 current 75-year actuarial deficit of 1.9 percent
 of taxable payroll, a full 1.1 percent is due to the
@@ -35,10 +34,8 @@ directly (as we legislated an increase in
 the full benefit age in 1983 and have legislated
 future tax increases) or could be expected
 from the adoption of further automatic
-
 adjustments (for example, by including an
 adjustment for life expectancy).
-
 Before considering the choice between legislated
 changes and automatic adjustment, let us
 consider the allocation in a complete-market
@@ -51,7 +48,6 @@ standard modeling of incomplete markets,
 which replaces complete market auctioneerannounced
 future allocations by accurate predictions
 of future market equilibria as repeated
-
 trading unfolds. Time-inconsistent individual
 behavior does not interfere with the ability to
 describe outcomes in this way, although it will
@@ -60,7 +56,6 @@ of equilibrium.
 
 Most social security systems lack the completeness
 that is needed to specify outcomes
-
 solely in terms of underlying economic variables
 (and the stochastic structure of states of
 nature). U.S. legislation determines the payroll
@@ -69,7 +64,6 @@ The level of earnings that are subject to tax each
 year is automatically indexed-thereby relating
 taxable earnings to economic outcomes.63 Legislation
 also sets down the rules for benefit
-
 payments in terms of individual earnings histories
 and price and wage indices. While each part
 is fully specified, no mechanism ensures that the
@@ -84,7 +78,6 @@ to ignore some possible future legislation (such
 as extensions of sunsets of income tax changes).
 But this is not a satisfactory solution for academic
 analysts, nor for individuals who are
-
 making lifetime plans.
 
 We have a theory using incomplete contracts
@@ -93,13 +86,11 @@ agents have well-defined property rights and
 well-specified behaviors that determine the outcomes
 not covered by the contracts, With incomplete
 legislation, the future legislative
-
 process plays a key role in determining outcomes
 that are incompletely specified.6 Analyzing
 an equilibrium that includes a legislative
 process is difficult-requiring modeling the interaction
 of the personal preferences of elected
-
 officials with their concerns about reelection, as
 well as election outcomes (R. Douglas Arnold,
 1990). It is not that this is unknowable in principle,

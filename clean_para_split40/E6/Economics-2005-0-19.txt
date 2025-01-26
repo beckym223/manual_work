@@ -9,7 +9,6 @@ defined contribution system would help only a
 little to reduce the adverse effects of the current
 pay-as-you-go system. A notional defined contribution
 system is one in which each individual
-
 has an account that is credited with his tax
 payments and with a notional rate of return on
 his accumulated balance, but in which there is
@@ -29,7 +28,6 @@ because individuals reduce their future benefits
 if they retire early and increase them by delayed
 retirement. But even with this improved transparency,
 the low implicit pay-as-you-go rate of
-
 return leaves a substantial distortion in work
 and compensation incentives.
 
@@ -66,11 +64,9 @@ I will now summarize what I have learned.
 I commented earlier on the transition problem
 when I discussed my experience with President
 Reagan. The common view that the
-
 transition from a pure pay-as-you-go system to
 a mixed system requires the transition generation
 to "pay double"-once to save for their
-
 own retirement and once to meet obligations to
 existing retirees-is wrong. As examples of
 what could be done, Andrew Samwick and I

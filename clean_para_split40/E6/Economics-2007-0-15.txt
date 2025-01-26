@@ -25,7 +25,6 @@ their independence. But that does not mean
 that they do not also strongly believe that their
 children should live on their earnings, since that
 norm is only one of their motivations.)
-
 * In a thought experiment, consider a woman
 living on $50,000 a year who learns that
 her uncle will die in one year leaving her
@@ -44,7 +43,6 @@ their stations in life, and those stations usually
 reflect their earnings. Thus, for example,
 college students with little earnings are supposed
 to live that way-like college students.
-
 Their current spending is supposed to reflect
 their current earnings, not what they will be
 earning in the future. (At the other extreme,
@@ -57,18 +55,14 @@ this experiment, subjects were asked to donate
 to a charity before and after completing
 a task. Those who were asked for the donation
 afterward were more likely to keep the
-
 money than those who were asked beforehand.
 Those who had completed the task felt
-
 that they had earned the money and were thus
 entitled to keep it for themselves.49
-
 * The mental accounting model by Hersh M.
 Shefrin and Richard H. Thaler (1988) is especially
 useful in our quest for a Keynesian consumption
 function. Norms take many forms, so
-
 their formal model is not unique.50 But it does
 illustrate a possible link between consumption
 and current income. In this model, people have
@@ -79,13 +73,11 @@ of these accounts and begin to use the next one
 for their current consumption, they incur a discontinuous
 "penalty." Those penalties are psychological
 in nature-this is a model of mental
-
 accounting-and they take the form of a loss in
 utility.51 Corresponding to Shefrin and Thaler's
 assumptions regarding the nature of these costs,
 as consumption rises, consumers will first finance
 it wholly from current income; then,
-
 from current assets; and, finally, from future
 income and retirement wealth.
 
@@ -94,6 +86,5 @@ that there is an exact translation of such a
 model into one with norms regarding entitle-
 ments to consume. The rules of mental accounting
 become the norms regarding how money
-
 should be spent. The basic norm is that consumption
 should come from current income.

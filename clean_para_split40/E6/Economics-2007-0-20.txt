@@ -1,5 +1,4 @@
 A. Acceptance of Natural Rate Theory
-
 Most macroeconomists do not just view natural
 rate theory as a useful null hypothesis.
 They also see it as a description of reality. Such
@@ -15,15 +14,12 @@ That is the fundamental assumption of natural
 rate theory. Also, unlike our other neutrality
 results, natural rate theory is insensitive to deviations
 due to "frictions," such as imperfect
-
 information, taxes, myopia, or transaction costs.
 As long as these "frictions" can be expressed
 solely in real terms, the neutrality result of
 natural rate theory will be robust.
-
 Empirical considerations have also been influential
 in economists' acceptance of natural
-
 rate theory. The original Phillips curve showed
 a close fit between the rate of change of nominal
 wages and the inverse of the unemployment rate
@@ -55,24 +51,20 @@ one is of sufficient size to result in departures of
 economically significant magnitude from natural
 rate theory. But the standard treatment of the Phillips
 curve ignores this inconvenient fact.
-
 The textbooks thus typically present natural
 rate theory as a "just-so" story. It runs as follows.
 The previous Keynesian economists had
-
 posited a Phillips curve without a dependence
 on inflationary expectations. Friedman (1968)
 and Phelps (1968) perceived that such a theory
 could not result from models where the participants
 in the economy are concerned only with
-
 real variables. They modified the relationship so
 that wage and price equations would be affected
 one for one by inflationary expectations. Such
 judicious use of economic theory explained the
 otherwise-mysterious finding of the simultaneous
 increases in inflation and unemployment
-
 of the late 1960s/early 1970s. The theory is also
 consistent with most econometric estimates.
 B. Nominal Considerations in Wage Behavior
@@ -83,7 +75,6 @@ relative to the respective neutrality? Natural
 rate theory is based on the assumption that
 wages and prices are set only with real considerations
 in mind. "Excess sensitivity" here
-
 66 See, for example, Robert J. Gordon (1977, table 3,
 lines 6 and 7, 260).
 

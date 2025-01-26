@@ -1,11 +1,8 @@
 There is a long-standing tension in economics
 between belief in the advantages of
-
 the market mechanism and awareness of its
 imperfections. 'Ever since Adam Smith,
-
 economists have been distinguished from
-
 lesser mortals by their understanding of and
 -I think one has to say-their admiration
 for the efficiency, anonymity, and subtlety
@@ -21,7 +18,6 @@ propositions which generated the greatest
 degree of consensus were those asserting the
 advantages of free trade and flexible exchange
 rates, favoring cash transfers over
-
 those in kind, and noting the disadvantages
 of rent controls, interest rate ceilings, and
 minimum wage laws.
@@ -32,12 +28,9 @@ half of the respondents agreed and another
 30 percent agreed "with provisions" that
 redistribution of income (presumably toward
 the poorest) is a legitimate function
-
 of government policy. The profession's reservations
 about rent control, interest rate
-
 ceilings, and minimum wage laws do not
-
 appear to reflect a rejection of the goals of
 those measures, but rather a feeling that
 nonprofessionals simply do not understand
@@ -45,7 +38,6 @@ fully the consequences, often unexpected
 and undesired, of messing around with the
 market mechanism. Most of us are conscious
 of a conflict that arises in our minds
-
 and consciences because, while we think it is
 usually a mistake to fiddle the price system
 to achieve distributional goals, we realize
@@ -61,49 +53,36 @@ practice.
 
 Simultaneously, however, there is an important
 current in economics that focuses
-
 on the flaws in the price system, the ways
 that real markets fail because they lack
 some of the characteristics that make idealized
 markets so attractive. I think that
-
 outsiders, who tend to see economists as
 simple-minded marketeers, would be
-
 astonished to learn how much of the history
 of modern economic analysis can be written
 in terms of the study of the sources of
-
 market failure. The catalog runs from natural
 and artificial monopoly, to monopolistic
 competition, to the importance of public
 goods and externalities of many other kinds,
 to-most recently-a variety of problems
-
 connected with the inadequate, imperfect,
 or asymmetric transmission of information
 and with the likelihood that there will simply
 be no markets for some of the relevant
-
 goods and services.
 
 Even the vocabulary can be revealing.
-
 Market "imperfection" suggests- a minor
-
 blemish of the sort that can make the
-
 purchase of "irregular" socks a bargain.
 Market "failure" sounds like something
-
 more serious. To take a more subtle example,
 I mentioned that one kind of flaw in the
 system can be the absence of certain
-
 markets. The common generic term for the
 reason why markets are missing is "transaction
 costs." That sounds rather minor,
-
 the sort of thing that might go away in
-
 due course as accounting and information

@@ -4,14 +4,11 @@ mixed system (Feldstein and Liebman, 2002b).
 Divorced women would benefit if the total of
 the husbands and wives' PRAs are pooled and
 divided at the time of divorce.
-
 While a PRA itself does not cause any income
 redistribution, the redistributive structure
 of the pay-as-you-go benefits could, in principle,
 be changed to make the combined benefit
-
 achieve any degree of redistribution.
-
 In summary, it seems clear from the research
 that has been done that the current pay-as-you-go
 system could be gradually replaced with a mixed
@@ -40,7 +37,6 @@ benefits would be less than the currently
 projected pay-as-you-go benefits. The remaining
 asset-price risk could be substantially reduced
 by guarantees that could be produced by
-
 the private financial market.
 
 VI. Medicare
@@ -54,12 +50,10 @@ emotional. And yet without reform, Medicare
 costs will rise even more dramatically than the
 cost of Social Security retirement benefits, reflecting
 the increasing numbers of the very old
-
 (who consume relatively more medical care)
 and the changing medical technology that pro-
 vides new opportunities to spend money to prolong
 life and increase the quality of life.
-
 Before looking at Medicare, it is useful to
 consider the basic theory of health insurance
 and the current way that the government provides
@@ -92,12 +86,10 @@ less than the cost of producing that care. That
 level of insurance is, however, efficient because
 the deadweight loss from distorted demand is
 less than the gain from risk reduction.
-
 In actual practice, the demand for health insurance
 is greatly increased by the tax treatment
 of excluding employer payments for health insurance
 from the taxable income of employees.
-
 Allowing employees to buy health insurance
 with pretax dollars in this way changes the
 nature of health insurance. For someone with a
@@ -107,9 +99,7 @@ per dollar of premium substantially increases
 the demand for health insurance with low deductibles
 and low coinsurance rates. This increases
 the deadweight loss caused by the
-
 distortion in demand for care.
-
 Direct attempts to eliminate or even reduce
 the tax subsidy or to constrain it by requiring
 minimum deductibles or coinsurance rates have

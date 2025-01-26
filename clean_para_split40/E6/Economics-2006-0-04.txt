@@ -4,11 +4,9 @@ believe, widely viewed by economists as an
 almost universal success, with the failures
 due to correctable flaws in market design. Romantics
 of the economic right would carry the
-
 concepts of self-interested consumers and
 free markets even further, embracing a withering
 of authority and a nirvana of Hayekian
-
 self-reliance.
 
 Most reasoned discussions of privatization
@@ -31,12 +29,10 @@ up in this paper. I will concentrate, instead, on
 the decision-making of consumers, the market
 outcomes they achieve as a result, and the influence
 of these outcomes on their attitudes
-
 toward markets.
 
 In the general public we see widespread unease
 about market solutions. Free trade and
-
 globalization, privatization of social insurance,
 and deregulation of energy markets all elicit
 opposition from many consumers, sometimes
@@ -44,7 +40,6 @@ reasoned but often inchoate. It is no coincidence
 that support for market solutions is concentrated
 among the economically successful, and opposition
 among the less successful. Free choice
-
 has moral appeal, but moral fiber is strongest
 when not cut by self-interest. Market mechanisms
 have to compete for votes with alternative
@@ -61,7 +56,6 @@ of privatization often serves the interests of the
 politically connected. The Enrons and Haliburtons
 of this world reinforce these views. However,
 ideologies themselves are woven from
-
 human sentiments, and antipathy to market solutions
 is more than just doctrine.
 
@@ -82,7 +76,6 @@ these issues at two levels. First, I will give
 a selective review of the behavioral evidence on
 consumer decision-making, and how this influences
 market outcomes and attitudes toward
-
 markets. Second, I will summarize results that
 my research group has obtained on a current,
 concrete privatization issue, the new Medicare
@@ -93,7 +86,6 @@ fact, able to manage their choices adequately in
 this new market, and whether they will, in fact,
 gain from the added choice offered by privatization.
 The following fundamental questions,
-
 explored in pioneering papers by James J. Choi
 et al. (2003) and Richard H. Thaler and Cass R.
 Sunstein (2003), comprise an important scientific
@@ -101,7 +93,6 @@ agenda:
 
 * Are consumers sufficiently consistent in advancing
 their self-interest in specific markets
-
 to achieve the levels of efficiency and wellbeing
 that privatization promises?
 
@@ -111,5 +102,4 @@ and support structures, to help consumers
 satisfactorily pursue their self-interest?
 * When privatization is in consumers' selfinterest,
 how can they be enlightened and
-
 convinced to support the change?

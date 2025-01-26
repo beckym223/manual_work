@@ -11,7 +11,6 @@ According to Rational Expectations Theory,
 a systematic response of monetary policy to the
 business cycle will have no effect on the stability
 of the macroeconomy.10 Wage and price
-
 setters will foresee the systematic component of
 the money supply; they will raise or lower
 prices and wages exactly proportionally, and
@@ -26,7 +25,6 @@ According to Ricardian Equivalence, under
 somewhat special conditions, a representative
 consumer who receives a lump-sum intergenerational
 transfer (for example, in the form of a
-
 social security payment) will not spend a single
 dime extra." Instead, she will pass on the whole
 extra income, dollar-for-dollar, to her heirs,
@@ -37,10 +35,8 @@ The transfer is neutral in its effect on current
 consumption.
 
 III. The Missing Motivation: Norms'2
-
 Each of the neutralities is based on the assumption
 that the respective decision makers
-
 are utility maximizers. But in each case the
 utility functions of the decision makers have
 been very narrowly described. They depend
@@ -48,7 +44,6 @@ only on real outcomes. For example, in the
 consumption-neutrality models, utility depends
 on consumption and leisure; in ModiglianiMiller,
 it depends only on the discounted real
-
 return to shareholders.
 
 But as early as the beginning of the twentieth
@@ -56,7 +51,6 @@ century, Vilfredo Pareto pointed out that such
 characterizations of utility missed important aspects
 of motivation.13 According to Pareto, people
 typically have opinions as to how they
-
 should, or how they should not, behave. They
 also have views regarding how others should, or
 should not, behave. Such views are called
@@ -73,7 +67,6 @@ utility function. Sociologists say that people
 have an ideal for how they should or should not
 behave. Furthermore, that ideal is often conceptualized
 in terms of the behavior of someone
-
 they know, or some exemplar whom they do not
 know. The standard utility function is then modified
 by adding a loss in utility, dependent on
@@ -84,7 +77,6 @@ They are the most sacred texts of Christianity.
 What do they describe? The life of Christ. How
 should a Christian behave? "His life and conversation
 ought to be worthy of the Gospel of
-
 Christ [emphasis added]."'" How is a good
 Christian supposed to feel when she has not
 lived up to her conception of that ideal?

@@ -17,7 +17,6 @@ U-
 0
 
 0 12.5 25 37.5 50 62.5 75 87.5 iQO
-
 Percentiles
 
 FIGURE 6C. PERCENTAGE WITH POSITIVE TFP GROWTH: MEXICAN MANUFACTURING 1984-1994
@@ -35,12 +34,10 @@ they probably would not have achieved success
 if they were not.
 
 Firms with negative TFP growth may even
-
 be innovators. New challenges come and different
 firms think of different ways to respond
 to them. Some (like Intel and Microsoft) end
 up winners; others (Montgomery Ward and
-
 Apple?) end up losing. But it may not be that
 they just waited passively and tried to fight to
 survive in the face of negative shocks. They
@@ -50,7 +47,6 @@ end success did not come. Thus, negative TFP
 performance can, and I believe often does,
 come simply from "backing the wrong horse."
 To me, Joseph A. Schlumpeter's vision
-
 (1934) of "creative destruction" captures
 much of the story. What he is saying is, yes,
 it's a jungle out there, but the processes of that

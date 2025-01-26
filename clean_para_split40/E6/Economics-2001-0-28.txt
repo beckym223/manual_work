@@ -11,11 +11,9 @@
 0.00
 
 1948-73 1973-90 1990-95 1995-09
-
 *Labor Quality 8 Non-IT Capital Deepening EIT Captal Deepening El Non-IT Productivlty OIT Productivity
 FIGURE 12. SOURCES OF AVERAGE LABOR PRODUCTIVITY GROWTH
 Note: Contributions are from Table 8.
-
 hours combined with slowing ALP growth during
 1990-1995 to produce a further slide in the
 growth of output. In previous cyclical recoveries
@@ -24,7 +22,6 @@ during the recovery, powered by more rapid
 growth of hours and ALP.
 
 Accelerating output growth during 1995-
-
 1999 reflects growth in labor hours and ALP
 almost equally.38 Comparing 1990-1995 to
 1995-1999, the rate of output growth jumped
@@ -43,19 +40,15 @@ H. Research Opportunities
 The use of computers, software, and communications
 equipment must be carefully distinguished
 from the production of IT.39 Massive
-
 increases in computing power, like those experienced
 by the U.S. economy, have two effects
-
 on growth. First, as IT producers become more
 efficient, more IT equipment and software is
 produced from the same inputs. This raises productivity
 in IT-producing industries and contributes
 to TFP growth for the economy as a
-
 whole. Labor productivity also grows at both
 industry and aggregate levels.
-
 Second, investment in information technology
 leads to growth of productive capacity in
 IT-using industries. Since labor is working with
@@ -64,7 +57,6 @@ through capital deepening. If the contributions
 to aggregate output are captured by capital
 deepening, aggregate TFP growth is unaffected.
 40 Increasing deployment of IT affects
-
 TFP growth only if there are spillovers from
 IT-producing industries to IT-using industries.
 Top priority must be given to identifying the

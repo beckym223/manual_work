@@ -1,12 +1,10 @@
 phenomena under examination may be quantified,
 and thus provide rationalizations (admittedly
 for those who want them) for policies
-
 that cannot by any realistic test pass muster.
 Perhaps the lesson is that there is a significant
 danger that economic theory will be misinterpreted
 in the policy arena, and researchers
-
 could productively take more pains to distance
 themselves from policy conclusions that are
 not warranted by their analysis. Theoretical
@@ -21,7 +19,6 @@ be important (as, for example, with rentseeking)
 .
 
 But many good theory papers are written
-
 where the authors assume that their audience
 will consist entirely of other theorists. In such
 instances, good theory may be misused, and it
@@ -33,28 +30,22 @@ results in ways which minimize the scope for
 misinterpretation. This is as true for those
 seeking to find "dynamic" aspects of exporting,
 or endogenous aspects of a "big push,"
-
 as it should have been for those developing the
 infant industry or optimum tariff arguments.
 Complex results, such as those noted by
-
 Johnson (1970), are particularly suspect in
 that they can be interpreted in whatever ways
 suit the decision maker or lobbyist.
-
 Finally, there is theory which provides no
 guidance as to when or how to observe the
 phenomenon. In such instances, it is difficult
 to find policy implications that will not be captured.
 One possible challenge for theorists
-
 might well be to ask for at least one plausible
 incentive-compatible mechanism under which
 the inefficiencies they identify might be improved
 upon by policy makers and bureaucrats.
-
 The existence of infant industries, of
-
 cases in which there are rents that might be
 captured by appropriate strategic trade policy,
 and of informational asymmetries and other
@@ -63,26 +54,20 @@ until the magnitude of these phenomena can
 somehow be measured, or incentive-compatible
 mechanisms for correcting them can be devised,
 theorists asserting their presence are
-
 simply providing a carte blanche for policy
 makers and bureaucrats to intervene in whatever
 ways they like, and this will simultaneously
 be seized upon by special interests to
-
 bolster their causes.
 
 No matter how careful economists are,
-
 special interests always will seize their research
 results in supporting their own objectives.
 And, no matter how sophisticated and
-
 careful research findings are, there always
 will be politicians formulating, and noneconomists
 administering, policies. Recognition
-
 of these propositions could do much
-
 to increase the degree to which economists'
 research results can contribute (positively)
 to policy formulation.

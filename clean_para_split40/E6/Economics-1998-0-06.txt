@@ -1,5 +1,4 @@
 reductions stemming from 1001 different
-
 causes, though I recognize that one can build
 scenarios in which even 1001 causes could
 work rather evenly over the whole economy.
@@ -9,7 +8,6 @@ remember being impressed, when I first saw
 some early industry estimates of TFP improvement,
 by their tendency to industry concentration.
 For years I told my students that the
-
 1920's were the decade of cars and rubber
 tires, the 1930's the decade of refrigerators,
 the 1940's that of pharmaceuticals (especially
@@ -18,7 +16,6 @@ with telecommunications anid computers taking
 over in recent decades. But these were just
 impressions, not based on any systematic approach.
 My real turnaround came in the course
-
 of writing my 1990 paper, where I presented
 a series of tables based on Kendrick and Elliot
 S. Grossman's (1980) work. Table 2 is an

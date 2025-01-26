@@ -1,6 +1,5 @@
 send out the same kind of initial signalschanges
 in the volume of sales-when it
-
 wants a reallocation of resources as it does
 when it wants a change in the general level of
 wages and prices. In the first situation, given
@@ -8,7 +7,6 @@ the substantial efficiencies which flow from
 long-term associations of suppliers with
 customers and firms with workers, very cautious
 and sluggish changes in wages and
-
 prices are the optimal response to signals. A
 large part of the adjustment is optimally
 taken up as temporary variations in slack
@@ -18,7 +16,6 @@ of various kinds. Indeed, a large part of
 economic life is dominated by the social
 conventions, institutions, and patterns of behavior
 that have evolved to avoid the chaos
-
 and inefficiencies that would result from continuous
 market clearing.
 
@@ -27,19 +24,16 @@ when aggregate demand shocks occur are the
 same as those for a resource transfer, but an
 exactly opposite response is wanted-large
 changes in wages and prices and small
-
 changes in quantities or slack. Since the bulk
 of the disturbances to which individual firms
 and workers must adjust are relative or local
 in nature, and since over long periods of
 time micro efficiency tends to outweigh aggregate
 resource utilization as a source of
-
 economic welfare, wage- and price-setting
 institutions have developed with a bias toward
 the sluggish response called for by considerations
 of micro efficiency. The cyclical
-
 behavior of the aggregate wage and price
 levels unfolds from the gradual overcoming
 of that bias.
@@ -53,11 +47,9 @@ Attrition and learning change the mix of
 skills. Random changes get smaller compared
 to systematic changes. The private returns
 from specific customer-supplier and
-
 worker-firm attachment shrink relative to the
 returns from making appropriate adjustments
 to changes in tastes, technology, and
-
 other external developments. The rationally
 based barriers to market clearing crumble.
 We economists are indeed correct to insist on
@@ -67,10 +59,8 @@ of explaining long-term market allocations.
 But we need not abandon the premise of the
 rational maximizing calculus in order to explain
 the structural stickiness of wages and
-
 prices and the failure of markets to clear in
 the short run. Both phenomena-long-run
-
 market clearing and short-run stickinessultimately
 derive from the same rational
 
@@ -78,21 +68,16 @@ aspects of human behavior.
 
 Some of the consequences of this recognition
 are nevertheless very troubling for
-
 economic theory and theoretically informed
 empirical research. In the new classical economics,
 there is no need for empirical research
-
 to determine how wages and prices
-
 respond to demand shocks, given expectations
 about the general price level. Pure
-
 theory-the auction-market model-dictates
 how prices and wages behave. Empirical research
 is needed principally to tell us something
 about the formation of expectations on
-
 the general price level.
 
 While contract theory and related research
@@ -104,27 +89,21 @@ sticky wages are consistent with the rational
 calculus. But it does not give us a theoretical
 basis for specifying the two basic components
 of macro wage adjustment: What
-
 "laws" do firms follow, under implicit contracts,
 in adjusting their wages, assuming the
-
 stability of W, the wage norm? And what
-
 does it take to produce a perceived "permanent"
 change in that norm?
 
 A full and complete microeconomic foundation
 to wage adjustment with the power of
-
 the auction-market model may never be
-
 forthcoming. If that is so, we may have to
 look to regularities derived from macroeconomic
 empirical research to infer microeconomic
 behavior. But this raises another set of
 problems. While forward-looking expectations
 play much less of a role in the macro
-
 wage adjustment process I have outlined,
 they are not completely absent in forming
 perceptions about the wage norm. Hence the

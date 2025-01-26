@@ -23,7 +23,6 @@ risk," based on exactly the same resolution of
 the equity premium puzzle. The different cost
 estimate is entirely due to differences in the
 consumption paths being compared.
-
 Resolving empirical difficulties by adding
 new parameters always works, but often only by
 raising more problems. The risk-aversion levels
@@ -44,11 +43,9 @@ Alvarez and Jermann is to show that even using
 the highest available estimate of risk aversion,
 the gain from further reductions in businesscycle
 risk is below one-tenth of 1 percent of
-
 consumption. The evidence also leaves one free
 to believe-as I do-that the gain is in fact one
 or two orders of magnitude smaller.
-
 V. Incomplete Markets and Distribution Effects
 The calculations I have described so far treat
 households as identical and individual risks as
@@ -63,7 +60,6 @@ models with incomplete risk sharing and differently
 situated agents.
 
 Krusell and Smith (1999, 2002) study a
-
 model economy in which individual families
 are subject to three kinds of stochastic shocks.
 There is an aggregate productivity shock that
@@ -79,7 +75,6 @@ that the model economy experiences realistic
 GDP fluctuations, unemployment spells have
 realistic properties, and the overall wealth distribution
 matches the U.S. distribution: In the
-
 model, the wealthiest 5 percent of households
 own 54 percent of total wealth; in reality, they
 hold 51 percent.
@@ -94,11 +89,9 @@ same as in the representative agent models I
 have already discussed. One may argue over
 why it is that markets do not permit such diversification,
 but it seems clear enough that they do
-
 not: Where is the market where people can be
 insured against the risk of having irresponsible
 or incompetent parents or children?
-
 These exogenous forces acting differentially
 across households induce different individual
 choices, which in turn lead to differences in

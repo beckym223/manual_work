@@ -1,15 +1,12 @@
 generally, can be explained by economists' adherence
 to positive economics.86 Friedman's
-
 (1953) essay on positive economics describes
 the methodological implications of such belief.
 In particular, he says that economic theorists
 should strive for parsimonious modeling. According
 to Friedman, they should even forsake
-
 realistic assumptions in pursuit of such parsimony.
 Maximization models with only objective
-
 arguments of utility have been defined as
 more parsimonious than models where people,
 additionally, lose utility insofar as they, or others,
@@ -21,7 +18,6 @@ models without norms.
 
 The prescriptions of positive economics regarding
 the conduct of empirical investigation
-
 compound the bias against norms. Friedman
 says that economists should not pay heed to the
 stated intentions of decision makers, which
@@ -49,7 +45,6 @@ almost any instance, such a large number of
 models can be fitted statistically that it is extremely
 hard-and perhaps impossible-to statistically
 reject all the variants of models
-
 without norms. As a result, the program of
 positive economics-with its initial nulls of
 models based only on utility with objective
@@ -61,7 +56,6 @@ this bias. The conventional test of the efficient
 markets hypothesis-that stock prices are the
 expected value of future returns-looks for autocorrelations
 of the excess returns on stocks
-
 relative to bonds. Following Summers, it would
 take approximately 5,000 years of data with
 such a test to obtain as much as 50 percent
@@ -73,7 +67,6 @@ are not rejected, alternative theories, such as
 those with norms, are not even considered. This
 lecture has illustrated such reversion to normless
 nulls. Consumption behavior, investment
-
 behavior, and wage and price behavior-the three
 most important components of most macro models-
 all display excess sensitivity relative to respective
@@ -85,7 +78,6 @@ In contrast to reliance on statistical testing,
 disciplines other than economics typically put
 much greater weight on a naturalistic approach.
 This approach involves detailed case
-
 studies. Such observation of the small often
 has been the key to the understanding of the
 large. To me, the most dramatic example of
@@ -95,11 +87,9 @@ Francis Crick and James D. Watson87 conjectured
 correctly that if they could describe the
 crystalline structure of a single DNA molecule,
 they would have unlocked the secret of
-
 life. The duality between the structure of the
 DNA molecule and the way in which organisms
 are generated and reproduced is one of
-
 the most beautiful findings of human knowledge.
 It indicates the sense in which Crick and
 Watson were, indeed, profoundly correct.
@@ -108,5 +98,4 @@ Positive economics, with its emphasis on statistical
 analysis of populations, would suggest that
 86 Some of the thoughts and wording in this section have
 been presented in Akerlof (2005).
-
 87 As dramatically described by Watson (1969).

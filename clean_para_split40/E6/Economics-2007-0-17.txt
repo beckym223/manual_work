@@ -14,7 +14,6 @@ an extra unit of capital stock is equal to the
 present discounted value of the stream of earnings
 from a unit of capital, again, as in ModiglianiMiller,
 investment is independent of the firm's
-
 finance decision.58
 
 The empirical testing of q-theory also has a
@@ -34,14 +33,12 @@ They continue with the Modigliani-Miller/
 q-theory assumption that managers maximize
 stockholder value. But they posit that the difference
 in information between managers and
-
 financiers results in a wedge between the cost of
 internal and external financing. This is clearest
 for firms that are credit constrained-so that
 credit-constrained firms will be especially sensi-
 tive to available liquidity.59 But, as with creditconstraint
 explanations of consumption, empirical
-
 evidence, such as there is, rejects this hypothesis.
 Steven N. Kaplan and Zingales (1997) analyzed
 the subsample of firms that Fazzari, Hubbard,

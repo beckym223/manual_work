@@ -1,83 +1,64 @@
 This does not, however, negate an important
 implication of the question raised by
-
 Buchanan and others that public servants
 would tend to have their own objective
-
 functions; I would dissociate that point from
 the further claim, with which it has come
 mixed, that these objective functions are
 narrowly confined to the officials' own selfinterest.
 The important issue to emerge is
-
 that there is something missing in a large
 part of the resource-allocation literature (for
 example, in proposals of algorithms for decentralized
 resource allocation, from Oscar
-
 Lange and Abba Lerner onward) which
-
 make do without any independent objective
 function of the agents of public action. The
 additional assumption of homo economicus
 is not needed to point to this general
-
 lacuna.
 
 While this has been a somewhat neglected
 question in social choice theory
-
 (though partially dealt with in the related
 literature on implementation), there is no
 particular reason why such plurality of motivations
 cannot be accommodated within a
-
 social choice framework with more richly
 described social states and more articulated
 characterization of individual choices and
 behavior. In the formulation of individual
 preference used by Arrow (1951) and in
-
 traditional social choice theory, the nature
 of the objective function of each individual
 is left unspecified. While there is need for
 supplementary work here, this is a helpfully
 permissive framework-not tied either to
-
 ceaseless do-gooding, or to uncompromising
 self-centeredness.
 
 Even with this extended framework, taking
 us well beyond the homo economicus,
-
 there remain some difficulties with the notion
 of individual rationality used here.
-
 There is a problem of "insufficiency" shared
 by this approach to rationality with other
 "instrumental" approaches to rationality,
 since it does not have any condition of critical
 scrutiny of the objectives themselves.
-
 Socrates might have overstated matters a bit
 when he proclaimed that "the unexamined
-
 life is not worth living," but an examination
 of what kind of life one should sensibly
 choose cannot really be completely irrelevant
 to rational choice.45 An "instrumental
-
 rationalist" is a decision expert whose response
 to seeing a man engaged in slicing
-
 his toes with a blunt knife is to rush to
 advise him that he should use a sharper
-
 knife to better serve his evident objective.
 This is perhaps more of a limitation in
-
 the normative context than in using the
-
 presumption of rationality as a device for
 predicting behavior, since such critical
 scrutiny might not be very widely practiced.
@@ -85,17 +66,13 @@ However, the last is not altogether clear,
 since discussions and exchange, and even
 political arguments, contribute to the formation
 and revision of values. As Frank
-
 Knight (1947 p. 280) noted, "Values are
-
 established or validated and recognized
-
 through discussion, an activity which is at
 once social, intellectual, and creative."
 There is, in fact, much force in Buchanan's
 (1954a p. 120) assertion that this is a central
 component of democracy ("government by
-
 discussion") and that "individual values can
 and do change in the process of decisionmaking.
 "
@@ -111,6 +88,5 @@ democracy with regular elections and with a
 reasonably free press (Sen, 1984).46 This
 applies as much to the poorer democratic
 countries (such as India, Zimbabwe, or
-
 Botswana) as to the richer ones.47 This is
 largely because famines, while killing millions,

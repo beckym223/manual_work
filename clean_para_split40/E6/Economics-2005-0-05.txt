@@ -10,7 +10,6 @@ social insurance. Both reflect the asymmetry of
 information. The first is that asymmetric information
 weakens the functioning of private insurance
 markets. The second is the inability of
-
 the government to distinguish between those
 who are poor in old age or when unemployed
 because of bad luck or an irrational lack of
@@ -23,7 +22,6 @@ people to act against their own best interests.
 But these problems of asymmetric information
 or any other market failures do not necessarily
 justify government action. While a
-
 perfect and benevolent government would be
 better than a private market burdened by market
 imperfections, actual governments are neither
@@ -32,10 +30,8 @@ do not maximize a social welfare function,
 but reflect political pressures and bureaucratic
 preferences. Moreover, social insurance programs
 impose costs that must be weighed
-
 against the benefits of overcoming market imperfections.
 Both require empirical evaluation.
-
 Consider first the asymmetry of information
 in insurance markets. To be specific, consider
 the case of private annuities. If individuals can
@@ -43,7 +39,6 @@ buy annuities on actuarially fair terms they may
 increase their expected utility by annuitizing
 their assets at retirement. But if individuals differ
 in their life expectancy and know more
-
 about their mortality prospects than the insurance
 company can learn, those with shorter life
 expectancy will want to annuitize a smaller
@@ -53,7 +48,6 @@ offer annuities with premiums that reflect the
 mortality rates of the long-lived individuals
 who are their most likely customers. This produces
 a downward spiral in the demand for
-
 annuities that is limited only when, at some
 point, the risk-reducing value of annuitizing
 outweighs the less than actuarially fair pricing
@@ -64,7 +58,6 @@ Social Security circumvents this asymmetry
 of information by providing everyone with a
 retirement annuity rather than a lump sum at retirement
 age. But whether this is better than an
-
 imperfect private annuity market, in which some
 annuitize little and others not at all, depends on the
 implicit rates of return available on the social
@@ -78,7 +71,6 @@ major consumer outlays or the making of bequests
 or inter vivos gifts.
 
 The problem of information asymmetry in
-
 private annuities could be reduced if individuals
 purchased annuities at relatively young ages,
 before they could accumulate much information
@@ -97,16 +89,13 @@ so. The case for a mandatory annuity program
 depends on calculations that could be done but
 that have not yet been done. Second, the appropriateness
 of a social insurance program and its
-
 optimal size can be increased if the cost of the
 social insurance option is reduced, something
 that depends on how it is financed.
-
 Consider now the second form of asymmetric
 information that might provide a rationale for a
 social insurance program: the government's inability
 to distinguish those who are poor
-
 through bad luck or inadvertence from those
 who deliberately choose to act in a way that
 leads to eligibility for free benefits. A primary
@@ -116,7 +105,6 @@ interest, saving far too little for their retirement,
 for health care after they are no longer working,
 or to finance consumption when they are unemployed.
 Although some economists may reject
-
 the likelihood of such irrational behavior as a
 basis for policy analysis, as individuals we all
 recognize that such irrationality exists in practice.

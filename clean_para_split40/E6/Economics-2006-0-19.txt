@@ -35,20 +35,16 @@ U. S. Life tables, estimates from the Health and
 Retirement Survey of the annual probability of
 developing a condition requiring a new prescription
 drug therapy, and estimates from our
-
 survey and the MCBS of the distribution of
 annual drug costs for a new therapy.5
-
 Figure 2 gives the thresholds we obtain using
 this approximation; these apply to people who
 do not receive means-tested premium reductions.
 There are four factors that may modify
-
 5 Some plans offer reduced or zero premiums, and may
 be attractive to the healthy. However, most appear to be
 available only to those who meet a low-income means test
 or enroll in bundled HMO services.
-
 this calculation for an individual. First, additional
 information on health that will be revealed
 in the future, and decisions contingent on
@@ -57,23 +53,19 @@ value. Second, risk aversion gives immediate
 enrollment added insurance value. Trial calculations
 indicate that the full option pricing calculation,
 and risk aversion for a person with
-
 moderate coefficient of absolute risk aversion,
 have effects on the threshold for delay that are
 relatively small, on the order of $100 or less.
 Third, individuals may have different personal
 probabilities for new health conditions and prescription
 drug requirements than the ones we
-
 have used. Fourth, individuals may have different
 discount rates than the 5-percent discount
 rate we have employed. For people with 2005
 pharmacy bills above $802, the option of delaying
 enrollment is "out of the money"-these
-
 people can expect to reduce their OPC for prescription
 drugs in 2006 with Part D coverage, in
-
 addition to being insured against risks of high
 future bills. The difference between the $802
 threshold and the $842 break-even level for a

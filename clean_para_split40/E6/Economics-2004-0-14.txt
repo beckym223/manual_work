@@ -17,11 +17,9 @@ With differences in life expectancy, a zero tax
 on an average worker implies that some workers
 are taxed and some are subsidized by the pres-
 ence of the retirement test.50
-
 The retirement test has two effects. One is to
 raise (delayed) monthly benefits for those continuing
 to work. To the extent that a worker
-
 would have consumed out of benefits received
 while still working, the delay in the start of
 benefits raises later consumption (for both the
@@ -29,7 +27,6 @@ worker and possibly a surviving spouse) since
 more is saved. This is advantageous to the extent
 that consumption falls too much after retirement.
 51 The combination of a delay and
-
 increase in benefits is also redistribution across
 workers based on life expectancy along the lines
 discussed above. On the other hand, benefit
@@ -72,10 +69,8 @@ conclude that the retirement test does distort
 labor supply, but that distortion is more than
 offset by the gains from improved lifetime consumption
 allocations and increased insurance.
-
 Limiting the range of ages at which the retirement
 test applies makes sense. Otherwise
-
 some of those working to very advanced ages
 would have replacement rates above 100 percent
 and, if liquidity-constrained, would prefer
@@ -84,9 +79,7 @@ Currently the age for the end of the retirement
 test is the age for full benefits. I am not aware of
 any analysis of the optimal choice of an age for
 the end of the retirement test.
-
 B. Labor Supply at Younger Ages
-
 I have focused on the retirement decision
 since elasticities here are larger than those with
 earlier labor supply decisions. But younger
@@ -100,7 +93,6 @@ link between taxed earnings and retirement (and
 disability) benefits. While those nearing retirement
 age often gather information on the workings
 of the system and seek advice on the
-
 advantages of different timing of retirement,
 younger workers are not well informed.53 Some
 52 1 note that in a model with homogeneous life expect-

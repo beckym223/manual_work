@@ -13,16 +13,13 @@ This essay has explored three themes: Markets
 value diversity, markets sort buyers and
 sellers appropriately to take advantage of heterogeneous
 talents and tastes, and sorting and
-
 choice create income inequality.
-
 Value is determined in diverse markets in the
 standard way, equating supply with demand.
 The difference is that there are more margins on
 which to operate. Not only is quantity a choice
 variable, but consumers and producers can substitute
 along varying dimensions of quality.
-
 Equilibrium is established when no seller can be
 made better off by altering the quality of his
 product and offering it to different buyers and
@@ -32,7 +29,6 @@ he currently consumes.
 
 Just as value is determined by market equilibrium,
 so too is the allocation of buyers to
-
 sellers set by the market. Sellers who have a
 comparative advantage in producing highquality
 products sell to consumers who are willing
@@ -41,12 +37,9 @@ quality. Conversely, sellers who have a comparative
 advantage in producing low-quality goods
 cheaply cater to consumers who prefer to substitute
 away from high quality so that they can
-
 spend the saved dollars on other goods.
-
 Finally, income inequality results from heterogeneity.
 Some of this is determined by nature
-
 as individuals are born with different abilities,
 but inequality is also manufactured by actions
 that individuals take. The most obvious actions
@@ -54,7 +47,6 @@ involve investments in human capital, either
 through formal schooling or work experience.
 Such investments create inequality, but are beneficial
 to individuals and society as a whole
-
 because they improve the overall standard of
 living. A more subtle variant involves gambles
 that individuals take as they choose to enter
@@ -63,7 +55,6 @@ Because of indivisibilities, risky payoffs allow
 individuals to couple the consumption of large
 amounts of some goods with high-quality versions
 of others, such as living in expensive
-
 cities when income turns out to be high. Losers
 of occupational lotteries combine their lower
 consumption with lower-quality indivisible
@@ -73,6 +64,5 @@ would be, absent this type of inequality.
 Markets value diversity. Individuals, using
 their respective talents and different preferences,
 respond to these valuations and create
-
 important induced differentiation in consumption
 patterns, earnings, and occupational choices.

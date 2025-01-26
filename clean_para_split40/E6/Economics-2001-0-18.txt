@@ -1,7 +1,6 @@
 TABLE 5-LABOR SERVICES
 
 Labor services Weekly Hourly Hours
-
 Year Price Quantity Value Quality Employment hours compensation worked
 1948 0.08 1,924.6 156.1 0.75 61,536 39.1 1.2 125,127
 1949 0.09 1,860.0 171.5 0.75 60,437 38.5 1.4 121,088

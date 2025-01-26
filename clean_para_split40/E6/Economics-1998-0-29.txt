@@ -1,5 +1,4 @@
 among products there may be some where
-
 current techniques will never be further
 improved. Those products will have no real
 cost reductions or TFP improvements in the
@@ -11,7 +10,6 @@ ones (Taiwan, Argentina, Brazil?) may one
 day hope to be among the world's leaders. So
 convergence comes through as a general tendency,
 and quite surely a general possibility,
-
 for the production techniques used in making
 any given product to improve as enterprises
 using "backward" techniques learn of better
@@ -19,24 +17,19 @@ ones, and even more important, learn about
 how to put them into practice. I do not believe
 that much more than this can be said of convergence
 as a real-world force. Wage rates for
-
 given types of labor tend toward a rough
 equality across regions in a country because
 of the ease of migration in response to perceived
 wage differences. The forces at work
-
 internationally are both weaker and more
 complex, but the big message here is that
 the improvement of technique in any one industry
 does nothing to improve the wages of
-
 labor in just that industry. After an improvement,
 the industry may end up hiring more or
-
 less labor, but will presumably choose the
 amount of labor so as to bring marginal productivity
 into correspondence with market
-
 wages. So technological improvement has an
 effect on wages via supply and demand in the
 national labor market, not through any direct
@@ -45,7 +38,6 @@ link from technical improvement to wages
 or the firm.
 
 As my final point, let me return to the
-
 thought that the justification for perfecting the
 functioning of the market system does not lie
 only in reducing the efficiency costs associated
@@ -68,7 +60,6 @@ as greasing the wheels of the constant search
 for new avenues of real cost reduction. To the
 extent that economic reforms do so, they become
 vehicles for bringing an economy to a
-
 point where, year after year, new, cheaper, and
 better ways are found of doing things, not just
 in so-called "production" but also in such
@@ -82,13 +73,10 @@ Growth," in which I listed "13 lessons" that
 I thought followed from the papers presented
 in the volume, recounting the growth experiences
 of countries as disparate as Ghana and
-
 Taiwan, or Japan and Sweden. These lessonsbasically
 focused on thinking about policies in
-
 terms of their economic costs and benefitscould
 easily be read as a reprise of the old
-
 comparative-static story. But they were not
 meanit as such-it is quite relevant that they
 appeared in an essay concerned with world economic
@@ -107,12 +95,9 @@ produced a pithy summary that captures the
 essential thrust of both his and my listings:
 "Macroeconomic prudence, outward orientation,
 and domestic liberalization." He, too,
-
 and the members of the Washington professional
 establishment whose apparent consensus
-
 led to Williamson's list, were not just
-
 thinking of comparative-static gains as they
 reached their conclusions about policy. They
 were thinking about ways to move economies

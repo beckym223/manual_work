@@ -1,9 +1,7 @@
 positive slope-but cannot readily
-
 account for changes in unemployment. Furthermore,
 it cannot be reconciled with the wellknown
 fact that rising unemployment is
-
 accompanied by a fall, not by a rise in quits, nor
 with the role played by temporary layoffs to
 which Martin Feldstein has recently called
@@ -32,7 +30,6 @@ This evidence can, instead, be accounted for
 by the oligopolistic pricing model-according
 to which price is determined by long-run minimum
 average cost up to a mark-up reflecting
-
 entry-preventing considerations (see the author,
 1958) coupled with some lags in the adjustment
 of prices to costs. This model implies that
@@ -55,7 +52,6 @@ rate" (see the author and Lucas Papademos,
 1975), wages and prices will tend to accelerate.
 If, on the other hand, jobs fall below, and unemployment
 rises above, the noninflationary rate,
-
 firms finding that vacancies are less than optimal
 -in the limit the unemployed queuing outside
 the gate will fill them instantly will have an
@@ -65,10 +61,8 @@ for too few jobs, the trend toward a sustained
 decline in the rate of growth of wages is likely
 to be even weaker than the corresponding acceleration
 when too many jobs are bidding for too
-
 few people. The main reason is the nonhomogeneity
 of labor. By far the largest and more
-
 valuable source of labor supply to a firm consists
 of those already employed who are not readily
 interchangeable with the unemployed and, in
@@ -79,7 +73,6 @@ the first to quit are likely to be the best workers, a
 reduction of the labor force can, within limits, be
 accomplished more economically, not by reducing
 wages to generate enough quits, but by
-
 firing or, when possible, by layoffs which insure
 access to a trained labor force when demand
 recovers. More generally, the inducement to

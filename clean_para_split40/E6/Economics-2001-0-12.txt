@@ -2,15 +2,12 @@ TABLE 2-GROwTH RATES OF OUTPUTS AND INPUTS
 1990-1995 1995-1999
 
 Prices Quantities Prices Quantities
-
 Outputs
 
 Gross domestic product 1.99 2.36 1.62 4.08
 Information technology -4.42 12.15 -9.74 20.75
 Computers -15.77 21.71 -32.09 38.87
-
 Software -1.62 11.86 -2.43 20.80
-
 Communications equipment -1.77 7.01 -2.90 11.42
 Information technology services -2.95 12.19 -11.76 18.24
 Noninformation technology investment 2.15 1.22 2.20 4.21
@@ -24,7 +21,6 @@ Software capital services -1.83 12.67 -2.04 16.30
 Communications equipment capital services 2.18 5.45 -5.90 8.07
 Noninformation technology capital services 1.53 1.72 2.48 2.94
 Labor services 3.02 1.70 3.39 2.18
-
 Note: Average annual percentage rates of growth.
 includes imputations for the service flows from
 durable goods, including IT products, employed
@@ -38,7 +34,6 @@ products. In the business sector this accrues as
 capital income to the firms that employ these
 products as inputs. In the household and government
 sectors the flow of capital income must
-
 be imputed. This same type of imputation is
 used for housing in the NIPA. The rental value
 of renter-occupied housing accrues to real estate
@@ -78,16 +73,13 @@ shows price declines similar to computer
 investment.
 
 The top panel of Table 2 summarizes the
-
 growth rates of prices and quantities for major
 output categories for 1990-1995 and 1995-
 1999. Business investments in computers,
 software, and communications equipment are
 the largest categories of IT spending. Households
 and governments have also spent sizable
-
 amounts on computers, software,
-
 communications equipment and the services
 of information technology. Figure 4 shows
 that the output of software is the largest IT

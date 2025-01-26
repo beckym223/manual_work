@@ -15,11 +15,9 @@ modern economists. But it is also the simplest.
 That makes it the best place to begin.22 If there
 is missing motivation in the utility function, it
 should be easiest to see here.
-
 A very simple model demonstrates the essence
 of Ricardian equivalence, as it was rediscovered
 by Robert Barro after a lapse of almost
-
 two centuries.23 In the model, there are just two
 periods, periods 1 and 2. There are just two
 people, a parent and her child. The utility of the
@@ -31,7 +29,6 @@ in period 2.
 The parent's utility function can be expressed
 simply as U,(cl, U2(c2)), where c1 is the consumption
 of the parent, C2 is the consumption of
-
 the child, U, is the utility of the parent, and U2
 is the utility of the child. The parent chooses her
 consumption in period 1 to maximize her utility.

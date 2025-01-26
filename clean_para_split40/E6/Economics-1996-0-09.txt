@@ -1,5 +1,4 @@
 Survey Health Economic Practicing
-
 question economists theorists physicians
 number' Question (n c 46) (n c 44) (n c 42)
 A. Positive Questions:
@@ -16,7 +15,6 @@ to induce utilization varies inversely with the level of demand.
 diagnostic techniques would result in a significant (more than
 3%) reduction in health care expenditures (from what they
 would otherwise be) 5 years from now.
-
 13 The primary reason for the increase in the health sector's share of 81** 37 68*
 GDP over the past 30 years is technological change in
 medicine.
@@ -30,7 +28,6 @@ contributions to employees' health insurance.
 B. Policy-Value Questions:
 
 National health insurance questions:
-
 3 The U.S. should now enact some plan that covers the entire 62 65* 68*
 population.
 
@@ -56,7 +53,6 @@ care) should be higher than those charged to individuals
 without such defects.
 
 All other policy-value questions:
-
 I It is inequitable for the govemment to vary subsidies for health 62 36 86**
 insurance by size of firm.
 
@@ -76,6 +72,5 @@ optimal.
 16 All health insurance plans should be required to offer "point of 30** 55 83**
 service" options (that allow patients to obtain care outside the
 basic plan at additional cost).
-
 'Of those who agree or disagree. * Significantly different from 50 percent at p < 0.05.
 Question numbers refer to order of questions in original survey. ** Significantly different from 50 percent at p < 0.01.

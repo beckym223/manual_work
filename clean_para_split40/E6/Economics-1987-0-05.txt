@@ -1,11 +1,9 @@
 exaggerated the possible effects of lower tax
 rates on supply and some of whom simply
-
 hoped that deficits would pressure Congress
 to cut back domestic spending. The size of
 the deficits was also masked by the assumption
 of unspecified future spending cuts, an
-
 assumption reflecting the view that the U.S.
 government was operating a lot of wasteful
 programs with little public support which
@@ -14,40 +12,31 @@ or eliminate.
 
 Both in the administration and in Congress,
 decisions were made at a breakneck
-
 pace, in a highly charged political atmosphere,
 amid conflicting claims and competing
-
 forecasts, with little attention to the consistency
 of monetary and fiscal policy and
-
 mostly by people with little experience in
 evaluating the reasonableness of any set of
 economic estimates. (See David Stockman,
 1986, ch. 3.) When the dust settled, we found
 ourselves with a serious recession that
-
 nobody expected, and an escalating structural
 budget deficit that nobody wanted. It
-
 was hardly economic policy's finest hour.
 The agonizing-and so far only partially
-
 successful- struggle to correct the mistakes
 of 1981 have kept the economic policy process
 under stress and have continued to
-
 dramatize some of its weakest aspects. The
 struggle between the president and the Congress
 over deficit solutions illustrates the
-
 price we pay for the separation of powers.
 The fact that fiscal policy has become an
 exercise in damage control, while the Federal
 Reserve makes all the important decisions
 about the economy, underlines the separation
 of monetary and fiscal policy. The
-
 sensitivity of deficits to the pace of the economy
 advertises the unreliability of macroeconomic
 forecasts. The fact that all the actions
@@ -55,7 +44,6 @@ that could be taken to correct the deficit are
 unpleasant ones drags out the annual agony
 of budget setting interminably and dramatizes
 how layered and cumbersome it has
-
 become.
 
 Small wonder that the strains of the last
@@ -64,20 +52,16 @@ have reinforced the negative stereotypes that
 economists and political decision makers
 have of each other. Political decision makers
 see economists as quarrelsome folks who
-
 cannot forecast, cannot agree, cannot express
 themselves clearly, and have strong
-
 ideological biases. Economists return the
 favor by regarding politicians as shortsighted,
 interested only in what is popular
-
 with the electorate, and unwilling to face
 hard decisions. All of the stereotypes are
 partly right.
 
 Politicians embody their stereotype in
-
 economist jokes. Economists have retaliated
 more massively by applying the tools of their
 trade to the political system itself. Public
@@ -89,40 +73,30 @@ into observed political behavior and certainly
 helps explain why the idealistic economist
 so often fails to find the system simulating
 the public interest motivation of the
-
 philosopher queen.
 
 III. Some Drastic Nonsolutions
-
 Widespread concern that the economic
-
 policy process is not working well has
-
 spawned proposals for drastic change that
 move in two quite different directions: one
 toward circumscribing the discretion of
-
 elected officials by putting economic policy
 on automatic pilot and the other toward
-
 making elected officials more directly responsible
 to the voters for their policies.
-
 The automatic pilot approach 'flows from
 the perspective of public choice theory that
 the decisions of democratically elected officials
 interested in staying in office cannot
-
 be counted on to produce economic policy
 in the social interest, but are likely to be
 biased toward excessive government spending,
 growing deficits, special interest tax and
 spending programs, and easier money. A
-
 way to overcome these biases is to agree in
 advance on strict rules of economic policy,
 such as a fixed monetary growth path or
-
 constitutionally required balance in the
 federal budget.
 
@@ -130,5 +104,4 @@ Even if one accepts the premises, however,
 firm rules are hard to define in a rapidly
 changing world -no one seems to know what
 "money" is anymore-and can easily lead
-
 to perverse results. Recent experience with

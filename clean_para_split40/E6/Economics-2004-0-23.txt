@@ -6,7 +6,6 @@ savings, as it adjusts benefits in response
 to the growth of tax revenues as well as the
 returns on whatever assets are held.80 This comparison
 holds even with initial benefits fully
-
 automatically adjusted for the actuarial positionreturns
 on assets and the growth of taxable earnings
 are only partially correlated. Thus portfolio
@@ -37,7 +36,6 @@ of a Pareto gain from adding funding to an
 unfunded system, just from reducing funding of
 a fully funded defined contribution system.
 The comparison above assumed all of the
-
 response in the unfunded system occurred in
 benefits. By having some of the response to
 aggregate shocks fall on taxes, a less than fully
@@ -59,7 +57,6 @@ My broad conclusion here is that the absence
 of a complete specification of Social Security is
 not by itself an argument that there is anything
 wrong with our current approach.
-
 VII. Concluding Remarks
 
 Occasionally, I run into people who believe
@@ -71,7 +68,6 @@ this structure makes sense. Mandated savings
 makes sense if you think that many workers
 would not provide themselves a reasonable replacement
 rate. This is not just an issue of
-
 avoiding poverty, but one that extends quite far
 up the income distribution. Mandating annuitization
 makes sense if you think that workers do

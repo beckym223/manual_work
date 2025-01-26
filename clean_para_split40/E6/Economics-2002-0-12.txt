@@ -2,12 +2,10 @@ by personal activities that would characterize
 the most free and open societies. They are necessary
 to sustain both human-capital investment
 incentives and work incentives.
-
 For example, in almost every society doctors
 earn more than other people. These wage differentials
 persist in equilibrium in order to compensate
 prospective medical students for their
-
 arduous and costly training. The number and
 quality of doctors would fall if earnings were
 artificially compressed and the rate of return to
@@ -20,7 +18,6 @@ Much inequality in the overall distribution of
 earnings is attributable to substantial differences
 in mean earnings among workers of different
 ages and educational attainments that
-
 are associated with occupational choices and
 human-capital investments over the life cycle.
 They reflect rational personal choices that
@@ -31,7 +28,6 @@ Rising earnings over working life as well as
 earnings differences between occupational
 and educational categories largely reflect returns
 to human-capital investments. A clear
-
 distinction between human-capital (lifetime)
 wealth and current earnings is needed because
 learning always involves choosing prospects
@@ -40,13 +36,10 @@ in the future. Observing that a person has
 low current earnings is no signal of lifetime
 poverty if future earnings will be high. Similarly,
 high current earnings are no signal of
-
 excess wealth if a person paid the price in low
 previous earnings. The point is that the distribution
 of current income is far more unequal
-
 than the distribution of human-capital
-
 wealth. Inequality indexes based on current
 data alone give a very misleading impression
 of true inequality.
@@ -66,23 +59,18 @@ data used to assess inequality that are not age
 standardized are practically worthless for assessing
 inequality. Remarkably, such adjustments
 are seldom made. Standardizing current
-
 earnings data for education presents more difficult
 conceptual problems because family backgrounds
 and personal financial barriers on
-
 educational choices distort investment margins
 and make wage differentials not fully equalizing
 on costs. Nonetheless, some portion of educational
 wage differences-and, judging from
-
 the remarkable uniformity of estimated rates of
 return to education in different countries, perhaps
 a major portion-are equalizing on their
-
 costs. They represent productive, socially manufactured
 diversity and inequality that we cannot
-
 live very well without.
 
 V. Personal Productivity and the Distribution of
@@ -92,11 +80,9 @@ Of course, not all differences are willfully
 created. Many are caused by inherited interpersonal
 differences in talents and tastes. The hedonic
 or characteristics approach to labor
-
 markets bears similarities to statistical factoranalytic
 ideas in accounting for earnings differences
 across individuals. Factor analysis
-
 partitions observed variance into a small number
 of unobserved, latent "causes" or factors. A
 leading example is intelligence testing, where

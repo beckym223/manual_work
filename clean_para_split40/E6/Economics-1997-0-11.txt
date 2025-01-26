@@ -2,9 +2,7 @@ improved rapidly. Hong Kong and Singapore
 also became part of the East Asian "miracle"
 through policies designed to encourage exporting.
 Growth rates exceeded those previously
-
 thought to represent an upper bound on
-
 attainable performance.32
 
 It was not until the 1980's, however, that
@@ -30,7 +28,6 @@ also emerged that, even prior to the debt crisis,
 the rates of growth of inner-oriented developing
 countries had not increased despite substantial
 increases in their savings rates.:
-
 This is not the place to enter into the debate
 as to the factors contributing to the success of
 the East Asian "tigers." For, while there is
@@ -39,7 +36,6 @@ in "picking the winners" was a key component
 of the growth strategy, 35 all recognize that
 the reversal from an import-substitution strategy,
 the opening up of the economy, and the
-
 relative uniformity of incentives across the
 board were necessary, if not sufficient, for success.
 Indeed, there is an irony in the fact that
@@ -50,20 +46,16 @@ for the domestic market. Thus, we have a complete
 turnaround: in the 1950's and 1960's, the
 neoclassical argument for an open trade regime
 was rejected on the grounds that it was
-
 "static" and ignored "dynamic considerations"
 ; in the 1990's, there appears to be widespread
 agreement that the benefits of an open
-
 trade regime are largely "dynamic" in nature,
 and go well beyond the gains from trade under
 "static" models of an open economy. Just as
 was the case with the infant industry argument,
 however, there is a question as to how to identify
 and measure these "dynamic" gains.
-
 II. How Did Economists and Researchers
-
 Go Wrong?
 
 The "Washington consensus" is very different
@@ -76,7 +68,6 @@ that the ideas of the 1950's and 1960's will be
 revived.
 
 One can raise three questions about the
-
 change in viewpoints. First, how could it be
 that the economics profession, whose consensus
 on the principle of comparative advantage

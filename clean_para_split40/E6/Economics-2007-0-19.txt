@@ -4,10 +4,8 @@ to curb those enthusiasms. Fifty years have
 elapsed since the publication of ModiglianiMiller.
 According to Zorn, when it first appeared,
 it did not describe the investment
-
 decision of large corporations. Now, quite possibly,
 changes in corporate decision-making
-
 since that time make it more realistic.65
 C. Summary
 
@@ -19,13 +17,11 @@ VII. Natural Rate Theory
 We now turn to natural rate theory. Once
 again, the debate concerns the behavior of economic
 decision makers. The early Keynesians
-
 viewed wage setters, and possibly also price
 setters, as setting nominal wages and prices,
 respectively, without taking full account of inflationary
 expectations. In contrast, New Classical
 revisionists have assumed that wage and
-
 price setters care only about relative wages or
 prices, and therefore wage and price setting will
 fully incorporate inflationary expectations. Such
@@ -33,10 +29,8 @@ behavior yields a long-run neutrality result with
 severe limits on the ability of monetary and
 fiscal policy to affect unemployment and output.
 When wage and price setters care only
-
 about relative wages and relative prices, accelerating
 inflation will occur if unemployment is
-
 below a critical level, called the natural rate;
 accelerating deflation will occur if unemployment
 is above it.

@@ -1,13 +1,9 @@
 to negotiate concessions from the UAW certainly
 show that wage rates are not completely
-
 rigid. But those very instances seem
-
 to me only to confirm the importance of
-
 social convention in less extreme circumstances.
 After all, people have been known
-
 to try to claw their way into a lifeboat who
 would never dream of cheating on a lift-line.
 I think I have made the case that the most
@@ -17,39 +13,28 @@ obstacles to "thorough-going competition"
 among workers, that is, of the many ways in
 which the labor market may "fail." In particular,
 one cannot under those circumstances
-
 expect the labor market always to
-
 clear. Pigou certainly drew that conclusion.
 He says, in the Preface to Lapses: "Professor
 Dennis Robertson... has warned me
-
 that the form of the book may suggest that
 I am in favour of attacking the problem
-
 of unemployment by manipulating wages
-
 rather than by manipulating demand. I
-
 wish, therefore, to say clearly that this is not
 so" (P. v).
 
 Pigou clearly felt the tension between
-
 market efficiency and market failure. Nevertheless,
 he did not come down on the side of
-
 market failure, even after the 1930's. The
 very title of Lapses from Full Employment
 tells us that much. Evidently he concluded
 that the tendency of the capitalist economy
 to seek (and find) its full-employment
-
 equilibrium was strong enough so that departures
 from full employment could be regarded
-
 as mere episodes. Is that surprising?
-
 Well, to begin with, there is no accounting
 for Rohrschach tests. One person's ink blot
 is another person's work of art. But I think
@@ -57,66 +42,50 @@ there is also something more systematic to
 be said.
 
 In the Theory of Unemployment, Pigou
-
 gives an elaborate analysis of the short-run
 elasticity of demand for labor. He is very
 careful: he allows for the elasticity of supply
 of complementary raw materials; he allows
 for the (presumably very high) price elasticity
 of demand for exports; he discusses the
-
 effects of discounting future returns to
 labor. It is a masterly attempt to get a grip
 on orders of magnitude. It is all based on
 the presumption that the only possible starting
 point is the elasticity of the marginalproduct-
 of-labor curve. Let me remind you
-
 that in the old standby, two-factor CobbDouglas
 case, the elasticity of demand for
-
 labor with respect to the real wage is the
 reciprocal of the share of capital. Everybody'
 s back-of-the-envelope puts the capital
-
 share at 1/4 and the elasticity of demand
 for labor at 4. This is not exactly the way
 Pigou proceeds, but he reaches the same
-
 conclusion: the initial estimate of the elasticity
 is "certain to be (numerically) much
-
 larger than - 1 and may well amount to - 5
 or more." There follow some modifications,
 but the conclusion remains that in times of
 depression, the aggregate elasticity of demand
 for labor with respect to the real wage
-
 "cannot, on the least favourable assumption
 here suggested, be numerically less than - 3
 and may well be larger than -4" except
-
 perhaps in the very shortest run.
-
 For practical purposes, one would want
-
 to know the elasticity of demand with respect
 to the nominal wage, taking account
-
 of the likelihood that prices will follow
 wages down, at least partially. (Obviously if
 product prices fall equiproportionally with
 wage rates, as Keynes thought might
-
 happen in unlucky circumstances, the real
 wage doesn't move at all and employment
-
 will not improve.)' The details of Pigou's
 calculations do not concern us, but his conclusion
 does: "... we may... not unreasonably
-
 put the elasticity of the money demand
-
 for labour in times of deep depression at not
 less numerically than - 1.5."
 
@@ -124,10 +93,8 @@ If I could believe that, I too could believe
 that the labor market generally clears. To
 reduce the unemployment rate by 6 percentage
 points is to increase employment by
-
 about 6 percent, if we ignore for this purpose
 the side effects that go to make up
-
 Okun's Law. If that could be accomplished
 by a real-wage reduction of 2 percent, or
 even less, that is, by foregoing one year's

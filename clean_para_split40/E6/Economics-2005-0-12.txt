@@ -7,7 +7,6 @@ rather than a pay-as-you-go system.14 There
 was of course no way to have individually controlled
 personal retirement accounts and the Republicans
 in Congress did not want to trust the
-
 government to manage a large pool of funds.
 And since the Congressional Democrats were
 eager to start paying benefits, the result was a de
@@ -16,14 +15,12 @@ creation of individual investment accounts for
 every adult, which would have been technically
 impossible in the 1930s, is no longer even difficult.
 Today more than 90 million Americans
-
 own mutual funds, including IRAs and 401(k)
 plan accounts. In contrast to the formidable task
 in the 1930s of keeping track of everyone's
 Social Security account without the help of
 computers, the creation of a system of individual
 investment-based accounts would now be
-
 relatively easy.
 
 The third important change has been in the
@@ -33,7 +30,6 @@ the 1930s, economists assumed that individuals
 were so unresponsive to taxes and benefits that
 any behavioral response could simply be ignored.
 Most economists continued to ignore the
-
 adverse incentive effects even when the top
 marginal tax rate was over 90 percent, as it was
 from 1944 to 1963. The adverse effects of high
@@ -47,32 +43,26 @@ losses.
 
 These three changes imply that if Social Security
 and unemployment insurance were being
-
 created now, the programs would likely be significantly
 different from those in current law.
-
 Economists today would regard the adverse effect
 of Social Security on saving and capital
 accumulation as a deterrent to growth rather
 than as a favorable source of Keynesian demand.
 The widespread ownership of mutual
-
 funds, IRAs, and 401(k)s would be a natural
 starting point for any new social insurance program.
 And every aspect of behavior would be
-
 assumed to be more responsive to tax rates and
 program design.
 
 More generally, the reforms that will be enacted
 in the future will inevitably evolve as
-
 economists learn more and as the set of feasible
 options changes. An interesting example of this
 changing perception of what is feasible is the
 possible transition to personal retirement accounts
 in an investment-based Social Security
-
 program. About 20 years ago, when I served as
 chairman of the Council of Economic Advisers
 in the Reagan administration, the Social Security
@@ -88,14 +78,11 @@ Social Security benefits, and a variety of other
 smaller measures.
 
 President Reagan was unhappy with these
-
 proposals and asked a small group of us in the
 Administration whether there wasn't something
 better to be done, perhaps along the
-
 lines of the Chilean reform that used investment-
 based personal retirement accounts
-
 instead of a pay-as-you-go system. None of us
 could design a feasible transition to such a
 plan. It looked to me and to the others as if
@@ -103,7 +90,6 @@ accumulating funds to finance such personal
 retirement account annuities would involve
 a double burden on the transition generation
 that was both unfair and politically
-
 infeasible.
 
 I now know that that was wrong. Research
@@ -114,12 +100,10 @@ gradually to a completely investment-based
 plan without ever increasing the combination of
 pay-as-you-go taxes and personal retirement account
 (PRA) saving by more than 2 percent of
-
 payroll earnings, or about 1 percent of GDP, and
 without reducing the benefit that retirees receive
 from the combination of the traditional taxfinanced
 program and the new investment-based
-
 14 See Sylvester J. Schieber and John B. Shoven (1999)
 for a valuable discussion of the origins of the Social Secu-
 rity legislation.

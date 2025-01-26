@@ -12,7 +12,6 @@ with substantial deductibles and coinsurance.
 Alternatively, working age individuals could
 use the funds contributed annually to their retirement
 health savings account to purchase
-
 health insurance for their retirement years,
 thereby minimizing the problem of asymmetric
 information in policy choice at retirement
@@ -31,7 +30,6 @@ process by improving our understanding of the
 effect of social insurance rules and by deriving
 new program designs. In this paper I have emphasized
 the use of personal investment-based
-
 accounts created and regulated by the government
 and earmarked for unemployment benefits,
 for retirement income, and for health care

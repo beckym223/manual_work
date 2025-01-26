@@ -22,13 +22,11 @@ TFP Growth Rate
 
 FIGURE 6B. MAXIMUM AVERAGE ANNUAL TFP GROWTH RATE (MAX. ORDINATE OF TFP PROFILE):
 MEXICAN MANUFACTURING, 1984-1994
-
 FREQUENcy DISTRIBUTION, 44 INDUSTRIAL BRANCHES
 value added as his quantity variable, this suggests
 that, if anything, the substitution of the
 "true quantity variable" q for observed value
 added v would have given results with
-
 greater dispersion of TFP, and consequently
 greater overshooting in his sunrise-sunset
 diagrams.
@@ -46,19 +44,16 @@ bad.
 
 As I have noted earlier, we are only just beginning
 a systematic study of TFP among U.S.
-
 firms, so I can offer no display comparable to
 Torre' s.
 
 However, Robles (1997) did examine the
-
 experience of 12 firms in the U.S. oil industry.
 His results are summarized in Figure 7. But
 Robles tells basically the same story as Torre.
 Three firms out of the 12 were more than sufficient
 to generate the real cost reduction experienced
 by the total group. Half (or almost
-
 half) of the firms had negative TFP growth in
 each period. And the cumulated amount of this
 negative TFP growth was sizeable when measured

@@ -1,20 +1,16 @@
 a new job had only a 20 percent probability
 of holding that job as long as five years.
 While the large magnitude of rents for
-
 experienced workers tends to provide some
 room for errors, workers are presumably
-
 arranged along a spectrum with respect to
 their own evaluation of potential opportunities
 elsewhere. As a consequence, the losses
-
 from the errors will be a continuous positive
 function of the size of the errors. Errors of
 the opposite type-failing to introduce a
 contract change to meet a permanent alteration
 in the climate-can be reversed at a
-
 much smaller cost. Some workers will have
 remained too long with a particular firm,
 while a smaller group will have lost income
@@ -25,29 +21,23 @@ itself, unless the error persists for a long
 time.
 
 Thus, given Knightian uncertainty about
-
 economic conditions over the long length of
 job tenures, implicit contracts must allow for
 the possibility of relative wage changes in the
 face of climatic changes in external conditions.
 But the interest of both firms and
-
 workers dictates that those changes occur
 only after enough information has been
-
 accumulated to warrant a high probability
 forecast that the change is permanent. To
 justify a substantial wage adjustment, it is
 not sufficient that the firm act on unbiased
 forecasts-they must also acquire some confidence
 in the accuracy of the forecasts.
-
 One might object to this line of reasoning
 on grounds that failure to adjust wages
-
 quickly enough while the evidence is accumulating
 that the change in circumstances is
-
 permanent, is itself likely to send out wrong
 signals. If, for example, wages are slow to
 adjust downward when the demand for labor
@@ -62,7 +52,6 @@ some time to begin to realize that an actual
 change in employment reflects a shift in the
 long-term distribution of employment probabilities.
 Second, the common practice of
-
 layoffs subject to recall is a way for a firm to
 signal that the lower employment is expected
 to be temporary. Third, significant downward
@@ -71,7 +60,6 @@ made. Given the inability of workers easily to
 assess the magnitude of the available rents,
 firms are deterred from exploiting the bilateral
 monopoly relationship through the
-
 damage they might do to their "reputations"
 and the future increases in employment costs
 thereby imposed. Since reputation is a fragile
@@ -99,14 +87,12 @@ costs." They should not lead to a constantly
 renewed battle over the division of the rents.
 Frequent struggles would waste resources,
 possibly reduce productivity, and erode
-
 scarce reputation capital, thereby reducing
 the probability of long-tenure associations.
 These considerations argue that significant
 relative wage adjustments to meet perceived
 permanent changes in condition be an infrequent
 occurrence and not lightly changed
-
 once made.
 
 In sum, modern contract theory concludes
@@ -115,7 +101,6 @@ sticky in comparison to predictions from the
 auction market model, in the face of changes
 in conditions that are the realizations of
 known probability distributions-what I
-
 have loosely called temporary changes. But
 the existence of very lengthy job tenures and
 the large gains from continuity suggest that

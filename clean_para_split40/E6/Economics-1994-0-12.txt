@@ -1,8 +1,6 @@
 IV. Why Is the Glass Half-Empty?
-
 Economists have not been very successful
 in explaining what has happened to the
-
 economy during the last two decades, nor
 have they been able to agree on what should
 be done about it. I will argue that data and
@@ -10,13 +8,11 @@ measurement difficulties may in fact be a
 major source of this failure. This point will
 be made not to provide us with an alibi, but
 rather to temper the pretentiousness of
-
 some of our pronouncements and to urge us
 toward the more mundane task of observation
 and measurement.
 
 Why don't we know more after all these
-
 years? Our data have always been less than
 perfect. What is it about the recent situation
 that has made matters worse?
@@ -30,38 +26,30 @@ a large agricultural sector and a growing
 manufacturing sector. Even then, a number
 of compromises had to be made to get measurement
 off the ground. In large sectors of
-
 the economy, such as construction and most
 of the services, government, and other public
 institutions, there were no real output
-
 measures or relevant price deflators. Imagine
 a "degrees of measurability" scale, with
 wheat production at one end and lawyer
-
 services at the other. One can draw a rough
 dividing line on this scale between what I
 shall call "reasonably measurable" sectors
 and the rest, where the situation is not
 much better today than it was at the beginning
 of the national income accounts. Table
-
 2 shows the distribution of nominal GDP by
 major industrial sector. In the early postWorld
 War II period, the situation was not
-
 all that bad: about half of the overall economy
 was "measurable" in this sense. By
-
 1990, however, the fraction of the economy
 for which the productivity numbers are half
 reasonable had fallen to below one-third.
 Figure 6 tells the same story with employment
 numbers. Measurement problems have
-
 indeed become worse. Our ability to interpret
 changes in aggregate total factor productivity
 has declined, and major portions
-
 of actual technical change have eluded our
 measurement framework entirely.15

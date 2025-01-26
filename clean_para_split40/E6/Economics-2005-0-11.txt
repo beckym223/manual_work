@@ -16,7 +16,6 @@ Improve the Available Tradeoff.-Social insur-
 ance programs generally involve a tradeoff of
 protection and distortion. Social insurance programs
 protect individuals against undesirably
-
 low levels of consumption during old age, spells
 of unemployment, or when hit by large medical
 bills. They also protect individuals from the
@@ -42,7 +41,6 @@ the unemployed to maintain consumption but
 also encourages longer spells of unemployment
 and the choice of jobs that have a greater likelihood
 of leading to a layoff. Low co-payments
-
 in health insurance reduce the risk of foregoing
 needed care or suffering a major drop in other
 consumption, but they also lead to an increased
@@ -59,7 +57,6 @@ of social insurance should, therefore, generally
 be to prevent catastrophic losses: poverty in old
 age, long-term loss of income when unemployed,
 very expensive out-of-pocket medical
-
 costs, and the consequences of permanent
 disability. More generally, at the optimum,
 the marginal value of additional protection
@@ -67,7 +64,6 @@ should just equal the marginal cost of the
 distortion. Economists can help the policy
 process by evaluating the protection and distortion
 created by different changes in program
-
 design.
 
 Useful economic analysis can go beyond selecting
@@ -79,22 +75,18 @@ that I describe later in the paper would achieve
 that improvement.
 
 Redesigning Programs to Keep Pace with
-
 Changing Conditions.--Three important changes
 that should influence the design of our social insurance
 programs have occurred since those
-
 programs began: a changed economy, new technology,
 and a different understanding of the effect
 of government programs on individual behavior.
 The Social Security and unemployment insurance
 programs were created during the depression
 of the 1930s when individual savings
-
 had been destroyed by widespread bank failures
 and when many individuals had been unemployed
 for a year or more because of a lack of
-
 aggregate demand. Keynesian economists in the
 1940s like Harvard's Seymour Harris praised
 the unfunded character of the new Social Security

@@ -1,37 +1,27 @@
 process of growth. Saving is an interesting
 topic in its own right, but the more
-
 ''open economy" is the situation being
-
 studied, the less saving has to do with
-
 investment. Saving takes on great importance
 in closed-economy models focused
-
 on aggregate growth, in which
 
 case it is equal to investment. It gets to
 be almost meaningless as one focuses on
-
 the growth of cities and regions, or on
-
 firms and industries.
 
 (iii) The importance of viewing the residual
 as an umbrella covering real cost reductions
 of all kinds, and of recognizing that
-
 we are closer to home thinking that RCR
-
 takes 1001 forms than that it can be well
 represented by one or two or three
-
 aggregate-style variables.
 
 (b) In principle, the accumulation of human
 capital by the laborforce should be represented
 in the labor contribution of the
-
 growth equation, or in a bifurcation of this
 contribution into one due to raw labor, the
 other to human capital. It is in a term like
@@ -41,9 +31,7 @@ we capture here the higher wages that are the
 fruits of investment in education and training,
 which are the benefits that the workers themselves
 perceive. These should be kept separate
-
 from any externalities education might
-
 have.
 
 It is important to try to keep this internalized
@@ -66,7 +54,6 @@ which have high concentrations of human capital?
 And if this is a fruitful trail to pursue, at
 what type and size of geographical units do
 these externalities typically work?
-
 (d) The same goes for economies of scale.
 We should not be satisfied with vague attributions
 of economies of scale, say, at the level
@@ -87,35 +74,28 @@ they operate, and of the direction (up or down)
 in which output is moving.
 
 (e) Perhaps most important of all, we
-
 should really try to take full advantage of evidence
 at the firm level. I think particularly of
 identifying considerable numbers of outstanding
 cases of TFP improvements and TFP decline,
 and studying them one by one to try to
-
 ferret out the sources of their big real cost reductions
 and real cost increases. You can be
-
 pretty sure, if there have been big real cost
 reductions in a firm, some people in that firm
 have a pretty good idea of where those reductions
 came from and how they were accomplished.
 By capturing this grassroots evidence,
-
 we can put some added discipline into our ruminations
 about the nature of TFP at the aggregate
 level. We must follow up on the sort
-
 of work pioneered by Jacob Schmookler
-
 (1966) and Edwin Mansfield (1995). In general,
 our aggregate story should be compatible
 with, and comfortably contain, what we see at
 the grassroots level. In particular our overall
 picture of TFP improvement should comfortably
 accept the overwhelming evidence of the
-
 "'mushroomss" rather than "yeast" nature of
 the process.
 

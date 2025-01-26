@@ -4,7 +4,6 @@ Security displacing transfers to the elderly from
 the government (through the program for the
 poor elderly-Old Age Assistance, which became
 SSI) and from individuals (through cash
-
 gifts and shared housing).
 
 While the impact on national capital would
@@ -13,7 +12,6 @@ answer it well, it is important to recognize the
 additional issues needed for a normative analysis.
 The goal of Social Security's early generosity
 was to raise the consumption of early
-
 cohorts of elderly. Apart from business-cycle
 effects, higher consumption implies lower
 savings-implying that lower national capital
@@ -21,7 +19,6 @@ was required by the goal, not an unintended side
 effect. A normative evaluation of the impact of
 the redistribution to early cohorts would consider
 how much their wages were lower than
-
 those of later cohorts and how little they had
 saved, as well as the return on capital. It
 would also consider the pattern of transfers
@@ -63,12 +60,10 @@ measure is not exact since cohorts over 55
 would be affected by any payroll tax change and
 slightly younger cohorts are likely to have limited
 changes in benefits as we phase in any
-
 benefit reductions that are part of a reform. An
 ideal definition of this constraint would conform
 to a theory of political constraints on reform
 coming from past generosity. We do not
-
 have a full theory, but this gives a reasonable
 sense of the size of the legacy that needs to be
 financed from future cohorts.
@@ -82,7 +77,6 @@ that are not there across cohorts. Spreading the
 cost of that early generosity across cohorts is
 inherent in any plan that restores actuarial balance.
 While only an approximation to the real
-
 constraint, the number is roughly $11.5 trillion
 (a bit more than one year's GDP). If we were to
 go to full funding, then this is roughly the cost

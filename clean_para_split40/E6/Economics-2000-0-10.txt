@@ -1,11 +1,9 @@
 low-income economies the crude death rate declined
 31.5 percent while the crude birth rate
-
 declined 14.4 percent (China excluded) (World
 Bank, 1980). The annual population growth rate
 for the same countries was 2.5 percent for
 1960-1970 and 2.2 percent for 1970-1978
-
 (World Bank, 1980).
 
 Why has fertility declined as real per capita
@@ -15,7 +13,6 @@ children have a positive benefit in increasing the
 level of income of the parents as well as providing
 security against illness and old age. Children,
 and their growth and development, enter
-
 into the utility functions of parents positively.
 Parents realize satisfaction both in terms of the
 quantity and quality of their children (Becker,
@@ -24,7 +21,6 @@ structure of the benefits from children change.
 The direct contribution of children to the income
 and material welfare of their parents diminishes
 and in urban communities becomes
-
 negative; even in agricultural communities
 where incomes and the level of mechanization
 are high, children make modest contributions to
@@ -36,7 +32,6 @@ as their incomes increase and the emphasis
 on the quality is reflected in increased
 investment in their children. Children have increasingly
 become a consumption good as real
-
 per capita incomes have increased. Thus the
 desired number of children is negatively related
 to real income and as contraceptive knowledge
@@ -57,10 +52,8 @@ for Europe (excluding Russia) was 0.55 percent;
 from 1850 to 1880, 0.60, and for the last two
 decades, 0.80 percent. The annual rate of increase
 for the developing regions for 1950 to
-
 1995 was 2.0 percent. In 1900 Europe's population
 (excluding Russia) was 285 million. If
-
 Europe's population during the nineteenth century
 had grown at the developing countries' rate
 from 1950 to 1995, its population would have
@@ -70,7 +63,6 @@ accommodated such a large population in 1900
 without a significant reduction in its real per
 capita income at the end of the century? Obviously
 we will never know, but it seems very
-
 unlikely that it could have unless many of the
 technological developments of the twentieth
 century had occurred much, much earlier. While
@@ -100,7 +92,6 @@ mortality rates in urban areas exceeded the rates
 in rural areas by 30 to 60 percent. In Sweden in
 the early nineteenth century infant deaths accounted
 for approximately 25 percent of all
-
 deaths (Keyfitz and Flieger, 1968). But the difference
 in mortality was not confined to infants;
 life expectancy at age 15 in Sweden was more

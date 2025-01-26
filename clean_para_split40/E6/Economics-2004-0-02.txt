@@ -6,7 +6,6 @@ I frequently find economists who express a
 view of the system that is very far from mine.
 For example, many young economists and economics
 students say that they expect to get no
-
 benefits at all from Social Security. This expectation
 does not seem sensible to me. If there is
 no legislation changing Social Security, trust
@@ -22,12 +21,10 @@ time sufficient to pay roughly three-quarters of
 the benefits scheduled in current law. The estimate
 for the end of the 75-year projection period
 shows enough revenue to pay roughly
-
 two-thirds of scheduled benefits. With initial
 benefits indexed to earnings, average real benefits
 would be higher than today, although replacement
 rates would only be roughly 60
-
 percent of current levels for the medium
 worker. This projection is a far cry from no
 benefits.
@@ -37,7 +34,6 @@ before the trust fund is exhausted, both lowering
 t Presidential Address delivered at the one hundred fifteenth
 meeting of the American Economic Association,
 January 4, 2004, San Diego, CA.
-
 * Department of Economics, E52-344, Massachusetts In-
 stitute of Technology, 50 Memorial Drive, Cambridge, MA
 02142 (e-mail: pdiamond@MIT.EDU). I am grateful to
@@ -55,7 +51,6 @@ Grant No. SES0239380. The address draws heavily on the
 thinking behind and the content of my book with Peter R.
 Orszag (2004). I have greatly enjoyed and profited from the
 collaboration on this and earlier work.
-
 benefits relative to those scheduled under current
 law and providing additional revenues to
 finance higher benefits than are payable after

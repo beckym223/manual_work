@@ -1,8 +1,6 @@
 However, this very simple world has a
-
 central bank, or its ruler has a printing press.
 When bank loans or printing press money
-
 are used to finance a public purpose (such as
 an increment in the Prince's consumption)
 goods prices are bid up. However, each yeoman
@@ -25,7 +23,6 @@ GNP increases. Soon, however, each learns
 that there has been no increase in his real
 price, and finds only the sour taste of inflation.
 The boom ends. It can be repeated as
-
 soon as the short memories of all citizens are
 erased. 14
 
@@ -40,12 +37,10 @@ and prices for labor. Increased production
 now requires increased inputs not only from
 proprietors, but also from their workers. Under
 standard price theory, in order for
-
 employers to wish to hire more labor services,
 they must believe that product prices have
 risen relative to wages; but in order for existing
 workers to respond to inflation by
-
 working longer hours, and other potential
 workers to enter the labor force, requires
 that they interpret what happens as a rise in
@@ -54,16 +49,13 @@ enough trick to be able to fool each yeoman
 about his own real price; but it is an even
 nicer trick for an inflation to fool both employers
 and workers- in opposite directions
-
 -about the movement of the real wage
-
 paid by one and received by the other!'5
 I suggest that more may be learned about
 cycles from Knut Wicksell's discussion of
 business fluctuations, seventy-five years earlier.
 Wicksell understood that, even in a similarly
 simple world, there needed to be not
-
 merely one kind of price level-nor merely
 two kinds-but actually three: price levels
 for goods, for labor, and for loans. And
@@ -72,9 +64,7 @@ printing press, there were competitive banks,
 aggressively lending at a flexible price to
 businesses. Given a plausible (although incompletely
 specified) lag structure, Wicksell
-
 showed that banks' competition in money
-
 creation might initially reduce the price for
 loans; and their continuing money creation
 might keep it depressed for a time. Through
@@ -91,16 +81,12 @@ a rather different source of instability. His
 bourgeois prince- the innovating entrepreneur-
 driven by new technological, managerial,
 or marketing ideas that promised
-
 abnormal profits, repeatedly upset the general
 equilibrium: accommodated, of course,
-
 by an elastic banking system. To be sure, his
 entrepreneurial activities-his "creative destruction"
 -would soon generate an inflation
-
 that had to subside before the next
-
 wave of innovation might again disturb the
 economy.
 

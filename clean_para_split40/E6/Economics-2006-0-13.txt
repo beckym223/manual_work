@@ -13,19 +13,16 @@ cause we are adapted to trade, and because we
 are good at copying successful behavior. Nevertheless,
 such processing deficiencies as disjunction
 and innumeracy do confuse choice.
-
 Ellen Peters at Decision Research studies the
 ability of people to understand and logically
 relate numbers, an essential skill in trading that
 involves prices or barter terms, or more complex
 valuations requiring risk assessment or discounting.
 Even if individuals do not consciously
-
 "run the numbers" to determine choices, they
 still have to form perceptions and make judgments
 based on numerical information. The behavioral
 evidence is that innumeracy rates are
-
 high and significantly distort decisions. Peters
 and her coauthors (Peters et al., forthcoming)
 find that half the population is unable to read
@@ -37,7 +34,6 @@ choices when probabilities are presented as
 number of successes out of a hundred, number
 of failures out of a hundred, or as percent successes.
 In one telling experiment, subjects are
-
 offered a prize if they draw a red jellybean from
 their choice of bowls. Bowl A contains 9 red
 and 91 white beans, while bowl B contains 1 red
@@ -61,7 +57,6 @@ society's interest to take a protective interest in
 this segment of the population, building in information
 and decision-making aids, and protection
 from market wolves, which give these
-
 people a chance of success, thereby increasing
 the fairness of these mechanisms and support
 for them. This argument becomes stronger
@@ -72,11 +67,9 @@ self-interest.
 V. Social Risk
 
 In risk perception, humans act less as
-
 individuals and more as social beings who
 have internalized social pressures and delegated
 their decision-making processes to
-
 institutions. They manage as well as they
 do, without knowing the risks they face,
 by following social rules on what to ignore.
@@ -90,11 +83,9 @@ Man is a social animal, identified with family
 and kin, and with troops, tribes, clubs, ethnicities,
 and nationalities. This has several consequences
 for economic choice behavior. First,
-
 individuals may look to their social networks
 for information. Second, they may look to social
 networks for approval, and use social accountability
 to limit choice. Social norms can be
-
 comforting, limiting options and regrets, but
 they can also lead to embarrassment, ostracism,

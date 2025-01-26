@@ -3,31 +3,24 @@ of the current fiscal crisis. I believe that,
 when the nation gets around to eliminating
 or substantially reducing the federal deficit,
 the income tax should play an important
-
 role.4
 
 Distribution of Income and Tax Burdens
-
 It is well known that, after several decades
 of relative stability, the U.S. pre-tax income
 distribution has become much more unequal
 in the last ten years. Official statistics understate
 the increasing inequality. At the same
-
 time, the tax system as a whole-and the
-
 income tax in particular-has become less
 equalizing, so that the trend toward inequality
 is even more pronounced after tax than
-
 before tax.
 
 Distribution of Income. The longest continuous
 and comparable income distribution
-
 series available to us comes from the annual
 Current Population Survey (CPS) of the
-
 Census Bureau. The figures show that the
 share of total income received by the highest
 fifth of the nation's families fell from 1948 to
@@ -40,22 +33,17 @@ in 1987 had not quite recovered to the 1952
 high (Table 1).
 
 It is well known that very high incomes
-
 are virtually unrepresented in the CPS distribution
 and that official census statistics
-
 greatly understate income inequality in any
 year. What is not recognized is that the CPS
 data greatly understate the increase in inequality
 that has occurred during the 1980s
-
 because very high incomes have been increasing
 much faster than the incomes in the
-
 lower part of the distribution.5 This can be
 TABLE 1-BEFORE-TAX INCOME SHARES, CENSUS DATA,
 SELECTED YEARS, 1948-1988, PERCENT.
-
 Top 5 percent Top 20 percent
 
 Year of families of families
@@ -89,7 +77,6 @@ seen by examining changes in the shares of
 the top income recipients reported in the
 annual Statistics of Income published by the
 Internal Revenue Service (Table 2).6
-
 Like the CPS data, the tax data show that
 the very rich in the United States-defined
 as either the top 1 percent or the top 5
@@ -101,7 +88,6 @@ been rising in the 1980s. From 1952 to 1981,
 the share of the top 1 percent of the tax
 units remained in a very narrow range-between
 8 and 9 percent of the total income
-
 reported on tax returns. Since 1981, their
 share has skyrocketed to 14.7 percent in
 1986. The same trends are shown by the top

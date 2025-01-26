@@ -1,20 +1,15 @@
 Four decades ago, in a brilliant review of
 Burns and Mitchell's classic work on business
 cycles, Tjalling Koopmans (1947)
-
 sounded a warning against "Measurement
-
 Without Theory." Without theoretical hypotheses
 and constructs to orient investigation
-
 and interpret findings, economists risk
-
 the fate of the blind man studying the elephant.
 
 
 Recent excursions in vector autoregressions
 possibly aside, modem econometrics
-
 has generally followed the path of specifying
 theoretical relations that make sense in terms
 of economic behavior and using empirical
@@ -23,7 +18,6 @@ to estimate the parameters of those relations.
 A critical problem, only one surface of which
 is touched by Robert Lucas' famous "Critique"
 (1976, 1981a), is that key arguments
-
 in most functions are expected values-or
 worse, probability distributions-of future
 variables. These are generally not observed
@@ -42,13 +36,11 @@ cannot, after all, even be sure of confirming
 the "law of demand," that lower prices will
 increase quantities demanded. They probably
 will not, if they are associated with
-
 expectations of still lower prices in the
 future.
 
 Similar critical problems emerged in estimation
 of key relations in macroeconomics.
-
 Will an increase in the quantity of money
 reduce long-term interest rates? Not, we are
 told, if it generates an increased expectation
@@ -64,14 +56,11 @@ relations apply when we try to forecast the
 results of a proposed easing of monetary
 policy? And is the assumption that expectations
 are "rational" of much help if they are
-
 frequently, as John M. Keynes argued, built
 on such uncertain knowledge as to be a
-
 fragile phenomenon of social interaction?
 The problem of bringing in critical expectational
 variables is brought front and center
-
 in Franco Modigliani's life cycle (1954) and
 Milton Friedman's permanent income (1957)
 versions of Keynes' consumption function.
@@ -79,11 +68,9 @@ Serious problems remain here in considerable
 part because of our difficulties predicting
 agents' reactions to uncertainty regarding
 not only future income but expected
-
 length of life. We thus lack two parameters
 defining the resources per unit of time available
 for lifetime or permanent consumption.
-
 
 
 Difficulties are most excruciating with regard

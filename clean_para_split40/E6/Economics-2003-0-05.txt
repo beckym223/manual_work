@@ -7,7 +7,6 @@ chosen to solve
 (3) E: E t ((1 + A)ct) lMany
 
 questions have been raised about this
-
 estimate, and subsequent research on this issue
 has pursued many of them, taking the discussion
 deep into new scientific territory. In the
@@ -15,7 +14,6 @@ next four sections, I will review some of the
 main findings.
 
 III. Removeable Variance: Two Estimates
-
 (Aegt)l -Y
 
 t=0
@@ -30,7 +28,6 @@ A 2 y r
 This compensation parameter A-the welfare
 gain from eliminating consumption riskdepends,
 naturally enough, on the amount of
-
 risk that is present, cr2, and the aversion people
 have for this risk, y.
 
@@ -41,7 +38,6 @@ consumers in general. In this case, to estimate A
 we need estimates of the variance o02 of the log
 of consumption about its trend, and of the coefficient
 y of risk aversion. Using annual U.S.
-
 data for the period 1947-2001, the standard
 deviation of the log of real, per capita consumption
 about a linear trend is 0.032.5 Estimates of the
@@ -61,20 +57,17 @@ the gain from en
 ing parameter 400 is 0.022.
 
 Even if we do not know exactly how much
-
 consumption risk would be removed by an optimal
 monetary and fiscal policy, it is clear that
 it would fall far short of the removal of all
 variability. The major empirical finding in macroeconomics
 over the past 25 years was the
-
 demonstration by Finn E. Kydland and Prescott
 (1982), replicated and refined by Gary D.
 Hansen (1985) and by many others since then,
 that technology shocks measured by the method
 of Robert M. Solow (1957) can induce a reasonably
 parameterized stochastic growth model
-
 to exhibit nearly the same variability in production
 and consumption as we see in postwar U.S.
 time series. In the basic growth model, equilibrium
@@ -82,23 +75,18 @@ and optimal growth are equivalent, so that
 if technology shocks are all there is to postwar
 business cycles, resources are already being allocated
 efficiently and a variance-reducing
-
 monetary-fiscal policy would be welfare reducing.
 Even if the equilibrium is inefficient, due to
 distorting taxes, missing markets or the like, in
 the face of unavoidable technology and preference
 shocks an optimal monetary and fiscal
-
 policy will surely be associated with a positive
 level of consumption variance. We need to estimate
 the size of that part and remove it from
 the estimate of ao used in (4).
-
 Matthew D. Shapiro and Mark W. Watson's
-
 (1988) study is one of several relatively atheoretical
 attempts to break down the variance of
-
 production and other variables into a fraction
 due to what these authors call "demand" shocks
 (and which I will call "nominal" shocks) and
@@ -109,6 +97,5 @@ serially independent shocks. The observables
 include first differences of a measure of hours
 worked, a log real GDP measure, and the corresponding
 implicit price deflator. To these
-
 three rates of change are added an ex post real
 interest rate (the t

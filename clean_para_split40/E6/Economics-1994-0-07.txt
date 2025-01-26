@@ -2,9 +2,7 @@ TABLE 1-INDUSTRY TFP GROWrH REGRESSIONS: COEFFICIENTS OF THE R&D-SALES
 RATIO BY PERIOD, THREE-DIGIT SIC LEVEL (N = 143 OR 142)
 Row Period With computers Without computers
 1 1958-1973 0.332 (0.066) 0.317 (0.066)
-
 2 1973-1989 0.357 (0.072) 0.134 (0.059)
-
 3a 1978-1989 0.300 (0.073) 0.115 (0.062)
 3b 1978-1989 "revised" 0.461 (0.070) 0.348 (0.070)
 Notes: The equations include also dlog(energy/capital) as an additional utilization
@@ -16,36 +14,26 @@ electronic components and drugs (computers = SIC 357).
 R&D in the 1980's (Michael Jensen, 1993)
 and the market's view of current R&D investments
 (Bronwyn Hall and Robert Hall,
-
 1993; B. Hall, 1993).
 
 My own recent foray into this type of
-
 analysis of industry data at the three-digit
 SIC level is summarized in Table 1.6 It
-
 reports estimates from regressions of growth
 rates in total factor productivity (TFP)
 on the rate of investment in R&D (the
-
 R&D-sales ratio), where the estimated coefficient
 can be interpreted as the excess
-
 gross rate of return to R&D (Griliches,
-
 1979). The earlier 1958-1973 period yields
 an estimate on the order of 0.33, while the
 estimate for the later 1973-1989 period even
 rises a bit, to 0.36. So far, so good! But
 when one excludes the outlier computer
-
 industry (see Fig. 2) the estimated coefficient
 falls from 0.36 to 0.13 for 1973-1989
-
 and even lower for 1979-1989. Only one
-
 observation out of 143 does this!7
-
 These results raise a major data conundrum:
 is it right to treat the computer inComputers
 
@@ -63,14 +51,11 @@ t~~~~~~ 4,
 -0.05
 
 0.000 0.025 0.050 0.075 0.100 0.125
-
 R&D-Sales Ratio in 1984
 
 FIGURE 2. TOTAL-FACTOR-PRODUCTIVITY GROWTH
 (PER ANNUM) AND RESEARCH INTENSITY
-
 IN U.S. MANUFACTURING, THREE-DIGIT
-
 SIC LEVEL, 1978-1989
 
 dustry as an outlier and exclude it from
@@ -78,16 +63,13 @@ such calculations just because the productivity
 measure may be better there? It is quite
 possible that if other technologically advanced
 industries (such as instruments,
-
 communications equipment, and pharmaceuticals)
 had their price indexes adjusted
-
 in a similar fashion, Figure 2 would look
 much better, with the computer industry not
 being as much of an outlier and with the
 whole period showing much higher (social)
 returns to R&D. That this is indeed the
-
 case can be seen in Figure 3, where only
 three such adjustments are made, but be-
 6The total-factor-productivity numbers come from

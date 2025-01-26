@@ -2,13 +2,11 @@ difficulty choosing among plans to fine-tune
 their prescription drug coverage, and do not
 seem to be informed about or attuned to the
 insurance feature of Part D plans.
-
 VII. Conclusions
 
 We conclude from our survey that significant
 fractions of the Medicare population, particularly
 among those with low SES, bad health,
-
 and low cognitive ability, are poorly informed
 about the Part D prescription drug program, and
 risk making poor plan choices. Most of the
@@ -33,12 +31,10 @@ churning and grumbling in this market in
 the future.
 
 How could the Part D market be managed
-
 to overcome consumers' lack of information,
 behavioral aversion to market choices, and
 procrastination when faced with ambiguous alternatives?
 First, CMS should pursue an aggressive
-
 marketing program to find the vulnerable
 who are insufficiently informed to act in their
 self-interest, sell the neglected and undervalued
@@ -47,11 +43,9 @@ coax consumers into making sensible plan
 choices. This could include giving insurers incentives
 to scour for vulnerable seniors. Marketing
 of Part D should benefit consumers as
-
 long as it is not done deceptively. Policies that
 have proven effective in encouraging early retirement
 in downsizing firms may also work in
-
 this market. The most effective is "default in"
 rather than "default out"-all individuals are
 assigned a plan unless they choose a plan them-
@@ -61,7 +55,6 @@ step decision forms that require seniors to
 choose a plan, opt out, or let Medicare or an
 ombudsman make a choice for them; one suggestion
 is that these be called Plan D-EZ to
-
 match simplified IRS forms. Another marketing
 method that works for retirement is the use of
 windows with attractive incentives. This could
@@ -80,21 +73,18 @@ then all seniors should enroll in either the
 basic or a more comprehensive plan, assuring
 affordable medications and catastrophic coverage
 for the entire Medicare population.
-
 The new Medicare Part D prescription drug
 insurance market illustrates that leaving a large
 block of uninformed consumers to "sink or
 swim," and relying on their self-interest to
 achieve satisfactory outcomes, can be unrealistic.
 To make the Part D market work, in the
-
 sense that it provides choices that consumers
 want, and achieves the efficiencies it seeks,
 CMS will have to make a diligent effort to
 manage the market, and to reach all consumers
 and provide them with information and assistance
 in making wise choices. What the Part D
-
 market, and other market privatization initiatives,
 need is a component of Thaler and Sunstein'
 s (2003) libertarian paternalism, in which

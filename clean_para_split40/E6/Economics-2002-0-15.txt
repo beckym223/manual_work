@@ -7,14 +7,12 @@ As>_ ~~~~U(Y-pi,ZI)
 Y1 YO Yk Y2 Income
 
 FIGURE 4. MANUFACTURED INEQUALITY
-
 between other goods and housing, those whose
 incomes are below Yk derive higher utility from
 living in the low-quality house in a low-amenity
 location and those whose incomes are above Yk
 derive higher utility from living in the highquality
 house in a high-amenity location. But
-
 consumers with incomes between YI and Y2 can
 improve their expected utility by entering into
 gambles, which would offer them expected utility
@@ -33,7 +31,6 @@ utility obtained at point D.
 
 Occupational lotteries of this sort manufacture
 inequality but make the individuals who
-
 enter the occupation better off. Because the
 variance in outcomes gives individuals a shot at
 a much better standard of living, they willingly
@@ -42,7 +39,6 @@ inequality. Going to a high-stakes law firm in
 New York may turn out to be a good option,
 offering a partnership, high income, and an entertaining
 city in which to spend income. Those
-
 who lose the law-firm lottery accept jobs as
 corporate counsel in Kankakee, buy a less expensive
 house, and enjoy fewer amenities. Although
@@ -51,10 +47,8 @@ it, the existence of the risky occupation makes
 all individuals who enter better off in an expected
 utility sense, primarily because the inequality
 manufactured by this occupation
-
 allows different combinations of income and
 amenities that are complementary.
-
 VI. Conclusion
 
 Despite the importance of diversity in economic
@@ -65,14 +59,11 @@ patterns of tastes and technologies that
 translate into supply of and demand for an enormous
 variety of products and factors of production.
 Markets accommodate diversity by
-
 establishing values that make differentiated
 items relatively close substitutes at the margin.
 The markets match buyers and sellers in
-
 marriage-type equilibria where agents sort according
 to their talents in response to market
-
 prices. To bring about the appropriate sorting,
 markets must create inequality in values. Thus, in
 labor markets, large differences in earnings can
@@ -84,7 +75,6 @@ occupational choice, and the differentiation of
 products, risk analysis of environmental safety
 concerns and price index problems are analyzable
 using standard economic approaches to
-
 diversity. In such problems, sorting is key, so
 market valuations understate the average individual'
 s distaste for disagreeable attributes and
@@ -97,7 +87,6 @@ increases in real income. Thus, price might appear
 to rise because richer people buy new varieties of
 a commodity that has superior attributes that are
 not captured in standard measurement.
-
 Although tastes may differ, it is the reservation
 prices themselves and not the causes of the
 differences that have consequence for economic

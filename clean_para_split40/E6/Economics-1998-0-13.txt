@@ -16,7 +16,6 @@ Growth 0
 0 .2 .4 .6 .8 1
 
 Percentile of Initial Value Added
-
 Mexican Manufacturing: Cement [79 Establishments]
 .06 - Cum.
 
@@ -33,7 +32,6 @@ Growth .0159
 -.06
 
 Percentile of Initial Value Added
-
 Mexdcan Manufacturing: Other Wood Prods. [43 Establishments]
 I I I I ~ ~~~~~~~ I
 
@@ -44,32 +42,25 @@ of TFP.03 - .0179
 Growth - = =. . 0026
 
 O- ~ ~ ~ ~ ~~ ___________ .002
-
 -.03
 
 -.06 5A. T T L F W N E A R 8
 
 6 .2 ~Percentile of InitalIau AddA
-
 FIGURE, 5A. TFP GROWTH PROFILES FOR FAST-GROWING BRANCHES (MEXICAN MANUFACTURING, 1984- 1994)
 economy-rampant overshooting of sunrisesunset
 diagrams, great influence of firms with
-
 negative TFP growth in determining the TFP
 outcome for an industry, and a small or moderate
 fraction of firms accounting for 100 percent
 of the TFP growth of an industry (when
-
 that growth is positive), with the complementary
 fraction being winners and losers whose
-
 efforts end up just offsetting each other. It remains
 to try to give some interpretation to
-
 those results.
 
 III. "Just Errors" or "It's a Jungle
-
 Out There?"
 
 The first question that will enter the mind

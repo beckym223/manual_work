@@ -2,9 +2,7 @@ Barbara and Ann both think that their employer
 should give them a nominal wage increase.
 Another study, with a different form of questionnaire,
 independently found a similar response.
-
 Robert Shiller found that 49 percent of
-
 a sample of the general public either fully or
 weakly agreed with the following statement: "If
 my pay went up, I would feel more satisfaction
@@ -32,7 +30,6 @@ the long-run inflation-unemployment trade-off
 to be downward sloping. With such a norm, at
 higher levels of inflation workers will not experience
 disappointment from receiving lower
-
 nominal wage increases than they think they
 should receive; therefore, at higher inflation,
 ceteris paribus, wage bargains will result in
@@ -45,7 +42,6 @@ whether workers have norms regarding the nominal
 wage increases they think they should receive.
 High Inflation.-The opinions expressed regarding
 Barbara and Ann, and also the opinions
-
 of Shiller's respondents, suggest that the longrun
 trade-off between inflation and employment
 is upward sloping. These answers were elicited
@@ -64,12 +60,10 @@ will then necessitate higher real wages (to maintain
 the same level of satisfaction) at higher
 levels of inflation. The long-run inflationemployment
 relation will then be downward
-
 sloping. Such behavior gives a much stronger
 rationale, even than current rational-expectations
 credibility models (Barro and Gordon 1983; Kenneth
 Rogoff 1987), why central banks should
-
 maintain price stability. Failure to appreciate this
 realistic possibility again may be another case in
 which the absence of norms from utility functions

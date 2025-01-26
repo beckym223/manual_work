@@ -4,7 +4,6 @@ would be more severe in the absence of a program.
 These different shortcomings in preparation
 for retirement relate to different issuesinadequate
 overall provision for retirement
-
 relates to having a mandatory program, inadequate
 annuitization relates to providing benefits
 in annuitized form, inadequate protection of
@@ -18,13 +17,10 @@ Security.
 
 But first a word on the Arrow-Debreu framework.
 I have referred to it above as a way to
-
 describe the properties of a Pareto-optimal allocation.
 I think that when economists quickly
-
 consider economic issues outside their own subdisciplines,
 they frequently think implicitly in
-
 terms of the Arrow-Debreu model with its connection
 to first-best outcomes (also incorporating
 overlapping generations for some issues). In
@@ -34,7 +30,6 @@ that is more complex and are more inclined to
 do second-best analyses, which are more directly
 policy-relevant. As in other subdisciplines,
 analysts of Social Security are well
-
 aware of the issues I have identified, although
 the issues are not present in all analyses by any
 means. The Arrow-Debreu model tends to start
@@ -58,7 +53,6 @@ Interest in the description of behavior that
 deviates from that in the Arrow-Debreu model
 has grown enormously lately. Long before behavioral
 economics became a hot topic, public
-
 policies reflected recognition that the model of
 homo economicus, while very useful, is not a
 fully adequate basis for the design of all policies.
@@ -67,21 +61,17 @@ a "cooling-off' period during which contracts
 with door-to-door salespeople could be cancelled
 without penalty precisely because of deviations
 from homo economicus. And social
-
 security discussions have long recognized inadequate
 savings for retirement by many workers
-
 and inadequate annuitization by most. In addition,
 social security systems have been concerned
 about protection of the family and not
-
 just the worker.9 Also possibly relevant, but not
 much studied, is whether significant numbers of
 workers retire too soon for their own good.
 These issues of poor choices in the presence of
 available opportunities are in addition to insurance
 market limitations that come from
-
 market incompleteness and from asymmetric
 information.
 
@@ -103,7 +93,6 @@ normative criteria for evaluating consumption
 at different times. The vocabulary of someone
 being different selves at different times is suggestive,
 although I am concerned that taking it
-
 too literally, failing to recognize the tight links
 between the different selves who are the same
 person at somewhat different ages, is failing to

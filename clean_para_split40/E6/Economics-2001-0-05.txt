@@ -15,16 +15,13 @@ the development of information technology.
 Kilby was awarded the Nobel Prize in Physics
 in 2000 for discovery of the integrated circuit;
 regrettably, Noyce died in 1990.6
-
 A. Moore's Law
 
 In 1965 Gordon E. Moore, then Research
-
 Director at Fairchild Semiconductor, made a
 prescient observation, later known as Moore's
 Law.7 Plotting data on memory chips, he observed
 that each new chip contained roughly
-
 twice as many transistors as the previous chip
 and was released within 18-24 months of its
 predecessor. This implied exponential growth
@@ -33,19 +30,15 @@ Moore's prediction, made in the infancy of the
 semiconductor industry, has tracked chip capacity
 for 35 years. He recently extrapolated this
 trend for at least another decade.8
-
 In 1968 Moore and Noyce founded Intel Corporation
 to speed the commercialization of
-
 memory chips.9 Integrated circuits gave rise to
 microprocessors with functions that can be programmed
 by software, known as logic chips.
-
 Intel's first general purpose microprocessor was
 developed for a calculator produced by Busicom,
 a Japanese firm. Intel retained the intellectual
 property rights and released the device
-
 commercially in 1971.
 
 The rapidly rising trends in the capacity of
@@ -70,14 +63,12 @@ rate! Figure 1 gives semiconductor price indexes
 constructed by Bruce T. Grimm (1998) of the U.S.
 Bureau of Economic Analysis (BEA) and employed
 in the U.S. National Income and Product
-
 Accounts since 1996. These are divided between
 memory chips and logic chips. The underlying
 detail includes seven types of memory chips and
 two types of logic chips.
 
 Between 1974 and 1996 prices of memory
-
 chips decreased by a factor of 27,270 times or at
 40.9 percent per year, while the implicit deflator
 for the gross domestic product (GDP) increased
@@ -95,7 +86,6 @@ the decline of semiconductor prices in 1994 and
 more than 90 percent per year as the semiconductor
 industry shifted from a three-year product
 cycle to a greatly accelerated two-year
-
 cycle. This is reflected in the 2000 Update of
 the International Technology Road Map for
 Semiconductors,'0 prepared by a consortium of

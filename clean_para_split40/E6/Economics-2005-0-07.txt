@@ -4,7 +4,6 @@ you-go programs, means-tested programs, or a
 policy of doing nothing.
 
 There is an important political economy
-
 reason for economists to work on improving
 the design of social insurance programs rather
 than advocating means-tested programs for
@@ -22,15 +21,12 @@ social insurance by arguing that means-tested
 programs would be more efficient. If economists
 don't analyze the effects of social insurance
 programs and recommend rules that
-
 reflect good economics, the political process
 will inevitably produce inferior programs.
 III. Principles of Social Insurance
-
 Accepting that there is a reason for mandatory
 social insurance programs does not imply the appropriateness
 of the programs that we have inherited
-
 from the past. Today's Social Security and
 unemployment insurance were enacted nearly 70
 years ago. Economic conditions, administrative
@@ -58,7 +54,6 @@ should determine policy. You may or may not
 agree with them. Of course, you might agree
 with me about specific reforms even if you
 reject some or all of these principles.
-
 Permitting Individual Choice.-Individuals
 differ in their preferences. We do not all have
 the same risk aversion, the same time preference,
@@ -66,13 +61,11 @@ the same relative taste for goods and leisure.
 Letting individuals choose among options
 in a way that reflects their individual preferences
 should be an important aspect of social
-
 insurance design. For Milton Friedman, such
 freedom to choose is paramount. For me, it is
 important but not decisive. In cases where
 asymmetric information creates serious efficiency
 problems, I might restrict that choice.
-
 But I prefer to allow as much choice as possible.
 I think that allowing individuals to make their
 own choices is morally correct and generally
@@ -80,26 +73,22 @@ improves individual, and therefore social,
 well-being.
 
 But allowing choice means that programs
-
 should be designed so that choice enhances
 economic efficiency rather than creating deadweight
 losses. A good example of such a program
 redesign was the Social Security reform
-
 that introduced the actuarial adjustment for
 early and delayed retirement in a way that, in
 principle, will allow individuals to decide when
 they will start collecting benefits without changing
 the actuarial present value of their benefits.5
 Creating Program Transparency.--Social
-
 insurance programs involve complex rules
 about the benefits to be received, the taxes to be
 paid, and the link, if any, between them. Who
 among you is confident about even the most
 basic Social Security rules that determine benefits
 at retirement? If you are a man, what
-
 benefit would your wife receive if she collects
 on her own rather than as your spouse? How
 would that change if she earned more or worked
@@ -110,6 +99,5 @@ handbook.
 
 The complexity of the rules weakens the perceived
 link between the payroll taxes paid and
-
 SThis adjustment will provide actuarially equivalent
 benefits with a 3 percent real rate of return.

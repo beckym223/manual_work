@@ -3,7 +3,6 @@ THE AMERICAN ECONOMIC REVIEW
 simulations have assumed that younger workers
 perceive no increase in future benefits as a consequence
 of additional earnings. This leads to a
-
 big boost in apparent efficiency from a switch to
 individual accounts if it is also assumed that
 money going into individual accounts has no
@@ -24,7 +23,6 @@ which labor supply is affected by concern that
 there will be no benefits would be greatly modified
 by any reform that restored actuarial balance,
 not just one with individual accounts.
-
 Insofar as workers have high subjective discount
 rates, mandating savings in any form affects
 labor incentives and the exact link between
@@ -64,7 +62,6 @@ intervention that would prevent Pareto optimality
 in an economy that would otherwise satisfy
 the conditions of the Fundamental Welfare Theorem.
 To examine this meaning of distort (as
-
 opposed to merely change) we need to consider
 the impact of Social Security on the marginal
 return to private savings (the size of a tax

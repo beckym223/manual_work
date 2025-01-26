@@ -3,20 +3,15 @@ of two linear constraints: the available savings
 and the available foreign exchange. There
 were thus two "gaps" -between savings and
 investment, and between demand for, and
-
 supply of, foreign exchange. Growth was
-
 constrained either by savings or by foreign
 exchange availability, and the model demonstrated
 the high potential productivity of foreign
 aid (in providing foreign exchange),
-
 enabling otherwise redundant domestic savings
 to be used in capital formation. The
-
 model, reflecting the views of the day, had little
 role for the price mechanism.26
-
 An example of an analytical effort to clarify
 circumstances under which one of the stylized
 facts could be realized was Bhagwati's ( 1958)
@@ -25,25 +20,19 @@ of the possibility of "immiserizing growth,"
 under which a country might increase its output,
 only to find the price of exports falling so
 much that the country was worse off. As
-
 Bhagwati showed, the conditions under which
 that might happen were fairly extreme.
-
 An important development was the theory
-
 of shadow pricing, which was an offshoot of
 programming and planning models. It was initially
 used to demonstrate how reliance on
-
 market prices might yield an inappropriate resource
 allocation. Quickly, however, analysts
-
 pointed to the distortions between domestic
 prices of import-competing and exportable
 goods because of the trade regime. There is
 little doubt that cost-benefit techniques improved
 project selection and enabled improved
-
 governmental decision-making with, inter alia,
 the insistence on use of border prices. The
 publication of the I. M. D. Little and James A.
@@ -67,7 +56,6 @@ across activities, was developed to meet the
 argument that market prices failed to reflect
 opportunity cost. This research provided a tool
 with which economists could measure the
-
 wide disparities in protection accorded to different
 import-competing industries.
 
@@ -76,24 +64,19 @@ in part on partial equilibrium analysis,27 a
 number of researchers began work on developing
 techniques for computing general equilibrium
 results. Based on newly developed
-
 solution algorithms, techniques were developed
 for models which endogenized prices,
-
 and thus moved away from the linear models
 earlier used for analysis.28
 
 By the late 1960's and 1970's, there were significant
 contributions which undermined some
-
 of the premises on which import-substitution
 strategies were based. At an analytical level,
 one line of research focussed on whether the
 stylized facts of "market failure" in fact warranted
 the imposition of trade restrictions.
-
 Bhagwati and V. K. Ramaswami (1963),
-
 Johnson (1965b), Bhagwati (1969), and others
 demonstrated that a trade instrument (tariff
 or quota) was usually not a first-best, nor often
@@ -108,7 +91,6 @@ Research also began analyzing other aspects
 of the ways in which protection actually
 worked. Here, attention focussed on rentseeking
 (Krueger, 1974) as a by-product of
-
 protection (and, indeed, as a user of resources
 26 See Ronald I. McKinnon (1966), who provided the
 first demonstration of this important proposition at the

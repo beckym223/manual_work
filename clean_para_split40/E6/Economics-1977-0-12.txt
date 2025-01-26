@@ -1,7 +1,6 @@
 the response to demand disturbances are roughly
 valid, how can they be so grossly inconsistent
 with the reduced form estimates?
-
 Attempts at reconciling the two have taken
 several directions, which are reviewed in an
 article coauthored with Ando (1976). Our main
@@ -24,7 +23,6 @@ of estimation yield widely different estimates,
 including many which clearly overstate the
 expenditure and understate the money multipliers.
 He further points out that, given the
-
 unreliability of the estimates resulting from
 multicollinearity and large residual variance,
 the relevant question to ask is not whether
@@ -48,14 +46,12 @@ first differences.
 This test resolves the puzzle by showing that
 there really is no puzzle: the two alternative estimates
 of the expenditure multipliers are not
-
 inconsistent, given the margin of error of the
 estimates. It implies that one should accept
 whichever of the two estimates is produced by a
 more reliable and stable method, and is generally
 more sensible. To me, those criteria call, without
 question, for adopting the econometric
-
 model estimates. But should there be still some
 lingering doubt about this choice, I am happy to
 be able to report the results of one final test
@@ -66,7 +62,6 @@ are closer to God's truth than the estimates
 derived through econometric models. Then it
 should be the case that if one uses their coefficients
 to forecast income beyond the period of
-
 fit, these forecasts should be appreciably better
 than those obtained from a forecasting equation
 in which the coefficients of the expenditure variable
@@ -94,5 +89,4 @@ perform just a bit better. I have repeated
 this test with equations estimated through the
 first half of the postwar period, and the results
 are, if anything, even more one-sided.
-
 The moral of the story is pretty clear. First,

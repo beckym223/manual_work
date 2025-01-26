@@ -2,7 +2,6 @@ luck in the technological draw, side by side
 with highly diverse experience between industries
 because the distribution of technical advances
 had wide dispersion, even for periods
-
 as long as a decade.
 
 Getting access to data at the firm level permits
@@ -13,12 +12,10 @@ exploration, but I think the result is quite clear
 already; namely, the "mushrooms" story prevails
 just as much among firms within an industry
 as it does among industries within a
-
 sector or broader aggregate. I will present here
 only a taste of the evidence from the United
 States (on which our systematic work just recently
 got started). Our massive evidence
-
 comes from the Mexican manufacturing sector,
 for which Leonardo Torre ( 1997) has analyzed
 data from a sample of over 2,000 firms. A small
@@ -36,7 +33,6 @@ aggregate picture in Figure 4, and then show
 in Figures 5A-C three fast-growing branches,
 three of around median growth, and three from
 among the slowest-growing branches.
-
 To complement these figures, I finally present,
 in Figures 6A-D, certain summary statistics
 from the sunrise-sunset diagrams of the 44
@@ -45,16 +41,13 @@ gives the distribution of average rates of TFP
 growth among the 44 industries. Figure 6B
 shows the distribution of peak cumulative contributions,
 i.e., what the TFP contribution
-
 would have been had all the negatives been
 zeros. Figure 6C displays the percentile of
 firms (by initial value added) marking the borderline
 between positive and negative TFP
-
 growth. And finally, Figure 6D shows, for
 branches with positive TFP growth, the percentile
 of firms which, by themselves, account
-
 for 100 percent of the industry's TFP growth.
 This evidence almost seems to replicate, for
 firms within an industry, what was found in

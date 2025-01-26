@@ -5,7 +5,6 @@ is not heard as often. Because it denies the
 inevitability of choice, the romantic point of
 view is increasingly seen as impotent to deal
 with the problems of health care."2
-
 To be sure, it is not clear whether economic
 research or the force of circumstances is bringing
 about the change in point of view. I suspect
@@ -17,7 +16,6 @@ ideal interests are the tracks on which society
 rides, but ideas throw the switches (p. 280).
 The monotechnic point of view, found frequently
 among physicians, engineers, and others
-
 trained in the application of a particular
 technology fails to recognize the diversity of
 human wants, or acknowledge the difference
@@ -37,12 +35,9 @@ uniform across regions despite large regional
 differences in the pressures for admission.'4
 The monotechnic view often fails to consider
 the heterogeneity of preferences, even
-
 though for many health problems there are alternative
 interventions: one drug versus another,
-
 drugs versus surgery, or even "watchful
-
 waiting" versus any intervention. Under the
 influence of economists and other behavioral
 scientists, physicians are now making such
@@ -71,13 +66,11 @@ incremental) analysis to assist in medical
 decision-making. This screening test for cervical
 cancer is of proven safety and effectiveness,
 and before Eddy's work appeared most
-
 experts recommended that women obtain this
 test annually. Using mathematical models and
 clinical studies of the natural history of the disease,
 Eddy (a physician with extensive training
 in operations research and economics)
-
 calculated the incremental cost of 1 additional
 year of life expectancy with screening regimes
 ranging from once every 6 months to once
@@ -85,17 +78,14 @@ every 5 years. The results were striking. Some
 screening has a high yield at low incremental
 cost, but as the frequency of screening is increased
 from once every 2 years to once a year
-
 the incremental cost rises to close to $1 million
 per additional year of life expectancy (Eddy,
 1980, 1987, 1990).15
 
 The impact of Eddy's research on health
-
 policy is worth noting. The American Cancer
 Society accepted his conclusions and the Society'
 s recommendation to screen once every
-
 3 years made the front page of the New York
 '2 As a sign of the times, Sweden, Norway, Finland,
 and the World Health Organization are sponsoring the first
@@ -105,7 +95,6 @@ international conference on priorities in health care in October
 ' Economists fall into their own monotechnic trap
 when they offer policy advice under the assumption that
 efficiency is society's only goal.
-
 '4 See Feldstein (1967).
 
 '5 To put this in perspective, consider the choice between

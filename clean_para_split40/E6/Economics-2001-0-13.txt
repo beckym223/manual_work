@@ -1,6 +1,5 @@
 category as a share of GDP, followed by the
 outputs of computers and communications
-
 equipment.
 
 B. Capital Services
@@ -34,7 +33,6 @@ economics of taxation.24 Many of the important
 issues in measuring the cost of capital have been
 debated for decades. The first of these is incorporation
 of the rate of decline of asset prices
-
 into the cost of capital. The assumption of perfect
 foresight or rational expectations quickly
 emerged as the most appropriate formulation

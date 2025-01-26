@@ -14,13 +14,11 @@ industries.
 As all of this became clear, the most obvious
 first reform was to include unemployment benefits
 in taxable income. Although there was
-
 initially strong opposition to this idea, it was
 hard to argue with the position that cash income
 is cash income and should be taxed. The notion
 that taxing unemployment insurance would inappropriately
 burden the poor was clearly contrary
-
 to the fact that the income tax allows a
 substantial exclusion of income before any tax
 is levied. A poor UI recipient would pay no tax.
@@ -28,7 +26,6 @@ The initial legislative compromise was to include
 only half of UI benefits in taxable income
 and to do so only for relatively high-income taxpayers.
 This provided a natural experiment that
-
 Gary Solon (1985) used to show that the relative
 duration of unemployment fell for those whose
 benefits were taxed. Later, in the Tax Reform Act
@@ -37,10 +34,8 @@ income tax like all other forms of labor income.
 Taxing UI benefits eliminated the possibility
 that an individual could have a higher net income
 from UI benefits than by working. It is
-
 hard to know what the aggregate effect on unemployment
 has been, but my personal estimate
-
 is that the unemployment rate probably fell by
 about one-half percentage point after benefits
 were taxed, an effect equal to more than
@@ -58,7 +53,6 @@ the UI benefit replacement ratio. John Gruber
 (1997) used this framework to derive an explicit
 optimal UI benefit based on data on the effect of
 unemployment on household food consump-
-
 tion, concluding that the optimal replacement
 rate should be much less than the 50 percent in
 current law. More recently, however, Raj

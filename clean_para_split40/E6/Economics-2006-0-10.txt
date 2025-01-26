@@ -1,6 +1,5 @@
 and persuading themselves that they are systematically
 lucky or unlucky in handling market
-
 risk.
 
 Another important memory effect is subjective
@@ -11,9 +10,7 @@ We telescope time, so past events seem more
 recent than they actually were. We are unsuccessful
 in integrating sensation over time. In a
 phenomenon studied by Daniel Kahneman,
-
 Alan Krueger, and others (Kahneman and
-
 Krueger, forthcoming; Donald C. Redelmeier
 and Kahneman, 1996), episodes of pleasure or
 pain are remembered selectively in terms of
@@ -23,10 +20,8 @@ than they "experience." There is a relationship
 between subjective time and brain structure--
 current sensation is recorded in the limbic system
 and its reward pathways, memory of past
-
 and anticipation of future sensations are processed
 in the cerebrum, more analytic and less
-
 colorful. David Laibson and colleagues have
 studied this as the physiological explanation for
 hyperbolic discounting (Fehr, 2001; Laibson,
@@ -35,7 +30,6 @@ that subjective time is not a new element in
 explaining consumers' sensations and behavior.
 Francis Y. Edgeworth (1881) proposed, following
 William S. Jevons (1871), that the same
-
 objective time may correspond to different rates
 of thought and feeling in different periods, so that
 the utility of an experience will be the subjective
@@ -46,10 +40,8 @@ Memory plays a role, e.g., selective memory is
 implicated in regression and representativeness
 effects. We overemphasize recent, available experience
 in forming beliefs, and depend heavily
-
 on readily available cues to construct our perceptions
 when we need them to make choices.
-
 In experiments, consumers are often influenced
 by the context and framing of perceptual
 tasks and choices, and anchor their perceptions
@@ -60,7 +52,6 @@ when consumers have incompletely articulated
 tastes for these goods (see Green et al., 1998).
 In addition, anchoring distorts responses to factual
 questions in surveys. Beyond this, why
-
 should economists be interested? The answer is
 that anchoring effects appear clearly in market
 transactions involving complex commodities.
@@ -70,7 +61,6 @@ listing price or manufacturer's suggested retail
 price. Field experiments with real estate agents
 show that manipulation of initial offers can influence
 bargaining outcomes. A study by Itamar
-
 Simonson and Amos Tversky (1992) finds that
 when products are positioned so that one appears
 to be a bargain, a form of anchoring, then
@@ -80,10 +70,8 @@ Boston seafood restaurant that he could use this
 result to reposition his wine list and increase his
 profits, his response was "tell me something I
 didn't learn in hotel school."
-
 Anchoring is one example of how consumers
 may be influenced by context and framing that
 should be irrelevant to choice. A second important
 example is the endowment effect, also
-
 called a reference point or status quo effect, in

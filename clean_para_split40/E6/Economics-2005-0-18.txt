@@ -29,7 +29,6 @@ consumption is less than the marginal product of
 capital. Moreover, the appropriate rate for aggregating
 the consumption of different future generations
 may not be a market rate at all but a
-
 discount rate equal to the rate of decline in the
 marginal utility of consumption. With a realistic
 growth rate and any plausible value of the elasticity
@@ -67,7 +66,6 @@ deadweight burden.
 
 This incremental deadweight loss from distorting
 the labor supply would be essentially
-
 eliminated if individuals earned a market return
 on their Social Security savings, as they would
 in an investment-based system. That would
@@ -80,9 +78,7 @@ the implicit actuarial terms of the annuity did
 not reflect their own mortality risk. A mixed
 system that combines pay-as-you-go and investment-
 based components would reduce but not
-
 eliminate the labor supply distortion.
-
 A third distortion caused by a traditional payas-
 you-go system is the incentive to retire early
 when an implicit tax results from the loss of
@@ -100,10 +96,8 @@ with formal or informal restrictions that prevent
 reducing wages to offset the high payroll tax
 rates, these taxes contribute to the high unemployment
 rates that we see in Europe. The U.S.
-
 experience shows that this problem can be eliminated
 within the pay-as-you-go system. It
-
 would, of course, also be eliminated in an
 investment-based system in which retirement
 17 For an explicit derivation of the neutrality result and an

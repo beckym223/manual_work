@@ -1,6 +1,5 @@
 Times. The U.S. Surgeon General, the U.S. Preventive
 Services Task Force, and the American
-
 College of Physicians supported this position,
 and many individual physicians changed their
 practice accordingly. Intense opposition came
@@ -20,7 +19,6 @@ care and health. At any given time in developed
 countries the effects of additional medical care
 on health are usually small, but over time advances
 in medical science have had significant
-
 effects on health."7 Or consider the relationship
 between infant mortality and per capita income.
 At any given time income is a good predictor of
@@ -34,7 +32,6 @@ The decline in post-neonatal mortality between
 elasticity of -2.00. There was undoubtedly a
 shift in the function associated with the introduction
 of antibiotics and other advances in
-
 medical science (Fuchs, 1974b). In 1991 the
 elasticity was -0.73 (0.12) but the change from
 1965 to 1991 was consistent with an elasticity
@@ -61,12 +58,10 @@ corners in one's own mind."
 
 For example, one of the questions that troubled
 me for a long time is why there is such
-
 a strong correlation between health and years
 of schooling. I originally believed that this
 was another manifestation of the productivityenhancing
 effect of education. Schooling could
-
 increase an individual's knowledge about the
 health effects of personal behavior and medical
 care options or could enable a person to better
@@ -74,7 +69,6 @@ process and act upon information about health
 (Grossman, 1975). Or schooling could increase
 an individual's ability to develop strategies
 of self control (Richard A. Thaler and
-
 H. M. Shefrin, 1981). I began to doubt the
 schooling-causes-health hypothesis, however,
 when it was observed that the favorable effect
@@ -87,11 +81,9 @@ school on up to the doctoral level (Grossman,
 1975).19 I began to suspect that perhaps the correlation
 was the result of some underlying difference
 among individuals that affects both
-
 schooling and health.
 
 To explore this question I examined survey
 data on smoking behavior collected
-
 by colleagues in the Stanford Heart Disease
 Prevention Program as part of a health

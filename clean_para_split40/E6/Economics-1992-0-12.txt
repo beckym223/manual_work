@@ -1,47 +1,34 @@
 emissions prove unmanageable for economic
 or political reasons, some of these
-
 "geoengineering" options will invite attention.
 Second, if they do, and especially if
-
 they prove to be within the budgetary capabilities
 of individual nations, international
-
 greenhouse diplomacy will be transformed.
 VII
 
 What remains nearly certain is that the
-
 main responses to the greenhouse threat
-
 will be adapting to climate as climate
-
 changes and reducing carbon emissions.
-
 (CFC's are potent greenhouse gases and, if
 unchecked, might rival carbon dioxide in
 decades to come; but international actions
 are making good progress and are among
-
 the cheapest ways of reducing greenhouse
 emissions.)
 
 Like estimates of warming, estimates of
-
 the costs of reducing emissions require some
 common but arbitrary objective to be comparable.
 A doubling of carbon became the
-
 conventional benchmark for warming estimates;
 no such benchmark for reduced carbon
-
 emissions has been adopted for estimating
 costs. (In principle, the estimates could
 adopt that doubling: the issue could be formulated
 as the cost of retarding the doubling
-
 time by a decade, two decades, or half
-
 a century.) Most estimates take as their
 target a reduction of emissions either to a
 specified fraction of what they would be in
@@ -49,45 +36,35 @@ the absence of controls, or to some fixed
 ratio to the emissions of 1990 or the projected
 emissions of 2000 or 2010. The estimates
 examine minimum-cost trajectories,
-
 implicitly or explicitly assuming something
 like a uniform tax on the carbon content of
 fuel as the policy instrument. They typically
 make some assumption about a "fallback"
-
 energy technology, at least for electricity,
 available at some price in some decade of
 the next century. They have to project estimates
 of non-price-induced improvements
-
 in the use or avoidance of energy by industries
 and households. And if they deal with
-
 global emissions, they have to make some
 assumption about the distribution of abatement
 efforts among nations, especially
-
 among the developing countries, which, including
 China, account for about a quarter
-
 of emissions now and would be expected to
 account for half by the middle of the next
 century.
 
 Any estimate of the cost of abatement
-
 needs therefore to specify at least half a
 dozen target assumptions. Furthermore, the
 estimates are produced by people and institutions
 that do not simultaneously estimate
-
 the costs associated with climate change,
 either damages or costs of adapting; the
 estimates do not optimize the combined
-
 costs of abatement and climate change. A
 "not unreasonable" target for reduction
-
 might be delaying a doubling by, say, four
 decades. One decade might be too trivial, a
 century too ambitious, and four decades an
@@ -95,11 +72,9 @@ objective in which most audiences would be
 interested. But nobody who makes such an
 estimate wishes to be interpreted as proposing
 that when all the uncertainties about
-
 climate changes and their impacts have been
 resolved, if they ever are resolved, the optimum
 reduction in emissions will be found
-
 to retard doubling by 40 years, or any other
 specified period of time.
 
@@ -107,29 +82,21 @@ All I can do to summarize a multitude of
 estimates is to specify an order of magnitude
 that many economists and the Congressional
 Budget Office would not consider
-
 outrageous. That is the figure I mentioned
 earlier, possibly 2 percent of GNP for the
 developed countries and a similar, but even
 much more uncertain, percentage of GNP
-
 for the developing world. The uncertainty
 for the developing world is partly due to the
 estimates being mainly derived from the
-
 American economy.4
 
 Two characteristics of these estimates
-
 need to be emphasized. One is that they
-
 tend to assume optimal technological adjustment,
 as in response to a carbon tax. To
-
 the extent that carbon emissions are controlled
 by direct regulatory measures, there
-
 may be the usual expected inefficiencies,
 and I leave the reader to make his own
-
 adjustment.

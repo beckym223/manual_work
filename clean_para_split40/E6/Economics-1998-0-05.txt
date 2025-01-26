@@ -8,11 +8,8 @@ Industry percent) [(1) X (4)] of (2) added of (4)
 (1) (2) (3) (4) (5)
 
 1 0.800 $80b. $80b. $100b. $100b.
-
 2 0.600 $120b. $200b. $200b. $300b.
-
 3 0.500 $150b. $350b. $300b. $600b.
-
 All the rest 0.107 $150b. $500b. $1,400b. $2,000b.
 be made additive. For a quick appreciation of
 this, assume that total factor productivity grew
@@ -33,14 +30,11 @@ others, just as a consequence of the label. The
 idea of additivity does not follow nearly so
 easily from the labels "technical advance"
 and "total factor productivity."
-
 Anyway, this vision of the growth process
 opens up many new vistas and gives us many
 new challenges. To me, it gives life to the residual,
 viewed as real cost reduction, in a way
-
 that remote macroeconomic externalities
-
 never did. It gives the residual body, in the
 sense that the number of dollars saved by real
 cost reduction is a tangible and measurable
@@ -50,18 +44,14 @@ reduction), an address (the firm), and a face
 production manager, etc.) And, finally, we
 shall see that there can be vastly different expressions
 on that face, even as we move from
-
 firm to firm in a given industry, as the TFP
 experience of a period moves from sharply
 positive to devastatingly negative.
-
 I. Yeast versus Mushrooms: Part I
-
 Table 1 is based on the numerical example
 just given, plus the information that the remaining
 industries (say, in the economy) together
 had an initial value added of $1,400
-
 billion and experienced real cost reduction of
 $150 billion over the period. Setting out data
 in the format of Table 1 allows us to make
@@ -72,7 +62,6 @@ $500 b.) of the real cost reduction (RCR) of
 the period" and "30 percent ($600 b./$2,000
 b.) of the industries accounted for 70 percent
 ($350 b./$500 b.) of the period's RCR."
-
 I stumbled on this way of presenting data on
 real cost reduction in the course of writing a
 background paper (Harberger, 1990) for the
@@ -81,7 +70,6 @@ World Bank's World Development Report of
 it, because it helped me communicate to others
 what I call the "yeast versus mushrooms" issue.
 The analogy with yeast and mushrooms
-
 comes from the fact that yeast causes bread to
 expand very evenly, like a balloon being filled
 with air, while mushrooms have the habit of
@@ -93,5 +81,4 @@ growth of the total stock of knowledge or of
 human capital, or brought about by economies
 of scale tied to the scale of the economy as a
 whole. A "mushroom" process fits more
-
 readily with a vision such as ours, of real cost

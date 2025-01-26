@@ -14,17 +14,13 @@ produce both objects. An example of such a
 seller is one with offer function Sp*, who is
 indifferent between selling the two varieties.
 Some auto manufacturers produce a full
-
 product line and others specialize in niche markets.
 Research universities cater to students
-
 with superior high-school records and achievements,
 and would not be very cost effective as
-
 junior colleges. Climatic and geographic endowments
 give some California vineyards advantages
 in producing high-quality wine that is
-
 much harder to produce in New York and Michigan,
 yet some California vintners produce both
 higher- and lower-quality brands. The prestigious
@@ -42,13 +38,11 @@ rather than directly in teams. Impersonal
 transactions are the equivalent of intermediate
 product markets and reduce the adverse consequences
 that occur when less efficient workers
-
 pull down the productivity of more efficient
 ones.
 
 Figure 1 shows how the market sustains diversity
 as an equilibrium phenomenon. Different
-
 kinds of buyers purchase different kinds of
 goods. Consumers with tastes that correspond to
 O'(z) buy z1 at price Pi and are supplied by
@@ -62,7 +56,6 @@ buyer have any incentive to purchase from the
 other type of seller. All four types of agents can
 do no better, given the opportunities available.
 A. Interpreting the Implicit Value of
-
 Characteristics
 
 Empirical investigations of product and labor
@@ -73,16 +66,13 @@ characteristics. It was initially developed to
 study real cost reductions in auto and other
 durable goods manufacturing that were concealed
 by product design changes and quality
-
 improvements. In labor economics, wages of
 workers are regressed on their personal productivity
 and job characteristics. In land and housing
 markets, site and structure prices are
-
 regressed on house attributes (size, architectural
 style, and age) and onsite characteristics (neighborhood,
 location, and public services). Labor
-
 and land market studies are useful for imputing
 the social value of certain intangible goods, like
 safety and clean environments. An important
@@ -102,7 +92,6 @@ these kinds of public policies is like finding the
 costs of any other investment. Assessing benefits
 requires estimating the willingness of consumers
 to pay for more safety and better
-
 environments. Practice is tricky because there
 exist no explicit markets where safety and clean
 air are directly traded, and from which demand

@@ -1,10 +1,8 @@
 Why is there so little agreement among economists
 regarding policy-value questions when
-
 there is so much agreement on the positive
 questions? One possible explanation is differences
 in values. Most health policy decisions
-
 have significant implications for freedom, efficiency,
 justice, and security. Health economists
 (like other Americans) probably desire all these
@@ -38,7 +36,6 @@ right to have access to health care. On the other
 hand, it is readily apparent that there are many
 positive questions embedded in this policyvalue
 question. For instance, most economists
-
 see a loss in efficiency from requiring everyone
 to have the same health insurance, but they
 probably differ in their estimates of the extent
@@ -53,7 +50,6 @@ values.
 Some of the positive questions embedded in
 question 3 may be beyond the scope of conventional
 economics. For instance, Professor
-
 A may favor national health insurance in part
 because she believes it will contribute to a
 more stable and harmonious society.34 Professor
@@ -62,7 +58,6 @@ is therefore less inclined to support national
 health insurance.
 
 The role of embedded positive questions
-
 can also be easily discerned in the three questions
 (8, 17, 20) dealing with insurance company
 underwriting. Health economists strongly
@@ -72,18 +67,15 @@ to charging higher premiums to individuals
 born with genetic defects. On question 8, dealing
 with requiring insurance companies to insure
 the sick with no premium surcharge, the
-
 health economists are evenly split. One of the
 positive questions embedded in question 8 is
 the reason for people's illness. If a respondent
 thought that most illness was the result of genetic
 differences, the reply would presumably
-
 be consistent with the answer to question 20.
 On the other hand, if most illness was assumed
 to be the result of personal behaviors like cigarette
 smoking, the reply would probably be
-
 consistent with the one given to question 17.
 Inasmuch as leading medical scientists have
 strongly divergent views about the importance

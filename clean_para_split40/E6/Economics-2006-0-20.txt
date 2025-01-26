@@ -12,12 +12,10 @@ population falls in the region where delay
 is probably desirable, and 3.1 percent in the
 region where immediate enrollment is probably,
 but not definitely, desirable.
-
 Table 8 classifies enrollment intentions
 against the action that minimizes EPV of OPC.
 The table shows that the choice of 70.6 percent
 of the population minimizes EPV of OPC.
-
 However, there are 10 percent who intend to
 delay even though it is likely in their selfinterest
 to enroll. On the other hand, 19.4 percent
@@ -43,11 +41,9 @@ the standard plan.
 
 * Major Cost Protection Plan: Pays all approved
 prescription drug costs above $2,444
-
 per year, but nothing until your cost at the
 pharmacy reaches this level. The annual premium
 of $444 is the same as the standard
-
 plan.
 
 * No Copay Plan: You pay an up-front annual
@@ -65,14 +61,12 @@ against major costs, with the latter eliminating
 the deductible and charging an up-front premium
 for the actuarial value of this replacement.
 The Guaranteed Benefit Plan is more
-
 favorable than the Major Cost Protection Plan at
 low pharmacy bills, but entails substantial risk
 at high bills. These hypothetical alternatives
 vary more from the standard plan than most
 products currently being offered, but preferences
 among them provides some indication of
-
 preferences for features of actual plans.
 Enrollee choice among the alternative plans
 is not explained well by cost minimization; only
@@ -81,13 +75,11 @@ minimizes EPV of OPC. Further, consumers do
 not seem to place much value on the insurance
 component of the alternative plans-among enrollees,
 the Guaranteed Benefit Plan that offers
-
 relatively poor insurance against catastrophic
 drug costs is the minimum cost alternative in
 only 3.2 percent of cases, but is preferred by
 27.1 percent, while the plans that offer almost
 complete insurance are preferred by only 26
 percent, even though they include the
-
 minimum-cost alternative for 51.2 percent. We
 conclude that consumers are likely to have

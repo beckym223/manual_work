@@ -1,9 +1,7 @@
 "economic discomfort index." That index
-
 (which according to Michael Lovell appears to
 have some empirical support) is the sum of unemployment
 and inflation. The index used in my
-
 analysis is a weighted average of the cumulated
 unemployment and cumulated inflation over the
 path. The weights express the relative social
@@ -24,7 +22,6 @@ is fairly close to vertical and uses Okun's
 weights, one finds that (i) at the present time, the
 noninflationary rate of unemployment corresponding
 to a 2 percent rate of inflation can be
-
 estimated at 5.6 percent, and (ii) the optimal response
 to a large exogenous price shock consists
 in increasing unemployment from 5.6 to only
@@ -50,7 +47,6 @@ regardless of the relative weights attached
 to unemployment and inflation. It would tend
 to be prevailingly too small for some initial
 period and too large thereafter.
-
 One must thus conclude that the case for a
 constant money growth is no more tenable in the
 case of supply shocks than it is in the case of
@@ -63,12 +59,10 @@ valid and most valuable contribution in establishing
 that our economy is far less unstable than
 the early Keynesians pictured it and in rehabilitating
 the role of money as a determinant of
-
 aggregate demand. They are wrong, however,
 in going as far as asserting that the economy is
 sufficiently shockproof that stabilization policies
 are not needed. They have also made an
-
 important contribution in pointing out that such
 policies might in fact prove destabilizing. This
 criticism has had a salutary effect on reassessing
@@ -78,7 +72,6 @@ But their contention that postwar fluctuations
 resulted from an unstable money growth or that
 stabilization policies decreased rather than increased
 stability just does not stand up to an
-
 impartial examination of the postwar record of
 the United States and other industrialized countries.
 Up to 1974, these policies have helped to

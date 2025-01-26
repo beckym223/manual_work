@@ -5,21 +5,17 @@ more fertile soil for future research on the process
 of economic growth.
 
 (g) I do not think that we gain much by
-
 trying to express the relation between policies
 and economic growth by a series of regressions.
 Cross-country growth regressions seem
-
 hopelessly naive to longtime observers of the
 growth process like myself. To us, there is too
 mutch to question in regression lines that draw
 much of their slope from the differences between
 Sudan and Switzerland, between Bangladesh
 and Brazil, or between Ceylon and
-
 Canada. In contrast, it seems much more sensible
 to look at episodes within individual
-
 countries and to search for common elements
 that characterize the passage from bad to good
 growth experiences within each of the number
@@ -32,7 +28,6 @@ resorting to the straitjacket of regression lines
 that seem to draw from comparisons among
 very disparate countries, lessons that are supposed
 to be meaningful for countries like
-
 Bangladesh, Ceylon, and the Sudan-as well
 as others at different levels-as each strives
 to take the next upward step in the climb toward
@@ -40,16 +35,13 @@ modernization.
 
 My view of cross-country growth regressions
 is somewhat less negative to the extent
-
 that they focus on the components of growth
 (rate of investment, rate of return, and real
 cost reduction in particular) rather than on the
 overall growth rate. There is also a subtle distinction
 to be drawn between two ways of
-
 presenting cross-country regressions- (i) as
 "explaining" why and how some countries
-
 grow faster than others (not recommended),
 and (ii) as simply summarizing a series of
 "stylized facts" describing the experience we
@@ -67,34 +59,27 @@ and "enabling." We know from
 sad experience how easy it is for governments
 to adopt policies that get in the way of economic
 growth and even turn it negative. We
-
 know, too, that there is no "silver bullet," no
 single magic key that by itself opens the door
 to a paradise of prosperity and growth.
-
 Broadly speaking, the easiest starting point for
 a successful growth experience is a onceprosperous
 economy that has suffered from
-
 bad policies. Releasing that economy from its
 trammels, correcting an accumulation of past
 mistakes, can sometimes set in motion a prolonged
 episode of astounding growth. A shift
-
 from policies that obstruct to policies that enable
 growth seems to lie at the heart of growth
 "miracles" like those of Taiwan, Spain, Korea,
 Brazil, Indonesia, Malaysia, and China
-
 (among others).
 
 The springboard for the following listing of
 policy implications is the interpretation of the
 growth residual as representing real cost reduction
 and the ready acceptance that in the
-
 real world RCR comes in 1001 different
-
 forms.
 
 (a) The first key observation is that people
@@ -107,7 +92,6 @@ the most noxious of such policies. If I have any
 expertise based on experience in economics, it
 has to be in the first-hand observation of processes
 of serious inflation. So I ask you to
-
 take my word for it: the most serious cost of
 inflation is not a triangle or a trapezoid under
 the demand curve for real cash balances, nor
@@ -119,9 +103,7 @@ different ways and at very different rates. A
 high product price and a low input cost normally
 is an invitation clamoring for new investments
 to be made. This is not so during a
-
 serious inflation, when such a signal can easily
 turn out to be "here today, gone next
-
 month" as both product and input prices continue
 on their separate paths of adjustment to

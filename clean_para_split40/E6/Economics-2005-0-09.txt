@@ -1,6 +1,5 @@
 and any attempt to improve their design, should
 take these effects into account.
-
 There is, of course, controversy about the
 magnitude of these effects, just as there is about
 most other economic parameters. Decisions
@@ -11,7 +10,6 @@ clearly room for economists to use new data,
 new statistical methods, and new natural policy
 experiments to improve our knowledge and,
 therefore, to improve policy design.
-
 Adverse effects result from specific program
 designs and are not inherent in the goals of the
 programs. For example, John Gruber and David
@@ -41,18 +39,15 @@ a combined federal and state marginal rate of
 income tax of 30 percent without social insurance.
 The current 15.3 percent employeremployee
 payroll tax rate,6 when adjusted for
-
 the interaction with the income tax7 and for the
 present actuarial value of the additional retiree
 and survivor benefits that result from increased
 taxable earnings, now increases the overall marginal
 tax rate from 30 percent to about 37.7
-
 percent.8 A 50-percent rise in the 15.3 percent
 marginal tax rate, adjusted for the income tax
 interaction, would increase this effective marginal
 tax rate from 37.7 percent to 44.2
-
 percent.9
 
 The increase in the deadweight loss that
@@ -65,7 +60,6 @@ form of compensation-away from taxable cash
 and to less valuable fringe benefits. Although
 neither behavioral change can be measured explicitly,
 the resulting deadweight loss can be
-
 calculated empirically by estimating the extent
 to which the higher payroll tax would reduce
 taxable labor income. It is appropriate to focus
@@ -76,7 +70,6 @@ tax rate on the reward for increased labor
 supply and the marginal tax rate that determines
 the net cost to the taxpayer of fringe benefitsremains
 the same when the tax rate changes.
-
 Taxable labor income is, therefore, a Hicksian
 composite good that can be used to assess the
 deadweight loss (Feldstein, 1999a).10

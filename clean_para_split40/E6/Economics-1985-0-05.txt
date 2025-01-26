@@ -1,7 +1,6 @@
 asymmetric information and has given rise to
 the modeling of incentive-compatible contracts.
 Third, since explicit written contracts
-
 between unions and employers cover only a
 small part of the workers involved in longterm
 relationships, what keeps either workers
@@ -9,7 +8,6 @@ or firms from violating the implicit agreement
 or exploiting their half of bilateral monopoly
 situations when conditions are favorable
 to do so? Analysis of this issue has
-
 given rise to the concept of a firm's labor
 market "reputation," or brand-name capital,
 fear of losing which provides an enforcement
@@ -23,11 +21,9 @@ the continuity of association (without necessarily
 denying the existence of other aspects),
 and each of which deals somewhat differently
 with the problems cited in the prior
-
 paragraph.' The earliest version of implicit
 contracts emphasized the role of risk aversion,
 firms being either risk neutral or less
-
 risk averse than workers to fluctuations in
 their income.2 Firms thus offer risk-sharing
 contracts that improve social welfare relative
@@ -35,13 +31,10 @@ to spot auction markets. Another body of
 research stresses transactions costs and asset
 specificity -that is, the acquisition of firmspecific
 skills by workers, and specific and
-
 valuable knowledge about each other by both
 firms and workers.3 This approach also emphasizes
 the asymmetry of knowledge between
-
 firms and workers about the marginal
-
 revenue product of labor, and its influence
 on the nature of the contract. Still a different
 emphasis is given in the efficiency wage4
@@ -49,9 +42,7 @@ literature to an assumed positive correlation
 between the level (or the career profile) of
 wages on the one hand and the "effort" or
 productivity of workers on the other.5
-
 While there are substantial differences
-
 among these various approaches, they all
 conclude that, under optimal contracts, real
 wages will be smoothed in the face of changes
@@ -64,7 +55,6 @@ II. Some Extensions to Implicit Contract Theory
 We can distinguish several categories and
 subcategories of changes in economic circumstances,
 the wage response to which must
-
 be accommodated by social conventions and
 informal understandings that we call implicit
 contracts. Let us consider first some of the
@@ -84,8 +74,6 @@ two kinds of relative changes in economic
 conditions that implicit contracts must allow
 for; changes which are realizations of a probability
 distribution known at the time the
-
 contract is entered, and those stemming from
 developments to which no basis could be
-
 found for assigning probabilities.

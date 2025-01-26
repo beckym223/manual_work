@@ -6,30 +6,24 @@ any change in values.
 
 Positive economic questions are also embedded
 in the insurance company underwriting
-
 issues. Most economists realize that requiring
 health insurance companies to charge healthy
 people the same premium as those with a genetic
 disease will deter healthy individuals
-
 from purchasing insurance. But economists
 may well differ as to how large that effect will
 be and how large a welfare loss it implies.
 It is easy to see that there are positive questions
 embedded in the policy-value questions,
-
 but it is more difficult to believe that disagreement
 over them, rather than differences in
-
 values, explains the low level of consensus
 among health economists with respect to the
 policy-value questions. Note that the physicians
 have a higher level of consensus about
-
 the policy-value questions than do the health
 economists. This probably reflects more homogeneous
 values among physicians rather
-
 than agreement about the embedded positive
 questions. (Note the low level of agreement
 among physicians on the explicit positive
@@ -50,7 +44,6 @@ the positive questions that are embedded
 in the policy-value questions is suggested
 by their use of the "no opinion" option. Unlike
 the theorists, who chose "no opinion"
-
 twice as often for the positive questions as for
 the policy-value questions (28 percent versus
 15 percent), the health economists chose "no
@@ -64,11 +57,9 @@ value differences (Friedman, 1966 p. 6).
 In order to investigate further the relationship
 between policy-value and positive questions,
 I developed two indexes based on the
-
 answers to the national health insurance and
 insurance underwriting questions. The first index
 measures each respondent's support for
-
 national health insurance. It is constructed by
 assigning a value of 1 to agreement with each
 of questions 3, 7, 14, and 15, a value of 0 for
@@ -77,7 +68,6 @@ of 0.5 for no opinion. The sum of the values
 was divided by 4, giving a range for the index
 of 1 (indicating agreement with all four questions)
 to 0 (indicating disagreement with all
-
 four questions). The "actuarial" 37 model index
 was based on answers to questions 8, 17,
 and 20. In the case of question 8, "disagree"
@@ -99,5 +89,4 @@ while 15 percent completely rejected the notion
 of national health insurance with an index value
 of 0. Not surprisingly, there is a negative correlation
 between the national health insurance
-
 index and the actuarial model index. But there

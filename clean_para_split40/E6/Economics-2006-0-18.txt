@@ -1,6 +1,5 @@
 respond to periodic surveys. Members are compensated
 for participation on the panel. For our
-
 study, 5,879 members of the panel aged 50
 and over were contacted. Of these, 4,738 individuals
 completed the survey. Our present analysis
@@ -11,7 +10,6 @@ of our study defined as age 65 and older
 
 The survey lasted about 22 minutes and covered,
 in addition to questions about Part D,
-
 questions about health status and conditions,
 long-term care choices, prescription drug use
 and cost, and attitudes toward risk. We also use
@@ -31,7 +29,6 @@ Part D program's competing plans, a majority
 of the Medicare population has at least some
 knowledge and intends to enroll. However, lowincome,
 less educated elderly with poor health
-
 or some cognitive impairment are significantly
 less informed and may fail to take advantage of
 the program. Table 6 gives the fractions of the
@@ -58,7 +55,6 @@ enrollment choices with the alternatives that
 minimize the expected present value (EPV) of
 out-of-pocket cost (OPC). Underlying the enrollment
 decision is an option value problem: If
-
 an eligible person enrolls immediately in Part
 D, her EPV of OPC in each year from 2006 to
 the end of her life will be the $444 annual
@@ -76,11 +72,9 @@ goes along, and the Medicare premium penalty
 for late enrollment, which is 7 percent in 2007,
 and 12 percent per year thereafter. With information
 on the probabilities of developing new
-
 health conditions, and the distributions of drug
 costs for required therapies, this can be formulated
 as a dynamic stochastic programming
-
 problem, and solved by backward recursion to
 determine a threshold depending on age, such
 that if the current pharmacy bill is below the

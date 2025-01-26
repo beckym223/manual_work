@@ -7,7 +7,6 @@ neighborhoods is expensive because people
 are willing to pay more for greater personal
 safety and protection of their property and because
 crime-free neighborhoods are scarce.
-
 Wages on hazardous jobs must be higher in
 order to induce workers to expose themselves to
 greater risk of life and limb. Observed price
@@ -17,7 +16,6 @@ implicit prices of characteristics, as in Figure
 safety.
 
 Valuations generally vary among agents.
-
 People with different tastes and incomes have
 different bid and offer functions, but more is
 involved. In most types of economic exchange,
@@ -28,7 +26,6 @@ differences in quantities consumed. For example,
 the "last" loaf of bread is worth about the
 same-its market price-to a person who consumes
 one loaf per week as to a person who
-
 buys one loaf per day.
 
 The Law of One Price always applies to the
@@ -36,7 +33,6 @@ specific houses, jobs, or goods markets that
 embody intangible characteristics, but not necessarily
 to the intangible characteristics themselves.
 Whether there is a unique market price
-
 of a characteristic depends on whether or not the
 characteristics embodied in existing varieties
 can be recombined or remanufactured by buyers
@@ -47,7 +43,6 @@ are relevant only insofar as they affect the risk
 and return on one's total portfolio. A portfolio is
 a linear combination of various assets, so covariance
 of risk on one asset compared to others
-
 is the key risk component. The implied linear
 restrictions (or no-arbitrage conditions) imply a
 unique market price for risk.
@@ -82,7 +77,6 @@ the margin. Type 0' and 02 buyers in Figure
 of the two slopes at z1 and Zh is appropriate for
 assessing the (marginal) benefits of a small independent
 public project affecting z in some
-
 application, with the average weighted by benefit
 incidence of the project among different
 types of people.
@@ -93,20 +87,15 @@ for isolating the implicit value of safety
 and environment is to examine specific goods or
 jobs where these aspects dominate other considerations
 of choice. For instance, my labormarket
-
 study with Richard Thaler (1 976) on the
 value of life was one of the first to systematically
 examine wage premiums on very risky
-
 jobs, where risk was measured as excess insurance
 premiums charged by private companies
-
 on worker compensation policies.
-
 The revealed preference argument in Figure
 1 applies directly to that problem. Here z represents
 job safety and p( z) is estimated by
-
 statistically comparing the smaller market wage
 that workers are paid on safer jobs compared to
 higher wages paid on riskier ones, other things

@@ -9,28 +9,22 @@ his market will at some time be vulnerable to
 partial or complete takeover by an entrant
 who has neither superior skills nor technological
 superiority and whose entrance
-
 increases the quantities of resources used up
 in production. In other words, here the
-
 invisible hand proves incapable of protecting
 the most efficient producing arrangement and
 leaves the incumbent producer vulnerable to
 displacement by an aggressive entrant. I leave
 to your imaginations what, if anything, this
 says about the successive displacements
-
 on the world market of the Dutch by the
-
 English, the English by the Germans and the
 Americans, and the Americans, perhaps, by
 the Japanese.
 
 The proof of our proposition on the intertemporal
 vulnerability of incumbents to entry
-
 that is premature from the viewpoint of
-
 cost minimization does require just a little
 bit of algebra. To keep our analysis simple, I
 will divide time into two periods, each lasting
@@ -40,15 +34,12 @@ all demand, but in the second, it requires the
 construction of added capacity to meet demand
 growth because, by assumption, anticipatory
 construction to meet growth more
-
 than z years in the future simply is too
 costly. Also for simplicity, I will assume that
 there are no costs other than cost of construction.
 Of course, neither this nor the use
-
 of only two periods really affects the argument
 in any way. My only three substantive
-
 assumptions are that demand is growing with
 time, that there are economies of scale, that
 is, declining average costs in construction,
@@ -59,19 +50,15 @@ the growth in quantity demanded that will
 occur beyond that date.
 
 The argument, like the notation, is now
-
 straightforward. Let y, be output in period t,
 P, be price in period t, and K(y) be the cost
 of construction of capacity sufficient to produce
 (a maximum of) y units per period.
-
 Here, both p, and K(y) are expressed in
-
 discounted present value.4
 
 Then, by assumption, our firm will construct
 at the beginning of the first period
-
 capacity just sufficient to produce output y,
 at cost K(y,) and at the beginning of the
 second period it will produce the rest of the
@@ -79,13 +66,11 @@ capacity it needs, Y2- yI >0, at the cost
 K(y2 - y ).
 
 The first requirement for the prices in
-
 question to be consistent with equilibrium is
 that they permit the incumbent to cover his
 costs, that is, that
 
 (1) PIYI+P2Y2 2 K(y1)+K(y2-y1).
-
 Second, for these prices to constitute an
 equilibrium they must protect the incumbent
 against any and all possible incursions by
@@ -108,7 +93,6 @@ an equilibrium unless (2) as well as (1)
 are satisfied.
 
 Now, subtracting (2) from (1) we obtain
-
 immediately
 
 P2(Y2-y) K(y2- yi)

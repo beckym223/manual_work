@@ -1,7 +1,6 @@
 II. The Monetarists' Attack
 
 A. The Stabilizing Power of the
-
 Hicksian Mechanism
 
 The monetarists' attack on Keynesianism was
@@ -11,7 +10,6 @@ really implied a need for stabilization. It rested
 on a radically different empirical assessment of
 the value of the parameters controlling the stabilizing
 power of the Hicksian mechanism and of
-
 the magnitude and duration of response to
 shocks, given a stable money supply. And this
 different assessment in turn was felt to justify a
@@ -22,10 +20,8 @@ from its analytical validity.
 Liquidity preference was a fine contribution
 to monetary theory but in practice the responsiveness
 of the demand for money, and hence of
-
 velocity, to interest rates, far from being unmanageably
 large, was so small that according to a
-
 well-known paper by Milton Friedman (1969),
 it could not even be detected empirically. On the
 other hand, the effect of interest rates on aggregate
@@ -36,17 +32,14 @@ resulted from focusing on a narrow range
 of measured market rates and from the fact that
 while the aggregate could be counted on to respond,
 the response of individual components
-
 might not be stable. Finally, Friedman's celebrated
 contribution to the theory of the consumption
 function (1957) (and my own work on the
-
 life cycle hypothesis with Richard Brumberg and
 others, reviewed by the author, 1975) implied a
 very high short-run marginal propensity to save
 in response to transient disturbances to income
 and hence a small short-run multiplier.
-
 All this justified the conclusion that (i) though
 demand shocks might qualitatively work along
 the lines described by Keynes, quantitatively the
@@ -56,11 +49,9 @@ stock of money was kept on a steady growth
 path; (ii) fiscal policy actions, like other demand
 shocks, would have minor and transitory effects
 on demand, while changes in money would
-
 produce large and permanent effects on money
 income; and, therefore, (iii) the observed instability
 of the economy, which was anyway
-
 proving moderate as the postwar period unfolded,
 was most likely the result of the unstable
 growth of money, be it due to misguided endeavors
@@ -71,11 +62,9 @@ have been made irrelevant by abandoning fixed
 exchanges.
 
 B. The Demise of Wage Rigidity and the
-
 Vertical Phillips Curve
 
 But the most serious challenge came in
-
 Friedman's 1968 Presidential Address, building
 on ideas independently put forth also by Phelps
 (1968). Its basic message was that, despite appearances,
@@ -85,7 +74,6 @@ unemployment. The evidence to the contrary,
 including the Phillips curve, was but a statistical
 illusion resulting from failure to differentiate between
 price changes and unexpected price
-
 changes.
 
 Friedman starts out by reviving the Keynesian

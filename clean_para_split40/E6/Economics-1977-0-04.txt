@@ -4,7 +4,6 @@ example, John Hicks, the author, 1944), resulted
 from the interaction of a basic contribution
 to traditional monetary theory-liquidity
 preference-and an unorthodox hypothesis
-
 about the working of the labor market-complete
 downward rigidity of wages.
 
@@ -23,7 +22,6 @@ produce the required change in the real money
 supply-though even in this case, stability of the
 price level would require a countercyclical monetary
 policy. But, under the Keynesian wage
-
 assumption the classical adjustment through
 prices can occur only in the case of an increased
 demand. In the case of a decline, instead, wage
@@ -41,7 +39,6 @@ this equilibrium is elegantly captured by the
 Hicksian IS-LM paradigm, which to our generation
 of economists has become almost as familiar
 as the demand-supply paradigm was to
-
 earlier ones.
 
 This analysis implied that a fixed money supply
@@ -59,17 +56,13 @@ its interaction with LM, results in some decline
 in interest rates and thus in a change in income
 which is smaller than the original shift. The stabilizing
 power of this mechanism is controlled
-
 by various parameters of the system. In particular,
 the economy will be more unstable
-
 the greater the interest elasticity of demand for
 money, and the smaller the interest responsiveness
 of aggregate demand. Finally, a large
-
 multiplier is also destabilizing in that it implies
 a larger shift in IS for a given shock.
-
 However, the instability could be readily
 counteracted by appropriate stabilization policies.
 Monetary policy could change the nominal
@@ -77,19 +70,16 @@ supply of money so as to accommodate the
 change in real demand resulting from shocks in
 aggregate demand. Fiscal policy, through expenditure
 and taxes, could offset these shocks,
-
 making full employment consistent with the
 initial nominal money stock. In general, both
 monetary and fiscal policies could be used in
 combination. But because of a perceived uncertainty
 in the response of demand to changes in
-
 interest rates, and because changes in interest
 rates through monetary policy could meet difficulties
 and substantial delays related to expectations
 (so-called liquidity traps), fiscal policy
 was regarded as having some advantages.
-
 B. The Early Keynesians
 
 The early disciples of the new Keynesian
@@ -98,12 +88,9 @@ Depression, frequently tended to outdo Keynes'
 pessimism about potential instability. Concern
 with liquidity traps fostered the view that the demand
 for money was highly interest elastic;
-
 failure to distinguish between the short- and
 long-run marginal propensity to save led to overestimating
 the long-run saving rate, thereby
-
 fostering concern with stagnation, and to underestimating
 the short-run propensity, thereby
-
 exaggerating the short-run multiplier. Interest

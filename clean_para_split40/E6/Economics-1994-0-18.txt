@@ -6,25 +6,19 @@ phenomena, resulting in a
 lurching from one "steady state" to another
 rather than something smooth and exponential.
 The presence of locally increasing
-
 returns, network externalities, asymmetric
 information, and heterogeneous expectations,
 the appearance of new products and
-
 technologies, and the changes in the political
 and regulatory environments are all
-
 sources of such "excess" returns, while the
 ex post fixity of much of the investment in
 both physical and human capital causes capital
 gains and losses and unanticipated "obsolescence"
 in the various stocks. We will
-
 have to figure out how to take the residual
 apart along such lines to make more
-
 progress in understanding its proximate
-
 sources.
 
 Our theories tend to assume that we are,
@@ -32,12 +26,10 @@ indeed, at the frontier and that we can only
 either move along it or try to shift it, the
 latter being a difficult and chancy business.
 In fact we may be far from our existing
-
 "frontiers." Harvey Leibenstein's (1966)
 ideas about X-efficiency, or more correctly
 X-inefficiency, did not get much of a sympathetic
 ear from us. They were inconsistent
-
 with notions of equilibrium, the absence of
 unexploited profit opportunities, and the
 possibilities for economic arbitrage. But real
@@ -47,7 +39,6 @@ the devising of ways of closing them. How
 quickly they are eliminated depends on the
 strength of incentive systems within enterprises,
 and on their organizational quality.
-
 In spite of the large growth in the literature
 on organizations, we have not yet developed
 useful ways of quantifying their strengths
@@ -59,7 +50,6 @@ observed differences in productivity across
 nations.
 
 The "new" growth theories have various
-
 externalities as their centerpiece (see Solow
 [1991] for a recent review). It is somewhat
 ironic that they have come to the fore just
@@ -67,38 +57,28 @@ when growth started declining and notions
 of eternal exponential growth began to lose
 their luster. Knowledge externalities are obviously
 very important in the growth process,
-
 but they do not help us to explain what
-
 has happened in the last two decades. There
 is no reason to believe that they have declined
 over time. If anything, the communication
 and transportation advances should
-
 have expanded the availability of such externalities.
 22 But we have no good models for
-
 the measurement of such processes.
-
 Knowledge is not like a stock of ore,
-
 sitting there waiting to be mined. It is an
 extremely heterogenous assortment of information
 in continuous flux. Only a small part
-
 of it is of any use to someone at a particular
 point of time, and it takes effort and resources
 to access, retrieve, and adapt it to
-
 one's own use. Thus models of externalities
 must perforce be models of interaction between
 different actors in the economy. We
-
 have, however, very few convincing models
 of such interactions, and the identification
 problems are severe (see e.g., Charles Manski,
 1993). Our measurement frameworks
-
 are not set up to record detailed origin and
 destination data for commodity flows, much
 less so for information flows. We do have
@@ -108,7 +88,5 @@ citations to patents and the scientific literature
 currently active in the e-mail revolution and
 participating in the conferences and workshops
 circuit knows how small this tip is
-
 relative to the informal-communications
-
 iceberg itself.

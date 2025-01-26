@@ -5,23 +5,19 @@ be derived from fundamentals. They said that
 macroeconomic relationships should be derived
 from profit-maximizing by firms and from utilitymaximizing
 by consumers with economic arguments
-
 in their utility functions.
 
 The new methodology had a profound effect
 on macroeconomics. Five separate neutrality results
 overturned aspects of macroeconomics
-
 that Keynesians had previously considered incontestable.
 These five neutralities are: the independence
 of consumption and current income
-
 (the life-cycle permanent income hypothesis);
 the irrelevance of current profits to investment
 spending (the Modigliani-Miller theorem); the
 long-run independence of inflation and unemployment
 (natural rate theory); the inability of
-
 monetary policy to stabilize output (the rational
 expectations hypothesis); and the irrelevance of
 taxes and budget deficits to consumption (Ricardian
@@ -29,25 +25,19 @@ equivalence).6 These results fly in the face
 of Keynesian economics. They undermine its
 conclusions about the behavior of the economy
 and the impact of stabilization policy.
-
 The discovery of these five neutrality propositions
 surprised macroeconomists. They had
-
 not suspected that radically anti-Keynesian conclusions
 were the logical outcome of such seemingly
 innocuous maximizing assumptions.
-
 I. Neutralities and Preferences
-
 How did macroeconomists react to the discovery
 of the five neutralities? On the one hand,
 the New Classical economists viewed their neutrality
 results as a telltale: that Keynesian economists
 of the previous generation had been
-
 thinking in the wrong way. In their view, scientific
 reasoning was producing a new, leaner,
-
 more precise economics.
 
 On the other hand, Keynesian economists, for
@@ -72,7 +62,6 @@ market imperfections, information failures, tax
 distortions, staggered contracts, uncertainty,
 menu costs, and bounded rationality. This formulation
 preserves many (but not all) Keynesian
-
 conclusions regarding cyclical fluctuations and
 macroeconomic policy.
 
@@ -82,12 +71,10 @@ Classical and New Keynesian economics, it will
 derive behavior from utility and profit maximization.
 That captures the purposefulness of economic
 decisions. But this lecture will also
-
 question the generality of the preferences that
 lead to the five neutralities. There is a sense in
 which those preferences are very narrowly defined.
 They have important missing motivation-
-
 since they fail to incorporate the norms of
 the decision makers. Those norms reflect how
 the respective decision makers think they and
@@ -105,19 +92,14 @@ neutralities will be systematically violated. Specifically:
 * A realistic norm regarding consumption behavior
 will make consumption directly dependent
 on current income, in violation of the
-
 neutrality of consumption given wealth;
-
 * A realistic norm will make investment directly
 dependent on cash flow, in violation of
-
 Modigliani-Miller;
 
 * A realistic norm will make wages and prices
 dependent on nominal considerations and
-
 thus violate natural rate theory;
-
 6 Of course, it took some time for the implications of
 these neutrality results to be fully appreciated. For example,
 life-cycle consumption and Modigliani-Miller were initially

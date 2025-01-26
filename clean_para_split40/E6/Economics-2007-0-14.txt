@@ -10,7 +10,6 @@ culture for savings and consumption; in their
 regressions, variables reflecting culture have as
 much power as variables derived from the lifecycle
 hypothesis in explaining cross-country
-
 savings ratios.45
 
 Consumption Entitlements and Obligations.-
@@ -20,7 +19,6 @@ norms, we need to be more specific. What
 is the nature of those norms? They can frequently
 be described in two ways: as entitlements
 and, also sometimes, as obligations to
-
 spend. Again some examples will illustrate.
 First, oddly, people have obligations to
 spend. Social history is full of the obligation to
@@ -40,7 +38,6 @@ American Revolution.47
 In addition to obligations to spend, there are
 also entitlements. The lost-ticket paradox of
 Amos Tversky and Daniel Kahneman (1981,
-
 457) gives an illustration. Eighty-eight percent
 of respondents to a questionnaire said they would
 buy a $10 theater ticket if they arrived at a theater
@@ -66,11 +63,9 @@ think of themselves as responsible human beings.
 When they lose the ticket, they do not feel
 entitled to just buy another one. That is not the
 type of person they aspire to be.
-
 We should also observe that it is not coincidental
 that the lost ticket paradox could be explained
 both by mental accounting and by
-
 norms. Formally, any model of mental accounting
 can be translated into a model of norms: just
 replace the rules of mental accounting as the
@@ -79,7 +74,6 @@ But even though norms and mental accounting
 may be equivalent, interpretations in terms of
 norms are important for this lecture. Mental accounting
 has the connotation, whether rightly or
-
 wrongly, of being a heuristic for quick decisions.
 Such a heuristic will, of course, sometimes result
 in cognitive error. Whether rightly or wrongly,

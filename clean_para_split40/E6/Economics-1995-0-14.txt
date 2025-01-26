@@ -1,10 +1,7 @@
 VII. Liberties, Rights, and Preferences
-
 The need to integrate procedural considerations
 in consequential analysis is especially
-
 important in the field of rights and
-
 liberties. The violation or fulfillment of basic
 liberties or rights tends to be ignored in
 traditional utilitarian welfare economics not
@@ -23,7 +20,6 @@ of affairs.
 The initial formulation of social choice
 did not depart in this respect from the utilitarian
 heritage, but it is possible to change
-
 this within a broadly Arrovian framework
 (see Sen, 1970, 1982a), and a good deal of
 work has been done in later social choice
@@ -31,7 +27,6 @@ theory to accommodate the basic relevance
 of rights and liberties in assessing states of
 affairs, and thus to evaluate economic, political,
 and social arrangements. If a person is
-
 prevented from doing some preferred thing
 even though that choice is sensibly seen to
 be in her "personal domain," then the state
@@ -48,27 +43,20 @@ of another who is offended at his holding
 it."38 The need to guarantee some "minimal
 liberties" on a priority basis can be incorporated
 in social choice formulations.
-
 It turns out, however, that such unconditional
 priority being given even to minimal
-
 liberty can conflict with other principles of
 social choice, including the redoubtable
 Pareto principle. The "impossibility of the
 Paretian liberal" captures the conflict between
 (i) the special importance of a person'
-
 s preferences over her own personal
-
 sphere, and (ii) the general importance of
 people's preferences over any choice, irrespective
 of field. This impossibility theorem
-
 has led to a large literature extending, explaining,
 disputing, and ameliorating the result.
-
 39 The "ways out" that have been sought
-
 have varied between (i) weakening the priority
 of liberties (thereby qualifying the minimal
 liberty condition), (ii) constraining the
@@ -76,20 +64,16 @@ field-independent general force of preferences
 (thereby qualifying the Pareto principle)
 , and (iii) restricting the domain of permissible
 individual-preference profiles. As
-
 in the case of the Arrow impossibility problem,
 the different ways of resolving this conflict
 have variable relevance depending on
-
 the exact nature of the social choice exercise
 involved.
 
 There have also been attempts to redefine
 liberty in purely procedural terms. The
-
 last is an important subject on its own (quite
 independently of any use it might have
-
 as an attempt to resolve the impossibility),
 and I shall presently consider it. But as has
 37Utilities can be defined in terms of choices made,
@@ -113,7 +97,6 @@ economic welfare is made up of his utilities.
 spheres" goes back to Mill (see Riley, 1987), and more
 recently has found strong and eloquent expression in
 the writings of Friedrich Hayek (1960).
-
 39For general accounts of the literature, see Kelly
 (1978), Suzumura (1983, 1991), Wriglesworth (1985),
 Paul Seabright (1989), and Pattanaik and Suzumura

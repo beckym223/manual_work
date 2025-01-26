@@ -3,14 +3,11 @@ no place for modesty. Nevertheless, I must
 resist the temptation to describe the analysis
 I will report here as anything like a revolution.
 Perhaps terms such as "rebellion" or
-
 "uprising" are rather more apt. But, nevertheless,
 I shall seek to convince you that the
-
 work my colleagues, John Panzar and Robert
 Willig, and I have carried out and encapsulated
 in our new book enables us to look at
-
 industry structure and behavior in a way that
 is novel in a number of respects, that it
 provides a unifying analytical structure to
@@ -28,12 +25,10 @@ the substance and the exposition of the book
 in which the analysis is described in full. For
 others have made crucial contributions to the
 formulation of the theory-most notably
-
 Elizabeth Bailey, Dietrich Fischer, Herman
 Quirmbach, and Thijs ten Raa.
 
 But there are many more than these. No
-
 uprising by a tiny band of rebels can hope to
 change an established order, and when the
 time for rebellion is ripe it seems to break
@@ -42,20 +37,15 @@ variety of disconnected centers each offering
 its own program for the future. Events here
 have been no different. I have recently received
 a proposal for a conference on new
-
 developments in the theory of industry structure
 formulated by my colleague, Joseph
-
 Stiglitz, which lists some forty participants,
 most of them widely known. Among those
-
 working on the subject are persons as well
 known as Caves, Dasgupta, Dixit, Friedlaender,
 Grossman, Hart, Levin, Ordover,
-
 Rosse, Salop, Schmalensee, Sonnenschein,
 Spence, Varian, von Weiszacker, and
-
 Zeckhauser, among many others.' It is, of
 course, tempting to me to take the view that
 our book is the true gospel of the rebellion
@@ -78,7 +68,6 @@ the common cause.
 
 Turning now to the substance of the theory,
 let me begin by contrasting our results
-
 with those of the standard theory. In offering
 this contrast, let me emphasize that much of
 the analysis rests on work that appeared

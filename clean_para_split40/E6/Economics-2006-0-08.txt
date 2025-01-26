@@ -1,6 +1,5 @@
 understanding economic choice behavior. It already
 seems to confirm and explain, however,
-
 that brain structure and chemistry are behind
 some systematic anomalies in economic behavior,
 particularly failures to form perceptions and
@@ -10,12 +9,10 @@ or ambiguous outcomes, failures to recall
 or anticipate in full color the sensations that
 outcomes produce, and the quick adaptation to
 circumstance, the hedonic treadmill.
-
 IV. Personal Risk
 
 What information consumes is rather obvious:
 it consumes the attention of its
-
 recipients. Hence a wealth of information
 creates a poverty of attention, and a need
 to allocate that attention efficiently among
@@ -26,24 +23,19 @@ Herbert Simon, 1971
 
 A large literature from behavioral economics
 and psychology finds that people
-
 often make inconsistent choices, fail to
 learn from experience, exhibit reluctance
 to trade, base their own satisfaction on
 how their situation compares with others',
 and in other ways depart from the standard
 model of the rational economic
-
 agent. If people display bounded rationality
 when it comes to maximizing
 
 utility, then their choices do not necessarily
 reflect their "true" preferences,
-
 and an exclusive reliance on choices to
-
 infer what people desire loses some of
-
 its appeal.
 
 Daniel Kahneman and
@@ -56,12 +48,10 @@ meeting of minds than an optimizing computer,
 follows and supports behavioral evidence from
 cognitive psychology and experimental economics
 showing that humans are, well, all too
-
 human in the ways they retrieve and evaluate
 information, and process decisions.2 In over-
 view, these studies suggest that homo economicus-
 sovereign in tastes, steely-eyed and
-
 point-on in perception of risk, and relentless in
 maximization of happiness-is a rare species.
 While consumer behavior in familiar market
@@ -77,11 +67,9 @@ have been shaped by evolutionary selection and
 experience. These heuristics often work. For
 example, two of my rules which seem successful
 are: "Never buy a Rolex from a street
-
 vender" and "Never accept an e-mail offer to
 transfer millions of dollars to my bank account.
 " However, throw the consumer a curve
-
 ball, in the form of a question that fails to fit a
 standard heuristic for market response, and the
 essential "irrationality" of the organism is revealed.
@@ -97,10 +85,8 @@ tion of self-interest.
 
 Most of the evidence on consumer decisionmaking
 comes from laboratory experiments.
-
 Economists reviewing the experimental evidence
 sometimes comment that markets punish
-
 inconsistencies, and consumers learn to avoid
 them. They then conclude that while these flaws
 may appear in experiments, they are not important

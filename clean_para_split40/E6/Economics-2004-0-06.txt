@@ -4,7 +4,6 @@ since the political process is not equivalent to a
 consistent approach to policy over time (which,
 it seems to me, is an essential property of democracy
 given divergent preferences and
-
 views), we must consider issues from multiple
 perspectives.11
 
@@ -39,10 +38,8 @@ for investing for different lengths of time
 (that is, including an illiquidity premium). Anyone
 investing for some period of time (for example,
 bank certificates of deposit, insurance
-
 contracts, mutual funds with an early withdrawal
 penalty, direct loans) could wonder how
-
 much more might be paid if the investor were
 still alive provided there was no payment at all
 if the investor were no longer alive. With a
@@ -62,7 +59,6 @@ before reaching the end of the contract period
 and little cost for checking whether the investor
 is still alive, it would be worthwhile for a borrower
 (bank, insurance company, mutual fund,
-
 or direct borrower) to offer some additional
 payment in return for being freed from payment
 in the event of the death of the investor.
@@ -82,14 +78,12 @@ that guarantees payments over the rest of one's
 life. But the argument is much broader than that
 (Thomas Davidoff et al., 2003). Moreover, simulations
 show a sizable quantitative importance
-
 of annuity opportunities.
 
 People do care about their children. But, a
 bequest motive does not eliminate the advantage
 of some annuitization. With a bequest motive
 and complete Arrow-Debreu markets, one
-
 would determine how much of one's lifetime
 budget constraint to give away and when to give
 it (e.g., when children reach some age). It would
@@ -103,7 +97,6 @@ all of one's own planned consumption. That is,
 having a bequest motive is not a basis for doing
 no annuitization in a complete market settingunless
 one was roughly risk neutral about both
-
 the amount of bequest and its timing. Without
 complete markets, a willingness to invest in
 illiquid assets for future consumption leads to

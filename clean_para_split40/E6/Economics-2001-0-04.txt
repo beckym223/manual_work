@@ -19,7 +19,6 @@ source of U.S. economic growth throughout the
 postwar period. More rapid substitution toward
 information technology has given much additional
 weight to components of capital input
-
 with higher marginal products. The vaulting
 contribution of capital input since 1995 has
 boosted growth by nearly a full percentage
@@ -28,23 +27,19 @@ than half of this increase. Computers have been
 the predominant impetus to faster growth, but
 communications equipment and software have
 made important contributions as well.
-
 The accelerated information technology price
 decline signals faster productivity growth in
 IT-producing industries. In fact, these industries
 have been the source of most of aggregate productivity
 growth throughout the 1990's. Before
-
 1995 this was due to the decline of productivity
 growth elsewhere in the economy. The ITproducing
 industries have accounted for about
-
 half the surge in productivity growth since 1995,
 but faster growth is not limited to these industries.
 I conclude that the decline in IT prices will
 continue for some time. This will provide incentives
 for the ongoing substitution of IT for
-
 other productive inputs. Falling IT prices also
 serve as an indicator of rapid productivity
 growth in IT-producing industries. However, it
@@ -62,7 +57,6 @@ to the massive impact of IT on firms and product
 markets. Highest priority must be given to a
 better understanding of the markets for semiconductors.
 Although several models of the
-
 market for semiconductors already exist, none
 explains the shift from a three-year to a twoyear
 product cycle.
@@ -82,11 +76,9 @@ I. The Information Age
 
 The development and deployment of information
 technology is the foundation of the
-
 American growth resurgence. A mantra of the
 "new economy"-faster, better, cheaper-captures
 the speed of technological change and
-
 product improvement in semiconductors and
 the precipitous and continuing fall in semiconductor
 prices. The price decline has been transmitted
@@ -94,7 +86,6 @@ to the prices of products that rely heavily
 on semiconductor technology, like computers
 and telecommunications equipment. This technology
 has also helped to reduce the cost of
-
 aircraft, automobiles, scientific instruments, and
 a host of other products.
 
@@ -106,7 +97,6 @@ or bit takes the values zero and one, corresponding
 to the off and on positions of a switch. The
 first transistor, made of the semiconductor germanium,
 was constructed at Bell Labs in 1947
-
 and won the Nobel Prize in Physics in 1956 for
 the inventors-John Bardeen, Walter Brattain,
 and William Shockley.4

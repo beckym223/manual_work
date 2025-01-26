@@ -11,7 +11,6 @@ The infant mortality rate for 30 low-income
 developing countries, including China, in
 1960 was 157 per thousand births and it declined
 by 62 percent to 62 in 1996 (IJNDP,
-
 1998). The infant mortality rate in 1900 in
 nine European countries ranged from a low of
 121 in Denmark to a high of 216 in Austria
@@ -24,14 +23,12 @@ of Cities in the Developing World" (Martin
 Brockerhoff and Ellen Brennan, 1997). Yet
 the study revealed that cities with a population
 of a million or more included in their
-
 sample had an infant mortality rate of 60 per
 thousand births in the 1990's (Brockerhoff
 and Brennan, 1997 p. 24). Two comparisons
 are relevant. Estimates of infant mortality for
 the first decade of the twentieth century were
 500 to 600 for Bombay and 350 to 400 in
-
 Singapore (Bairoch, 1988 p. 450). The infant
 mortality rate in New York City at the beginning
 of the twentieth century was 264 (Weber,
@@ -74,15 +71,12 @@ seven industrial countries ranged from 46 to 51
 years (World Bank, 1998). Furthermore, the
 improvements in infant mortality and life expectancy
 have been achieved at lower levels of
-
 real per capita incomes than those prevailing in
 the developed countries at the beginning of the
 twentieth century (Maddison, 1995). The
-
 knowledge about the benefits of clean water and
 sanitation has been widely distributed and investments
 have been made to make those benefits
-
 widely available."
 
 Since the late 1940's there has been greater

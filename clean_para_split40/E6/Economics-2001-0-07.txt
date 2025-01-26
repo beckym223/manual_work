@@ -2,11 +2,9 @@ Statistics (BLS) incorporated a matched model
 price index for semiconductors into the Producer
 Price Index (PPI) and since then the national
 accounts have relied on data from the
-
 PPI. Reflecting long-standing BLS policy, historical
 data were not revised backward. Semiconductor
 prices reported in the PPI prior to
-
 1997 do not hold quality constant, failing to
 capture the rapid semiconductor price decline
 and the acceleration in 1994.
@@ -20,17 +18,13 @@ The sale of Intel's 8086-8088 microprocessor
 to IBM in 1978 for incorporation into the PC
 was a major business breakthrough for Intel.
 12 In 1981 IBM licensed the MS-DOS
-
 operating system from the Microsoft Corporation,
 founded by Bill Gates and Paul Allen
-
 in 1975. The PC established an Intel/
-
 Microsoft relationship that has continued up
 to the present. In 1985 Microsoft released the
 first version of Windows, its signature operating
 system for the PC, giving rise to the
-
 Wintel (Windows-Intel) nomenclature for this
 ongoing collaboration.
 
@@ -53,7 +47,6 @@ hedonic techniques for constructing a constant
 quality index of computer prices in research
 conducted at IBM. Chow documented price declines
 at more than 20 percent per year during
-
 1960-1965, providing an initial glimpse of the
 n'k ~~~~~~~~~13
 
@@ -61,7 +54,6 @@ remarkable behavior of computer prices. In
 1985 the Bureau of Economic Analysis incorporated
 constant quality price indexes for computers
 and peripheral equipment constructed by
-
 Rosanne Cole et al. (1986) of IBM into the
 NIPA. Triplett (1986) discussed the economic
 interpretation of these indexes, bringing the
@@ -71,17 +63,14 @@ of a very broad audience.
 The BEA-IBM constant quality price index
 for computers provoked a heated exchange between
 BEA and Edward F. Denison (1989), one
-
 of the founders of national accounting methodology
 in the 1950's and head of the national
-
 accounts at BEA from 1979 to 1982. Denison
 sharply attacked the BEA-IBM methodology
 and argued vigorously against the introduction
 of constant quality price indexes into the national
 accounts.14 Allan Young (1989), then Director
 of BEA, reiterated BEA's rationale for
-
 introducing constant quality price indexes.
 Dulberger (1989) presented a more detailed
 report on her research on the prices of computer
@@ -100,13 +89,11 @@ Figure 2 gives BEA's constant quality index
 of prices of computers and peripheral equipment
 and its components, including mainframes,
 PC's, storage devices, other peripheral
-
 equipment, and terminals. The decline in computer
 prices follows the behavior of semiconductor
 prices presented in Figure 1, but in much
 attenuated form. The 1995 acceleration in the
 computer price decline parallels the acceleration
 in the semiconductor price decline that
-
 resulted from the changeover from a three-year
 product cycle to a two-year cycle in 1995.

@@ -1,7 +1,6 @@
 C. Prices
 
 We have just seen that employees' norms
-
 regarding nominal wages may affect bargained
 real wages, and therefore cause trade-offs between
 long-run inflation and long-run unemployment.
@@ -12,13 +11,11 @@ between output and inflation.
 Indeed, models by Katsuhito Iwai (1981),
 Julio J. Rotemberg (1982), and Andrew S. Caplin
 and John Leahy (1991) all have long-run
-
 trade-offs between inflation and unemployment.
 Each of these models assumes that there are real
 costs to nominal price changes. If, instead, there
 were real costs to real price changes, the assumptions
 of natural rate theory would still be
-
 satisfied, and no such trade-off would occur.
 These models then pose the question why there
 should be such real costs from nominal price
@@ -32,18 +29,15 @@ give an alternative reason why these costs
 might--indeed-be of sufficient size to induce
 a significant long-run trade-off between inflation
 and unemployment. Customers may think
-
 that firms should not raise prices. In that case,
 price increases (or increases of greater size) are
 likely to induce angry customers to search for
 alternative suppliers. At higher steady-state inflation,
 firms will be changing their nominal
-
 prices more, and therefore will face more elastic
 demands for their product. Producers' natural
 microeconomic response to this increased elasticity-
 a lower price for their product-will
-
 produce a macroeconomic trade-off between inflation
 and aggregate demand.
 
@@ -58,29 +52,23 @@ price change. Like wage changes, price changes
 also agglomerate at zero. Dennis Carlton (1986)
 has shown that prices are often sticky for significant
 periods of time.81 Furthermore, prices
-
 seem to be especially sticky in customer markets.
 82 Alan Kackmeister (2002) has compared
-
 price changes at the end of the nineteenth century
 to such changes a bit more than a century
 later. Price changes of specific goods at retail
 stores were recorded from June 1889 to September
 1891; Kackmeister revisited the same
-
 commodities and their price change for a comparable
 period, from June 1997 to September
-
 1999. Price change in the late twentieth century
 was five times more frequent than a century
 earlier. Furthermore, in the nineteenth century,
 the average spell of constant price for an individual
 good was very long. It was approximately
 80 months.83 Such constancy of prices
-
 can easily be explained by customer norms regarding
 price change. The customers have a
-
 notion of the price that they ought to pay at
 stores where they are continued and knowing
 customers. Kackmeister suggests that the decline
@@ -89,12 +77,10 @@ factor responsible for greater frequency of price
 change today.
 
 Emi Nakamura and J6n Steinsson (2005)
-
 give an economic reason why customers would
 have such a norm that firms should not change
 prices. They view consumer purchases as habitforming.
 Thus, by buying a particular brand, or
-
 patronizing a particular store, consumers are
 putting themselves in a position where they can
 be exploited. Their loyalty puts the firm in a

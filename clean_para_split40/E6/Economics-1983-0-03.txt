@@ -1,5 +1,4 @@
 When I began to study economics, in the
-
 1930's, macroeconomics certainly existed, in
 the works of such luminaries as Wicksell,
 Fisher, Robertson, and the early Keynes. But
@@ -8,7 +7,6 @@ economics in which one might specialize; nor
 was it regarded as necessary for the education
 of an economist. Thus, like almost everyone
 else, I began professional life as a
-
 price-theorist. The principal alternative was
 to become an institutionalist; and that didn't
 particularly attract me. Only later, and somewhat
@@ -17,28 +15,23 @@ by accident, did I become a macroeconomist.
 
 Ever since the emergence of macroeconomics
 as a distinct and (almost) respectable
-
 branch of analysis, there has been a conscious
 tension between macroeconomics and
-
 microeconomics; much of this tension relates
 to the roles and the behavior of prices and of
 the price level. Surely, it cannot be said that
 macroeconomics ignores prices and price
-
 changes, as is sometimes suggested. Milton
 Friedman and his monetarist associates and
 followers-who are macroeconomists of the
 first water-surely do not ignore prices. And
 the patron saint of my kind of macroeconomics,
 John Maynard Keynes, also certainly
-
 paid a great deal of attention to both relative
 prices and the price level. My concern with
 prices here, however, is not with inflation,
 but rather with the price-theoretical foundations
 of macroeconomics. Essentially, I will
-
 be discussing some of the roles that microeconomists
 and macroeconomists see for
 
@@ -46,10 +39,8 @@ prices, and particularly for price changes.
 Price theory has moved a long way since I
 deserted it, and I no longer claim any expertise
 in this area. But I have the impression
-
 that many current problems both in microand
 macroeconomics tend to be the same
-
 problems-looked at from opposite sides of
 the borderline between them. Thus I propose
 to lead us on a stroll along some sectors of
@@ -63,7 +54,6 @@ should be welcome.
 But it is not an imaginary country that I
 propose we visit. We will see no Walrasian
 auctioneers, although we will see many
-
 markets that seem to work pretty well without
 them. On the other hand, we will see very
 few wage rates being frequently revised; and
@@ -73,7 +63,6 @@ markups over unit costs. In general, we will
 observe that the population of this country is
 neither very much brighter-nor much more
 stupid-than you and I are, in our own
-
 economic decisions.
 
 Some aspects of the problems that I will
@@ -92,10 +81,8 @@ I start with the prices and inventories of
 standardized commodities.
 
 I. Commodity Prices and Inventories
-
 Economists often find it useful to think of
 the quantities of a commodity supplied to a
 competitive market as consisting of a supply
 from current production plus a possible
-
 supply from inventory; and the market demand,

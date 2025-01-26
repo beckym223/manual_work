@@ -13,7 +13,6 @@
 -0.20 --
 
 1948-i3 197340 1990405 1995-99
-
 ONon-IT P cMl arT Produ
 
 FIGURE 10. CONTRIBUTIONS OF INFORMATION TEcHNoLoGY To TOTAL FACTOR PRODucTIviTy GRowTH
@@ -28,19 +27,15 @@ slower improvement in labor quality. Growth in
 hours worked accelerated as unemployment fell to
 a 30-year low. Labor markets have tightened considerably,
 even as labor-force participation rates
-
 increased.37
 
 The contribution of capital input reflects the
 investment boom of the late 1990's as businesses,
 households, and governments poured
-
 resources into plant and equipment, especially
 computers, software, and communications
-
 equipment. The contribution of capital, predominantly
 IT, is considerably more important than
-
 the contribution of labor. The contribution of IT
 capital services has grown steadily throughout
 the period 1948-1999, but Figure 9 reflects the
@@ -70,6 +65,5 @@ per year for 1948-1999, while hours increased
 about 1.4 percent per year. As shown in equation
 (3), ALP growth depends on capital deepening,
 a labor-quality effect, and TFP growth.
-
 37 Katz and Krueger (1999) analyze the recent performance
 of the U.S. labor market.

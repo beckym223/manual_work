@@ -7,7 +7,6 @@ theorists there is slightly more agreement on
 policy, but not as much as among practicing
 physicians who, contrary to both groups of economists,
 show more agreement on policy-value
-
 than on positive questions.
 
 The contrasts between the replies by group
@@ -18,10 +17,8 @@ agreeing and the percentage disagreeing.
 Among health economists the extent of consensus
 for the positive questions is significantly
 larger than for the policy-value
-
 questions regardless of whether the comparison
 is between means or medians. Although
-
 the sample sizes are very small (7 and 13 ), the
 differences by type of question are so large we
 can reject the null hypothesis with considerable
@@ -31,20 +28,16 @@ It is also worth noting that the extent of
 agreement among health economists on the
 positive questions is much higher than is usually
 found in surveys of economists covering
-
 a wide variety of fields. For example, in a
 survey conducted by Richard M. Alston et al.
 (1992) the authors identify ten questions as
 "micro-positive" and seven as "micronormative.
 "28 In order to achieve comparability
-
 between their survey and mine, I
-
 combined their "agree, with provisos" with
 their "agree," and then calculated the mean
 absolute difference between percentage agreeing
 and percentage disagreeing.29 This difference
 (22 percentage points) was much smaller
-
 (and less statistically significant) than the difference
 I found for the health economists.

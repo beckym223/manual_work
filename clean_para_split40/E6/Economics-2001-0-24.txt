@@ -2,7 +2,6 @@ importance of IT has steadily increased, Figure
 6 shows that the recent investment and consumption
 surge nearly doubled the output contribution
 of IT. Figure 7 shows that computer
-
 investment is the largest single IT contributor in
 the late 1990's, but that investments in software
 and communications equipment are becoming
@@ -11,10 +10,8 @@ increasingly important.
 Figures 8 and 9 present a similar decomposition
 of IT inputs into production. The contribution
 of these inputs is rising even more
-
 dramatically. Figure 8 shows that the contribution
 of IT now accounts for more than 48.1
-
 percent of the total contribution of capital input.
 Figure 9 shows that computer hardware is the
 largest IT contributor on the input side, reflecting
@@ -25,14 +22,11 @@ the output of IT, as shown by Jorgenson and
 Stiroh (1999, 2000b).33 Household purchases of
 IT equipment and services are next in importance.
 Government purchases of IT equipment
-
 and services, as well as net exports of IT products,
 must be included in order to provide a
-
 complete picture. Firms, consumers, governments,
 and purchasers of U.S. exports are responding
 to relative price changes, increasing
-
 the contributions of computers, software, and
 communications equipment.
 
@@ -45,9 +39,7 @@ period 1995-1999, while non-IT prices rose 2.2
 percent. In response to these price changes,
 firms, households, and governments have accumulated
 computers, software, and communications
-
 equipment much more rapidly than other
-
 forms of capital.
 
 E. Total Factor Productivity
@@ -57,7 +49,6 @@ measurement makes it possible to identify the
 role of IT production as a source of productivity
 growth at the industry level.34 The rate of productivity
 growth is measured as the decline in
-
 the price of output, plus a weighted average of
 the growth rates of input prices with value
 shares of the inputs as weights. For the computer
@@ -69,20 +60,16 @@ is dominated by the decline in the price of
 semiconductors.35
 
 Jorgenson et al. (1987) have employed
-
 Domar's (1961) model to trace aggregate productivity
 growth to its sources at the level of
-
 individual industries.36 More recently, Harberger
 (1998), William Gullickson and Michael
-
 J. Harper (1999), and Jorgenson and Stiroh
 (2000a, 2000b) have used the model for similar
 purposes. Productivity growth for each industry
 is weighted by the ratio of the gross output of
 the industry to GDP to estimate the industry
 contribution to aggregate TFP growth.
-
 If semiconductor output were only used to
 produce computers, then its contribution to
 computer-industry productivity growth, weighted
@@ -92,15 +79,11 @@ TFP growth. This is the ratio of the value of
 semiconductor output to GDP, multiplied by the
 rate of semiconductor price decline. In fact, semiconductors
 are used to produce telecommunications
-
 equipment and many other products.
-
 However, the value of semiconductor output is
 dominated by inputs into IT production.
-
 The Domar aggregation folmula can be approximated
 by expressing the declines in prices of
-
 computers, communications equipment, and software
 relative to the price of gross domestic income,
 an aggregate of the prices of capital and

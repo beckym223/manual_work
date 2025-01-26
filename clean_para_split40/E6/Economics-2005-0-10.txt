@@ -69,16 +69,13 @@ and older workers who are not in the top 35
 wage-indexed earning years of their life, the
 basis on which Social Security benefits are calculated,
 as well as working women who will
-
 eventually claim benefits based on their husbands'
 earnings.
 
 Although an unfunded notional defined contribution
 system would provide some remedy,
-
 the very low implicit rate of return in an unfunded
 system implies that the payroll tax
-
 would retain much of its distorting character. A
 pay-as-you-go plan that substitutes a 2-percent
 real return for private saving that would otherwise
@@ -94,7 +91,6 @@ The relevant elasticity is therefore much larger than the elas-
 ticity of saving. If saving does not respond to changes in the net
 interest rate, the relevant compensated elasticity is equal to one
 minus the marginal propensity to save.
-
 " The formula for the increase in the deadweight loss is
 0.5 E (t22 - t12) TLI/(1 - t,) where TLI is taxable labor
 income, t2 = 0.442 and t, = 0.377. With TLI equal to 40

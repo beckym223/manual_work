@@ -3,12 +3,10 @@ for long-lived fixed investments, and the
 interest elasticity was deemed to be low. Thus,
 shocks were believed to produce a large response.
 Finally, investment demand was seen as
-
 capriciously controlled by "animal spirits,"
 thus providing an important source of shocks.
 All this justified calling for very active stabilization
 policies. Furthermore, since the very
-
 circumstances which produce a large response to
 demand shocks also produce a large response to
 fiscal and a small response to monetary actions,
@@ -33,7 +31,6 @@ to be known as the Phillips curve. This relation,
 and its generalization by Richard Lipsey to allow
 for the effect of recent inflation, won wide acceptance
 even before an analytical underpinning
-
 could be provided for it, in part because it could
 account for the "puzzling" experience of 1954
 and 1958, when wages kept rising despite the
@@ -65,7 +62,6 @@ unique Full Employment but rather a whole
 family of possible equilibrium rates, each associated
 with a different rate of inflation (and requiring,
 presumably, a different long-run
-
 growth of money). It also impaired the notion of
 a stable underemployment equilibrium. A fall in
 demand could still cause an initial rise in unemployment
@@ -81,7 +77,6 @@ through stabilization policies rather than
 by relying on the slow process of wage adjustment
 to do the job, at the cost of protracted unemployment
 and instability of prices. Indeed,
-
 the realm of stabilization policies appeared to expand
 in the sense that the stabilization authority
 had the power of choosing the unemployment

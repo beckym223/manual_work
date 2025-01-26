@@ -1,9 +1,7 @@
 than a third of either the market or the household
 labor once required (Fogel, 2000).
-
 Table 4 shows how sharply the U.S. distribution
 of consumption has changed over the
-
 past 120 years. Food, clothing, and shelter,
 which accounted for about three-quarters of
 consumption in 1875, accounted for just 12
@@ -22,17 +20,13 @@ of household consumption in two principal
 respects. Official tabulations, with minor
 exceptions, are limited to the out-of-pocket expenditures
 of households. Table 4, however,
-
 adds expenditures for education and health
 care consumed by households but paid by government,
 employers, and other third parties.
-
 My procedure does little to change the distribution
 of consumption in 1875 but significantly
 increases the education and health-care
-
 shares of consumption in 1995.8
-
 Table 4 also differs from official tabulations
 by adding to the value of out-of-pocket expenditures
 on leisure, the value of the time devoted
@@ -40,7 +34,6 @@ to leisure (volwork). That time is priced
 at the average hourly rate of compensation of
 labor. The procedure increases the share of leisure
 in consumption in both 1875 and 1995.
-
 While leisure (volwork) remains a relatively
 small share of expanded consumption in 1875,
 
@@ -58,19 +51,16 @@ of this address. That omission also leads to a
 significant underestimate of the long-term
 growth rate of per capita income. Before adjustments
 for the increased quality of volwork,
-
 the growth rate is increased by eight-tenths of
 a point (from 1.8 to 2.6 percent per annum).
 But adjustments for improvements in the quality
 of volwork might substantially increase
-
 that figure, since leisure-time activities in 1875
 were limited largely to church on Sundays and
 carousing in bars during the rest of the week
 (cf., Fogel, 2000). Despite some important
 contributions to the development of an economics
 of leisure (cf., Gary S. Becker, 1991;
-
 Costa, 1998a, c; Daniel S. Hamermesh, 1998;
 John Pencavel, 1998), the profession has far
 to go before it catches up with the economy.

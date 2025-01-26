@@ -4,7 +4,6 @@ measurement questions and goes directly to an
 estimation of the importance of nominal shocks
 in general, those we know how to measure and
 those we do not, whatever they may be.
-
 A second reason for preferring the procedure
 Shapiro and Watson used is that the effects of
 nominal shocks as they estimate them include
@@ -12,7 +11,6 @@ the effects of real shocks that could have been
 offset by monetary policy but were not. Whatever
 it is that keeps prices from rising in proportion
 to a given increase in money must also
-
 keep relative prices from adjusting as neoclassical
 theory would predict they should to, say,
 an increase in the OPEC-set price of oil. Effects
@@ -56,7 +54,6 @@ tput variance are proposed.
 technology shocks, based on comovements of
 production and labor input over the cycle.
 Shapiro and Watson find that at most 30
-
 percent of cyclical output variability can be
 attributed to nominal shocks. Working from the
 opposite direction, Prescott and Aiyagari conclude
@@ -67,10 +64,8 @@ appear, because there are important real factors
 besides technological shocks-shocks to the tax
 system, to the terms of trade, to household technology,
 or to preferences-that are cyclically
-
 important but not captured in either of the categories
 I have considered so far.l? Even so, on
-
 the basis of this evidence I find it hard to imagine
 that more than 30 percent of the cyclical
 variability observed in the postwar United
@@ -82,9 +77,7 @@ IV. Risk Aversion
 
 The estimate of the potential gains from stabilization
 reviewed in Section II rests on assumed
-
 consumer preferences of the constant
-
 relative risk aversion (CRRA) family, using but
 two parameters-the subjective discount rate p
 and the risk-aversion coefficient y-to characterize

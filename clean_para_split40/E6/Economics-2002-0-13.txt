@@ -12,7 +12,6 @@ unbundled into such components. We do not see
 easy chairs in autos and bucket seats in living
 rooms. No "arbitrage" opportunities are available
 for trading comfort in one kind of good
-
 with comfort in an entirely different class of
 goods, because those characteristics cannot be
 untied from the larger bundle of attributes for
@@ -35,12 +34,10 @@ against the IRS is not, however, reassuring
 in this regard. Once again the bundling of personal
 productivity characteristics and the impossibility
 of untying bundles and repackaging
-
 them into something else is crucial. The marginal
 products of underlying factors vary across
 activities-strength is more important to professional
 athletes than to accountants-and the
-
 shadow prices of these factors vary across activities
 as well. Thus, athletes are stronger than
 accountants and accountants have more quantitative
@@ -58,14 +55,12 @@ in some forms of athletics, while arithmetic
 skills and attention to detail give other people
 comparative advantage in accounting. Comparative
 advantage has interesting consequences.
-
 For one, people observed in various job and
 educational categories tend to be selected and
 stratified by the personal attributes that give
 them a competitive edge in a specific field. A
 person's financial self-interest is served by selecting
 the occupation that maximizes expected
-
 earnings. If this is a major consideration in
 occupational choice (though certainly not the
 only one), observed earnings of individuals who
@@ -81,21 +76,17 @@ between people with more and less education.
 As seen above, if all people were identical, the
 education-earnings premium would be sustained
 by the supply conditions that pay must
-
 compensate for incurring the costs of investment
 to equalize net advantages across trades.
 When people differ, things are more complicated.
 Those who expect the largest returns on
-
 their educational investments are more likely to
 make them. Ability rents persist in equilibrium.
 There are two main reasons why rates of
-
 return to human-capital investments and human
 wealth differ among people. First, natural talents
 complement occupation-specific humancapital
 investments in different ways. Verbal
-
 ability is indispensable for lawyers and quantitative
 ability for engineers and scientists, for
 example. People with greater endowments of
@@ -105,16 +96,12 @@ there are "ability" rents in occupational choices.
 Wage differences are not fully equalizing on the
 costs of acquiring skills because natural endowments
 and premarket investments cause these
-
 costs to differ among people. Second, there are
 substantial financial barriers to educational investments
 because human capital is not legal
-
 collateral for investment loans. The main manifestation
 of this is traditionally seen in high
-
 stratification of educational attainments of children
 according to parental wealth. Financing
-
 difficulties cause inefficiencies and inequities in
 human-capital investment decisions because

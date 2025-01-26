@@ -47,10 +47,8 @@ call for eliminating such a mandate. After a
 discussion of a framework for thinking about
 Social Security (Section I), I will consider annuitization
 (Section II), treatment of the family
-
 (Section III), the interaction among income distribution,
 insurance, and labor supply (Section
-
 IV), the degree of funding (Section V), and
 adjustments over time to benefits and taxes
 (Section VI).3 Not
@@ -66,7 +64,6 @@ Insurance program, which is a critical part of
 Social Security.
 
 I. Providing Retirement Income
-
 One-third of the elderly received at least 90
 percent of their income from Social Security in
 2001, with nearly two-thirds receiving at least

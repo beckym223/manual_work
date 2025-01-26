@@ -34,7 +34,6 @@ a constant money growth the economy was far
 from stable-in fact, it was distinctly less stable
 than actual experience, by a factor of 50 percent.
 B. The Overall Effectiveness of Postwar
-
 Stabilization Policies
 
 But even granted that a smooth money supply
@@ -58,7 +57,6 @@ is the one developed in Friedman's Presidential
 Address (1968). An attempt at stabilizing the
 economy at full employment is bound to be destabilizing
 because the full employment or
-
 natural rate is not known with certainty and is
 subject to shifts in time; and if we aim for the
 incorrect rate, the result must perforce be explosive
@@ -71,7 +69,6 @@ hiding.
 This argument, I submit, is nothing but a
 debating ploy. It rests on the preposterous assumption
 that the only alternative to a constant
-
 money growth is the pursuit of a very precise
 unemployment target which will be adhered to
 indefinitely no matter what, and that if the target

@@ -4,7 +4,6 @@ larger than the error of estimate for quarterly
 rates! To be sure, in the first quarter of 1975 the
 growth fell to .6 percent. But, by then, the violent
 contraction was well on its way-between
-
 September 1974 and February 1975, industrial
 production fell at an annual rate of 25 percent.
 Furthermore, by the next quarter, monetary
@@ -16,7 +15,6 @@ substantial leads. But even then, by anybody's
 model, a one-quarter dip in the growth of money
 could not have had a perceptible effect.
 B. What Macro Stabilization Policies
-
 Can Accomplish, and How
 
 But recognizing that the adherence to a stable
@@ -35,7 +33,6 @@ there exists in principle an ideal policy which
 avoids all social costs, namely to offset completely
 the shock thus, at the same time, stabilizing
 employment and the price level. There
-
 may be disagreement as to whether this target
 can be achieved and how, but not about the
 target itself.
@@ -75,7 +72,6 @@ have proved disappointing. The design of better
 alternatives is probably the greatest challenge
 presently confronting those interested in stabilization.
 However, these policies fall outside my
-
 present concern. Within the realm of aggregate
 demand management, the only choice open to
 society is the cruel one between alternative feasible
@@ -86,13 +82,10 @@ the chosen path.
 
 In light of the above, we may ask: is it conceivable
 that a constant rate of growth of the
-
 money supply will provide a satisfactory response
 to price shocks in the sense of giving
-
 rise to an unemployment-inflation path to which
 the country would object least?
-
 C. The Monetarist Prescription: Or, Constant
 Money Growth Once More
 

@@ -1,7 +1,6 @@
 reduced form equations relying on just two exogenous
 variables are very unreliable for the purpose
 of estimating structure, nor are they
-
 particularly accurate for forecasting, though per
 dollar of research expenditure they are surprisingly
 good. Second, if the St. Louis people want
@@ -19,7 +18,6 @@ result in a stable economy only in the absence of
 significant exogenous shocks. But obviously the
 economy has been and will continue to be exposed
 to many significant shocks, coming from
-
 such things as war and peace, and other large
 changes in government expenditure, foreign
 trade, agriculture, technological progress, population
@@ -46,7 +44,6 @@ A more feasible, if less conclusive approach
 might be to look for some extended periods in
 which the money supply grew fairly smoothly
 and see how the economy fared. Combing
-
 through our post-Korean War history, I have
 been able to find just two stretches of several
 years in which the growth of the money stock
@@ -76,7 +73,6 @@ was roughly twice as large if measured by the
 average deviation of four quarter changes, and
 some five times larger if measured by the percentage
 deviation of the money stock from a
-
 constant growth trend.
 
 How did the economy fare in the two periods

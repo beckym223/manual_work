@@ -18,7 +18,6 @@ might sensibly and efficiently be done with earlier
 earnings.
 
 In addition to having low savings, many
-
 workers have problems converting savings in
 different years into retirement incomes in later
 years in different states of nature. We know
@@ -28,10 +27,8 @@ sensible portfolio for long-term investments.5
 The tendency of many workers to accept the
 default allocation set by their employers is suggestive
 that they do not have a clear view of
-
 how to choose a portfolio. Outside employerorganized
 retirement savings, others pay advisors
-
 as much as 1 percent of assets each year to
 help them select mutual funds (in what are
 called wrap accounts). Paying 1 percent extra
@@ -65,10 +62,8 @@ market institutions to provide good insurance
 for the risk in earnings trajectories, thereby affecting
 the realized pattern of assets at retirement
 relative to earnings potential. In the
-
 Arrow-Debreu framework, workers have deterministic
 budget constraints from selling their
-
 labor supplies conditional on all the states of
 nature in which they have labor that they choose
 to sell. That is, they transfer resources across
@@ -76,7 +71,6 @@ states of nature to those where the purchasing
 power is needed more. Making the same point
 in a finance vocabulary, markets do not currently
 exist for directly hedging the risks in
-
 earnings opportunities, and if they did exist I do
 not think we would see many workers using
 them.7
@@ -90,10 +84,8 @@ would be more severe without the annuities
 provided by Social Security, since the utility
 value of the marginal annuity decreases with the
 extent of existing annuitization.
-
 These shortcomings in providing for retirement
 income fall on surviving spouses even
-
 more heavily than on workers. While 5 percent
 of elderly married couples have incomes below
 the poverty line, with another 3 percent near
@@ -109,7 +101,6 @@ for poor decision making and for missing
 insurance opportunities (missing perhaps because
 poor decision making implies low demand)
 . The various shortcomings that are
-
 apparent even in the presence of Social Security
 7 If they existed, one could hedge some of earnings risk
 through traded indices of wages in different regions and

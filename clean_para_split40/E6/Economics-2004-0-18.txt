@@ -27,7 +27,6 @@ baby boomers we do not currently perceive a
 need to single out a cohort that will differ
 greatly from others and perhaps call for something
 other than a smooth adjustment of taxes
-
 and benefits.
 
 Redistribution across cohorts has not been
@@ -40,13 +39,11 @@ generous benefit formulas (in effect or antici-
 currently over $1.5 trillion or roughly 2.8 times annual
 expenditures. This ratio of trust fund to expenditures is
 projected to peak at 4.7 in 2016.
-
 60 Note that the analysis needs to be done in terms of
 taxes and benefits, the causes of changes in the trust fund.
 The question of the impact of the trust fund on national
 capital requires a distinction among different ways in which
 trust fund size can be changed.
-
 61 There has been a relatively short time during which
 there is a plausible linkage between Social Security and the
 rest of the budget. Moreover, specific pieces of legislation
@@ -66,7 +63,6 @@ workers today taxes labor.62 This is similar to
 the role of the progressive benefit formula discussed
 above. Given the pattern of redistribution
 by cohort shown in Figure 1, much of
-
 redistribution served as an incentive for much of
 the working life of recipients. This is in contrast
 with analysis in two-period models where the
@@ -101,7 +97,6 @@ Current discussions have extended the notion
 of actuarial balance to include "sustainability"-
 that the ratio of the trust fund to annual expenditures
 not decline at the end of the horizon.
-
 This criterion of sustainable solvency is meant
 to avoid a repeat of the post-1983 experience
 where the projected actuarial deficit returned

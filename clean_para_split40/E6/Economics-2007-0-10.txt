@@ -18,13 +18,11 @@ that are the subject of this paper concern the
 realignment to macroeconomics that occurred
 as economists gained understanding of the consequences
 of classical assumptions from the
-
 mid-1950s to the mid-1970s.
 
 Economists may have been correct in drawing
 the conclusion that the early Keynesian economics
 was too simplistic and naive. But they
-
 could have drawn another conclusion from this
 surprise. In this view, Ricardian equivalence is
 a telltale: we do not believe, even in the presence
@@ -35,19 +33,15 @@ an increased bequest to her child. Something
 must be missing from the motivation in Barro's
 model; otherwise, it would not have given rise
 to results that are so surprising.
-
 B. Douglas Bernheim and Kyle Bagwell
-
 (1988) give further evidence suggesting that
 Ricardian equivalence is such a telltale. They
 show how the same logic would apply to a
 network of gift-givers. Remarkably, any
-
 member of such a network will be indifferent
 whether she receives an extra dollar or any
 other participant in the network is the recipient.
 Such conclusions, suspect as they are,
-
 suggest a problem with the model beyond the
 lack of realism involved in perfect foresight
 and perfect certainty. They also suggest missing
@@ -75,7 +69,6 @@ about this additional motivation. But this segment
 of the utility function is, in fact, very
 different from economists' usual characterization
 of motivation. We know that the "warm
-
 glow" does not come from the utility the parent
 This argument suggests that a "bequest" is not really what it
 seems. This is an argument where the preferences of the
@@ -106,7 +99,6 @@ equivalence. Largely because of the problem of endogene-
 ity, it is difficult to come to firm conclusions regarding its
 empirical validity. There are studies with findings both for
 and against such crowding out.
-
 31 See also John Laitner (2002), Laitner and Henry Ohls-
 son (2001), Alan S. Blinder (1975) and Michael D. Hurd
 (1989), who have also modeled the bequest motive as coming

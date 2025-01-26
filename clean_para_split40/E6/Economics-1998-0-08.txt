@@ -1,6 +1,5 @@
 to 170 percent of the RCR for total manufacturing.
 In 1975-1980 this figure was about 240
-
 percent, in 1980-1985 only about half that, and
 in 1985-1991 a little more than 125 percent.
 The trouble is that when the aggregate TFP contribution
@@ -22,26 +21,21 @@ if the real cost reduction for the aggregate
 to be negative. Special conventions would have
 to be established to make clear the interpretation
 of Loreinz-like diagrams in such cases.
-
 I believe I have hit on a felicitous way of
 solving all these problems, and at the same
 time creating an even better, clearer visual representation
 of the degree of concentration or
-
 dispersion of real cost reduction among the
 components of an aggregate. The idea is simply
 to relabel the vertical axis of the Lorenzlike
 diagram, making it represent an annual
-
 growth rate. For simplicity, think of a 30-
 degree line as representing 1 percent per annum
 of TFP growth. The rest of the vertical
-
 axis would be calibrated accordingly. Thus, by
 looking at the slope of a simple chord, we
 could visually assess how rapid was the TFP
 growth of the aggregate in question.
-
 Figure 2 is presented simply for didactic
 purposes. Here we have a hypothetical industrial
 branch made up of four industries, A, B,

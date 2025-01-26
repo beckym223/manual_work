@@ -8,7 +8,6 @@ Lack of transparency also permits programs
 to have effects that might not be politically
 acceptable if they were more explicit. For example,
 some defenders of the current Social
-
 Security system believe it permits a substantial
 amount of redistribution that Congress would
 not be willing to build into an investment-based
@@ -19,40 +18,31 @@ is that it is inappropriate in a democracy to
 use a deliberately opaque system to achieve a
 redistribution of income that would be rejected
 if proposed in a more transparent way.
-
 The Social Security program lacks transparency
 because it is a defined benefit system
-
 rather than a defined contribution plan of the
 sort that now characterizes most private pensions.
 Converting Social Security to a defined
-
 contribution plan-even an unfunded "notional"
 system such as Sweden and Italy now
-
 have-would allow individuals to see the link
 between their taxes and the resulting benefits.
 An explicit decision by Congress to supplement
 the contributions of low-income earners
-
 in such a defined contribution plan would
 achieve income redistribution without a loss
 of transparency.
 
 Recognizing Political Dynamics.-When we
-
 economists talk about policy design, we generally
 think about enacting permanent reforms.
-
 But experience shows that legislated rules do
 change and that the initial conditions influence
 the path of that change. When designing a particular
 program or advocating a particular design,
 economists should recognize that some
-
 designs are more stable than others and should
 anticipate how a program might evolve.
-
 The Medicare drug legislation enacted in
 2003 is a good example. Medicare beneficiaries
 will pay the first $250 a year in drug expenses,
@@ -75,7 +65,6 @@ of giving benefits to fewer individuals. It
 seems likely that future legislation will address
 the residual insurance gap in a way that will
 raise the total cost of the program.
-
 There is another and potentially more significant
 aspect of the future evolution of this Medicare
 drug program. If all of the drugs consumed
@@ -83,7 +72,6 @@ by seniors come to be covered by government
 insurance, there will be strong pressure to regulate
 the price of those drugs. Such price regulation
 is, in turn, likely to discourage the
-
 development of drugs for those diseases that
 particularly affect the elderly. It would be sadly
 ironic if an insurance plan initiated to improve
@@ -95,18 +83,15 @@ Let me turn now from these three political
 principles-permitting individual choice, creating
 program transparency, and recognizing political
 dynamics-to four economic principles.
-
 Recognizing the Economic Effects of Social
 Insurance Programs and Their Taxes.-Noneconomists
 who write about social insurance
-
 programs often implicitly assume that social
 insurance programs do not affect the behavior
 of beneficiaries or the overall performance of
 the economy. Evidence shows that the opposite
 is true. Social insurance programs have important
 and sometimes harmful effects on the
-
 economy that are not fully recognized by the
 public, Congress, or the politically responsible
 officials.
@@ -115,7 +100,6 @@ A substantial volume of work during the past
 quarter century has shown the various ways in
 which social insurance programs do affect individual
 behavior and the overall economy. These
-
 effects include reducing national saving, inducing
 early retirement, raising the unemployment
 rate, pushing up the cost of health care, and

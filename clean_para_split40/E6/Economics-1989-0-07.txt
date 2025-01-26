@@ -2,7 +2,6 @@ expenditures, a major adjustment is immediately
 in order, consistent with the practice of
 private business, to exclude the capital expenditures
 and include in current outlays
-
 only depreciation charges. Second, just as
 not all of nominal interest receipts should be
 included in income, not all of government
@@ -14,23 +13,18 @@ changing market price of securities associated
 with changing interest rates, which latter
 may relate in part to changing rates of inflation.
 We should in effect be including in
-
 government revenues the inflation tax on the
 private holders of government securities or
 the money backed by central bank holdings
 of those securities, or including in outlays
 only real interest payments.'0
-
 These two adjustments, for capital expenditures
 and for inflation, make such a huge
-
 difference in the Federal government budget
 as to wipe out the much decried "budget
-
 deficit."" The first of them has an identical
 effect in raising our measure of national saving,
 greatly depressed in its conventional
-
 measure by the negative contribution of the
 presumed fiscal dis-saving."
 
@@ -46,7 +40,6 @@ those claims incorrectly and hence measure
 net foreign investment incorrectly, we correspondingly
 mis-measure gross saving. By understating
 gains in the value of our claims on
-
 foreign assets, we understate business and,
 to a certain extent, personal income and
 saving.
@@ -58,28 +51,22 @@ either, between the official measures and
 those that would correspond to meaningful
 economic theory.'4 Particularly, direct investment
 by U.S. firms abroad and by foreign
-
 firms in the United States are both
-
 taken at original cost. There is then no adjustment
 for the changes in value of the
-
 resulting assets in their own currencies or,
 taking into account changing exchange rates,
 the value of those changes in dollars.
-
 Saving should correspond to increases in
 wealth. National saving should correspond
 to increases in national claims to wealth, at
 home and abroad, net of increasing foreign
 claims to domestic wealth. But to be meaningful,
 these should surely relate to claims
-
 measured in real, current, or market value.
 In fact, they do not. Because they do not, we
 have been confronted with repeated assertions
 that the United States has become " the
-
 world's greatest debtor nation," which is
 "0It should be clear, of course, that this, meaningful
 measure of real interest, which involves subtracting the
@@ -106,7 +93,6 @@ debt held by the public at some $2,000 billion, the
 second comes to another $72 billion. The federal budget
 for fiscal 1988 is thus moved from its reported deficit of
 $155 billion to a virtual balance!
-
 12The second, inflation tax adjustment would also
 reduce the measure of government dis-saving, or increase
 government saving, but would correspondingly

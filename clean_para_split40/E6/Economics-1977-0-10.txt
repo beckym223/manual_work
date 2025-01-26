@@ -15,7 +15,6 @@ overpowering centralized unions-that tendency
 is severely damped.
 
 And whether, given an unemployment rate
-
 significantly and persistently above the noninflationary
 level, the rate of change of wages would,
 eventually, tend to turn negative and decline
@@ -27,7 +26,6 @@ the answer is negative, and while I admit that,
 for a variety of reasons, that evidence is muddied,
 I hope that we will never have the opportunity
 for a second, clean experiment.
-
 In any event, what is really important for
 practical purposes is not the long-run equilibrium
 relation as such, but the speed with which it
@@ -46,22 +44,18 @@ supply pressure from mid-1970 to early 1973,
 and from late 1974 to date was equally sluggish.
 B. The Power of Self-Stabilizing Mechanisms:
 The Evidence from Econometric Models
-
 There remains to consider the monetarists'
 initial criticism of Keynesianism, to wit, that
 even without high wage flexibility, the system's
 response to demand shocks is small and shortlived,
 thanks to the power of the Hicksian mechanism.
 Here it must be acknowledged that every
-
 one of the monetarists' criticisms of early,
 simpleminded Keynesianism has proved in
-
 considerable measure correct.
 
 With regard to the interest elasticity of demand
 for money, post-Keynesian developments
-
 in the theory of money, and in particular, the
 theoretical contributions of William Baumol,
 James Tobin, Merton Miller, and Daniel Orr,
@@ -71,25 +65,20 @@ Stephen Goldfeld) are largely consistent
 with this prediction (at least until 1975!). Similarly,
 the dependence of consumption on longrun,
 or life cycle, income and on wealth,
-
 together with the high marginal tax rates of the
 postwar period, especially the corporate tax,
 and leakages through imports, lead to a rather
 low estimate of the multiplier.
-
 Last but not least, both theoretical and empirical
 work, reflected in part in econometric models,
 have largely vindicated the monetarist
-
 contention that interest effects on demand are
 pervasive and substantial. Thus, in the construction
 and estimation of the MIT-Penn-Social
-
 Science Research Council (MPS) econometric
 model of the United States, we found evidence
 of effects, at least modest, on nearly every component
 of aggregate demand. One response to
-
 money supply changes that is especially important
 in the MPS, if somewhat controversial, is
 via interest rates on the market value of all assets

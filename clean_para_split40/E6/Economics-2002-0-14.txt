@@ -33,17 +33,13 @@ and talents have different values in different
 labor-market pursuits.
 
 For example, Robert Willis and I (1979)
-
 modeled educational choice by combining traditional
 human-capital ideas with the theory of
-
 comparative advantage, and developed a
-
 method to estimate the behavior determinants of
 actual choices observed in the data. We found
 that high-school and college graduates do indeed
 have different comparative advantages
-
 across skills that dominate the selection process.
 Detailed analysis of the earnings patterns of
 World War II veterans showed the usual result
@@ -52,7 +48,6 @@ earned as much as those who actually chose to
 get their college degrees. But we also discovered
 that persons who subsequently gained college
 degrees probably would have earned
-
 relatively less as high-school graduates than
 those who voluntarily discontinued their education
 after high-school graduation. Positive selection
@@ -62,7 +57,6 @@ single-factor model of ability. It is only consistent
 with two or more dimensions of ability that
 are negatively correlated across people. Comparative
 advantage also accounts for why most
-
 estimates of ability-bias interpreted as a single
 factor (absolute advantage) are so small. Those
 who leave school early do relatively well in
@@ -94,7 +88,6 @@ and only one house. Area amenities enjoyed
 depend on the location of the house and on
 individuals' choices on location that are correlated
 with income. For example, rich people
-
 may choose to live in New York City rather
 than in Kankakee, Illinois because there are
 more ways to spend income in New York than
@@ -102,7 +95,6 @@ there are in Kankakee. Conversely, the life of a
 poor person in Manhattan is difficult because
 the amenities are expensive and tend to be targeted
 toward high-income people. There is
-
 complementarity in the utility function between
 the quality of housing, in this case proxied by
 urban amenities, and the level of consumption
@@ -111,6 +103,5 @@ Figure 4.
 
 A consumer may choose to live in a highquality
 house, Zh, or a low-quality house, zl,
-
 with corresponding house prices Ph and Pl- Because
 of the complementarity in consumption

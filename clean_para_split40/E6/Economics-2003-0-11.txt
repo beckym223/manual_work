@@ -10,14 +10,11 @@ the overall decrease in precautionary savings
 and capital. Finally, there is a large group of
 middle wealth households that are made worse
 off by eliminating aggregate risk.
-
 These calculations are sensitive-especially at
 the poor end of the distribution-to what is assumed
 about the incomes of unemployed people.
-
 Krusell and Smith calibrate this, roughly, to current
 U.S. unemployment insurance replacement
-
 rates. If one were estimating the costs of the depression
 of the 1930's, before the current welfare
 system was in place, lower rates would be used
@@ -28,7 +25,6 @@ aggregate risk and an improved welfare system.
 Storesletten et al. (2001) study distributional
 influences on welfare cost estimates with methods
 that are closely related to Krusell and
-
 Smith's, but they obtain larger estimates of the
 gains from removing all aggregate shocks. They
 use an overlapping generations setup with 43
@@ -39,7 +35,6 @@ shocks of all kinds and reductions in variance
 can yield large welfare gains. But if the age
 effects are averaged out to reflect the importance
 of intrafamily lending (as I think they
-
 should be) the gains estimated by Storesletten et
 al. under log utility are no larger than Krusell
 and Smith's.21 In contrast to earlier studies,
@@ -59,12 +54,10 @@ ence in the way reductions in the variance of
 aggregate shocks affect risks faced at the individual
 level. In the Storesletten et al. simulations,
 a bad realization of the aggregate
-
 productivity shock increases the conditional
 variance of the idiosyncratic risk that people
 face, so aggregate and individual risks are compounded
 in a way that Krusell and Smith rule
-
 out. A second difference is that idiosyncratic
 shocks are assumed to have a random walk
 component, so their effects are long lasting. A
@@ -72,7 +65,6 @@ bad aggregate shock increases the chances that
 a young worker will draw a bad individual
 shock, and if he does he will suffer its effects
 throughout his prime working years.
-
 The effects of these two assumptions are
 clear: They convert small, transient shocks at
 the aggregate level into large, persistent shocks
@@ -95,7 +87,6 @@ Storesletten et al. find a negative relation over
 time between cross-section earnings means and
 standard deviations in Panel Studies of Income
 Dynamics data. Costas Meghir and Luigi
-
 Pistaferri (2001) obtain smaller estimates, but
 also conclude that "the unemployment rate and
 the variance of permanent [earnings] shocks
@@ -104,14 +95,11 @@ and 1980's.
 
 These issues are central to an accurate description
 of the risk situation that individual
-
 agents face, and hence to the assessment of
 welfare gains from policies that alter this situation.
 The development of tractable equilibrium
 models capable of bringing cross-section and
 panel evidence to bear on this and other macroeconomic
 questions is an enormous step forward.
-
 But Krusell and Smith find only modest
-
 effects of heterogen

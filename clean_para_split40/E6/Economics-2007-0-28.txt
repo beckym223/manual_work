@@ -6,14 +6,11 @@ from changes in their conception of the family--
 of their own place within it and of the place of
 their heirs. That also occurred over a very long
 run-over the course of centuries.
-
 B. Life-Cycle Hypothesis
 
 Regarding the life-cycle hypothesis, we argued
 that consumption depends upon current
-
 income because norms regarding how much
-
 people think they should spend are linked to
 it. But such a norm Wyould be highly unlikely
 to change as a result'of the use of fiscal and
@@ -22,7 +19,6 @@ place, such stabilization will make the adherence
 to the norm less costly, not more costly,
 in purely economic terms. Furthermore, macroeconomic
 sources are responsible for only a
-
 small fraction of the variation in individual
 incomes. As a result, there is further reason
 why the role of current income in norms is
@@ -32,12 +28,10 @@ stabilization.
 C. Cash Flow and Investment
 
 The rise of the CFO suggests that norms
-
 regarding investment have changed in large US
 firms. Quite possibly, this change occurred because
 firms realized the need for financial controls
 that compared the returns on inside and
-
 outside options. Such an endogenous response
 would make Modigliani-Miller correct. But,
 following Zorn (2004), this change took 40
@@ -56,7 +50,6 @@ also the rational expectations hypothesis, we
 saw that they will no longer hold if norms of
 price and wage setting have nominal components.
 Regarding prices and wages, the most
-
 powerful evidence in favor of norms comes
 from employees' resistance to money wage
 cuts and customers' resistance to nominal
@@ -84,7 +77,6 @@ and overadjust when it is high-should be
 empirically investigated.
 
 E. Where Do the Norms Come From?
-
 We do not know the general answer to the
 question where norms come from. This lecture
 has tried to make the case that norms, such as
@@ -97,16 +89,13 @@ XI. Conclusion
 
 This lecture has shown that the early Keynesians
 got a great deal of the working of the
-
 economic system right, in ways that are denied
 by the five neutralities. As quoted from Keynes
 earlier, they based their models on "our knowledge
 of human nature and from the detailed
-
 facts of experience." They used their intuitions
 regarding the norms of how consumers, investors,
 and wage and price setters thought they
-
 88 This lecture has been very much influenced by the
 insights of the Ph.D. thesis of Robert Akerlof (2006) on
 preferences for beliefs. His thinking on this subject has

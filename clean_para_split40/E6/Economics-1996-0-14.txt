@@ -1,7 +1,6 @@
 the only statistically significant coefficient
 is for question 10 for health economists.
 Other things being equal, those who
-
 agree with the induced-demand hypothesis are
 more supportive of national health insurance
 than those who disagree, but the effect on the
@@ -12,13 +11,10 @@ significant coefficients but, in general,
 the respondents' replies to the explicit positive
 questions do not explain their position with respect
 to such major policy issues as national
-
 health insurance or insurance company underwriting
 changes. It seems unlikely, then, that
-
 their position on these policy issues can be explained
 by differences in the embedded positive
-
 questions.
 
 Although I believe that differences in values
@@ -45,6 +41,5 @@ of the Clinton plan) and question 20 (about
 differential premiums for persons born with
 genetic defects). In the latter case the high percentage
 responding "no opinion" may reflect
-
 uncertainty regarding the magnitudes of the
 efficiency and distributional implications of

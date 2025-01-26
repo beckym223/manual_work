@@ -1,6 +1,5 @@
 getting an accurate assessment of national income.
 The recent report of The Presidential
-
 Commission on Price Indexes shows that more
 widespread failures to make quality adjustments
 of goods in price indexes have serious negative
@@ -10,15 +9,12 @@ security and other entitlements that are indexed
 to them.
 
 III. Sorting and Stratification
-
 In any market equilibrium, interpersonal differences
 in tastes and technologies affect the
-
 locations chosen by buyers and sellers on the
 attributes map. Some of these differences are
 inexplicable: sometimes there really is no accounting
 for different tastes. Others have more
-
 proximate causes, but might just as well be
 summarized stochastically. For instance, the
 preferences for material goods of a person from
@@ -49,7 +45,6 @@ these markets become stratified in many ways.
 Stratification and sorting are ubiquitous in spatial
 equilibrium and have many interesting consequences.
 Neighborhood, bandwagon, status,
-
 and other social externalities are often invoked
 to account for stratification, but most stratification
 occurs without them.
@@ -66,7 +61,6 @@ of job quality by the skill characteristics
 of workers can make it difficult to estimate
 equalizing wage differences for the implicit attributes
 of jobs. Sometimes the data on job and
-
 worker characteristics are so colinear that the
 ceteris paribus conditions required for identifying
 taste parameters alone are overwhelmed by
@@ -74,10 +68,8 @@ income stratification and cannot be observed in
 the data. Yet it is incorrect to take this as evidence
 of failure of the equalizing or compensation
 principle in the labor market.
-
 Stratification and colinearity is itself an implication
 of the economic theory of preferences
-
 when income effects are important. High-wage
 jobs generally are the good jobs, not the bad
 ones. They are staffed by skillful workers
@@ -85,7 +77,6 @@ whose higher incomes make job amenities more
 valuable and who buy more of them. There is no
 logical contradiction here. The identifying restrictions
 for backing out implicit valuations in
-
 the data just are not satisfied. After all, sometimes
 there is not the right kind of variation in
 the data to estimate a conventional demand
@@ -103,7 +94,6 @@ stratification problem more often arises in labor
 markets, because observed wages always reflect
 the total bundle of both job and workerproductivity
 attributes. The correlation between
-
 them can be too large to separate the components.
 In sum, potential for stratification places
 limits on the empirical applicability of the hedonic

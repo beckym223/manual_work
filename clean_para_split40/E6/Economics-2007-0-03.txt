@@ -8,7 +8,6 @@ John Maynard Keynes appeared, posthumously,
 on the cover of Time.2 Even Milton Friedman
 was famously-although perhaps misleadinglyquoted:
 "We are all Keynesians now."3 A little
-
 more than a decade later Robert Lucas and
 Thomas Sargent (1979) had published "After
 Keynesian Macroeconomics." The love-fest was
@@ -23,25 +22,17 @@ Phillips curves of the time.
 
 But Keynesian economics also declined because
 of a change in economic methodology.
-
 The Keynesians had emphasized the dependence
 of consumption on disposable income
-
 and, similarly, of investment on current profits
 and current cash flow.4 They posited a
-
 Phillips curve, where nominal-rather than
 real-wage inflation depended upon the unemployment
 rate, which was used as an indication
-
 of the looseness of the labor market.
-
 They based these functions on their own introspection
 regarding how the various actors
-
 in the economy would behave. They also
-
 brought some discipline into their judgments
 by estimating statistical relations.5
-
 But a new school of thought, based on classical

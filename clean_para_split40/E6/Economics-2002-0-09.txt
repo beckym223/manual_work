@@ -41,7 +41,6 @@ Figure 2 as the curve that connects A and B and
 the one that connects D and E. The distance
 between F and D is a measure of the qualityadjusted
 change in price at quality level z,12
-
 When technical change is so large that z could
 not be produced in period 1 (a 32-bit computer
 chip did not exist in 1980) shown, for example,
@@ -53,7 +52,6 @@ requirement amounts to knowing the exact
 shape of 02( z) and of 02'( z), which represents
 different indifference curves for the same consumer.
 The conceptually appropriate measure of
-
 distance is the difference between actual price
 in period 2 and what type 2 buyers would have
 been willing to pay for Zh2' in period 1 had it
@@ -95,7 +93,6 @@ was as if soap were suddenly produced in bigger
 bars and the index used the price per bar, not the
 price per unit volume or weight. Computer productivity
 was grossly distorted in the official
-
 indexes, though the aggregate consequences of
 the error were limited because investment in
 computers was not such a large share of total

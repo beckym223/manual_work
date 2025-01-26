@@ -4,7 +4,6 @@ Despite the advantages of annuities, we see
 only a small fraction of people doing voluntary
 annuitization.14 Furthermore, those who do annuitize
 make very odd choices. They buy nominal
-
 annuities. There is wide popularity of what
 are called guarantees-continued payments after
 death up to some limit.15 Such guarantees
@@ -12,7 +11,6 @@ undo some of the underlying annuitization, and
 are a relatively expensive form of holding nonannuitized
 wealth (given the relative administrative
 costs on annuities and other accounts).
-
 They represent an increase in the riskiness of
 one's bequest, not a decrease. That is, an annuity
 without a guarantee costs less, allowing one
@@ -20,11 +18,9 @@ to leave one's heirs a determinate amount in
 present value, rather than a random amount
 depending on the date of death.'6 More generally,
 many features of insurance markets are
-
 hard to reconcile with sensible decisions by
 households and the equilibrium industry response
 we would expect in the presence of
-
 sensible demands. The extremely limited options
 available for annuitization seem to reflect
 the natural response of the supply of insurance
@@ -47,7 +43,6 @@ first payment.
 
 would discourage some individuals from annuitizing.
 While large systematic differences in
-
 life expectancy do exist, much of the difference
 is readily attributed to easily measured factors,
 so insurance companies could do more to overcome
@@ -57,7 +52,6 @@ there is a sizable market for individual purchase
 of annuities because of a large tax incentive for
 their purchase from assets in tax-favored individual
 retirement accounts. In the presence of
-
 this demand, suppliers are offering annuities
 with better prices for those with "impaired
 lives." We do not see this risk classification in
@@ -86,7 +80,6 @@ savings.
 
 In any event, social security systems in advanced
 countries typically provide benefits as
-
 annuities, annuities that are generally indexed to
 prices or wages (or a combination). This is a
 simple application of the view that in a mandatory

@@ -1,20 +1,16 @@
 LUCAS: MACROECONOMIC PRIORITIES
-
 ful that all of it can be obtained simply by
 rearranging the tax structure. It entails a reduction
 in government spending as well, which
-
 Prescott interprets as a reduction in the level of
 transfer payments, or in the government provision
 of goods that most people would buy anyway,
 financed by distorting taxes. Think of
-
 elementary schooling or day care. The gains
 from eliminating such fiscal "cross-hauling" (as
 Sherwin Rosen [1996] called the Swedish daycare
 system) involve more than eliminating "excess
 burden," but they may well be large.
-
 The stakes in choosing the right monetary
 and fiscal policies are high. Sustained inflation,
 tax structures that penalize capital accumulation
@@ -28,7 +24,6 @@ which visibly benefits from the lowest excess
 burdens in the modem world, economic analysis
 has identified large potential gains from further
 improvements in long-run fiscal policy.
-
 II. Gains from Stabilization:
 
 A Baseline Calculation
@@ -40,7 +35,6 @@ policy. Such an exercise presupposes a view of
 the workings of the economy in which short-run
 monetary and fiscal policies affect resource allocation
 in ways that are different from the
-
 supply side effects I have just been discussing.
 One possibility is that instability in the quantity
 of money or its rate of growth, arising from
@@ -57,21 +51,18 @@ real inefficiencies-indeed, any economy in
 which money has value-must be one that operates
 under missing markets and nominal rigidities
 that make changes in money into
-
 something other than mere units changes. Then
 it must also be the case that these same rigidities
 prevent the economy from responding efficiently
 to real shocks, raising the possibility that
 a monetary policy that reacts to real shocks in
 some way can improve efficiency.
-
 If we had a theory that could let us sort these
 issues out, we could use it to work out the
 details of an ideal stabilization policy and to
 evaluate the effects on welfare of adopting it.
 This seems to me an entirely reasonable research
 goal-I have been thinking success is
-
 just around the comer for 30 years-but it has
 not yet been attained. In lieu of such a theory, I
 will try to get quantitative sense of the answer to
@@ -81,7 +72,6 @@ In the rest of this section, I ask what the effect
 on welfare would be if all consumption variability
 could be eliminated.4 To this end, consider
 a single consumer, endowed with the
-
 stochastic consumption stream
 
 (1) c, = Aete- (l/2)r2e,
@@ -105,7 +95,6 @@ of the shocks so, el ... .
 
 Such a risk-averse consumer would obviously
 prefer a deterministic consumption path
-
 to a risky path with the same mean. We quantify
 this utility difference by multiplying the risky
 path by the constant factor 1 + A in all dates

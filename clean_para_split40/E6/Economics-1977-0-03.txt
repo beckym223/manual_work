@@ -8,7 +8,6 @@ fiscalists.". The difference between the two
 the money supply or fiscal variables are the
 major determinants of aggregate economic activity,
 and hence the most appropriate tool of
-
 stabilization policies.
 
 My central theme is that this view is quite far
@@ -65,7 +64,6 @@ effect of pursuing stabilization policies.
 My main concern will be with instability generated
 by the traditional type of disturbances-demand
 shocks. But before I am through, I will
-
 give some consideration to the difficult problems
 raised by the newer type of disturbance-supply
 shocks.

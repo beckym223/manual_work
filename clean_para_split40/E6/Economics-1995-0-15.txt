@@ -1,32 +1,24 @@
 been noted by Gaertner, Pattanaik, and
-
 Suzumura (1992), who have recently provided
 the most extensive recharacterization
-
 of liberty (in terms of "game forms"), the
 impossibility problem "persists under virtually
 every plausible concept of individual
-
 rights" (p. 161).40
 
 The decisive move in the direction of a
-
 purely procedural view of liberty was made
 by Nozick (1974), responding to my social
 choice formulation and to the impossibility
 of the Paretian liberal (Sen, 1970). This has
 been followed by important constructive
-
 contributions by Gardenfors (1981) and
-
 Sugden (1981), and the approach has been
 extended and developed into game-form
-
 formulations by Gaertner et al. (1992). In
 the game-form view, each of the players has
 a set of permissible strategies, and the outcome
 is a function of the combination of
-
 strategies chosen by each of the players
 (perhaps qualified by an additional "move"
 by "nature"). The liberties and rights of the
@@ -45,7 +37,6 @@ and no necessity to examine what states the
 individuals involved prefer. In contrasting
 this characterization of preference-independent,
 consequence-detached rights with the
-
 social choice approach to rights, perhaps
 the central question that is raised is the
 plausibility of making people's putative
@@ -56,19 +47,15 @@ level (Section VI).
 
 In some contexts, the idea of seeing rights
 in the form of permission to act can be
-
 quite inadequate, particularly because of
 "choice inhibition" that might arise from a
 variety of causes. The long British discussion
 on the failure of millions of potential
-
 welfare recipients from making legitimate
 claims (apparently due to the shame and
-
 stigma of having one's penury publicized
 and recorded) illustrates a kind of nonrealization
 of rights in which permission is not
-
 the main issue at all.4' Similarly, the inability
 of women in traditionally sexist societies
 to use even those rights that have not been
@@ -77,9 +64,7 @@ type of rights failure that is not helpfully
 seen in terms of game forms (see Sen, 1992b
 pp. 148-50). Even the questions that standardly
 come up in this country in determining
-
 whether a rape has occurred have to go
-
 well beyond checking whether the victim in
 question was "free" to defy.
 
@@ -87,11 +72,9 @@ Leaving out such cases, it might well be
 plausible to argue that rights can be nicely
 characterized by game forms in many situations.
 However, even when that is the case,
-
 in deciding on what rights to protect and
 codify, and in determining how the underlying
 purpose might be most effectively
-
 achieved, there is a need to look at the
 likely consequences of different game-form
 specifications and to relate them to what
@@ -99,5 +82,4 @@ people value and desire. If, for example, it
 appears that not banning smoking in certain
 gatherings (leaving the matter to the discretion
 of the people involved) would actually
-
 lead to unwilling victims having to inhale

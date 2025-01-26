@@ -14,7 +14,6 @@ This action contrasts with simply leaving unspent
 funds to one's heirs, a strategy that leaves
 an amount dependent on the history of consumption
 relative to the income earned on
-
 assets.20
 
 In other words, the government's choice between
@@ -23,11 +22,8 @@ or as lump sums can be considered as a choice
 of a default, one which most individuals could
 reverse-by purchasing life insurance if provided
 an annuity or purchasing an annuity if
-
 offered a lump sum (B. Douglas Berheim,
-
 1991). Reversing the government choice,
-
 though, takes time, thought, and effort and it has
 a cost. That is, the government provides annuitization
 at a far lower cost than does the private
@@ -35,14 +31,12 @@ market. The absence of selling costs (other than
 equivalent information provision) and economies
 of scale contribute to this advantage. Administrative
 costs of Social Security are less
-
 than 1 percent of annual expenditures, and a
 great deal of that is due to the disability program,
 which is naturally more expensive to run.
 In contrast, privately provided insurance has
 higher costs-life insurance company accounting
 generally recognizes over 10 percent of
-
 premia used for administrative costs and profit.
 The private market is more expensive and does
 not do a better job of delivering annuity products
@@ -68,7 +62,6 @@ individuals to undo little of what is provided.23
 So it makes sense to offer what we think people
 might sensibly want. Moreover, the wider functioning
 of the life insurance market than the
-
 annuities market suggests a further advantage to
 using substantial annuitization as the default.
 A mandatory retirement income program requires
@@ -79,11 +72,8 @@ bulk of the population. It seems to me that this
 is an annuity in some form.24
 
 A. Lifetime Income Distribution
-
 Mandated annuitization affects lifetime
-
 income distribution.25 Suppose one were
-
 nature of the cash-in, cash-out annuity product also suggests
 that we are not missing cost improvements that would
 otherwise come. The small size of replacement provided by

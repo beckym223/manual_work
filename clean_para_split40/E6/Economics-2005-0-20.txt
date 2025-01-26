@@ -5,10 +5,8 @@ raise national saving and the present value of
 future consumption. Financing the initial deposit
 to personal retirement accounts by government
 borrowing would have no immediate
-
 direct effect on national saving because the increased
 budget deficit would be offset by the
-
 deposit of those funds into the personal retirement
 accounts. Over time, the availability of the
 PRA annuities could permit reducing the payas-
@@ -19,7 +17,6 @@ benefits would mean that the annual rise in the
 budget deficit would be less than the amount
 transferred to the PRAs. That difference would
 be an increase in national saving.22
-
 I turn next to the issue of the administrative
 cost of PRAs. Some critics of PRAs argue that
 the administrative costs of a PRA program
@@ -50,7 +47,6 @@ for full benefits. Many Latin American countries
 cut cash benefits in the 1980s and 1990s. More
 recently, Germany, Italy, and Japan have announced
 or enacted reductions in state pension
-
 benefits.24 Perhaps the most reliable way to avoid
 future legislation that causes an unexpected reduction
 in retirement income is to develop a mixed
@@ -73,7 +69,6 @@ the pay-as-you-go benefits projected in current
 law.25 The low risk could be achieved by a
 combination of three things: the floor on retirement
 income provided by the pay-as-you-go
-
 benefits in the mixed system, restrictions on the
 investments that can be made in the PRAs, and
 explicit guarantees provided by either the government
@@ -93,7 +88,6 @@ system does very little redistribution and leaves
 some 10 percent of seniors with incomes below
 the poverty line. Women who were never married,
 widows, and particularly those who were
-
 widowed or divorced at a relatively early age
 22 Feldstein and Liebman (2002a, section 7.1.3) used an
 overlapping generation model to show how such a debt

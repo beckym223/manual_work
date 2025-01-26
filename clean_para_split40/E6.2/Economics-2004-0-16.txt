@@ -1,0 +1,34 @@
+propensity to save than high earners.55 The redistribution
+across generations has received particular
+attention and has led to consideration of
+the impact on national capital.
+
+A. Transfers by Cohort
+
+Everyone is aware of the decision to pay
+earlier cohorts of retirees benefits far larger than
+could have been financed by the taxes they paid
+and the interest that could have been earned on
+them. Figure 1, an updating to 2002 dollars of
+analysis done by Dean R. Leimer (1994), shows
+the lifetime transfers by cohort (left scale) and
+the cumulative net payments by cohort (right
+scale) for cohorts born through 1949, and so
+
+
+turning 55 this year.56 The aggregate net transfers
+to these cohorts is roughly $11.5 trillion.
+How much did this early generosity reduce
+national capital? We have some estimates but
+they are surely not reliable. A believable timeseries
+econometric study is probably not doable
+and there is no consensus that one has been
+done satisfactorily. Another approach would be
+by simulation. But a credible simulation requires
+modeling the appropriate underlying
+behavior-the extent to which different workers
+would save on their own without such a program.
+Surely, a simulation with all workers
+being fully rational lifetime utility maximizers
+has no credibility. And we would also need to
+track the effects on national savings from Social

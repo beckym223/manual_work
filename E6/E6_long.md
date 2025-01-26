@@ -35235,36 +35235,6 @@ industry, although economic, would not be es-
 tablished by private agents had been accepted
 by economists as a legitimate exception to the
 case for free trade since Hamilton and List."3
-tended to demonstrate that at the very least the deteriora-
-tion had been much less than was believed. John Spraos
-(1980) provided a classic review of the evidence.  9 A modem interpretation would be that there are many
-people in developing countries with very low marginal
-products of labor. While they are too poor to remain un-
-employed, the process of development entails equipping
-people with the capabilities (partly through education)
-and opportunities to increase their productivity.
-' To be sure, all analysts recognized the importance of
-increased provision of education and health services. But
-for purposes of analyzing trade policy, emphasis was al-
-most exclusively on investment.
-" This gave rise to a great deal of literature based on
-"structuralism." According to some, it was the absence
-of responsiveness to price that made developing countries
-"different." Structuralism was also used as an argument
-that inflation was necessary in order to achieve growth.
-See Hollis B. Chenery ( 1975) for a fuller description.  2 There were many important subthemes that are not
-elaborated here, since they are not essential to the main
-argument. It should, however, be noted that there were
-many who believed that the situation of developing coun-
-tries was "structural" and that marginal changes would
-not matter. It was then concluded that a "big push" was
-needed, with many new investments simultaneously gen-
-erating additional demand and then becoming profitable.
-Ragnar Nurkse's ( 1958) "balanced growth" prescription
-reflected the same viewpoint.
-'" See Robert E. Baldwin's (1969) classic analysis of
-the argument, which not only sets up the conditions under
-which there might be an infant industry, but also carefully
 
 
 ### ---Economics-1997-0-06.txt---

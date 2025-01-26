@@ -4,9 +4,7 @@ topic in its own right, but the more
 studied, the less saving has to do with
 investment. Saving takes on great importance
 in closed-economy models focused
-
 on aggregate growth, in which
-
 case it is equal to investment. It gets to
 be almost meaningless as one focuses on
 the growth of cities and regions, or on
@@ -18,13 +16,10 @@ of all kinds, and of recognizing that
 we are closer to home thinking that RCR
 takes 1001 forms than that it can be well
 represented by one or two or three
-
 aggregate-style variables.
-
 (b) In principle, the accumulation of human
 capital by the laborforce should be represented
 in the labor contribution of the
-
 growth equation, or in a bifurcation of this
 contribution into one due to raw labor, the
 other to human capital. It is in a term like
@@ -75,7 +70,6 @@ firms are linked to the initial sizes of those
 firrns themselves, or of the industries in which
 they operate, and of the direction (up or down)
 in which output is moving.
-
 (e) Perhaps most important of all, we
 should really try to take full advantage of evidence
 at the firm level. I think particularly of

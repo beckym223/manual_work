@@ -41,7 +41,6 @@ employers to wish to hire more labor services,
 they must believe that product prices have
 risen relative to wages; but in order for existing
 workers to respond to inflation by
-
 working longer hours, and other potential
 workers to enter the labor force, requires
 that they interpret what happens as a rise in
@@ -65,7 +64,6 @@ printing press, there were competitive banks,
 aggressively lending at a flexible price to
 businesses. Given a plausible (although incompletely
 specified) lag structure, Wicksell
-
 showed that banks' competition in money
 creation might initially reduce the price for
 loans; and their continuing money creation
@@ -83,13 +81,11 @@ a rather different source of instability. His
 bourgeois prince- the innovating entrepreneur-
 driven by new technological, managerial,
 or marketing ideas that promised
-
 abnormal profits, repeatedly upset the general
 equilibrium: accommodated, of course,
 by an elastic banking system. To be sure, his
 entrepreneurial activities-his "creative destruction"
 -would soon generate an inflation
-
 that had to subside before the next
 wave of innovation might again disturb the
 economy.

@@ -18,7 +18,6 @@ Why has this not translated itself into visible
 productivity gains? The major answer to
 this puzzle is very simple: over threequarters
 of this investment has gone into
-
 our "unmeasurable" sectors (see Table 3),
 and thus its productivity effects, which are
 likely to be quite real, are largely invisible in
@@ -35,7 +34,6 @@ declining rapidly in many parts of the world.
 The rise of ATM networks in banking has
 resulted in substantial though largely unmeasured
 time savings for consumers. It is
-
 less clear, however, whether the large expansion
 of the securities industry has been
 associated with a similar productivity increase
@@ -43,7 +41,6 @@ or was primarily a response to a real
 decline in the cost of rent-seeking induced
 by the falling price of informationprocessing
 (see Timothy Bresnahan et al.,
-
 1992).
 
 There is also some scattered evidence for

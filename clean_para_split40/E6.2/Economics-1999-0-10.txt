@@ -10,10 +10,8 @@ refers to the widely varying pattern of
 aging within species and the ability of the
 length of the life span to be affected by environmental
 factors, some of which may operate
-
 over several generations (cf., Kenneth W.
 Wachter and Finch, 1997).
-
 The search for better ways to forecast longterm
 trends in health-care costs and in pension
 costs has made it essential for economists to
@@ -51,7 +49,6 @@ which alleviate symptoms but do not cure; the
 replacement of current disease-specific standards
 of care by new ones based on improved technologies
 that are much more expensive than
-
 those replaced; the elimination of current age restrictions
 on such expensive procedures as organ
 replacements (cf., David M. Cutler and Ellen
@@ -67,7 +64,6 @@ Heart Study, began in 1950 and was focused
 on the causes and treatment of coronary heart
 disease rather than on the economics and biodemography
 of aging. The Retirement History
-
 Survey (RHS) followed a cohort of men and
 women aged 58 to 63 from 1969 to 1979 and
 then was suspended. Although not initially

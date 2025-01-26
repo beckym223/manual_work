@@ -4,15 +4,12 @@ why the natural rate is bigger than
 zero, ancl eveni less about the optimality
 of such an equilibriunm if it exists.
 In the new microeconomics of labor
-
 markets and inflatioin, the principal activity
 whose marginal value sets the reservation
 price of employment is job search.
-
 It is not pure leisure, for in principle persons
 who choose that option are not reported
 as unemployed; however, there may
-
 be a leisure component in job seeking.
 A crucial assumption of the theory is
 that search is significantly more efficient
@@ -27,7 +24,6 @@ in manufacturing are similar transfers, but
 some of them must be; if all reported
 accessions were hires of unemployed workers,
 the mean duration of unemployment
-
 would be only about half what it is in fact.
 In surveys of job mobility among blue
 collar workers in 1946-47 (see Lloyd
@@ -42,12 +38,10 @@ A considerable amount of search activity
 by unemployed workers appears to be
 an unpro(luctive consequence of dissatisfaction
 and frustration rather than a
-
 rational quest for improvement. This was
 the conclusion of Reynolds' survey twentyfive
 years ago, p. 215, and it has been reemphasized
 for the contemporary scene by
-
 Robert Hall, and by Peter Doeringer and
 Michael Piore for what they term the
 secondary labor force. Reynolds found
@@ -59,7 +53,6 @@ strategy: two-thirds of such changes
 turned out to be improvements. Today,
 according to the dual labor market hypothesis,
 the basic reason for frequent and
-
 long spells of unemployment in the secondary
 labor force is the shortage of good jobs.
 In any event, the contention of some
@@ -71,19 +64,16 @@ An answer to this question is a key element
 in a theory that generally presumes
 that actual behavior reveals true preferences.
 The answer giveIn is that workers
-
 accept the additional employment only
 because they are victims of inflation illusion.
 One form of inflation illusion is overestimation
 of the real wages of jobs they
-
 now hold, if they are employed, or of jobs
 they find, if they are unemployed and
 searching. If they did not under-estimate
 price inflation, employed workers would
 more often quit to search, and unemployed
 workers would search longer.
-
 The force of this argument seems to me
 diluted by the fact that price inflation
 illusion affects equally both sides of the
@@ -94,7 +84,6 @@ he might wait for. It is in the spirit of this
 theorizing to assume that money interest
 rates respond to the same correct or incorrect
 inflationary expectations. As a
-
 first approximation, inflation illusion has
 no substitution effect on the margin between
 working and waiting.

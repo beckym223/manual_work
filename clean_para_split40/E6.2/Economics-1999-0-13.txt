@@ -14,7 +14,6 @@ They may also share a common war experience
 This common genetic heritage and environment
 is not fully captured by the aforementioned intergenerational
 variables because heritability is
-
 composed of the many different dimensions included
 in genetics and environment. However,
 conmmon family effects may be measured by using
@@ -31,7 +30,6 @@ of the frailty distribution, the parameters of
 a hazard function and a frailty distribution could
 be estimated (cf., James J. Heckman and
 Christopher R. Taber, 1994).
-
 IV. The Production and Distribution
 of Spiritual Assets
 
@@ -66,7 +64,6 @@ level of real income that was attained by only
 those in the top 10 percent of the income distribution
 a century ago'3 (Fogel, 2000). Technophysio
 evolution has made it possible to
-
 extend the quest for self-realization from a
 minute fraction of the population to almost the
 whole of it. Although those who are retired
@@ -82,7 +79,6 @@ current and past conditions of living. Failure
 to recognize the enormous material gains
 over the last century, even for the poor, impedes
 rather than advances the struggle
-
 against chronic poverty in rich nations, the
 principal characteristic of which is spiritual
 estrangement from the mainstream society.
@@ -91,9 +87,7 @@ element in the struggle to overcome spiritual
 estrangement, such assistance will not be
 properly targeted if one assumes that iinprovement
 in material conditions naturally
-
 leads to spiritual improvement.
-
 That proposition, so widely emnbraced by the
 nore secular of the economic reformers of the
 twentieth century, did more to promote the

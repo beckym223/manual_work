@@ -13,14 +13,12 @@ on the shape of the Gompertz curve (which
 relates the log of the age-specific probability
 of dying to age), on the theory of the epidemiological
 transition, 10 and on the related
-
 proposition that longer life expectancy implies
 worse health among the survivors. It appears
 that some of the earlier propositions were the
 consequence of attempts to infer life-cycle behavior
 from cross-sectional data sets. Such efforts
 were thwarted by changes in the
-
 sampling design of successive cross sections
 and by changes in technology that led to earlier
 diagnosis of preexisting conditions (Timothy
@@ -57,14 +55,12 @@ the persistence of central nervous systemr
 defects induced by malnutrition in early
 childhood (Nevin S. Scrimshaw, 1995). Numerous
 other follow-up studies have shown
-
 that malnutrition and smoking in adolescence
 and in middle ages are risk factors for the early
 onset of chronic conditions and premature
 mortality, especially due to coronary heart disease,
 non-insulin-dependent diabetes, and respiratory
 diseases (Avita Must et al., 1992;
-
 Vincent J. Carey et al., 1997; N. K. Chin et
 al., 1997; Joan M. Dom et al., 1997; K. Kotani
 et al., 1997; Dan S. Sharp et al., 1997; Ralf
@@ -77,7 +73,6 @@ and height, BMI, and protein consumption
 (after controlling for caloric intake)
 (John Strauss and Duncan Thomas, 1995;
 Thomas and Strauss, 1997).
-
 There has also been an expansion of research
 into the connection between intrauterine
 and infant growth and the onset of chronic
@@ -86,7 +81,6 @@ evidence for such a link that has emerged
 thus far is with respect to hypertension, coronary
 heart disease (CHD), and non-insulindependent
 diabetes. A review of 32 papers
-
 dealing with the relationship between birth
 weight and hypertension by Catherine M. Law
 and Alistair W. Shiell (1996) showed a tendency

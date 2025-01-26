@@ -1,7 +1,6 @@
 frontier in many fields. On that account, the
 effort and experience on which world technological
 advance rests now has a wider
-
 base. The United States, therefore, should
 now begin to profit more from other countries'
 technical effort even as other countries
@@ -9,7 +8,6 @@ borrow from us. It remains to be seen, of
 course, whether we shall prove as successful
 at borrowing and adapting foreign technology
 as some other countries have been.
-
 The advance of other countries, however,
 also has a darker side for us. The development
 of many industries in which this country
@@ -32,7 +30,6 @@ within a country, while the growth rate of
 the aggregate remains constant or even
 speeds up. The reverse, however, is not necessarily
 true, nor even probably true. We
-
 cannot count on new, more progressive sectors
 stepping into the breach merely because
 the development of our old industries is
@@ -52,14 +49,11 @@ is: Can we mount a more energetic and
 successful response to the challenge of newly
 rising foreign competitors after 1970 than
 Britain did after 1870?19
-
 The relative decline of U. S. economic and
 political power carries with it other disadvantages,
 and not for ourselves alone. The
-
 leadership of the United States in the liberalization
 and stabilization of international
-
 economic relations was one of the bases for
 rapid world-wide productivity growth in the
 postwar years. We were able to assert that
@@ -69,7 +63,6 @@ beneficial to ourselves but generous
 to other countries, and because dominant
 political power persuaded sometimes recalcitrant
 partners to cooperate. Today, with
-
 U.S. influence reduced and U.S. as well as
 European industries under pressure, the
 world economy is threatened by a resurgence
@@ -92,12 +85,10 @@ are compound growth rates per year.
 1856-73 1873-1913
 
 (1) Gross domestic product 2.2 1.8
-
 (2) Man-hours 0.0 0.9
 
 (3) Labor input adjusted for quality 1.4 1.7
 (4) Output per man-hour 2.2 0.9
-
 (5) Output per unit of qualityadjusted
 labor input 0.8 0.1
 
@@ -109,7 +100,6 @@ intensity of work associated with number of hours);
 line (4)=line (1)-line (2); line (5)=line (I)-(3); line
 (6), Table 16.2 based on total factor input with labor
 input adjusted for quality.
-
 '9The British experience, of course, presents a prior
 question. Which came first, the successful competition
 of the younger industrial countries in Britain's basic

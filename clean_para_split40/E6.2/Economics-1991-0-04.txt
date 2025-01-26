@@ -13,11 +13,9 @@ been made. One may argue about points of
 their interpretation. But they belong in our
 common knowledge, and their thrust is unequivocal.
 They indicate how extensive the
-
 mathematization of economics and how
 deep the accompanying change of our field
 were over the past five decades.
-
 The perception of the depth of that
 change is reinforced by a comparison of the
 levels of mathematics required in 1940 and
@@ -33,14 +31,12 @@ most technical avenues, a high degree of
 mathematical professionalism is called for.
 Several faculty members of the 13 departments
 of economics mentioned previously
-
 were actually identified as mathematicians
 by their doctorates; four of them served as
 chairmen of those departments during the
 past 25 years. If still sharper focus brings
 out the intellectual leaders of that development,
 prominent among them is John von
-
 Neumann, one of the foremost mathematicians
 of his generation.
 
@@ -51,7 +47,6 @@ moving frontier and as topics that were
 once at that frontier became standard parts
 of the graduate, if not of the undergraduate,
 economic-theory curriculum.
-
 II
 
 Before the contemporary period of the
@@ -64,21 +59,17 @@ theory.
 
 The great theories of physics cover an
 immense range of phenomena with a
-
 supreme economy of expression. Of this,
 James Clerk Maxwell (1865) had given a
 notable example, as he described the electromagnetic
 field by means of eight equations
-
 at the time when mathematical economics
 was born and came of age in the
-
 middle of the 19th century. This extreme
 conciseness is made possible by the privileged
 relationship that developed over several
 centuries between physics and mathematics.
 In turn, the former presented the
-
 latter with open problems, or found to questions
 raised by physical theory ready-made
 answers discovered by mathematicians in
@@ -104,7 +95,6 @@ deduction.
 In these directions, economic theory could
 not follow the role model offered by physical
 theory. Next to the most sumptuous
-
 scientific tool of physics, the Superconducting
 Super Collider whose construction cost
 is estimated to be on the order of $1010

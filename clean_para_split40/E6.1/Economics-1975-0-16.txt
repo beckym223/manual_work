@@ -11,7 +11,6 @@ The initial enthusiasm for the capital
 budget concept (in the context of a Congress
 seeking to balance the budget annually)
 was dispelled by second-thought
-
 analysis showing that (a) it rested on some
 faulty parallels with private finance, (b)
 the implicit fiscal policy rule of always
@@ -24,7 +23,6 @@ the findings of prosaic economic research:
 recent studies show that the public works
 program launched in 1963 to speed recovery
 was far from completed before
-
 excess demand overtook us in the 1966-69
 period. This is not to rule out the use of
 certain types of "public works" that are
@@ -34,7 +32,6 @@ purposes. Nor does it rule out speeding
 up or delaying the launching of projects
 that are to be undertaken for sound costbenefit
 reasons in any event. But it is
-
 fair warning not to expect very much
 stabilization help from the public works
 sector (not to be confused with public
@@ -42,30 +39,24 @@ service employment).
 
 In the conscious use of taxes for stabilization
 purposes, the huge 1964 income
-
 tax cut delivered economic expansion and
 a balanced budget on schedule without inflation
 by mid-1965, just before the Vietnam
 escalation struck the economy. The
-
 temporary 1968 surtax, buffeted by powerful
 demand forces and monetary easing,
-
 left a more ambiguous econometric trail.
 Subsequent fiscal policy thinking emphasizes
 the advantages of temporary tax
-
 changes that embody not just income effects
 but intertemporal substitution effects.
 For example, lowering the prices of investment
 goods in a recession via a clearly
-
 temporary increase in the investment
 credit, or temporary cuts in consumption
 taxes on durable goods (or lacking these,
 temporary purchase subsidies), would constitute
 a powerful incentive to purchase
-
 those goods before the price went up
 again.
 
@@ -74,10 +65,8 @@ cost-push effects of anti-inflationary tax
 increases that offset part of their demanddamping
 effect. In recession, the costeasing
 and demand-push effects work in
-
 happy harmony. They work at cross purposes
 in tax increases (though not in
-
 expenditure cuts) to curb inflation. The
 question of how large the offsetting costpush
 effects, or aggregate supply effects,
@@ -90,9 +79,7 @@ Other Aspects
 This kaleidoscope of contributions, long
 as it is, leaves out a whole string of developments
 in budget concepts, techniques,
-
 and processes-efforts that were
-
 crowned by the congressional budget reforms
 recently put into effect. Much of the
 guidance and momentum for these reforms
@@ -102,7 +89,6 @@ throughout the 1960's. Also omitted is
 the conceptual work on the economics of
 the bureaucratic process, of how government
 works. Other omissions include the
-
 rebirth of interest and great advances in
 the economics of state-local finance, the
 rapid growth of the important new field of

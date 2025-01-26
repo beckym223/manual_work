@@ -1,7 +1,5 @@
 and conservation and development
-
 measures to limit dependence
-
 on foreign raw materials cartels. In other
 words, it is a call for better planning,
 better data, and faster conversion of
@@ -9,10 +7,8 @@ knowledge into policy.
 
 Another criterion of economists' responses
 to inflationary shocks is how
-
 quickly they adapted (read, "disaggregated"
 ) their macromodels, large and
-
 small, to incorporate new supply and price
 parameters that had previously been
 judged of second or third order importance
@@ -38,11 +34,9 @@ scrambled to disaggregate, to build
 microelements into their macromodels.
 For example, DRI now has good stage-ofprocessing
 models that absorb the impacts
-
 of food and energy explosions. Price elasticities
 are being built into the macromodels
 to reflect the impact of massive
-
 relative price changes on the macrodimensions
 of the economy.
 
@@ -50,10 +44,8 @@ The whole experience reminds us of the
 role and limits of econometric forecasting
 models. First, the combination of computers,
 mathematics, and econometrics
-
 cannot produce the miracles that the uninitiated
 may expect of them-there is no
-
 way of replicating reality with its 3 million
 equations, all of them non-linear. Second,
 their indispensable function is to bring us
@@ -69,7 +61,6 @@ problem. Else, they will lock out things
 that a more judgmental approach would
 include, and will fail to respond quickly to
 changes in order of importance.
-
 So the inflation-shock experience has
 brought home the need not just to watch
 supply but to watch all the pieces lest the
@@ -82,26 +73,21 @@ portent of the pace at which the advance
 toward macro-micro fusion will proceed.
 Economists who use judgmental models
 have shown us how to be the master
-
 rather than the slave of the computer. A
 case in point was the early analysis (especially
 by George Perry) of the macroimpact
 of the oil price increases. A year
-
 ago, his work had already brought out the
 oil paradox-the inflation of costs and
 hence prices, leading to a deflation of aggregate
 demand-and had provided some
-
 estimates of both. The insight that some
 $15 to $20 billion of consumer purchasing
 power would be siphoned off into the
 hands of oil producers and royalty collectors
 without any early return to the
-
 economy in the form of demand for imports
 or investment goods had important
-
 implications for demand-management policy-
 implications that were ignored until
 severe recession was full upon us.7

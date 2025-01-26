@@ -1,11 +1,9 @@
 change in the right direction or is not responding
 to the signals it receives. My own
-
 belief in this case lies with the marketfailure
 side. That is to say, I believe that
 what looks like involuntary unemployment
 is involuntary unemployment.
-
 Of course that conclusion only leads to
 another question. If the labor market often
 fails to clear, we had better figure out why.
@@ -30,10 +28,8 @@ sense that the objectives of the participants
 are not always the ones we normally impute
 to economic agents, and some of the constraints
 by which they feel themselves
-
 bound are not always the conventional constraints.
 In other words, I think that among
-
 the reasons why market-clearing wage rates
 do not establish themselves easily and adjust
 quickly to changing conditions are some
@@ -59,24 +55,20 @@ adapted to models of the buying and selling
 of cloth. Far from advocating that we all
 practice sociology, I am pleasantly impressed
 at how much mileage you can get
-
 from the methods of conventional economic
 analysis if only you are willing to broaden
 the assumptions a little.
-
 I
 
 It might be interesting to have a history of
 the evolution of economic ideas about unemployment,
 and their relation both to the
-
 internal logic of the subject and to the
 parallel evolution of the institutions of the
 labor market. I am not sufficiently well read
 to provide that kind of survey. To make my
 point about the persistence of the marketefficiency
 market-failure tension, I took a
-
 short cut. I went back to reread Pigou's
 Lapses from Full Employment, a little book I
 remember having been assigned to read as a
@@ -90,14 +82,12 @@ Britain, well into the Great Depression, and
 before the publication of the General Theory.
 The Preface to Lapses from Full Employment
 (another example of a revealing
-
 vocabulary) is dated November 1944, after
 five years of the war that put an end to the
 depression, and well after the appearance of
 the General Theory. That seemed like an
 interesting approach to the historical question,
 because current controversies in
-
 macro-economic theory are often described
 as a debate between "Keynesians" and
 others- "monetarists," "Classicals," or

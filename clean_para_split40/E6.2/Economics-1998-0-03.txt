@@ -2,7 +2,6 @@ This result came as a surprise to the profession,
 though perhaps less so to those who
 reached it, or something very like it, by an altemative
 route. They were the people who
-
 came at the problemn out of a tradition of measuring
 labor productivity, and at some point
 complemented output per worker with a measure
@@ -15,7 +14,6 @@ was to those who approached its measurement
 along the lines of equation ( 1) or
 (1'). See Moses Abramovitz (1952, 1956)
 and Solomon Fabricant (1954).
-
 In any case, as the newly discovered residual
 loomed large in our professional thinking, our
 discussion centered on two potential explanations:
@@ -42,7 +40,6 @@ these are items that may signal a different market
 wage. In a similar vein, the index j would
 appropriately vary over categories like the corporate,
 noncorporate, and housing sectors
-
 where, for tax if for no other reasons, different
 (gross-of-tax) rates of return would presumably
 prevail, even in a full equilibrium.
@@ -78,7 +75,6 @@ others. This approach has been further developed
 and carried to a high art by Dale W.
 Jorgenson and Griliches ( 1967), Jorgenson et
 al. (1987), and Jorgenson (1995).
-
 The main point to be made here is that once
 the residual is measured using a framework
 like (2) or its equivalent, the direct, measured
@@ -103,7 +99,6 @@ growth. This is a quite important point for it
 permits us to zero in on the residual as representing
 "technical change," "TFP improvement,
 " and "real cost reduction."
-
 There is no analytical reason to prefer one
 of the above three terms over another, in referring
 to the residual R'. But I am going a bit

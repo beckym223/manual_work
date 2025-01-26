@@ -6,30 +6,25 @@ pluralistic world, as firms grew larger and
 as conglomerates were added to vertical
 and horizontal combinations, as advertising
 expenditures mounted to influence
-
 spending out of rising discretionary income,
 as the problem of externalities became
 ever more important, and as the role
 of government in the functioning of markets
 steadily increased, micro-economic
-
 theory largely averted its eyes and became
 ever more enamored of hypothetical systems
 of general equilibrium under conditions
 of perfect competition.'5
-
 In the meantime, instructors in undergraduate
 micro theory have resolutely continued
 to teach their students the essentials
 of the Chamberlinian partial equilibrium
 analysis, with downward sloping demand
 curves facing the individual firm,
-
 and laying down the conditions for shortrun
 and long-run equilibrium on an industry
 basis. That much, at least, undergraduates
 seem able to absorb, and some
-
 factual counterparts can be found for the
 theoretical analysis. But at the graduate
 level in many universities, and the more so
@@ -44,7 +39,6 @@ of the growth of large-scale business,
 involves the conditions under which
 decisions are made in the large firm.'6 Involved
 here are a number of issues which
-
 have been the subject of some theoretical
 analysis and a good deal of empirical work
 in the postwar years, but very little of the
@@ -56,10 +50,8 @@ criteria in the decision rules used in the
 large firm, the effects of the separation of
 ownership and management on these optimization
 criteria, the ways in which the
-
 bureaucratization of decision making affects
 the manner in which business firms
-
 respond to market stimuli, and the effect
 of the improvements in the gathering and
 processing of information that have come

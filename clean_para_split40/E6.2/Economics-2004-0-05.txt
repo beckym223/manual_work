@@ -1,10 +1,8 @@
 THE AMERICAN ECONOMIC REVIEW
-
 would be more severe in the absence of a program.
 These different shortcomings in preparation
 for retirement relate to different issuesinadequate
 overall provision for retirement
-
 relates to having a mandatory program, inadequate
 annuitization relates to providing benefits
 in annuitized form, inadequate protection of
@@ -62,7 +60,6 @@ a "cooling-off' period during which contracts
 with door-to-door salespeople could be cancelled
 without penalty precisely because of deviations
 from homo economicus. And social
-
 security discussions have long recognized inadequate
 savings for retirement by many workers
 and inadequate annuitization by most. In addition,
@@ -74,7 +71,6 @@ workers retire too soon for their own good.
 These issues of poor choices in the presence of
 available opportunities are in addition to insurance
 market limitations that come from
-
 market incompleteness and from asymmetric
 information.
 
@@ -89,7 +85,6 @@ evaluations in terms of shorter periods (e.g.,
 years) as well as in terms of lifetimes. We care
 about actual consumption levels as well as the
 levels of lifetime resources.
-
 This requires more than just a positive theory
 of how people determine consumption but also
 normative criteria for evaluating consumption

@@ -1,11 +1,9 @@
 TABLE 5-NUMBER OF PRESCRIPTIONS
-
 Age 50-64 2.8
 
 Age 65 + All 4
 
 Age 65+ Pay own pharmacy bills 3.3
-
 Age 65+ Others pay pharmacy bills 4.4
 TABLE 6--PERCENT WITH LITTLE OR No KNOWLEDGE OF
 PART D
@@ -56,7 +54,6 @@ the program. Table 6 gives the fractions of the
 Medicare population who just before enrollment
 started said they had little or no knowlTABLE
 7-PERCENT NOT LIKELY TO ENROLL
-
 All 17.0
 
 Good health 19.0

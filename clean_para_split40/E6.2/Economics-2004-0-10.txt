@@ -27,7 +27,6 @@ is sensible.
 
 III. Workers and Families: Young Child,
 Spouse, and Survivor Benefits
-
 Social Security provides more than just retirement
 benefits for workers. It provides benefits
 for disabled workers and their families, for
@@ -66,7 +65,6 @@ from the program as a whole rather than in part
 or in full from the benefits of the retired worker?
 Are the details of benefit determination rules as
 well-designed as might be?
-
 Let me start with the first, most basic question.
 It makes sense to provide auxiliary benefits
 since studies suggest that significant numbers of
@@ -83,13 +81,11 @@ members matter since they will change the allocation
 of resources within the family. Protecting
 family members is a role governments have
 recognized for centuries.
-
 The other questions are more complex and
 need more detailed analyses. Two issues are
 central here. These are the positive and normative
 issues of how consumption is actually allocated
 within families and how to combine
-
 evaluations and rules that affect both individuals
 and families. Research on the determination
 of allocations within the family is still in an

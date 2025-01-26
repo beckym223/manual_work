@@ -24,7 +24,6 @@ burdens in the modem world, economic analysis
 has identified large potential gains from further
 improvements in long-run fiscal policy.
 II. Gains from Stabilization:
-
 A Baseline Calculation
 
 In the rest of the lecture, I want to apply the
@@ -50,14 +49,12 @@ real inefficiencies-indeed, any economy in
 which money has value-must be one that operates
 under missing markets and nominal rigidities
 that make changes in money into
-
 something other than mere units changes. Then
 it must also be the case that these same rigidities
 prevent the economy from responding efficiently
 to real shocks, raising the possibility that
 a monetary policy that reacts to real shocks in
 some way can improve efficiency.
-
 If we had a theory that could let us sort these
 issues out, we could use it to work out the
 details of an ideal stabilization policy and to
@@ -74,7 +71,6 @@ on welfare would be if all consumption variability
 could be eliminated.4 To this end, consider
 a single consumer, endowed with the
 stochastic consumption stream
-
 (1) c, = Aete- (l/2)r2e,
 
 where log(se) is a normally distributed random
@@ -93,7 +89,6 @@ where p is a subjective discount rate, y is the
 coefficient of risk aversion, and the expectation
 is taken with respect to the common distribution
 of the shocks so, el ... .
-
 Such a risk-averse consumer would obviously
 prefer a deterministic consumption path
 to a risky path with the same mean. We quantify

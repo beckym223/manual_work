@@ -23,7 +23,6 @@ but the reader can convince himself that
 the result would be influenced little by
 the use of estimates that exclude the intersector
 effect (for the most recent period
-
 this would have been an increase of 2.6
 percent p.a.). To me it seems reasonable to
 relate also the intersector effect to progress-
@@ -39,7 +38,6 @@ The first of these is that the present
 average social rate of return from the
 progress-activities is substantially in excess
 of 13 percent on the all-inclusive
-
 cost-base, and substantially in excess of
 18 percent on the cost-base limited to
 institutionally profit-oriented progress-inputs

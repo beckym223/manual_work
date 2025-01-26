@@ -37,7 +37,6 @@ annual premium, for various pharmacy bills.
 The private insurers who provide drug coverage
 within the Plan D framework may offer enhancements
 to the standard plan, at higher
-
 premiums, including coverage for the $250 deductible
 and/or for the gap or "doughnut hole"
 in the standard plan, which pays no added benefits
@@ -46,7 +45,6 @@ $5,100. They may offer broader formularies
 than Medicare requires, variations in the coinsurance
 or copayment tier structure, and convenience
 features such as broad pharmacy
-
 participation and mail-order services. Approved
 plans must have formularies that include at least
 two drugs in each therapeutic category; the fraction

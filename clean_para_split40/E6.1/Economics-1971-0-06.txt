@@ -1,10 +1,8 @@
 system deeper and deeper, by
-
 reducing, for example, cost functions to
 production functions and the production
 functions to some still more basic relationships
 eventually capable of explaining
-
 the technological change itself, we should
 be able to reduce this drift. It would,
 nevertheless, be quite unrealistic to expect
@@ -24,13 +22,11 @@ which the system is described, change
 rapidly. Without a constant inflow of new
 data the existing stock of factual information
 becomes obsolete very soon.
-
 What a contrast with physics, biology or
 even psychology where the magnitude of
 most parameters is practically constant
 and where critical experiments and measurements
 don't have to be repeated every
-
 year!
 
 Just to keep up our very modest current
@@ -72,14 +68,11 @@ the principal method of empirical research.
 As theorists, we construct systems in which
 prices, outputs, rates of saving and investment,
 etc., are explained in terms of
-
 production functions, consumption functions
 and other structural relationships
-
 whose parameters are assumed, at least for
 arguments' sake, to be known. As econometricians,
 engaged in what passes for
-
 empirical research, we do not try, however,
 to ascertain the actual shapes of these
 functions and to measure the magnitudes
@@ -87,7 +80,6 @@ of these parameters by turning up new
 factual information. We make an about
 face and rely on indirect statistical inference
 to derive the unknown structural
-
 relationships from the observed magnitudes
 of prices, outputs and other variables
 that, in our role as theoreticians, we
@@ -96,7 +88,6 @@ treated as unknowns.
 Formally, nothing is, of course, wrong
 with such an apparently circular procedure.
 Moreover, the model builder in
-
 erecting his hypothetical structures is free
 to take into account all possible kinds of
 factual knowledge and the econometrician

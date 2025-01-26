@@ -17,16 +17,13 @@ ways. If that is so, the market structure that
 is called for by contestability theory may not
 prove to be too bad an approximation to
 what we encounter in reality.
-
 II. On Oligopoly Equilibrium
-
 I should like now to examine oligopoly
 equilibrium somewhat more extensively. We
 have seen that, except where a multiproduct
 oligopoly firm happens to sell some of its
 products in markets in which it has no competitors,
 an important partial monopoly case
-
 which I will ignore in what follows, all prices
 must equal the corresponding marginal costs
 in long-run equilibrium. But in an oligopoly
@@ -86,12 +83,10 @@ other integer multiple of 1,000 units of output.
 There are a variety of ways in which one
 can grapple with this difficulty. In his dissertation
 at New York University, Thijs ten
-
 Raa has explored the issue with some care
 and has shown that the presence of entry
 costs of sufficient magnitude, that is, irreversible
 costs which must be borne by an
-
 entrant but not by an incumbent, can
 eliminate the existence problem. The minimum
 size of the entry cost required to permit

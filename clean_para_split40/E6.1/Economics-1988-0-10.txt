@@ -2,11 +2,9 @@ frequently emerge that pressure children,
 parents, spouses, and other relatives into
 helping out family members in need. In addition,
 family members use their frequent
-
 interaction with one another to raise the
 level of guilt experienced by a member when
 he or she does not help out.
-
 The formal analysis of the interaction
 among overlapping generations began with
 Paul A. Samuelson's brilliant paper in 1958.
@@ -15,7 +13,6 @@ continues up to the present. Although
 Samuelson had relevant obiter dicta about
 social compacts, altruism, and family obligations,
 his model and that of most of the
-
 subsequent literature assumes that each person
 enters the analysis as a young adult
 without personal connections to older cohorts.
@@ -31,12 +28,10 @@ members misled these studies sometimes into
 focusing on minor problems and diverted
 attention away from some important consequences
 of the overlapping of generations
-
 (the discussion in the next few paragraphs
 draws partly on Becker and Murphy, 1988).
 One example of the emphasis on unimportant
 problems is the concern with the
-
 plight of older people when there are few
 durable assets that can finance consumption
 at old age. In an influentual literature on the
@@ -59,28 +54,23 @@ all societies, whether simple or complicated.
 
 General equilibrium theorists are concerned
 about the continuum of equilibria,
-
 inefficiency, and other problems that arise in
 models where overlapping-generations persist
 indefinitely into the future (see, for example,
 Geanakoplos, 1987, or Timothy J.
-
 Kehoe, 1987). Although these problems
 would not completely disappear, I conjecture
 that they would be much less important
 if overlapping-generations models incorporated
 the informal trades and assistance
-
 available to parents, children, and other
 members of the same family.
-
 Ever since Plato's Republic, philosophers
 have worried about whether parents invest
 sufficiently in the health, skills, and morals
 of their children. Overlapping-generations
 models usually neglect childhood and concentrate
 on savings by young adults and
-
 their trades with old adults. The treatment of
 children by parents not only is so important
 in its own right, but it also greatly influences
@@ -98,7 +88,6 @@ when altruistic parents leave bequests
 to their children. The combination of
 altruism and bequests eliminates any difficulties
 in financing the wealth-maximizing
-
 investment in children's health, training, and
 other human capital. For if the marginal rate
 of return on additional human capital exceeds

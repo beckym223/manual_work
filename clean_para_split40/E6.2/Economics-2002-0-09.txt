@@ -15,7 +15,6 @@ P12 7 O"(Z)
 ZI Z1 2 Zb I ZLI Zh2' z
 
 FIGURE 2. TIME-SERIES EFFECTS
-
 innovations that extend the quality range of
 goods tend to reduce the real costs of services
 and reduce living costs for those who buy them.
@@ -81,7 +80,6 @@ available. Note that there is a consumer whose
 bid function, in this case 03( z), reflects higher
 satisfaction at (Zh2', Ph2') than at any other
 available (z, p) combination.
-
 This example is transparent, but very relevant.
 Until a few years ago, the National Income
 and Product Accounts priced computers by the

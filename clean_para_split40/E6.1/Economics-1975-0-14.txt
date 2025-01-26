@@ -11,10 +11,8 @@ are the empirical advances. One thinks of
 searching studies of particular taxes and
 tax components (especially in the Brookings
 Studies on Government Finance),
-
 and of the relentless identifying and quantifying
 of federal income tax preferences
-
 or "loopholes." Much of the thrust of
 economists' recent work on these "tax
 expenditures" has been (a) to identify the
@@ -31,14 +29,12 @@ Though the congressional response has
 been slow and halting, progress has been
 made along the lines plotted by economists,
 and a solid base has been laid for
-
 the further tax reform that is surely coming.
 
 
 Out of the countless other advances,
 one stands out, namely, the highly informative
 work done on the distributional
-
 impacts of taxation with the aid of the
 powerful tool of micro-unit data files (for
 example, the MERGE file developed by
@@ -47,17 +43,13 @@ Such micro-unit files are a new-generation
 statistical missile, MIRVed so that they
 can simultaneously hit multiple revenueestimating
 and burden-distribution targets.
-
 With their help, for example, economists
 have measured the growing burden
-
 of income, payroll, and consumption taxes
 on the lower income groups and developed
 techniques for removing them-most recently,
 in the context of the impact of
-
 inflation on the same groups.
-
 One should add that if revolution rather
 than reform becomes the order of the day
 in the federal tax structure, the economist
@@ -69,7 +61,6 @@ expenditure tax, and a net-worth tax. One
 of the next stages in tax research, a highly
 complex one, will be the general equilibrium
 analysis of such sweeping changes
-
 in the tax system as, say, the substitution
 of a value-added tax for the corporate
 income tax or for part of the payroll tax.
@@ -85,7 +76,6 @@ The negative income tax story is relevant
 here. The concept and its rudimentary
 principles were developed and discussed
 among economists in the early
-
 1940's. Some of us were already using it as
 a teaching device in the mid-1940's. A
 quarter-century after its origin, it became
@@ -97,14 +87,11 @@ Fiscal Policy
 
 In the domain of fiscal policy, it is harder
 to answer the question, "What have
-
 you economists done for us lately?" with
 a sparkling array of examples. Much of
 the theoretical ferment in this field is associated
 with the flowering of Keynesian
-
 macroeconomics in the late 1930's and
 1940's, the very period when the microeconomics
 of tax incidence and public
-
 expenditures languished.

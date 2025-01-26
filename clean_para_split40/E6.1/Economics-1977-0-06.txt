@@ -1,7 +1,5 @@
 II. The Monetarists' Attack
-
 A. The Stabilizing Power of the
-
 Hicksian Mechanism
 
 The monetarists' attack on Keynesianism was
@@ -17,7 +15,6 @@ different assessment in turn was felt to justify a
 radical downgrading of the practical relevance
 of the Keynesian framework as distinguished
 from its analytical validity.
-
 Liquidity preference was a fine contribution
 to monetary theory but in practice the responsiveness
 of the demand for money, and hence of
@@ -53,7 +50,6 @@ on demand, while changes in money would
 produce large and permanent effects on money
 income; and, therefore, (iii) the observed instability
 of the economy, which was anyway
-
 proving moderate as the postwar period unfolded,
 was most likely the result of the unstable
 growth of money, be it due to misguided endeavors
@@ -76,7 +72,6 @@ unemployment. The evidence to the contrary,
 including the Phillips curve, was but a statistical
 illusion resulting from failure to differentiate between
 price changes and unexpected price
-
 changes.
 
 Friedman starts out by reviving the Keynesian

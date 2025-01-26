@@ -28,7 +28,6 @@ distort incentives in ways that cause inefficient
 use of resources: early retirement, low saving,
 unproductively long job searches, and excessive
 consumption of medical care.
-
 Social insurance program parameters should
 be chosen to balance protection and distortion.
 The level of Social Security benefits should
@@ -78,7 +77,6 @@ Redesigning Programs to Keep Pace with
 Changing Conditions.--Three important changes
 that should influence the design of our social insurance
 programs have occurred since those
-
 programs began: a changed economy, new technology,
 and a different understanding of the effect
 of government programs on individual behavior.

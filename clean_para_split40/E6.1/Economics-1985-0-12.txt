@@ -14,7 +14,6 @@ model it is not the expectational element
 that generates aggregate nominal wage flexibility.
 Rather, a prompt response of aggregate
 nominal wages to nominal shocks is
-
 guaranteed by the perfect ex ante flexibility
 of relative wages in auction markets. In these
 models a downward nominal demand shock
@@ -25,7 +24,6 @@ to underbid wages, shading their bids and
 offers in the face of excess supplies, to the
 point where markets are cleared. In the auction-
 market model, workers or groups of
-
 workers are willing to accept lower wages in
 the face of excess supply even when errors in
 expectations lead them to misperceive the
@@ -40,7 +38,6 @@ implicit contracts I have described earlier,
 however, the absence of substantial relative
 wage flexibility eliminates this basis for
 prompt nominal wage flexibility.
-
 In the absence of auction markets with
 their relative wage flexibility, the achievement
 of aggregate nominal wage flexibility
@@ -102,7 +99,6 @@ in which the probabilities of interest
 concern a fairly well defined recurrent
 event, situations of 'risk' in Knight's
 terminology. [1977, p. 15]
-
 Changes in the path of nominal wages, however,
 have not simply, or even primarily,
 been driven by recurrent patterns of endogenous

@@ -1,5 +1,4 @@
 Survey Health Economic Practicing
-
 question economists theorists physicians
 number' Question (n c 46) (n c 44) (n c 42)
 A. Positive Questions:
@@ -27,7 +26,6 @@ groups.
 19 In the long run employers bear the primary burden of their 13** 8** 43
 contributions to employees' health insurance.
 B. Policy-Value Questions:
-
 National health insurance questions:
 3 The U.S. should now enact some plan that covers the entire 62 65* 68*
 population.
@@ -44,7 +42,6 @@ Insurance company underwriting questions:
 8 Insurance companies should be required to cover all applicants 51 29** 69*
 regardless of health condition and not allowed to charge sicker
 individuals higher premiums.
-
 17 Health insurance premiums should be higher for smokers than for 71** 90** 85**
 nonsmokers.
 
@@ -54,10 +51,8 @@ care) should be higher than those charged to individuals
 without such defects.
 
 All other policy-value questions:
-
 I It is inequitable for the govemment to vary subsidies for health 62 36 86**
 insurance by size of firm.
-
 2 "Any willing provider" legislation (that requires health plans to 12** 12** 39
 include any physician who wants to be included) is desirable
 for society as-a whole.
@@ -67,13 +62,11 @@ established.
 
 6 It is inefficient for the govemment to vary subsidies for health 66* 42 73*
 insurance by size of firm.
-
 11 Expenditures on medical R&D are greater than is socially 27* 29* 16**
 optimal.
 
 16 All health insurance plans should be required to offer "point of 30** 55 83**
 service" options (that allow patients to obtain care outside the
 basic plan at additional cost).
-
 'Of those who agree or disagree. * Significantly different from 50 percent at p < 0.05.
 Question numbers refer to order of questions in original survey. ** Significantly different from 50 percent at p < 0.01.

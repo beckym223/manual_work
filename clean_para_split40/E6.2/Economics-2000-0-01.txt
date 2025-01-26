@@ -18,7 +18,6 @@ The twentieth century can be remembered as the
 century in which hunger could have been eliminated
 and, to a significant extent, has been.
 I. Food and Population Growth
-
 Thomas Robert Malthus, publishing the first
 edition of his famous An Essay on the Principles
 of Population in 1798, is usually credited
@@ -37,7 +36,6 @@ the earth itself is currently more cultivated
 and developed than in earlier times.
 Now all places are accessible, all are docurnented,
 all are full of business. The
-
 most charming farms obliterate empty
 places, ploughed fields vanquish forests,
 herds drive out wild beasts, sandy places
@@ -45,14 +43,11 @@ are planted with crops, stones are fixed,
 swamps drained, and there are such great
 cities where formerly hardly a hut ... everywhere
 there is a dwelling, everywhere
-
 a multitude, everywhere a government,
 everywhere there is life. The greatest evidence
 of the large number of people: we
-
 are burdensome to the world, the resources
 are scarcely adequate to us; and
-
 our needs straiten us and complaints are
 everywhere while already nature does not
 sustain us. Truly, pestilence and hunger

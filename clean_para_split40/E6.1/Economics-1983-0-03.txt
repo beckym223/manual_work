@@ -17,7 +17,6 @@ Ever since the emergence of macroeconomics
 as a distinct and (almost) respectable
 branch of analysis, there has been a conscious
 tension between macroeconomics and
-
 microeconomics; much of this tension relates
 to the roles and the behavior of prices and of
 the price level. Surely, it cannot be said that
@@ -35,14 +34,12 @@ but rather with the price-theoretical foundations
 of macroeconomics. Essentially, I will
 be discussing some of the roles that microeconomists
 and macroeconomists see for
-
 prices, and particularly for price changes.
 Price theory has moved a long way since I
 deserted it, and I no longer claim any expertise
 in this area. But I have the impression
 that many current problems both in microand
 macroeconomics tend to be the same
-
 problems-looked at from opposite sides of
 the borderline between them. Thus I propose
 to lead us on a stroll along some sectors of
@@ -81,7 +78,6 @@ level. That way, I do not need to keep repeating
 
 I start with the prices and inventories of
 standardized commodities.
-
 I. Commodity Prices and Inventories
 Economists often find it useful to think of
 the quantities of a commodity supplied to a

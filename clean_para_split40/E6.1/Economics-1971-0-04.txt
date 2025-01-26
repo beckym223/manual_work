@@ -5,19 +5,16 @@ of algebraic signs.
 Professional journals have opened wide
 their pages to papers written in mathematical
 language; colleges train aspiring
-
 young economists to use this language;
 graduate schools require its knowledge and
 reward its use. The mathematical modelbuilding
 industry has grown into one of the
-
 most prestigious, possibly the most prestigious
 branch of economics. Construction of
 a typical theoretical model can be handled
 now as a routine assembly job. All principal
 components such as production functions,
 consumption and utility functions
-
 come in several standard types; so does
 the optional equipment as, for example,
 "factor augmentation"-to take care of
@@ -25,7 +22,6 @@ technological change. This particular device
 is, incidentally, available in a simple
 exponential design or with a special automatic
 regulator known as the "Kennedy
-
 function." Any model can be modernized
 with the help of special attachments. One
 popular way to upgrade a simple one-sector
@@ -41,10 +37,8 @@ properties. But if the author-or at least
 the referee who recommended the manuscript
 for publication-is technically competent,
 such mathematical manipulations,
-
 however long and intricate, can even without
 further checking be accepted as
-
 correct. Nevertheless, they are usually
 spelled out at great length. By the time it
 comes to interpretation of the substantive
@@ -53,19 +47,16 @@ model has been based are easily forgotten.
 But it is precisely the empirical validity
 of these assumrptions on which the usefulness
 of the entire exercise depends.
-
 What is really needed, in most cases, is
 a very difficult and seldom very neat
 assessment and verification of these assumptions
 in terms of observed facts. Here
-
 mathematics cannot help and because of
 this, the interest and enthusiasm of the
 model builder suddenly begins to flag:
 "If you do not like my set of assumptions,
 give me another and I will gladly make you
 another model; have your pick."
-
 Policy oriented models, in contrast to
 purely descriptive ones, are gaining favor,
 however nonoperational they may be.
@@ -87,7 +78,6 @@ in the last two decades are both impressive
 and in many ways beautiful. But it cannot
 be denied that there is something scandalous
 in the spectacle of so many people
-
 refining the analysis of economic states
 which they give no reason to suppose will
 ever, or have ever, come about.... It

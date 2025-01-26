@@ -18,7 +18,6 @@ thereby neutralize its effect on demand.
 The stability of the economy is thus neutral
 with respect to the systematic reaction of monetary
 policy to the business cycle.
-
 E. Ricardian Equivalence
 
 According to Ricardian Equivalence, under
@@ -84,7 +83,6 @@ Ashamed.16
 
 10 See Lucas (1972), Thomas J. Sargent (1973), and
 Lucas and Sargent (1979).
-
 11 See Robert J. Barro (1974) for the modem reincarnation
 of these ideas, first discovered by Ricardo.
 12 This section, including much of its exact wording, has

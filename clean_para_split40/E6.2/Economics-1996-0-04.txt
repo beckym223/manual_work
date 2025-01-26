@@ -16,9 +16,7 @@ in the production process, seemed like
 a fruitful area for investigation. I was particularly
 interested in trying to understand the determinants
 of health and the determinants of
-
 health care expenditures.
-
 With regard to health, my research has led
 me to emphasize the importance of nonmedical
 factors such as genetic endowment, the
@@ -27,7 +25,6 @@ personal behaviors such as cigarette smoking,
 diet, and exercise. Over time, advances in
 medical science contribute significantly to reductions
 in morbidity and mortality; at any
-
 given point in time, however, differences in
 health levels within or between developed
 countries are not primarily related to differences
@@ -49,7 +46,6 @@ physicians can and do induce demand
 for their services is alive and well.11
 My views about health and health care expenditures
 have been formed not only through
-
 research but also through close interaction
 with medical scientists, practicing physicians,
 and other health professionals. Since 1968 I
@@ -67,7 +63,6 @@ with modes of thought and action unlike those
 with which they are familiar ... Such communication
 has always been ... one of the primary
 sources of progress" (p. 581).
-
 The proposition that the discipline of economics
 has a great deal to contribute to health
 and medical care is not one likely to require
@@ -80,11 +75,9 @@ alien turf. (To avoid undue suspense, let me
 say at once that it was not game theory.)
 In my experience, the most important contribution
 we make is the economic point of
-
 view, which may be summed up in three
 words: scarcity, substitutability, and heterogeneity.
 This economic point of view stands
-
 in stark contrast to the romantic and monotechnic
 points of view that I found prevalent
 among health professionals and health policymakers.

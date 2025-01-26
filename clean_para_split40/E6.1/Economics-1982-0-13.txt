@@ -25,7 +25,6 @@ is, indeed, possible, but here we may
 conjecture that the vicissitudes of disequilibrium
 will cause shifts in the demand relationships
 as changing prices and changing
-
 consumption patterns affect tastes, and so
 the industry will ultimately happen upon an
 equilibrium position and remain there until
@@ -48,7 +47,6 @@ assumed for expository simplicity that in the
 interval from ym to I lym along each and
 every ray, total cost grows exactly proportionately
 with output. Then two firms can
-
 produce 2ym at the same unit cost, and three
 firms can produce 3ym at that same unit cost
 for the given output bundle, etc. But by

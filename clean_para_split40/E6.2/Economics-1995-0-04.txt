@@ -17,10 +17,8 @@ Buchanan has taken a more permissive position-
 indeed emphatically so: "The definition
 of democracy as 'government by discussion'
 implies that individual values can
-
 and do change in the process of decisionmaking"
 (Buchanan, 1954a p. 120).6 We
-
 have to scrutinize the importance of this
 difference as well.
 
@@ -37,13 +35,10 @@ The subject of welfare economics was
 dominated for a long time by the utilitarian
 tradition, which performs interpersonal aggregation
 through the device of looking at
-
 the sum-total of the utilities of all the people
 involved. By the 1930's, however,
-
 economists came to be persuaded by arguments
 presented by Lionel Robbins (1938)
-
 and others (influenced by the philosophy of
 "logical positivism") that interpersonal
 comparisons of utility had no scientific
@@ -78,7 +73,6 @@ of "social welfare" (or the general
 goodness of states of affairs) were clarified
 by Abram Bergson (1938, 1966) and extensively
 explored by Paul Samuelson (1947).
-
 The concentration was on the need for a
 real-valued function W of "social welfare"
 defined over all the alternative social states,

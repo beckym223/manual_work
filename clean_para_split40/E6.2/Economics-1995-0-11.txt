@@ -19,7 +19,6 @@ cause cycles in general in what is called
 "the economic domain" (of interpersonal
 commodity space), if everyone votes in a
 narrowly self-interested way.
-
 However, majority rule would be a terrible
 decision procedure in this case, and its
 intransitivity is hardly the main problem
@@ -34,7 +33,6 @@ and brutish, but also short in consistency.28
 The tension between social welfare judgments
 (of different kinds explored, for example,
 by Meade [1976], Arrow [1977],
-
 Mirrlees (1982), William J. Baumol [1986],
 or John Broome [1991]) and mechanical decision
 rules (like majority decision) with
@@ -54,14 +52,12 @@ together in political programs and proposals)
 only look at their "own share of the cake"
 in taking up political positions and attitudes.
 29 The "public choice" school has
-
 tended to emphasize the role of logrolling
 in political compromises and social decisions.
 While that school has also been rather
 wedded to the presumption of each person
 being homo economicus even in these exercises
 (see Buchanan and Tullock, 1962),
-
 there is a more general social process here
 (involving a variety of motivations) that can
 be fruitfully considered in examining decision
@@ -74,24 +70,20 @@ The condition of independence of irrelevant
 alternatives is also not beyond disputation
 and, indeed, has led to debates-explicitly
 or by implication-for a very long
-
 time. It was one of the issues that divided
 J. C. Borda (1781) and Marquis de Condorcet
 (1785), the two French mathematicians,
 who had pioneered the systematic
-
 theory of voting and group decision procedures
 in the 18th century. One version of
 the rule proposed by Borda, based on adding
 the rank-order numbers of candidates in
 each voter's preference list, violates the independence
 condition rather robustly, but it
-
 is not devoid of other merits (and is frequently
 used in practice).30 Other types of
 voting rules have also been shown to have
 different desirable properties.3'
-
 a somewhat exaggerated title: "The General Irrelevance
 of the General Possibility Theorem") and in a
 definitive paper by Jean-Michel Grandmont (1978).

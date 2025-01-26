@@ -4,7 +4,6 @@ increasing our command over goods and
 services in the usual sense of these words.
 The value of such knowledge is not instrumental
 in an economic-technological
-
 context. It is equally clear that contributors
 to the growth of knowledge have all
 along been motivated largely by a desire to
@@ -17,7 +16,6 @@ drab account of man's quest for knowledge.
 
 Yet in societies of various types, financial
 and other incentives have become
-
 established for directing inventive and educational
 abilities to specific tasks carrying
 economic promise. Moreover, for several
@@ -26,14 +24,11 @@ knowledge that is valuable for its own
 sake has been appreciably influenced by
 the ideals of natural scientists and mathematicians.
 It is a fact of crucial importance
-
 that this has created a cultural environment
 in which a reasonably high degree of
 correlation may be found between the accumulation
 of knowledge per se and subsequent
-
 technological applications. The
-
 methods of measuring the economic yield
 of new knowledge and of measuring the
 trend of that yield have many inevitable
@@ -69,7 +64,6 @@ of any period, and their immediate results,
 in this distinctive fashion describes the
 most convenient way of separating them
 out for specific analysis.
-
 As I shall show later, however, very
 similar results are obtained in an analytical
 framework of different character in

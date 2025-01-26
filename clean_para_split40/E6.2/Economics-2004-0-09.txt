@@ -1,11 +1,9 @@
 THE AMERICAN ECONOMIC REVIEW
-
 comparing two mandatory programs, one with
 lump-sum payments and one with annuities.
 This comparison would be easy if individual
 choices between annuitization and nonannuitization
 were unaffected by the government
-
 choice. Then one would simply compare the
 implicit price of the trade-off between annuities
 and lump sums in the alternative mandatory
@@ -16,7 +14,6 @@ had a single price for all annuities, then we
 would compare the price implicit in the comparison
 of the programs with the actual uniform
 price. In this case, we would find
-
 mandatory annuitization attractive because
 the government would be likely to have a
 better price than the market.26 Conversely, if
@@ -39,18 +36,15 @@ without the government annuity, we would
 note the differences in prices for different
 people. Relative to annuities priced differently
 for different groups, the uniform
-
 annuitization implicit in the mandated annuitization
 would favor those with longer expected
 lives-women relative to men, male
-
 high earners relative to male low earners,
 female high earners relative to female low
 earners. A progressive benefit formula can be
 26W. H. Beveridge (1942) argued that in the United
 Kingdom the government systematically did better than
 private insurance markets.
-
 27 Annuity pricing that varies with stochastic health out-
 comes implies a risk of the classification to which one will
 belong. With annuitization done at a single time in life, the
@@ -67,7 +61,6 @@ relevant counterfactual is that approximately
 no one would annuitize. Pretty much everyone
 would lose the insurance gains from annuitization.
 28 We can compare the mandate
-
 with this counterfactual in two steps-first the
 value of annuitization assuming actuarially
 fair pricing and then the difference, described
@@ -75,7 +68,6 @@ above, between fair and uniform pricing.
 Since those groups with shorter life expectancies
 have more to gain from fair annuitization
 [assuming CRRA preferences in the
-
 usual range and realistic mortality rates (Jeffrey
 Brown, 2003)] this counterfactual shows
 much less diversity in the utility value of

@@ -39,7 +39,6 @@ then think of an ideal stabilization policy as one
 that replaces
 
 y = az + e = (a + c)z + r1
-
 with
 
 y = (a + c)E(z) + *1.
@@ -53,7 +52,6 @@ this particular application, removing the variance
 of the aggregate shock is estimated to
 reduce the standard deviation of the individual
 employment shocks by 16 percent.19
-
 The first such thought-experiment Krusell
 and Smith describe involves a comparison between
 the expected utility drawn from the

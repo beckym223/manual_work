@@ -18,7 +18,6 @@ economic analysis has been used to explain
 who marries whom and when (if ever) they
 divorce, the number of children and investments
 in each child's human capital, the
-
 extent and timing of labor force participation
 by married women, when elderly parents
 rely on children for support, and many other
@@ -29,7 +28,6 @@ insights toward explaining the large decline
 in birth rates during the past 100 years,
 the rapid expansion in the labor force participation
 of married women after the 1950s,
-
 the explosive advance in divorce rates during
 the past two decades, and other major
 changes in the family. Family economics is
@@ -38,7 +36,6 @@ Yet perhaps because family economics is a
 new field, only a small literature considers
 the implications for other parts of economics.
 The family is such an important
-
 institution that progress in understanding
 how it behaves is justification enough for
 any discipline. But most economists, including

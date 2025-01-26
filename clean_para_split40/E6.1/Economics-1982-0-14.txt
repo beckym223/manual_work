@@ -4,15 +4,10 @@ as much as 3 ym, that is, as much as
 4ym. In sum, the intervals of linear homogeneity
 for the industry are the following:
 Interval 1: from ym to I ym
-
 Interval 2: from 2ym to 22ym
-
 Interval 3: from 3ym to 4ym
-
 Interval 4: from 4ym to 54ym
-
 Interval 5: from Sytm to 62y'
-
 That is, each interval begins at an integer
 multiple of ym and extends 1/3 ym further
 than its predecessor. Thus, beyond 3ym
@@ -57,7 +52,6 @@ Inefficient Entry
 Having so far directed attention to areas
 in which the invisible hand manifests unexpected
 strength, I should like to end my
-
 story by dealing with an issue in relation to
 which it is weaker than some of us might
 have expected. As I indicated before, this is
@@ -89,7 +83,6 @@ Thus, after 45 years it will pay the firm
 to undertake a second construction project
 to build the added capacity needed to produce
 the goods demanded of it.
-
 Suppose that in every particular period
 our producer is a natural monopolist, that is,
 he produces the industry's supply of its one

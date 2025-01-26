@@ -1,18 +1,14 @@
 The required simplifying assumptions
 are reasonably well satisfied in the macroeconomic
 Cobb-Douglas framework. The
-
 CES model also acquires the needed properties
 if we work into it a mechanism of
-
 induced invention and of distributiveshares
 equilibrium.8 This is explained in
-
 Appendix A. In Sections III and IV we
 shall return to the question how much
 similarity of the real world with such
 models is implied in my paper.
-
 I should add that on both sides of my
 benefit-cost ledger I will have to disregard
 problems of considerable importance which
@@ -22,7 +18,6 @@ be appraised only in very vague terms. I
 will not be able to consider the question
 whether all-too-rapid change does not reduce
 our well-being "in a fundamental
-
 sense," or, on the other hand, whether at a
 stagnant or near-stagnant level of technology
 the institutions of Western nations
@@ -50,7 +45,6 @@ ratio.
 
 Another large part of the progress-generating
 expenses is incurred by agencies
-
 not institutionally subjected to criteria of
 economic yield. The government-financed
 R & D9 and that financed by other nonprofit
@@ -60,29 +54,23 @@ capita education.10 This does not mean
 that the nonprofit institutions incurring
 these costs are under no political or quasipolitical"
 pressure to keep costs down per
-
 unit of service; what it does mean is that
 these costs create net income by definition,
 i.e., that their net-income-creating property
 does not depend on whether they
-
 generate offsetting revenues. Nonprofit institutions,
 most prominently illustrated by
-
 governments, but illustrated also by private
 teaching organizations, can have defcits
 but these deficits are not usually
-
 viewed as negative income such as would
 cancel any part of the incomes created by
 the institutions. In the language of national
 accounting, the services of these institutions
 are valued at cost, though, when
-
 appraising the worth of the services, any
 individual may find this valuation unconvincing.
 In this regard such costs are
-
 treated differently from those of firms,
 e.g., differently from that R & D component
 which is financed by industry.'2 The

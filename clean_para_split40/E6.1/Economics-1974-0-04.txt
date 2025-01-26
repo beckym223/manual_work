@@ -9,16 +9,13 @@ The neoclassical theory, especially in its
 competitive form, can be and has been
 given a rich formal development. Parenthetically,
 one cause for the persistence of
-
 neoclassical theory in the face of its long
 line of critics is precisely that for some
 reason of mathematical structure, the neoclassical
 theory is highly manipulable and
-
 flexible; when faced with a specific issue,
 it can yield meaningful implications relatively
 easily. Although I intend to air
-
 complaints and desires for change today,
 I must express my unabashed admiration
 for the accomplishments of the neoclassical
@@ -35,7 +32,6 @@ in demand due to Medicare and Medicaid
 with a price-inelastic supply of physicians
 and hospitals provides a simple straightforward
 answer; I cannot really imagine
-
 how a Marxian or a neo-Ricardian would
 even approach the question, though I suppose
 they might dismiss it as unimportant.
@@ -51,11 +47,9 @@ shifts in long-run resource allocation as
 motivated by returns and, in particular,
 the absence of a secular trend in technological
 unemployment to the perpetual
-
 surprise of the layman fit in well with the
 neoclassical formulation but have no ready
 explanation in alternate models.
-
 Of course, the implications of neoclassical
 theory have also been conspicuously
 falsified in important ways. Most notably,
@@ -65,20 +59,17 @@ capitalism are scarcely compatible with a
 neoclassical model of market equilibrium.
 A post-Keynesian world in which unemployment
 is avoided or kept at tolerable
-
 levels by recurrent alterations in fiscal or
 monetary policy is no more explicable by
 neoclassical axioms, though the falsification
 is not as conspicuous.
 
 Inequality in economic development
-
 among countries and among groups and
 regions within a country provides a second,
 somewhat complicated difficulty for neoclassical
 theory. A purely neoclassical answer
 would explain differences in per
-
 capita income by differences in physical
 and human assets per capita. This of
 course raises the further question, how
@@ -89,13 +80,11 @@ is that the differences in income seem
 much too vast to be explained by factor
 differences. Indeed, in the presence of international
 trade and especially international
-
 capital movements, wage differences
 should be very strongly reduced compared
 with what would occur in autarchic states
 where domestic capital is the limiting factor.
 Hence, we come immediately to the
-
 explanation that there are differences in
 the production possibility sets of the
 different countries. This conclusion is a

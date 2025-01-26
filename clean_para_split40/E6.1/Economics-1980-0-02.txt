@@ -5,7 +5,6 @@ can not participate directly in the
 markets for nonrenewable resources will not
 be remedied by improvements in communication.
 Nor are the residents of densely
-
 populated areas ever likely to be able to
 dicker effectively with the dozens or hundreds
 of sources of barely traceable pollutants
@@ -68,7 +67,6 @@ blot. Maybe there are more Panglosses than
 Candides. But that was true in Voltaire's
 time too-just before the French Revolution,
 by the way-and has more to do with
-
 the state of society than with the nature of
 economics.
 
@@ -87,7 +85,6 @@ The fuse leading from theory to policy in
 this field is short, and has been known to
 produce both heat and light throughout
 much of the history of economics.
-
 Contemporary macro-economic theory,
 though apparently full of technical novelties,
 has revived many of the old questions
@@ -98,7 +95,6 @@ interesting and important the basic controversial
 issues that come to the surface are
 the same ones that occupied earlier literature.
 The most important among them is
-
 really the old tension between market
 efficiency and market failure. Should one
 think of the labor market as mostly clearing,
@@ -108,5 +104,4 @@ think of it as mostly in disequilibrium, with
 transactions habitually taking place at nonmarket-
 clearing wages? In that case presumably
 the wage structure is either not
-
 receiving any strong signals to make it

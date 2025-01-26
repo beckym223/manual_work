@@ -15,7 +15,6 @@ the outset of Section III (see also fn. 21).
 On the whole, I do not believe that we
 would become guilty of gross error by disregarding
 these mutual interactions when
-
 using our framework for distinguishing
 between progress-generating activities and
 physical investment provided we stay
@@ -35,27 +34,23 @@ From 1953 to 1966 total recorded R & D
 rose from $5.2 billion to $22.2 billion, and
 this represents a better than twofold inincrease
 when R & D is expressed as a
-
 proportion of the privately produced
 GNP. This proportion rose from 1.6 percent
 to 3.3 percent.32 While an appreciable
 part of this increase was "real"-i.e.,
 "physical"- considerable importance attaches
 to changes in relative values.
-
 The question of the weight of the realinput
 component versus the relative-valuation
 component of the increase of the ratio
 of R & D-cost to private GNP is discussed
 quantitatively in Appendix B. This question
 is of some importance because the
-
 relative-valuation component represents
 in part rent-formation-a mere transfer of
 income-rather than a rise of social costs.
 However, in any event, even the relativevaluation
 component represents in good
-
 part rising social costs, because the relatively-
 rising salaries of research workers
 (and also of teachers) have attracted into

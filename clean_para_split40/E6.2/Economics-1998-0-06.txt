@@ -3,7 +3,6 @@ TABLE 2-CONCENTRATION OF TFP GROWTH AMONG U.S. INDUSTRIES 1958-1967
 Absolute amount
 
 of real cost Cum. GDP by Cum.
-
 TFP growth over period reduction sum of industry sum of
 (1.0 = 100 percent) [(1) X (4)] (2) 1958 (4)
 (1) (2) (3) (4) (5)
@@ -18,11 +17,9 @@ Public Utilities 0.42 4.65 31.33 11.00 60.90
 Petroleum and Coal 0.41 1.27 32.60 3.10 64.00
 Rubber and Products 0.41 1.23 33.83 3.00 67.00
 Mining 0.41 5.20 39.03 12.60 79.60
-
 Communication 0.40 3.61 42.64 9.00 88.60
 Trade 0.33 24.93 67.57 76.40 165.00
 There follow 18 more industries
-
 the combined results of which are 0.03 7.53 75.10 239.80 404.80
 Notes: Top 10 percent (these percentages are contributions to GDP of industries ranked according to their present rate of
 TFP growth over period) of industries account for 30 percent of total TFP contribution.

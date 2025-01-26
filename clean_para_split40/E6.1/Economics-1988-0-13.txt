@@ -7,14 +7,12 @@ of marriage as a sorting of men and
 women into small "partnerships" through a
 reasonably efficient marriage market influenced
 the analysis of how workers and
-
 managers are allocated to different firms.
 Viewing divorce as a joint decision by
 husbands and wives based largely on information
 gathered from living together encouraged
 some studies of employment separations
 to blur the analytical distinction
-
 between quits and layoffs and to emphasize
 the information about working conditions
 and productivity gathered from on-the-job
@@ -25,12 +23,10 @@ not the importance of the family per se, even
 though family welfare is the principal goal of
 a well-run economic system. Nor that analytical
 techniques developed to understand
-
 family choices are valuable in other parts of
 economics. The message is that family behavior
 is active, not passive, and endogenous,
 not exogenous. Families have large
-
 effects on the economy, and evolution of the
 economy greatly changes the structure and
 decisions of families. I illustrated how families

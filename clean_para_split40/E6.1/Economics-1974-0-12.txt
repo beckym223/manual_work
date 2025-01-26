@@ -7,7 +7,6 @@ are easily verifiable for both parties. The
 implications of these limits are known in
 the insurance literature as adverse selection
 and moral hazard, and they are of
-
 immediate practical significance in such
 matters as health insurance. But more
 broadly, they so limit the scope of contingent
@@ -19,7 +18,6 @@ of the large unresolved uncertainties.
 I hope enough has been said to indicate
 the widespread implications of costly, dispersed
 information for the process by
-
 which future-oriented economic decisions
 are made. Let me remark, briefly in view
 of the length of time I have already taken,
@@ -27,7 +25,6 @@ that informational costs and values play a
 key role in modifying the structure even of
 contemporaneous transactions. The individual
 optimizing agent is supposed to
-
 know at least his technology or tastes and
 the prices he faces. We have already argued
 a good deal of uncertainty with respect
@@ -35,7 +32,6 @@ to the future economic implications
 of present economic choices. But in addition
 there is the possibility that technological
 information, which would be useful
-
 to him, exists somewhere in the world but
 outside his firm. There are grounds for
 engaging in the active pursuit of information.
@@ -43,14 +39,12 @@ We begin to enter the realm of diffusion
 of innovations, to which some sociologists
 as well as economists have contributed.
 The interesting points here are
-
 the biasses in the information channels,
 some of which, at least, can be explained
 in terms of differential costs of acquiring
 information. For example, the well-documented
 role of personal influence in accepting
 innovations can be interpreted as
-
 due to a perceived high reliability of such
 information; in economic terms, this means
 more information per unit of expenditure
@@ -83,7 +77,6 @@ are important informational differences
 between the employees currently working
 for a firm and potential substitutes elsewhere,
 although these are interchangeable
-
 in pure neoclassical theory. Indeed, there
 are differences both in the information the
 firm possesses about its employees as compared
@@ -91,7 +84,6 @@ with alternatives and the information
 which employees have about the economic
 opportunities and the specific production
 conditions of the firm as compared
-
 with outsiders. It appears that considerations
 of this type must play some role in
 understanding the continued possibility of

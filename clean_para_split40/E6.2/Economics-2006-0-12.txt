@@ -7,7 +7,6 @@ highest value participants has a binomial distribution,
 b(K, KIN). The volume in the efficient
 auction is then K - J, which has mean K(N -
 K)IN and variance K2(N - K)/N2.
-
 In the experiment, the expected volume is
 86.25, with a standard deviation of 6.56. The
 actual market-clearing price was vK+ 1 = K =
@@ -40,7 +39,6 @@ there is a pure preference for sure things over
 lotteries, and a prospect effect in which the
 probabilities of low-probability events are overestimated.
 One of the consequences of these
-
 effects is that consumers will often refuse to
 take any share of either side of an offered lottery,
 a result consistent with the observed paucity
@@ -62,12 +60,9 @@ that learning by observing and by doing may be
 effective in selecting rational market behavior
 rules in arenas with sufficient repetitiveness to
 allow these effects to operate.
-
 B. Calculation and Processing
-
 The ideal rational consumer has the computational
 power to value complex commodities
-
 and consistently handle risk, discounting, and
 option calculations, and the logical clarity to
 work through the consequences of decisions
@@ -94,7 +89,6 @@ opportunities, and are barely conscious of others
 we make almost automatically. Driving an
 automobile is an example. We may ignore opportunities
 to change lanes or pass, or may
-
 decide to do so without conscious thought. Such
 decisions are usually sensible; we develop habits
 that work well and save scarce attention
@@ -102,7 +96,6 @@ time. They may not, however, be optimal. In
 particular, lack of attention may lead to procrastination
 and default choices that are, after the
 fact, clearly not optimal.
-
 I think it is remarkable on balance how well
 most people function in markets, even people
 with little academic aptitude. This may be because

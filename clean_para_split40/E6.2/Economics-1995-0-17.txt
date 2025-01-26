@@ -7,12 +7,10 @@ the further claim, with which it has come
 mixed, that these objective functions are
 narrowly confined to the officials' own selfinterest.
 The important issue to emerge is
-
 that there is something missing in a large
 part of the resource-allocation literature (for
 example, in proposals of algorithms for decentralized
 resource allocation, from Oscar
-
 Lange and Abba Lerner onward) which
 make do without any independent objective
 function of the agents of public action. The
@@ -22,12 +20,10 @@ lacuna.
 
 While this has been a somewhat neglected
 question in social choice theory
-
 (though partially dealt with in the related
 literature on implementation), there is no
 particular reason why such plurality of motivations
 cannot be accommodated within a
-
 social choice framework with more richly
 described social states and more articulated
 characterization of individual choices and
@@ -58,7 +54,6 @@ choose cannot really be completely irrelevant
 to rational choice.45 An "instrumental
 rationalist" is a decision expert whose response
 to seeing a man engaged in slicing
-
 his toes with a blunt knife is to rush to
 advise him that he should use a sharper
 knife to better serve his evident objective.
@@ -71,7 +66,6 @@ However, the last is not altogether clear,
 since discussions and exchange, and even
 political arguments, contribute to the formation
 and revision of values. As Frank
-
 Knight (1947 p. 280) noted, "Values are
 established or validated and recognized
 through discussion, an activity which is at
@@ -88,7 +82,6 @@ To illustrate, in studying the fact that
 famines occur in some countries but not in
 others, I have tried to point to the phenomenon
 that no major famine has ever
-
 taken place in any country with a multiparty
 democracy with regular elections and with a
 reasonably free press (Sen, 1984).46 This

@@ -4,7 +4,6 @@ mixed system (Feldstein and Liebman, 2002b).
 Divorced women would benefit if the total of
 the husbands and wives' PRAs are pooled and
 divided at the time of divorce.
-
 While a PRA itself does not cause any income
 redistribution, the redistributive structure
 of the pay-as-you-go benefits could, in principle,
@@ -39,7 +38,6 @@ projected pay-as-you-go benefits. The remaining
 asset-price risk could be substantially reduced
 by guarantees that could be produced by
 the private financial market.
-
 VI. Medicare
 
 Medicare, the federal health care program for
@@ -100,9 +98,7 @@ per dollar of premium substantially increases
 the demand for health insurance with low deductibles
 and low coinsurance rates. This increases
 the deadweight loss caused by the
-
 distortion in demand for care.
-
 Direct attempts to eliminate or even reduce
 the tax subsidy or to constrain it by requiring
 minimum deductibles or coinsurance rates have

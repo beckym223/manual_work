@@ -10,7 +10,6 @@ MPS or any other large econometric model what
 coefficients they should use for government
 expenditure, rather than trying to estimate them
 by their unreliable method.
-
 From the theory and evidence reviewed, we
 must then conclude that opting for a constant rate
 of growth of the nominal money supply can
@@ -26,7 +25,6 @@ on the importance of such shocks is provided by
 our postwar record with its six recessions.
 IV. The Record of Stabilization Policies:
 Stabilizing or Destabilizing
-
 A. Was Postwar Instability Due to Unstable
 Money Growth?
 

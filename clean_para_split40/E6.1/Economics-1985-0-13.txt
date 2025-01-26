@@ -7,7 +7,6 @@ events. Even if the vast majority of firms
 held a broadly similar view of the way the
 economic world works, the very great macroeconomic
 uncertainty and the stochastic
-
 variance of prior forecasts around the actual
 outcomes would guarantee a wide dispersion
 of individual forecasts whenever large shocks
@@ -28,12 +27,10 @@ for a downward wage adjustment. But even
 waiving this difficulty, the large dispersion of
 individual forecasts would result in widespread
 unintended relative wage changes,
-
 even if all firms and their workers accepted a
 wage adjustment based on the firm's equilibrium
 forecasts. Because of both risk aversion
 and the consequences to firms and
-
 workers that follow from erroneous signals,
 these changes could impose significant losses
 on the parties. Yet, a high frequency of wage
@@ -44,7 +41,6 @@ current information, and the murkiness of
 the variable being forecast-the equilibrium
 nominal wage level-there would be substantial
 room for disagreement among the
-
 parties as to whether or not a prior forecast
 had or had not been in error. Finally, to the
 extent that "bad" experience with forecasts
@@ -67,7 +63,6 @@ tying of individual wage decisions to
 expectations about equilibrium aggregate
 wage outcomes is not a feasible way of anticipating
 the optimal adjustment to nominal
-
 shocks. The policing mechanism of ex ante
 relative wage flexibility is absent, so that
 nominal wage flexibility becomes a prisoner's
@@ -100,7 +95,6 @@ work force to another can, as described by
 Okun and by George Perry (1980), generate
 modest wage changes in response to the aggregate
 shocks. Beyond this, the change in
-
 external pressures for wage adjustment must
 be large enough and last long enough to
 satisfy the constraints imposed by long-term

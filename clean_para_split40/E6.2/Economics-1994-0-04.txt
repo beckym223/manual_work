@@ -28,10 +28,8 @@ don't know more after years of research
 done by so many good people. What is it
 about our data and data acquisition structure,
 and possibly also our intellectual
-
 framework, that prevents us from making
 more progress on this topic?
-
 In discussing this range of topics, I will
 concentrate primarily on the R&D component
 of this story-not because it can explain
@@ -43,19 +41,16 @@ point I want to make here tonight: that our
 understanding of what is happening in our
 economy (and in the world economy) is constrained
 by the extent and quality of the
-
 available data. I will also allude briefly to
 similar issues which arise in interpreting the
 productivity contribution of computers in
 the economy. Parallel tales about data constraining
 our understanding could also be
-
 told about other potential productivityslowdown
 villains: energy-price shocks, insufficient
 investment in'physical capital, and
 possible declines in human-capital investments.
 Having reached the verdict of "not
-
 proven," largely on account of insufficient
 evidence, I shall make a number of more
 general remarks on the state of our data
@@ -71,7 +66,6 @@ Other fields of empirical economics
 are also struggling against the limitations
 imposed by the available data. Great advances
 have been made in theory and in
-
 econometric techniques, but these will be
 wasted unless they are applied to the right
 data.
@@ -83,7 +77,6 @@ what has happened to productivity, what
 has happened to investment in R&D and
 science, and what has happened to the relationship
 between them. Sometime in the
-
 late 1960's measured productivity growth in
 the United States started to slow down.
 After a mild recovery in the early 1970's,
@@ -96,7 +89,6 @@ those experienced in the 1960's and early
 shocks wore off and real energy prices declined
 to close to their earlier levels, productivity
 growth rates did not recover much.
-
 At this point, and also somewhat earlier,
 many observers started wondering whether
 something more fundamental than just an

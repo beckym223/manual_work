@@ -55,10 +55,8 @@ will be traced and interviewed to determine the
 presence of chronic conditions, socioeconomic
 status, and family and own health history.
 Survivors will be linked to social
-
 security, census, military, and tax records, subject
 to their written consent.
-
 FILAM will make it possible to investigate
 the predictive power of fetal, neonatal, and
 early childhood measures of retarded growth
@@ -84,9 +82,7 @@ and the Union Army sanmple, with special emphasis
 on the similarities and differences of
 predictors of later work levels, morbidity, and
 waiting time until death.
-
 The HRS, AHEAD, Union Army sample,
-
 and FILAM all contain information on the
 parents and children of the individuals under
 study. Hence, they make it possible to address
@@ -94,7 +90,6 @@ some factors that may be transmitted
 intergenerationally. An effort to utilize archival
 data to study intergenerational processes
 is also under way. Pope (1992) is
-
 linking a large sample of genealogies to the
 life-cycle sample of Union Army recruits.
 There are at least 60,000 published family

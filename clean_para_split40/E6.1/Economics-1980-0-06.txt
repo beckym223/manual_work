@@ -4,7 +4,6 @@ rigid. But those very instances seem
 to me only to confirm the importance of
 social convention in less extreme circumstances.
 After all, people have been known
-
 to try to claw their way into a lifeboat who
 would never dream of cheating on a lift-line.
 I think I have made the case that the most
@@ -15,11 +14,9 @@ among workers, that is, of the many ways in
 which the labor market may "fail." In particular,
 one cannot under those circumstances
 expect the labor market always to
-
 clear. Pigou certainly drew that conclusion.
 He says, in the Preface to Lapses: "Professor
 Dennis Robertson... has warned me
-
 that the form of the book may suggest that
 I am in favour of attacking the problem
 of unemployment by manipulating wages
@@ -57,10 +54,8 @@ on orders of magnitude. It is all based on
 the presumption that the only possible starting
 point is the elasticity of the marginalproduct-
 of-labor curve. Let me remind you
-
 that in the old standby, two-factor CobbDouglas
 case, the elasticity of demand for
-
 labor with respect to the real wage is the
 reciprocal of the share of capital. Everybody'
 s back-of-the-envelope puts the capital
@@ -78,7 +73,6 @@ for labor with respect to the real wage
 here suggested, be numerically less than - 3
 and may well be larger than -4" except
 perhaps in the very shortest run.
-
 For practical purposes, one would want
 to know the elasticity of demand with respect
 to the nominal wage, taking account
@@ -94,7 +88,6 @@ does: "... we may... not unreasonably
 put the elasticity of the money demand
 for labour in times of deep depression at not
 less numerically than - 1.5."
-
 If I could believe that, I too could believe
 that the labor market generally clears. To
 reduce the unemployment rate by 6 percentage

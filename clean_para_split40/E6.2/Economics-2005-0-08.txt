@@ -3,7 +3,6 @@ regard their Social Security payroll tax as
 similar to the income tax, thereby increasing the
 perceived marginal tax rate and raising the
 deadweight loss of the tax.
-
 Lack of transparency also permits programs
 to have effects that might not be politically
 acceptable if they were more explicit. For example,
@@ -78,7 +77,6 @@ ironic if an insurance plan initiated to improve
 drug access for seniors led ultimately to a reduced
 availability of new drugs for this group.
 B. Four Economic Principles
-
 Let me turn now from these three political
 principles-permitting individual choice, creating
 program transparency, and recognizing political
@@ -86,7 +84,6 @@ dynamics-to four economic principles.
 Recognizing the Economic Effects of Social
 Insurance Programs and Their Taxes.-Noneconomists
 who write about social insurance
-
 programs often implicitly assume that social
 insurance programs do not affect the behavior
 of beneficiaries or the overall performance of

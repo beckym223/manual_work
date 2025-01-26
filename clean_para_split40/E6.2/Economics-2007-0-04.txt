@@ -6,14 +6,12 @@ macroeconomic relationships should be derived
 from profit-maximizing by firms and from utilitymaximizing
 by consumers with economic arguments
 in their utility functions.
-
 The new methodology had a profound effect
 on macroeconomics. Five separate neutrality results
 overturned aspects of macroeconomics
 that Keynesians had previously considered incontestable.
 These five neutralities are: the independence
 of consumption and current income
-
 (the life-cycle permanent income hypothesis);
 the irrelevance of current profits to investment
 spending (the Modigliani-Miller theorem); the
@@ -31,9 +29,7 @@ surprised macroeconomists. They had
 not suspected that radically anti-Keynesian conclusions
 were the logical outcome of such seemingly
 innocuous maximizing assumptions.
-
 I. Neutralities and Preferences
-
 How did macroeconomists react to the discovery
 of the five neutralities? On the one hand,
 the New Classical economists viewed their neutrality
@@ -103,7 +99,6 @@ Modigliani-Miller;
 * A realistic norm will make wages and prices
 dependent on nominal considerations and
 thus violate natural rate theory;
-
 6 Of course, it took some time for the implications of
 these neutrality results to be fully appreciated. For example,
 life-cycle consumption and Modigliani-Miller were initially

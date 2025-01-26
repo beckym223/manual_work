@@ -18,7 +18,6 @@ not been unaffected. Finally, take the problem
 of existence of a general equilibrium,
 once considered to be one of the most abstract
 questions of economic theory. The
-
 solutions that were proposed in the early
 1950's paved the way for the algorithms for
 the computation of equilibria of Herbert E.
@@ -40,7 +39,6 @@ prefer less to more rigor, lesser to greater
 generality, or complexity to simplicity; but
 other things are not equal, and in the estimate
 of many members of our Association
-
 the cost of that mathematization sometimes
 outweighs its benefit. Two of its presidential
 addresses notably confronted that difficult
@@ -52,7 +50,6 @@ were factual, and Robert A. Gordon's
 made in 1970 and in 1975. They still are
 today, for, in spite of their authorities, enhanced
 by the platform from which they
-
 were speaking, and in spite of the wide
 diffusion of their critiques, neither Leontief
 nor Gordon altered the course of the development
@@ -65,7 +62,6 @@ intellectual successes of its mathematization.
 
 Essential to an attempt at a fuller explanation
 are the values imprinted on an
-
 economist by his study of mathematics.
 When a theorist who has been so typed
 judges his scholarly work, those values do
@@ -73,11 +69,9 @@ not play a silent role; they may play a decisive
 role. The very choice of the questions
 to which he tries to find answers is influenced
 by his mathematical background.
-
 Thus, the danger is ever present that the
 part of economics will become secondary, if
 not marginal, in that judgment.
-
 The reward system of our profession reinforces
 the effects of that autocriticism. Decisions
 that shape the career of an economic
@@ -85,7 +79,6 @@ theorist are made by his peers. Whether
 they are referees of a journal or of a research
 organization, members of an appointment
 or of a promotion committee,
-
 when they sit as judges in any capacity, their
 verdicts will not be independent of their
 own values. An economist who appears in
@@ -95,7 +88,6 @@ mathematical sophistication highly, and if
 he can prove that he is one of the sophisticates,
 the applause that he expects to receive
 will condition his performance.
-
 The same effects are also amplified by the
 relentless pressure to publish exerted by his
 environment. There are indeed instances of

@@ -19,7 +19,6 @@ base, and there are several distinct ways of
 doing this (Section IV). These approaches
 are used in practice for aggregative judgments
 made by individuals, but they can
-
 also be used for organized procedures for
 arriving at social measures of poverty, inequality,
 distribution-adjusted real national
@@ -36,17 +35,14 @@ The Arrow theorem, in its original form,
 does not apply once social decision-making
 is characterized in terms of choice functions
 without any imposed requirement of
-
 intermenu consistency. However, when the
 natural implications of taking a .choicefunctional
 view of social decisions are
-
 worked out, Arrow's conditions have to be
 correspondingly restated, and then the impossibility
 result returns in its entirety once
 again (Section III). The idea of social preference
 or internal consistency of social
-
 choice is basically redundant for this impossibility
 result. So Buchanan's move does not
 negate Arrow's impossibility. On the other
@@ -67,7 +63,6 @@ to doubt the adequacy of a purely procedural
 view (independent of consequences), just
 as there are serious defects in narrowly consequentialist
 views (independent of procedures)
-
 . Procedural concerns can, however,
 be amalgamated with consequential ones by
 recharacterizing states of affairs appropriately,
@@ -77,7 +72,6 @@ VI). This combination is especially important
 in accommodating liberty and rights
 in social judgments as well as social decision
 mechanisms (Section VII).
-
 Finally, there is room for paying more
 attention to the rationality of individual behavior
 as an integral component of rational
@@ -96,7 +90,6 @@ invariably behave as homo economicus
 is much more permissive). This uncompromising
 restriction can significantly misrepresent
 the nature of social concerns and
-
 values. But aside from this descriptive limitation,
 there is also an important issue of
 "practical reason" here. Many of the more

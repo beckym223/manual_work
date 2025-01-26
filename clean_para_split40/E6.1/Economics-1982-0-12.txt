@@ -18,7 +18,6 @@ On the other hand, the trans ray cut above
 AB yields a cross section C'TC which is more
 or less U shaped. This means that it is relatively
 cheaper to produce boots and shoes
-
 together (point U) than to produce them in
 isolation (point A or point B). That is, this
 convex trans ray shape is enough to offer us

@@ -37,7 +37,6 @@ would indicate that the respondent agreed with
 all parts of the statement. The order of the
 questions was determined randomly, and respondents
 were guaranteed anonymity.
-
 Three experts24 from three different universities
 who were not participants in the survey
 were asked to identify which of the 20 questions
@@ -45,7 +44,6 @@ were relatively value-free ("positive"
 questions) and which had substantial value aspects
 ("policy-value" questions). Their independent
 replies were almost unanimous in
-
 identifying seven of the questions as "positive,
 " and thirteen as "policy-value." Table 1
 shows the percent agreeing for each question,
@@ -61,7 +59,6 @@ differs significantly from a 50-50 split (by
 a chi-square test) are identified with asterisks.
 We see in Table 1 that the degree of consensus
 on positive questions among health
-
 economists is extremely high.25 In six of the
 seven cases the hypothesis that the observed
 split differs from a 50-50 split simply by
@@ -84,5 +81,4 @@ agreement among the health economists drops
 sharply. For example, in replies to the four questions
 dealing with support for national health insurance,
 the health economists never depart
-
 significantly from a 50-50 split. On question 8,

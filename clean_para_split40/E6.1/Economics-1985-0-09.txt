@@ -2,7 +2,6 @@ which we call implicit contracts must
 provide for adjustments in wages that move
 towards market clearing in response to unforeseeable
 permanent changes in relative
-
 economic conditions. Finally, however, the
 substantial penalties which can be suffered if
 firms and workers respond to erroneous signals
@@ -10,7 +9,6 @@ by prematurely severing association call
 for informal arrangements and agreements
 that produce a very slow and cautious adjustment
 of wages even to what ultimately
-
 turn out to be permanent changes in relative
 conditions.7
 
@@ -18,10 +16,8 @@ It is not surprising, given the large social
 returns to continuity of association and the
 very great difficulty of distinguishing temporary
 from permanent changes in economic
-
 circumstances, that society should have developed
 social conventions and informal
-
 agreements that minimize the sending of premature
 signals for a reallocation of resources.
 
@@ -30,11 +26,9 @@ III. Response to Aggregate Demand Shocks
 So far we have considered a world in
 which only relative or local changes are permitted,
 a world in which the nominal and
-
 real value of the general wage level, or the
 wage "norm," was fixed. Now impose aggregate
 demand shocks on such a world,
-
 optimal adjustment to which requires a
 change in the path of average prices and
 wages. (For simplicity of exposition we will
@@ -42,7 +36,6 @@ be considering only aggregate demand
 shocks, and exclude aggregate shocks to the
 supply curve, like those arising from OPECimposed
 oil price increases or from crop
-
 shortages. We can thus assume that the equilibrium
 solution will not call for changes in
 aggregate real wages.) An efficient system of
@@ -70,14 +63,12 @@ And, as discussed below, this is also true, but
 to a somewhat lesser degree, of the wage
 response to price changes. Given the substantial
 costs of sticky nominal wages to
-
 society as a whole and to individual firms
 and their workers, is there not some other
 adjustment mechanism which would generate
 a prompt and flexible nominal wage response,
 preserving relative wages but producing
 the desired nominal flexibility?
-
 Several lines of inquiry suggest themselves.
 First, why are not nominal wages explicitly
 indexed to some aggregate nominal indicator,

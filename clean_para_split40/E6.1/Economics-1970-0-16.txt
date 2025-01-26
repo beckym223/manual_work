@@ -1,8 +1,6 @@
 complicates matters, and I shall soon
 return to this difficulty.
-
 We must be mindful also of another
-
 property of the framework here employed.
 We are implying, as does the method of the
 Residual in general, that it is advisable to
@@ -17,9 +15,7 @@ In my appraisal there is no reason to
 become disturbed about this lack of symmetry
 between the interpretation of improvements
 of inputs and that of improvements
-
 of consumer goods. The alternative
-
 would be that of lumping together our
 "progress-generating inputs" with the
 other inputs, and of interpreting the research
@@ -31,11 +27,9 @@ kind of productivity in the production of
 measured output as do (say) production
 workers.28 However, for my present purpose
 it would be wrong to cut the story
-
 short in this fashion. I am concerned with
 the question how the social yield of progress-
 inputs compares with that of other
-
 inputs, and this concern calls for placing
 emphasis on the indirectness with which
 the progress-inputs produce additional
@@ -58,7 +52,6 @@ of these are admittedly very imperfect. In
 particular, it has been argued that the
 quantitative allowances for the improvement
 of consumer-good quality are not
-
 only very crude (which they certainly are),
 but in all probability also insufficient. In a
 general way it makes good sense to suspect
@@ -67,7 +60,6 @@ insufficient, but we should nevertheless
 note that the standard of living of Western
 countries is rising rapidly, and it is particularly
 true at higher levels of income
-
 that the market basket illustrates instances
 of consistent quality-deterioration
 as well as of improvement. Nevertheless,
@@ -76,16 +68,12 @@ for the assumed underestimate of net
 quality improvement (see Appendix C).
 Last but not least, an inevitable imperfection
 of frameworks of the kind here
-
 employed results from two-way interactions
 between physical capital formation
-
 and technological progress. As I said above,
 my misgivings about the method by
-
 which vintage models deal with this relationship
 does not mean that I consider it
-
 harmless to disregard the interactions.
 Starting with initially given resources,
 the chances of substantial and continued
@@ -101,7 +89,6 @@ potential improvement. In another study
 I found strong indications that the results
 of learning-by-doing are significantly influenced
 by differences in the available
-
 28 See Zvi Griliches and Dale Jorgensen.
 29 Looking at the matter in this fashion is of course
 compatible with using models that represent progress

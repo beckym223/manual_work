@@ -1,6 +1,5 @@
 the part of employers and workers. Macroeconomic
 shocks will gradually overcome the
-
 relative wage stickiness and move the aggregate
 nominal wage level in the desired direction,
 but the transitional costs are large.
@@ -14,7 +13,6 @@ to sketch out a few elements of that research,
 paying particular attention to several key
 features that bear on the relationship between
 wage behavior and aggregate demand
-
 shocks.
 
 The flexible-price, market-clearing model,
@@ -40,14 +38,12 @@ for the future, expectations about the important
 variables entering into the decision
 could be drawn from fixed stochastic distributions,
 knowledge of which, in turn, could
-
 be derived from the recurrent nature of past
 events. As well as being unbiased, forecasts
 could significantly improve on coin-flips.
 The world that we are trying to model,
 however, is in fact different in several fundamental
 ways. Most importantly, in a
-
 substantial part of the economy there are
 large returns to maintaining the continuity of
 association between workers and firms.
@@ -86,7 +82,6 @@ those who have found the premium sufficient
 to avoid monitorable shirking, a piece of
 valuable information to the firm flowing from
 continuity of association.
-
 Realizing the benefits from long-term
 worker-firm relationships requires, of course,
 some sort of explicit or implicit agreement

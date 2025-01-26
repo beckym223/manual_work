@@ -73,7 +73,6 @@ while with adjustment we would have
 R]*Iy1 = the same expression minus go, the
 rate of growth of the industry's relative ptice
 index (the same for all firms).
-
 So in the great bulk of cases one ends up
 with something quite like the two-deflator
 method when working at the individual firm

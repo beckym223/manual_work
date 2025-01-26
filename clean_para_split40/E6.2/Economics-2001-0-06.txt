@@ -18,17 +18,14 @@ i 100.0
 
 1959 1964 1969 1974 1979 1984 1989 1994 1999
 -u-Computers - Memory- Logic
-
 FIGURE 1. RELATIVE PRICES OF COMPUTERS AND SEMICONDUCTORS, 1959-1999
 Note: All price indexes are divided by the output price index.
 C. Constant Quality Price Indexes
-
 The behavior of semiconductor prices is a
 severe test for the methods used in the official
 price statistics. The challenge is to separate observed
 price changes between changes in semiconductor
 performance and changes in price
-
 that hold performance constant. Achieving this
 objective has required a detailed understanding
 of the technology, the development of sophisticated
@@ -55,13 +52,11 @@ technology (or preferences). A flexible
 representation provides a second-order approximation
 to an arbitrary technology (or preferences)
 . A. A. Konus and S. S. Byushgens
-
 (1926) first showed that the Fisher ideal index is
 superlative in this sense. Laspeyres and Paasche
 indexes are not superlative and fail to capture
 substitutions among products in response to
 price changes accurately.
-
 Grimm (1998) combined matched model
 techniques with hedonic methods, based on an
 econometric model of semiconductor prices at

@@ -1,15 +1,12 @@
 How do we keep track of the contradictions
 and confirmations? How do we
-
 keep the score of surviving hypotheses?
 And what are we doing in those directions?
 The same questions have been raised before,
 among others by my predecessors,
-
 Wassily Leontief and Robert Aaron Gordon,
 and good and bad examples of concern
 and unconcern were referred to by
-
 both of them. Meanwhile, unresolved issues,
 sometimes important ones from the policy
 point of view, and mostly quantitative ones,
@@ -30,11 +27,9 @@ to teach the tested and confirmed statements.
 
 
 VII. Aphorisms on Interactions
-
 After all I have said about the need for
 empirical validation, I owe you a brief report
 on my own casual-empirical sample
-
 study of the difficulties of interaction between
 scientists, engineers, and economists,
 as seen by participants in joint studies.
@@ -48,7 +43,6 @@ technological radicals. They assume everything
 can be done."
 
 A geologist: "Economists have been
-
 too enthusiastic about deep sea mining.
 They think there is more than there is, that
 it is easier to get up than it is, and easier to
@@ -78,7 +72,6 @@ overrated."
 A psychologist: "All the conclusions
 that are drawn from the assumption of rationality
 can also be drawn from assumptions
-
 of adaptive behavior."
 
 A life scientist: "Economists have great
@@ -88,7 +81,6 @@ ideas. Drawing up a model is an interdisciplinary
 task."
 
 An engineer: "Economists often use
-
 smooth production functions even when
 engineers might be reluctant to do so."
 A life scientist: "Many scientists do not
@@ -96,10 +88,8 @@ understand discounting."
 
 An engineer: "Economics is the Thermodynarnics
 of the Social Sciences. Everything
-
 is deduced from a few simple postulates
 without the necessity for knowing
-
 detailed mechanisms."
 
 VIII. Final Remarks
@@ -111,7 +101,6 @@ savored. However, I do look on the collaboration
 of the diverse professions involved
 in the newly discovered joint problems
 as an important development. To
-
 economists it is a new challenge and a new
 frontier. Among the problems themselves
 are some of great importance, nationally

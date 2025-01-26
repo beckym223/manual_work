@@ -38,7 +38,6 @@ cohort (see, for example, James C. Frauenthal
 and Kenneth E. Swick, 1983, and Ronald
 Lee, 1987a). In our modified Malthus-neoclassical
 model, family choices cause long
-
 cycles not only in population growth, but
 also in capital, output, and other variables if
 the elasticity of the degree of altruism per
@@ -49,7 +48,6 @@ then fluctuate in generation-long cycles whenever
 the economy is disturbed away from the
 steady state (for a proof, see Jess Benhabib
 and Kazuo Nishimura, 1986).
-
 In the 1920s, the Russian economist
 Nicholas D. Kondratieff claimed that capitalist
 economies exhibit long-term fluctuations
@@ -67,7 +65,6 @@ that biologically require a long time to
 implement.
 
 IV. Overlapping Generations
-
 The intrinsic risks faced by the elderly,
 sick, and unemployed are surely no greater
 in rich countries like Germany and the

@@ -7,13 +7,11 @@ that makes the whole system gravitate
 in the direction of its most inflationary
 sectors. The ultimate steady state inflation
 will be at most that of the market
-
 with the highest initial inflation rate, and
 at least that of the market with the lowest
 initial inflation rate. It need not be equal
 to the average inflation rate at the beginning,
 but may be either greater or
-
 smaller. Third, the adjustment paths are
 likely to contain cyclical conmponents,
 damped or at most of constant amplitude,
@@ -24,7 +22,6 @@ their ultimate steady state value. Fourth,
 since wage decisions and negotiations
 occur infrequently, relative wage adjustments
 involve a lot of catching up and
-
 leap-frogging, and probably take a long
 time. I have sketched the formal properties
 of a disaggregated wage pattern system
@@ -35,7 +32,6 @@ myth.
 A system in which only relative magnitudes
 matter has only a neutral equilibrium,
 from which it can be permanently
-
 displaced by random shocks. Even when a
 market is in equilibrium, it may outdo the
 recent wage increases in related markets. A
@@ -61,7 +57,6 @@ per year or zero, depending on the historical
 prelude. Market conditions, unemployment
 and vacancies and their distributions,
 shape history and alter reference
-
 patterns. But accidental circumstances
 affecting stragetic wage settlements
 also cast a long shadow.
@@ -71,12 +66,10 @@ is a neutral method of making arbitrary
 money wage paths conform to the realities
 of productivity growth, neutral in preserving
 the structure of relative wages.
-
 If expansion of aggregate demand brings
 both more inflation and more employment,
 there need be no mystery why unemployed
 workers accept the new jobs,
-
 or why employed workers do not vacate
 theirs. They need not be victims of ignorance
 or inflation illusion. They genuinely
@@ -87,7 +80,6 @@ Guideposts could be in principle the
 functional equivalent of inflation, a neutral
 method of reconciling wage and productivity
 paths. The trick is to find a
-
 formula for mutual deescalation which
 does not offend conceptions of relative
 equity. No one has devised a way of
@@ -101,7 +93,6 @@ methods of resolving grotup rivalries and
 social conflict.
 
 V. The Role of Monopoly Power
-
 Probably the most popular explanation
 of the inflationary bias of the economy is
 concentration of economic power in large

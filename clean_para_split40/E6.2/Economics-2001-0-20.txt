@@ -48,13 +48,10 @@ productivity:
 
 (2) wi,,,,A In I,, + wi',cA In IC + WiP,sA In Is
 + wP,t/A In It + wc,A In C,,
-
 +Wc,cAIn Cc
 
 - VK,nA In K,, + VK,CA In KC
-
 + VK,sA In Ks + VK,tA In Kt
-
 + VLA In L + A In A
 
 where wP and -v denote average value shares. The
@@ -62,7 +59,6 @@ shares of outputs and inputs add to one under
 the additional assumption of constant returns,
 WI,n + WI,c + WI's + WI,t + WC,1n + WC,c
 VK,n + VK,c + VK,s + VK,t + VL 1.
-
 Equation (2) makes it possible to identify the
 contributions of outputs as well as inputs to U.S.
 economic growth. The growth rate of output is
@@ -76,7 +72,6 @@ is its weighted growth rate. The contribution of
 TFP, the growth rate of the augmentation factor
 A in equation (2), is the difference between
 growth rates of output and input.
-
 Table 6 presents results of a growth accounting
 decomposition, based on equation (2), for
 the period 1948-1999 and various subperiods,
@@ -88,7 +83,6 @@ outputs, as well as capital inputs.
 These estimates identify computers, software,
 and communications equipment as distinct
 types of information technology.
-
 Rearranging equation (2), the results can be
 presented in terms of average labor productivity
 (ALP), defined as y = YIH, the ratio of
@@ -97,7 +91,6 @@ the ratio of capital services K to hours worked:
 (3) A Iny== VKA Ink
 
 + VL(A InL - A In H) + A In A.
-
 3' Karl Whelan (1999) also employs Solow's concept of
 embodiment.
 

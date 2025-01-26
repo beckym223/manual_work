@@ -7,7 +7,6 @@ long-run inflation and long-run unemployment.
 Similarly, customers' norms regarding price levels
 and price changes may also cause long-run tradeoffs
 between output and inflation.
-
 Indeed, models by Katsuhito Iwai (1981),
 Julio J. Rotemberg (1982), and Andrew S. Caplin
 and John Leahy (1991) all have long-run
@@ -69,7 +68,6 @@ good was very long. It was approximately
 80 months.83 Such constancy of prices
 can easily be explained by customer norms regarding
 price change. The customers have a
-
 notion of the price that they ought to pay at
 stores where they are continued and knowing
 customers. Kackmeister suggests that the decline
@@ -92,7 +90,6 @@ anomalies in the form of indexed contracts.
 Snower (2003) find considerable long-run trade-off between
 inflation and unemployment in a model with nominal price
 staggering and money growth.
-
 81 See also Blinder and Don Choi (1990) and Blinder et
 al. (1998).
 

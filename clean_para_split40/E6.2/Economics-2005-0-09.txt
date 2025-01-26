@@ -1,6 +1,5 @@
 and any attempt to improve their design, should
 take these effects into account.
-
 There is, of course, controversy about the
 magnitude of these effects, just as there is about
 most other economic parameters. Decisions
@@ -23,7 +22,6 @@ rules that now specify an almost actuarially fair
 relationship between benefits and retirement
 age reduces substantially the perceived bias in
 favor of early retirement.
-
 More generally, social insurance programs
 not only distort economic behavior directly,
 thereby creating deadweight losses, but also
@@ -49,7 +47,6 @@ percent.8 A 50-percent rise in the 15.3 percent
 marginal tax rate, adjusted for the income tax
 interaction, would increase this effective marginal
 tax rate from 37.7 percent to 44.2
-
 percent.9
 
 The increase in the deadweight loss that
@@ -83,7 +80,6 @@ Medicare portion is 2.9 percent. The costs of these three
 components will rise at different speeds but the combined
 cost will eventually increase the required tax to 150 percent
 of the 15.3 percent rate.
-
 7 Since the employer half of the 15.3 percent payroll tax
 is excluded from the personal income tax base, the effective
 marginal rate of tax in this example is 30 percent plus the

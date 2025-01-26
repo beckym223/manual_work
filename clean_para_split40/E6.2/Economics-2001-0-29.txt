@@ -9,7 +9,6 @@ present the appropriate methodology and preliminary
 results.
 
 IV. Economics on Internet Time
-
 The steadily rising importance of information
 technology has created new research opportunities
 in all areas of economics. Economic historians,
@@ -61,7 +60,6 @@ technology in response to rapidly falling IT
 prices. An important objective is to determine
 the product cycle for successive generations of
 new semiconductors endogenously.
-
 The semiconductor industry and the information
 technology industries are global in their
 scope with an elaborate international division of
@@ -76,7 +74,6 @@ the U.S.48 Another conundrum is that
 several important participants-Korea, Malaysia,
 Singapore, and Taiwan-are "newly industrializing"
 economies. What does this portend
-
 for developing countries like China and India?
 As policy makers attempt to fill the widening
 gaps between the information required for

@@ -22,7 +22,6 @@ Like estimates of warming, estimates of
 the costs of reducing emissions require some
 common but arbitrary objective to be comparable.
 A doubling of carbon became the
-
 conventional benchmark for warming estimates;
 no such benchmark for reduced carbon
 emissions has been adopted for estimating
@@ -37,7 +36,6 @@ the absence of controls, or to some fixed
 ratio to the emissions of 1990 or the projected
 emissions of 2000 or 2010. The estimates
 examine minimum-cost trajectories,
-
 implicitly or explicitly assuming something
 like a uniform tax on the carbon content of
 fuel as the policy instrument. They typically
@@ -46,16 +44,13 @@ energy technology, at least for electricity,
 available at some price in some decade of
 the next century. They have to project estimates
 of non-price-induced improvements
-
 in the use or avoidance of energy by industries
 and households. And if they deal with
 global emissions, they have to make some
 assumption about the distribution of abatement
 efforts among nations, especially
-
 among the developing countries, which, including
 China, account for about a quarter
-
 of emissions now and would be expected to
 account for half by the middle of the next
 century.
@@ -82,12 +77,10 @@ resolved, if they ever are resolved, the optimum
 reduction in emissions will be found
 to retard doubling by 40 years, or any other
 specified period of time.
-
 All I can do to summarize a multitude of
 estimates is to specify an order of magnitude
 that many economists and the Congressional
 Budget Office would not consider
-
 outrageous. That is the figure I mentioned
 earlier, possibly 2 percent of GNP for the
 developed countries and a similar, but even
@@ -101,7 +94,6 @@ Two characteristics of these estimates
 need to be emphasized. One is that they
 tend to assume optimal technological adjustment,
 as in response to a carbon tax. To
-
 the extent that carbon emissions are controlled
 by direct regulatory measures, there
 may be the usual expected inefficiencies,

@@ -6,7 +6,6 @@ use of the idea of "social preference."
 Should it be dropped, as suggested by
 Buchanan? And if so, what would remain of
 Arrow's impossibility theorem?
-
 We have to distinguish between two quite
 different uses of the notion of "social preference,
 " related respectively to (i) the operation
@@ -20,7 +19,6 @@ prevailing mechanisms are implicitly based
 society.11 This "derivative" view of social
 preference would be, formally, a binary representation
 of the choices emerging from
-
 decision mechanisms.
 
 The second idea of "social preference"
@@ -30,7 +28,6 @@ would be better or worse for the society.
 Such judgments would be typically made by
 a given person or agency. Here too an aggregation
 is involved, since an individual
-
 who is making judgments about social welfare,
 or about the relative goodness of distinct
 social states, must somehow combine
@@ -44,7 +41,6 @@ no a priori presumption that the mechanisms
 used must -or even should -necessarily
 lead to choices that satisfy the requirements
 of binary representation (not to
-
 mention the more exacting demands of an
 ordering representation).12 On the other
 hand, the second interpretation does not
@@ -61,7 +57,6 @@ elsewhere (see Section IV). However,
 Buchanan's critique of Arrow's theorem
 would apply to mechanisms of social decision
 (such as voting procedures).
-
 Would the dropping of the requirement
 that social choices be based on a binary
 relation-in particular a transitive ordering
@@ -73,7 +68,6 @@ is an extreme example, lingers in one
 form or another even when transitivity is
 dropped, so long as some regularity is demanded
 (such as the absence of cycles).'4
-
 There is, however, cause for going further,
 precisely for the reasons identified by
 Buchanan, and to eschew not just the transitivity

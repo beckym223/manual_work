@@ -36,12 +36,10 @@ that an individual could have a higher net income
 from UI benefits than by working. It is
 hard to know what the aggregate effect on unemployment
 has been, but my personal estimate
-
 is that the unemployment rate probably fell by
 about one-half percentage point after benefits
 were taxed, an effect equal to more than
 500,000 jobs at any time.
-
 The evidence that UI benefits cause substantial
 distortion led to analytic studies of the level
 of benefits that optimally balances distortion
@@ -78,7 +76,6 @@ who face greater income uncertainty have
 somewhat higher saving rates, it would be
 wrong to assume that in the absence of unemployment
 insurance everyone would save
-
 enough to finance consumption optimally during
 spells of unemployment. Some individuals
 would be too short-sighted to save for potential

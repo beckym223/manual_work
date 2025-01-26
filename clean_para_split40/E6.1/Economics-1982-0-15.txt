@@ -9,7 +9,6 @@ his market will at some time be vulnerable to
 partial or complete takeover by an entrant
 who has neither superior skills nor technological
 superiority and whose entrance
-
 increases the quantities of resources used up
 in production. In other words, here the
 invisible hand proves incapable of protecting
@@ -35,7 +34,6 @@ all demand, but in the second, it requires the
 construction of added capacity to meet demand
 growth because, by assumption, anticipatory
 construction to meet growth more
-
 than z years in the future simply is too
 costly. Also for simplicity, I will assume that
 there are no costs other than cost of construction.
@@ -56,10 +54,8 @@ straightforward. Let y, be output in period t,
 P, be price in period t, and K(y) be the cost
 of construction of capacity sufficient to produce
 (a maximum of) y units per period.
-
 Here, both p, and K(y) are expressed in
 discounted present value.4
-
 Then, by assumption, our firm will construct
 at the beginning of the first period
 capacity just sufficient to produce output y,
@@ -74,7 +70,6 @@ that they permit the incumbent to cover his
 costs, that is, that
 
 (1) PIYI+P2Y2 2 K(y1)+K(y2-y1).
-
 Second, for these prices to constitute an
 equilibrium they must protect the incumbent
 against any and all possible incursions by
@@ -89,7 +84,6 @@ period does not bring in revenues sufficient
 to cover the cost, K(y,), of the entrant's
 once-and-for-all construction. That is, entry
 will be profitable unless
-
 (2) plyl + P2Y1 - K(y1).
 
 Thus, the prices in question cannot constitute

@@ -2,7 +2,6 @@ regarding the desirability of the distributional
 changes and might also differ in the weights
 they give to the changes in efficiency versus
 the distributional consequences.
-
 Second, greater openness about value differences
 should force economists to make explicit
 the positive questions that are embedded
@@ -18,7 +17,6 @@ especially insofar as they are the consequences
 of policy. Economists are understandably reluctant
 to prescribe values or to make normative
 judgments about them. But when
-
 economic policies affect values and preferences,
 and these in turn affect behavior, it is
 incumbent on economists to analyze the links
@@ -31,7 +29,6 @@ several decades some economists have begun
 to treat technology as at least partly endogenous.
 4" Now, a similar effort must be undertaken
 for values (Henry J. Aaron, 1994;
-
 Becker, 1996; Albert 0. Hirschman, 1986;
 Assar Lindbeck, 1994).
 
@@ -42,7 +39,6 @@ clear to others the respective roles of positive
 research and of values in our policy recommendations.
 Alice M. Rivlin, in her AEA presidential
 address in December 1986, warned
-
 economists against letting "their ideological
 position cloud their judgment about the likely
 effects of particular policies" (p. 4). She
@@ -51,7 +47,6 @@ ourselves and others, what we really know
 from our ideological biases" (p. 9). In my
 view, there is a vast difference between a researcher
 and a reformer, between an analyst
-
 and a player in the policy arena. They are all
 socially valuable occupations, and the same
 individual may successfully wear different
@@ -86,9 +81,7 @@ variety of point-of-service options to be
 paid for by patients with after-tax dollars;
 (iii) a large private center for technology assessment
 financed by a small industrywide
-
 levy on all health care spending.
-
 My desire to see all Americans insured for
 a basic health plan is clearly driven in part by
 values. Although medical care is often not a

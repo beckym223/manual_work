@@ -28,7 +28,6 @@ Standard economic methodology says that
 it is impossible to infer motivation of individual
 actors from intensive case studies. Anthropologists
 and sociologists listen carefully
-
 to individuals in such studies. When people
 follow the norms, they use them to explain
 their actions; when, on the other hand, they
@@ -39,7 +38,6 @@ one should speak-the norms are common
 knowledge. In this lecture, we have seen one
 prominent example of the use of such knowledge:
 Bewley's interviews uncovered the
-
 common understanding of the norms regarding
 wage cuts among Connecticut employers
 in the early 1990s.

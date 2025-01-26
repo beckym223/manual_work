@@ -11,7 +11,6 @@ simple form. The way a society ranks
 a pair of alternative social states x and y
 should depend on the individual preferences
 only over that pair-in particular,
-
 not on how the other ("irrelevant") alternatives
 are ranked.
 
@@ -29,7 +28,6 @@ is simply "decisive."
 
 Arrow required that no individual (formally,
 no single-member group) should be
-
 decisive (nondictatorship), but-following
 the Paretian tradition-also demanded that
 the group of all individuals taken together
@@ -44,16 +42,13 @@ the Pareto principle, and nondictatorship.
 The theorem can be proved in three simple
 steps.8 The first two steps are the following
 (with the second lemma drawing on
-
 the first).
 
 FIELD-EXPANSION LEMMA: If a group
-
 is decisive over any pair of states, it is decisive.
 9
 
 GROUP-CONTRACTION LEMMA: If a
-
 group (of more than one person) is decisive,
 then so is some smaller group contained in
 it.

@@ -48,7 +48,6 @@ world.
 
 In order of magnitude, the differences between
 conventional measures and those
-
 which might relate more closely to relevant
 theoretical constructs are frequently major.
 My own estimates for a comprehensive " total
@@ -63,7 +62,6 @@ gross capital accumulation (exclusive of capital
 gains). Where BEA net private domestic
 investment was 5.5 percent of BEA net national
 product, TISA net domestic capital
-
 accumulation in current dollars was 19.5
 percent of TISA net national product.
 Similar proportions show up in the measures
@@ -77,7 +75,6 @@ capital, intangible and tangible, land and
 households, and nonprofit, as well as business.
 Government and government enterprise
 structures and equipment came to 8
-
 percent of the total, household durables and
 residential capital to 13 percent, and the
 intangible capital of R&D, education, training,

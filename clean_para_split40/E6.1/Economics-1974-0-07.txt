@@ -1,6 +1,5 @@
 great economy in the handling of information,
 presumably because transmission of
-
 prices is in some significant sense much
 cheaper than transmission of the whole set
 of production possibilities and utility
@@ -9,7 +8,6 @@ in the great debate over the feasibility of
 socialism begun by Ludwig von iMises's
 attack and usually thought of as concluding
 with the work of Oskar Lange and
-
 Abba Lerner in the 1930's; though it should
 be added many of the essential points had
 already been made earlier by Vilf redo
@@ -35,7 +33,6 @@ that alternative decentralized schemes
 exist where quantity messages rather than
 price messages are transmitted in the successive
 stages of approximation and that
-
 such schemes also have efficient equilibrium
 points. Indeed, with the development of
 mathematical programming and highspeed
@@ -45,15 +42,12 @@ all, it would appear that one could mimic
 the workings of a decentralized system by
 an appropriately chosen centralized algorithm.
 While there is more to the story
-
 than these few remarks, they do make the
 point that if we are going to take informational
 economy seriously, we have to add
-
 to our usual economic calculations an appropriate
 measure of the costs of information
 gathering and transmission.
-
 But actually the comparisons between
 socialist and capitalist resource allocation
 systems have tended to overlook some of
@@ -66,7 +60,6 @@ plan includes very importantly decisions
 or at least plans about the future; and
 similarlv with consumption plans. Investment
 and savings are not only integral
-
 parts of our current decisions but in the
 long run shape the possibilities for further
 development. As we know, the formal neoclassical
@@ -76,7 +69,6 @@ regarding the same commodity at different
 dates as different commodities. All previous
 conclusions follow; allocative efficiency,
 for example, is achieved with the
-
 same appearance of informational efliciency.
 But of course there is a slight problem
 with this reasoning. The information
@@ -94,7 +86,6 @@ by all parties that when the future
 becomes the present, there will be a
 spot market on which the futures commitments
 may be undone; and indeed those
-
 making no futures commitments at all can
 enter and know now that they will be able
 to enter.

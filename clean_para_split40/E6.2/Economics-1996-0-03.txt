@@ -1,11 +1,9 @@
 (1964). The NBER conference volume included
 Selma Mushkin's (1962) paper,
-
 "Health As an Investment," and a few years
 later the application of the human capital
 model to health was given its fullest development
 by Michael Grossman (1972).
-
 Predating and postdating the theoretical and
 econometric innovations of the 1960's is a
 stream of research that focuses on health care
@@ -37,7 +35,6 @@ and public economics (e.g., Sherwin
 Rosen, Richard Zeckhauser). There has also
 been a welcome infusion from another direction,
 namely physicians who have earned
-
 Ph.D.s in economics and who now contribute
 to the economics literature (e.g., Alan Garber,
 Mark McClellan).
@@ -87,7 +84,6 @@ type of research does not receive support commensurate
 with its importance because funding
 sources, both public and private, tend to
 focus on national problems.
-
 My involvement in health economics grew
 out of my research on the service industries
 (Fuchs, 1968, 1969). It was motivated in part

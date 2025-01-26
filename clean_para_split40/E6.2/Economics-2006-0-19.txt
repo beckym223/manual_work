@@ -34,7 +34,6 @@ relatively small, on the order of $100 or less.
 Third, individuals may have different personal
 probabilities for new health conditions and prescription
 drug requirements than the ones we
-
 have used. Fourth, individuals may have different
 discount rates than the 5-percent discount
 rate we have employed. For people with 2005

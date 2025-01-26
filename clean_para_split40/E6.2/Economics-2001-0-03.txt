@@ -41,7 +41,6 @@ economists. This technology has found its
 broadest applications in computing and communications
 equipment, but has reduced the cost of
 a wide variety of other products.
-
 A substantial acceleration in the IT price decline
 occurred in 1995, triggered by a much
 sharper acceleration in the price decline of
@@ -51,7 +50,6 @@ continue for at least another decade, the recent
 acceleration could be temporary. This can be
 traced to a shift in the product cycle for semiconductors
 from three years to two years that
-
 took place in 1995 as the consequence of intensifying
 competition in markets for semiconductor
 products.

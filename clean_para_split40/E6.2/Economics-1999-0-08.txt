@@ -1,6 +1,5 @@
 than a third of either the market or the household
 labor once required (Fogel, 2000).
-
 Table 4 shows how sharply the U.S. distribution
 of consumption has changed over the
 past 120 years. Food, clothing, and shelter,
@@ -21,7 +20,6 @@ of household consumption in two principal
 respects. Official tabulations, with minor
 exceptions, are limited to the out-of-pocket expenditures
 of households. Table 4, however,
-
 adds expenditures for education and health
 care consumed by households but paid by government,
 employers, and other third parties.
@@ -29,7 +27,6 @@ My procedure does little to change the distribution
 of consumption in 1875 but significantly
 increases the education and health-care
 shares of consumption in 1995.8
-
 Table 4 also differs from official tabulations
 by adding to the value of out-of-pocket expenditures
 on leisure, the value of the time devoted

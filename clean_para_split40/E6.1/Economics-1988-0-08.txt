@@ -30,7 +30,6 @@ a large contribution. The neglect of
 human capital in wealth and income accounts
 greatly distorts comparisons of savings propensities
 and the accumulation of wealth.
-
 Only recently have growth models begun
 to appreciate the potential of the learningby-
 having property of human capital for
@@ -58,7 +57,6 @@ equilibrium with a decline in fertility and
 increased investment per child. Knowledge
 continues to grow through its embodiment
 in additional human capital.
-
 Family economics is critical to the analysis
 since choices about number of children
 and investments in each child's human
@@ -66,7 +64,6 @@ capital helps determine whether the economy
 ends up at a "good" (i.e., growth) equilibrium
 or at a "bad" (i.e., Malthusian) equilibrium.
 Obviously, we do not have the full
-
 answer to economic growth-public policies,
 conglomeration effects, and other considerations
 are surely important-but I do believe
@@ -74,7 +71,6 @@ that our story contributes a sizable part of
 the answer.
 
 III. Short and Long Cycles
-
 Let me now turn briefly to the relation
 between family behavior and cycles in aggregate
 output and other variables. For centuries
@@ -84,7 +80,6 @@ fluctuations in aggregate output and prices.
 In an early use of regression analysis in the
 social sciences, G. Udny Yule (1906) demonstrated
 that English marriages and births
-
 in the nineteenth century moved together
 with the business cycle. Subsequent studies
 showed that higher order as well as first

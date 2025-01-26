@@ -18,7 +18,6 @@ benchmark, the potential for welfare gains from
 better long-run, supply-side policies exceeds by
 far the potential from further improvements in
 short-run demand management.
-
 My plan is to review the theory and evidence
 leading to this conclusion. Section I outlines the
 general logic of quantitative welfare analysis, in
@@ -26,12 +25,10 @@ which policy comparisons are reduced to differences
 perceived and valued by individuals. It
 also provides a brief review of some examples-
 examples that will be familiar to
-
 many-of changes in long-run monetary and
 fiscal policies that consumers would view as
 equivalent to increases of 5-15 percent in their
 overall consumption levels.
-
 Section II describes a thought-experiment in
 which a single consumer is magically relieved
 of all consumption variability about trend. How
@@ -64,7 +61,6 @@ to ask for. But I argue in the end that, based on
 what we know now, it is unrealistic to hope for
 gains larger than a tenth of a percent from better
 countercyclical policies.
-
 I. Welfare Analysis of Public Policies:
 Logic and Results
 

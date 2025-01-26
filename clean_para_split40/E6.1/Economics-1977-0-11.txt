@@ -6,7 +6,6 @@ Furthermore, while this response is building
 up, multiplier and accelerator mechanisms work
 toward amplifying the shock. Finally, the classical
 mechanism the change in real money
-
 supply through prices has an even longer lag
 because of the sluggish response of wages to
 excess demand.
@@ -47,7 +46,6 @@ view of a highly stable economy in which
 shocks hardly make a ripple and the effects of
 fiscal policy are puny and fast vanishing.
 C. The Monetarist Evidence and the
-
 St. Louis Quandary
 
 Monetarists, however, have generally been
@@ -97,7 +95,6 @@ up to 1969, if one replaces high employment outlays
 with a variable that might be deemed more
 suitable, like government expenditure on goods
 and services, plus exports.
-
 These results must be acknowledged as disturbing
 for nonmonetarists, for there is little
 question that movements in government purchases

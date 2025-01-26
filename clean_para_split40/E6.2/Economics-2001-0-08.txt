@@ -48,7 +48,6 @@ example is dense wavelength division multiplexing
 (DWDM), a technology that sends multiple
 signals over an optical fiber simultaneously. Installation
 of DWDM equipment, beginning in
-
 1997, has doubled the transmission capacity of
 fiber-optic cables every 6-12 months.'6
 15 A general reference on the Internet is Soon-Yong Choi

@@ -1,20 +1,16 @@
 be placed on tendencies observable
-
 by comparing typical data for a
-
 limited number of consecutive periods, and
 importance will be attributed to the fact
 that when the Residual is used as a point of
 departure for estimating benefits, and the
 costs are defined as those of our progressgeneratinog
 inputs, the benefit-trends and
-
 cost-trends show a fairly consistent relationship
 that "makes sense."
 
 The method of the Residual can be employed
 in different ways. Kendrick has
-
 measured a magnitude he calls total factor
 productivity, this being a productivity
 measure from which he excludes the consequences
@@ -53,7 +49,6 @@ considerations point in the opposite direction.
 From 1900 to 1929, factor productivity,
 including the favorable effect of intergroup
 shifts, rose at an annual compound
-
 rate of 1.8 percent (during the last ten
 years of the period it rose at 2.0 percent);
 from 1929 to 1948 the rise occurred at the

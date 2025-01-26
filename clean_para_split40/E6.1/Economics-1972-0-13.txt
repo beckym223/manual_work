@@ -1,9 +1,7 @@
 of productivity increase and price
-
 inflation-is the same as the trend in
 wages. But in some markets the equilibrium
 wage will be rising faster, and in
-
 others slower, than the economy-wide
 wage trend.
 
@@ -45,7 +43,6 @@ overall demand and with inflation. The
 floor phenomenon can preserve a Phillips
 tradeoff within limits, but one that becomes
 ever more fragile and vanishes as
-
 greater demand pressure removes markets
 from contact with the zero floor. The
 model implies a long-run Phillips curve
@@ -58,7 +55,6 @@ even realistic. It will be objected, however,
 that any permanent floor independent of
 general wage and price history and expectation
 must indicate money illusion.
-
 The answer is that the floor need not be
 permanent in any single market. It could
 give way to wage reduction when enough
@@ -69,7 +65,6 @@ roles, and there can always be some markets,
 not always the same ones, at the floor.
 This model avoids the empirically questionable
 implication of the usual natural
-
 rate hypothesis that unemployment rates
 only slightly higher than the critical rate
 will trigger ever-accelerating deflation.
@@ -82,7 +77,6 @@ deflation in consumer prices. Finally in
 1932 and 1933 money wage rates fell more
 sharply, in response to prolonged unemployment,
 layoffs, shutdowns, and to
-
 threats and fears of more of the same.
 I have gone through this example to
 make the point that irrationality, in the

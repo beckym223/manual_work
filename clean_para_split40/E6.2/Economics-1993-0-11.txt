@@ -1,7 +1,6 @@
 can be done in the face of outcries that this
 would be jeopardizing the financial soundness
 of the social-security system.
-
 Outlays on actual programs, on the other
 hand, are somewhat harder to start and
 stop rapidly. There is also the need not to
@@ -23,7 +22,6 @@ widespread hibernation and flight to foreign
 shores. More likely, once the financial community
 has become convinced of the seriousness
 of the administration's purpose to
-
 bring about full employment, and once it is
 anticipated that demand will shortly use up
 the spare capacity of existing productive
@@ -31,13 +29,10 @@ facilities, private capital formation may pick
 up to the point of absorbing and recycling
 individual savings sufficiently so that government
 recycling may for the time being
-
 become unnecessary. At the same time, government
 revenues from increased GNP will
-
 increase and outlays for unemployment insurance
 and welfare will decrease. Also,
-
 there may be a need to shut down those
 governmental programs that compete for
 real resources with private capital formation,
@@ -53,7 +48,6 @@ becomes necessary. For a while capital
 formation may continue on its momentum,
 recycling savings but producing excess capacity
 that either cannot find labor with
-
 which to operate or cannot find markets in
 which to sell its product. Within a short
 time after hitting the full-employment ceiling,
@@ -83,10 +77,8 @@ previous technologies by orders of magnitude,
 leaving ductways planned for copper
 conductors forever surplus; electronic exchanges
 occupy a fraction of the space
-
 formerly required by equivalent electromechanical
 exchanges; just-in-time practices
-
 reduce investment in inventory; improved
 communications enable more freight to be
 carried on a single track line with sidings

@@ -10,7 +10,6 @@ excess employment was quite generally recognized
 at the time, and failure to eliminate it
 resulted overwhelmingly from political considerations
 and not from a wrong diagnosis.3
-
 There remains then only the empirical issue:
 have stabilization policies worked in the past and
 will they work in the future? Monetarists think
@@ -65,7 +64,6 @@ of the shocks-a most likely circumstance for
 their sample-successful stabilization also
 implies a positive correlation between the variability
 of income and that of money.
-
 But though the search for unambiguous quantitative
 tests has so far yielded a meager crop,
 there exists a different kind of evidence in favor

@@ -8,7 +8,6 @@ preferences for our outputs, let me
 continue this exercise in casual (andcongenial)
 empiricism by taking an unscientific
 but not unrepresentative sample of
-
 the outputs of economics, especially those
 bearing on policy. For this purpose, I
 draw on my chosen field of public finance,
@@ -30,9 +29,7 @@ would have left no room for a confrontation
 with inflation. So I offer instead a
 miniaturized assessment of the achievements
 of public economics as viewed
-
 through the policy prism.
-
 Public Expenditures
 
 Consider first the striking contributions
@@ -44,17 +41,14 @@ for example, in the theory of public goods
 and human capital, and partly, creative
 new applications of the economist's characteristic
 way of looking at problems of
-
 choice, namely, through the lens of opportunity
 costs, benefits, and alternative
-
 paths to a stated goal.
 
 Economics can offer much more concrete
 guidance on efficient ways of allocating
 resources to achieve stated governmental
 objectives than it can on what the
-
 public-private sector division of resources
 should be. That may be a good thing in
 that presidents and congressmen view the
@@ -63,14 +57,11 @@ welfare, and the like as what they were
 elected for, yet at the same time seek, or
 at least accept, economic guidance on the
 choice among competing methods of
-
 achieving these goals.
 
 Nonetheless, rapid progress in the
-
 theory of public goods since the appearance
 of the Samuelson classic on "The
-
 Pure Theory of Public Expenditures" just
 twenty years ago has vastly improved on
 the simplistic theory it replaced. It has
@@ -79,9 +70,7 @@ of conditions for efficient public-sector
 allocations from private evaluations and
 on the articulation of social priorities
 through the political process.
-
 Interwoven with the newer thinking
-
 about public goods has been a resurgent
 interest in externalities or spillover effects.
 In a sense, the pure collective good is a

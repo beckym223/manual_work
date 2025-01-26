@@ -21,7 +21,6 @@ social insurance by arguing that means-tested
 programs would be more efficient. If economists
 don't analyze the effects of social insurance
 programs and recommend rules that
-
 reflect good economics, the political process
 will inevitably produce inferior programs.
 III. Principles of Social Insurance
@@ -45,7 +44,6 @@ think about each of the specific programs. I'll
 begin with three fundamental political principles
 and then turn to four economic principles.
 A. Three Political Principles
-
 Political principles involve value judgments
 to a greater extent than the economic principles
 to which I will turn later. I can explain the

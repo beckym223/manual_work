@@ -13,7 +13,6 @@ that we call implicit contracts must
 also provide for changes in circumstances
 whose probability cannot rationally be estimated
 at the time workers enter into the
-
 contract. These climatic changes in economic
 circumstances can be of several broad kinds.
 They might involve a relatively long-term
@@ -28,7 +27,6 @@ wages around a given W.
 If the present value of the stream of benefits
 to workers (wages and employment probabilities)
 flowing from continuing with the
-
 firm begins to decline relative to the alternative
 combination of initial investment costs
 and future rents that can be generated at
@@ -48,23 +46,19 @@ of higher relative wages ought to be transmitted
 to attract from other firms or occupations
 workers for whom the lost rents are less
 than the improved opportunities.
-
 An efficient determination of wages must
 thus cope with two hard-to-reconcile sets of
 facts. Because long continuity of association
 between firms and specific workers confers
 substantial benefits on both parties, rentsharing
 arrangements that offer protection
-
 against exploitation and promote such continuity
 are profitable. But the period of association
 is so long that the probability distribution
 of circumstances requiring changes
-
 in wages is largely unknowable. And so the
 rules and conventions governing wage determination
 must be flexible enough to allow
-
 response. Seen in this light, the terms "implicit
 contract" may be misleading. It is, I
 think, useful to think of wages as being
@@ -75,7 +69,6 @@ informal understandings. These conventions,
 concepts, and understandings provide substantial,
 if imperfect, protection against exploitation
 but allow flexibility to deal with
-
 Knightian uncertainty.
 
 While very lengthy association requires
@@ -103,7 +96,6 @@ can have asymmetrical results. Changes
 in wages undertaken on the mistaken identification
 of a temporary change in circumstances
 as a permanent change can cause
-
 a substantial loss to workers and firms from
 the unnecessary scrapping of "investment"
 and the incurring of other turnover costs.

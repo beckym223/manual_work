@@ -1,7 +1,6 @@
 supplemented by constraints on the supply
 side, especially with respect to technology and
 the specialty mix of physicians.
-
 In 1995 Americans spent about $1 trillion
 for health care, broadly defined. If, during the
 past 30 years, health care spending had grown
@@ -55,7 +54,6 @@ center, much as the electric power companies
 do for the Electric Power Research Institute.
 This institute is financed by a small levy on
 every public utility bill.
-
 A health care technology assessment center
 would have two primary functions. First, it
 would help to develop and disseminate systematic

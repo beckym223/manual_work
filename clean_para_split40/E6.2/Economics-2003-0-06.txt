@@ -15,7 +15,6 @@ the general-equilibrium practice of interpreting
 all shocks as shifts in preferences,
 technologies, or the behavior of policy variables,
 but they have in mind some kind of
-
 monetary growth model that does not have a
 long-run Phillips curve.6 Real variables, in
 the long run, are determined by real factors
@@ -27,7 +26,6 @@ In return it becomes possible to estimate separately
 the importance of nominal shocks to
 the short- and medium-run variability of output,
 hours, and real interest rates.7
-
 In the five-variable scheme that Shapiro and
 Watson use, there are two nominal variablesthe
 inflation rate and the nominal interest rateand
@@ -53,7 +51,6 @@ shocks, and interpret their paper as partitioning
 the variance of output and hours into nominal
 and real sources. The resulting Table 1 is a
 condensation of their Table 2.
-
 The two zeroes for output and hours in the
 last, long-run, row of Table 1 are there by the
 definition of a nominal shock. But the two 94-

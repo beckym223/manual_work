@@ -1,7 +1,6 @@
 Forty years ago economists discovered the
 "residual." The main message of this literature,
 that growth in conventional inputs
-
 explains little of the observed growth in
 output, was first articulated by Solomon
 Fabricant in 1954 and emphasized further
@@ -11,7 +10,6 @@ of this subject were quite clear that
 this finding of large residuals was an embarrassment,
 at best "a measure of our ignorance"
 (Abramovitz, 1956 p. 11). But by
-
 attributing it to technical change and other
 sources of improved efficiency they turned
 it, perhaps inadvertently, from a gap in our
@@ -38,12 +36,10 @@ and the largely unmeasured contributions
 of science and other spillovers. The
 prescription of additional investments in education,
 in science, and in industrial R&D
-
 followed from this reading of history as did
 also the hope and expectation that the recently
 observed rates of "technical change"
 would continue into the future.
-
 This general view of the sources of growth
 was put into doubt by the events of the
 1970's and 1980's. Beginning in 1974 (or
@@ -68,7 +64,6 @@ growth opportunities that had opened up in
 the late 1930's and had been interrupted by
 World War II have been exhausted, reflecting
 perhaps the completion of an even
-
 longer cycle, going back to the beginnings of
 this century (see e.g., Alfred Kleinknecht,
 1987; Gordon, 1993a). Even more ominously,

@@ -9,7 +9,6 @@ security and other entitlements that are indexed
 to them.
 
 III. Sorting and Stratification
-
 In any market equilibrium, interpersonal differences
 in tastes and technologies affect the
 locations chosen by buyers and sellers on the
@@ -46,7 +45,6 @@ these markets become stratified in many ways.
 Stratification and sorting are ubiquitous in spatial
 equilibrium and have many interesting consequences.
 Neighborhood, bandwagon, status,
-
 and other social externalities are often invoked
 to account for stratification, but most stratification
 occurs without them.
@@ -70,7 +68,6 @@ income stratification and cannot be observed in
 the data. Yet it is incorrect to take this as evidence
 of failure of the equalizing or compensation
 principle in the labor market.
-
 Stratification and colinearity is itself an implication
 of the economic theory of preferences
 when income effects are important. High-wage
@@ -102,7 +99,6 @@ In sum, potential for stratification places
 limits on the empirical applicability of the hedonic
 method. Sometimes it cannot be used, but
 the test is always empirical.
-
 Colinearity affects the precision with which
 effects can be estimated, but sometimes there is
 bias in estimating the importance of equalizing

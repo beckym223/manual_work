@@ -79,7 +79,6 @@ safety and clean environments. An important
 use in goods markets is to construct price and
 quantity indexes that control for changes in the
 quality of goods over time.
-
 B. Cross-Section Values
 
 Environmental and safety concerns are at the
@@ -92,7 +91,6 @@ these kinds of public policies is like finding the
 costs of any other investment. Assessing benefits
 requires estimating the willingness of consumers
 to pay for more safety and better
-
 environments. Practice is tricky because there
 exist no explicit markets where safety and clean
 air are directly traded, and from which demand

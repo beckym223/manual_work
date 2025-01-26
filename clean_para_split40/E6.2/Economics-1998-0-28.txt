@@ -1,11 +1,9 @@
 The role of policy in this vision of the
 growth process is an "enabling" one. By creating
 the circumstances where firms can
-
 quickly and accurately predict opportunities
 for real cost reduction and act on them, governments
 can guide the economy toward an
-
 enhanced contribution of RCR to growth. By
 rationalizing and/or eliminating barriers and
 controls, they may also lead to an increased
@@ -15,7 +13,6 @@ good policy and growth is not mechanical, and
 thus cannot easily be captured in regressiontype
 analysis, but that does not stop it from
 being of vital importance.
-
 I want to give special weight to another role
 of "growth-enabling" policy actions, which
 has to do with how policies, the effects of
@@ -50,7 +47,6 @@ advanced countries.
 
 I would assume that the incentives for "convergence"
 are always present, but that they
-
 have typically run into barriers and trammels
 of many kinds in the poor countries of the
 world. Reducing the barrfers and loosening the
@@ -93,7 +89,6 @@ event, thus causing the big observable result
 of better policies to be a higher growth rate
 over an extended period rather than a discrete
 jump to a totally different level.
-
 This way of looking at the world also leads
 to some observations on the current literature
 dealing with convergence. I have long been

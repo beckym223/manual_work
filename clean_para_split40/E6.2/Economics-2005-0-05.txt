@@ -22,7 +22,6 @@ people to act against their own best interests.
 But these problems of asymmetric information
 or any other market failures do not necessarily
 justify government action. While a
-
 perfect and benevolent government would be
 better than a private market burdened by market
 imperfections, actual governments are neither
@@ -31,10 +30,8 @@ do not maximize a social welfare function,
 but reflect political pressures and bureaucratic
 preferences. Moreover, social insurance programs
 impose costs that must be weighed
-
 against the benefits of overcoming market imperfections.
 Both require empirical evaluation.
-
 Consider first the asymmetry of information
 in insurance markets. To be specific, consider
 the case of private annuities. If individuals can
@@ -99,7 +96,6 @@ Consider now the second form of asymmetric
 information that might provide a rationale for a
 social insurance program: the government's inability
 to distinguish those who are poor
-
 through bad luck or inadvertence from those
 who deliberately choose to act in a way that
 leads to eligibility for free benefits. A primary

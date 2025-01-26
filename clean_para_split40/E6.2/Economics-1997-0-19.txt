@@ -19,7 +19,6 @@ techniques such as effective protection
 and cost benefit, which enabled policy makers
 and their analysts to obtain empirical quantification,
 however rough, of the relevant
-
 magnitudes.47
 
 In like manner, the empirical demonstration
@@ -57,7 +56,6 @@ with comparative advantage as interpreted to
 mean developing countries would specialize in
 the production of primary commodities, and
 with the infant industry argument.
-
 These considerations suggest that research
 results, in order to be most likely to be amenable
 to policy relevance, should be interpretable
@@ -68,7 +66,6 @@ that theory does not always tell us, can be
 counterproductive precisely because the policy
 maker is informed only that a certain generalization
 (such as comparative advantage
-
 and the value of free trade) is not without
 exception; the generalization can then be
 ignored.
@@ -90,7 +87,6 @@ and in Argentina in the late 1980's. It is far
 too easy for analysts to ignore the fact that "an
 exception" does not rationalize all possible
 policy alternatives to free trade.
-
 There is a criterion for efficient resource allocation,
 equating domestic and international
 marginal rates of transformation. Even if there

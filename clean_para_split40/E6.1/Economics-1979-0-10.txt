@@ -12,7 +12,6 @@ t, rt = r, say.
 
 This reasoning simply registers the economic
 accounting implications of assumed
-
 intertemporal efficiency with capital nonsaturation.
 To many highly educated
 
@@ -45,10 +44,8 @@ would.
 
 Two final remarks, the first added as an
 afterthought since August 30.
-
 The two issues we have discussedwhether
 to count only energy costs or all
-
 costs, and whether or not to discount future
 benefits and costs-are logically distinct
 implications of the notion of intertemporal
@@ -98,7 +95,6 @@ traffic by the design of roads, bridges, turnouts,
 and crossings. Another is regular expenditures
 for traffic police, building inspectors,
 and other law enforcers who
-
 restrain some people from killing or hurting
 themselves or others by recklessness or
 neglect.

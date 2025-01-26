@@ -1,5 +1,4 @@
 VII. The Glass Half-Full?
-
 After a long detour I come back to the
 original question: why don't we know more
 about the sources of productivity growth
@@ -20,7 +19,6 @@ decades of work and contributions by Denison,
 Jorgenson, Kendrick, and many others,
 the conceptual and measurement underpinnings
 of the growth accounts are in much
-
 better shape today. We now have extensive
 micro data on firms, their productivity, their
 R&D expenditures, and other variables. We
@@ -31,19 +29,16 @@ international data are now available, with
 the OECD both collecting R&D data and
 computing TFP numbers for many countries,
 and with Summers and Heston (1991)
-
 providing comparable real GNP numbers
 for many countries. Finally, we have much
 more computing power and better econometric
 techniques and frameworks for attacking
 many of the problems that arise in
-
 the analysis of such data. So what is still
 missing?
 
 We are caught up in a mixture of unmeasurement,
 mismeasurement, and unrealistic
-
 expectations. The productivity situation is
 both better than we think and also worse. It
 is likely that there have been significant
@@ -55,7 +50,6 @@ and the recent rise in the number of patent
 applications augur well for the future. Also,
 productivity growth rates are probably underestimated
 even in the "measurable" sectors
-
 because they are based on "book value"
 estimates of physical- and human-capital
 stocks and do not reflect the capital losses
@@ -69,7 +63,6 @@ bad news. We are not as wealthy as we
 thought, but productivity growth, based on
 the lower remaining levels of input, is probably
 higher than we have measured it.
-
 A cautionary remark needs to be added
 here: productivity growth contributes to the
 potential for welfare, but it is not the same
@@ -77,7 +70,6 @@ thing. Welfare can move in the opposite
 direction if the resources released by productivity
 growth do not find adequate employment
 in other, economically valuable,
-
 activities (including leisure). Also the physical,
 economic, and political environments
 can change, both positively and negatively,
@@ -90,17 +82,14 @@ to say when he was accused of money-grubbing:
 but it is a pretty good substitute."
 Nevertheless, the issues I have been discussing
 here tonight are important. Much
-
 depends on whether the "truth" is closer to
 the upper ("measurable") line in Figure 1,
 or the lower one. The country's mood is
 affected by bad data and incorrect perceptions.
 Are we really not much better off
-
 than we were in the 1960's? Would we
 really like to exchange the commodity assortment
 we have today for that of
-
 yesteryear? Our health system, warts and
 all? The air pollution? The civil-rights situation?
 The fear of nuclear war? These are

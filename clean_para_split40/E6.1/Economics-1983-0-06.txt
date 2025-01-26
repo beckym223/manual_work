@@ -72,7 +72,6 @@ the candidate who is the most beautiful, each
 contestant tries to calculate which candidate
 is most likely to be chosen by other contestants.
 But once each realizes that others
-
 will be choosing on the same basis, he is
 forced to speculate about what the average
 opinion will be of what the average opinion
@@ -82,9 +81,7 @@ Given no more solid a basis than this
 for valuing shares, said Keynes, the price of
 shares can be almost anything-and is likely
 at times to be highly unstable.
-
 Why does anyone buy gold at $52 an
-
 ounce-or at $520 an ounce? Why does anyone
 sell it at that price? Because the buyer
 expects that the price tomorrow will exceed

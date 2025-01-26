@@ -1,7 +1,6 @@
 complement (32 percent) would represent
 the initial value added associated with negative
 TFP performance during the period.
-
 If, then, all the information could be generated
 by a properly designed frequency distribution
 of rates of TFP growth, could it not
@@ -12,11 +11,9 @@ think not-my favorite quip on this is that
 we can rationalize what we see in terms of an
 analytical framework which embodies wellestablished
 economic principles and sensible
-
 presumptions about underlying relationships
 and facts, this is itself strong evidence against
 the white noise hypothesis.
-
 Nonetheless, we have to face the fact that
 errors of observation of some magnitude certainly
 do exist, and we must recognize that

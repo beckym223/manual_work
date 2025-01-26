@@ -1,8 +1,6 @@
 but, by the assumption that average construction
 cost is declining, since Yi >0,
-
 (4) K(y2-y1)/(y2-y1)> K(y2)/y2.
-
 Substituting this into (3) we have at once
 P2> K(Y2)/Y2
 
@@ -19,7 +17,6 @@ up, at cost K(y2), to price slightly below
 anything the incumbent can charge and yet
 recover his costs; and that in doing so, the
 entrant can earn a profit.
-
 Thus, our intertemporal natural monopolist
 cannot quote, at time zero, any prices
 capable of preventing the takeover of some
@@ -47,7 +44,6 @@ Before closing let me add a word on policy
 implications, whose details must also be left
 to another place. In spirit, the policy conclusions
 are consistent with many of those
-
 economists have long been espousing. At
 least in the intratemporal analysis, the heroes
 are the (unidentified) potential entrants who
@@ -62,7 +58,6 @@ consumers the benefits which competition
 would otherwise bring. For every deviation
 from good behavior instantly makes them
 vulnerable to hit-and-run entry.
-
 This immediately offers what may be a
 new insight on antitrust policy. It tells us
 that a history of absence of entry in an
@@ -72,7 +67,6 @@ true when entry costs in our sense are negligible.
 And, then, efforts to change market
 structure must be regarded as mischievous
 and antisocial in their effects.
-
 A second and more obvious conclusion is
 the questionable desirability of artificial
 impediments to entry, such as regulators were
@@ -99,14 +93,11 @@ There is much more to the policy implications
 of the new theory, but I will stop here,
 also leaving its results relating to empirical
 research for discussion elsewhere.
-
 Let me only say in closing that I hope I
 have adequately justified my characterization
 of the new theory as a rebellion or an uprising.
 I believe it offers a host of new analytical
 methods, new tasks for empirical
-
 research, and new results. It permits reexamination
 of the domain of the invisible
-
 hand, yields contributions to the theory of

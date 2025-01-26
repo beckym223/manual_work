@@ -2,7 +2,6 @@ IX. The Need for Direct Inflation Control
 Long before the economy reaches a really
 satisfactory level of full employment, however,
 as employment gets to the NIARU
-
 level, and inflation threatens to accelerate,
 the Fed is likely to try to slam on the
 brakes, and demands for a more stringent
@@ -12,19 +11,16 @@ halls of Congress. To get anywhere near a
 satisfactory level of unemployment, some
 method of dealing with inflation will have to
 be devised. We are short of tools.
-
 In effect, the economy can be thought of
 as having three major parameters that we
 would like to control: the level of employment
 of human and other resources, the
-
 price level, and the division of the resulting
 total product between provision for current
 wants and investment in growth and the
 future. At the same time, we have only two
 major policy tools: monetary and fiscal policy.
 In an era when inflation was not a
-
 threat, one could think of these two tools as
 controlling the level of employment and the
 rate of growth, with low interest rates combined
@@ -43,13 +39,11 @@ been made, but none has achieved general
 acceptance. Wartime control of specific
 prices, accompanied by rationing, was accepted
 as an emergency measure and
-
 worked in part because of patriotic willingness
 to conform and in part because, being
 temporary, past prices could be continued
 without becoming absurd. As a permanent
 scheme this is probably unworkable
-
 and certainly unacceptable. More recent
 schemes have involved tax incentives of
 various kinds to provide a countervailing
@@ -76,12 +70,10 @@ While this neatly circumvents the problem
 of adjusting the strength of incentive to
 changing inflationary pressures, the problem
 remains of how to measure price
-
 changes in the face of quality changes, new
 products, and variations in the terms of sale
 such as delivery, reliability, service, credit
 terms, tie-in sales, and the like.
-
 More pregnant was the question of how
 to deal with cases in which prices paid to
 suppliers have risen. A somewhat similar
@@ -98,7 +90,6 @@ rights to raise prices we have a market in
 rights to value added.
 
 XI. Control with Marketable Gross
-
 Markup Warrants
 
 For semantic reasons I have chosen to

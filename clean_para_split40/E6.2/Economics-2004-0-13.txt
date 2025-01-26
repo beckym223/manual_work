@@ -1,5 +1,4 @@
 THE AMERICAN ECONOMIC REVIEW
-
 makes benefits a progressive function of lifetime
 earnings offers insurance about lifetime
 earnings that is not available in the market.
@@ -13,7 +12,6 @@ with asymmetric information-a combination
 of insurance and incentives neither of
 which satisfy the conditions for first-best optimization.
 This effect of progressivity is in
-
 addition to the effects from annuity pricing discussed
 above. Some of the effects of annuitization
 and progressivity would be offsettingthose

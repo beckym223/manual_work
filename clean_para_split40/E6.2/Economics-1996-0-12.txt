@@ -24,7 +24,6 @@ have a higher level of consensus about
 the policy-value questions than do the health
 economists. This probably reflects more homogeneous
 values among physicians rather
-
 than agreement about the embedded positive
 questions. (Note the low level of agreement
 among physicians on the explicit positive
@@ -78,7 +77,6 @@ total score for each individual is divided by 3,
 again yielding a range for the index from 1 to
 0 (indicating complete support or complete rejection
 of the actuarial approach).
-
 The results are presented in Table 3. We
 see that with respect to national health insurance
 the support among the three groups is virtually

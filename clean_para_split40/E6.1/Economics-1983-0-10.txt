@@ -3,7 +3,6 @@ primarily with work-in-process and manufactured
 product inventories, including inventories
 held by wholesalers and retailersalthough
 it may also embrace commodity
-
 inventories held by manufacturers or processors
 (but not by producers and dealers). The
 earliest versions of this literature described
@@ -31,14 +30,12 @@ sales were modelled as responsive in
 particular ways to experienced levels and
 changes of sales, while production responded
 to orders and expected sales.9
-
 This literature, of course, belongs to a
 universe of discourse in which prices (including
 wage rates) do not clear markets continuously,
 but rather adjust slowly to evidence of
 gaps between amounts supplied and demanded.
 Or they may be "administered" on
-
 the basis of working rules of thumb based
 mainly on costs or on other prices. In this
 universe of discourse, such pricing rules are
@@ -59,7 +56,6 @@ are designed to restore or to maintain efficient
 levels of inventories. Indeed, microeconomic
 theories of rational quantity adjustments
 to unplanned differences between
-
 production and sales began to be developed
 in the early 1950's, and have increasingly
 supplied a formal basis for macroeconomic
@@ -71,17 +67,14 @@ production, purchases, and employmentself-
 reinforcing through income effects on
 consumption and "accelerator" effects on investment:
 perhaps dampened by interest rate
-
 effects on investment, to the extent that the
 supply of money does not accommodate
 changes in the demand for it.
-
 Indeed, if such patterns of quantity responses
 at the level of the firm to unplanned
 changes in inventories become standardized-
 because such patterns do, in time, reverse
 imbalances between production and
-
 sales-it may become entirely rational to
 expect such patterns of quantity movements
 to occur at a macroeconomic level. Rational

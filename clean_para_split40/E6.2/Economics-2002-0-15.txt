@@ -7,7 +7,6 @@ As>_ ~~~~U(Y-pi,ZI)
 Y1 YO Yk Y2 Income
 
 FIGURE 4. MANUFACTURED INEQUALITY
-
 between other goods and housing, those whose
 incomes are below Yk derive higher utility from
 living in the low-quality house in a low-amenity
@@ -29,7 +28,6 @@ live in the high-quality house and derive utility
 U(Y2 - Ph, Zh). His expected utility would be at
 point C, which yields more utility than the certain
 utility obtained at point D.
-
 Occupational lotteries of this sort manufacture
 inequality but make the individuals who
 enter the occupation better off. Because the
@@ -48,10 +46,8 @@ it, the existence of the risky occupation makes
 all individuals who enter better off in an expected
 utility sense, primarily because the inequality
 manufactured by this occupation
-
 allows different combinations of income and
 amenities that are complementary.
-
 VI. Conclusion
 
 Despite the importance of diversity in economic
@@ -62,7 +58,6 @@ patterns of tastes and technologies that
 translate into supply of and demand for an enormous
 variety of products and factors of production.
 Markets accommodate diversity by
-
 establishing values that make differentiated
 items relatively close substitutes at the margin.
 The markets match buyers and sellers in

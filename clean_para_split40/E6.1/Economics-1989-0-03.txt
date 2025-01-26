@@ -1,7 +1,6 @@
 Four decades ago, in a brilliant review of
 Burns and Mitchell's classic work on business
 cycles, Tjalling Koopmans (1947)
-
 sounded a warning against "Measurement
 Without Theory." Without theoretical hypotheses
 and constructs to orient investigation
@@ -11,7 +10,6 @@ the fate of the blind man studying the elephant.
 
 Recent excursions in vector autoregressions
 possibly aside, modem econometrics
-
 has generally followed the path of specifying
 theoretical relations that make sense in terms
 of economic behavior and using empirical

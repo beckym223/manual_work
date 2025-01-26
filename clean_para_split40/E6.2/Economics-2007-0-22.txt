@@ -3,7 +3,6 @@ responsible for wage stickiness. His extensive
 open-ended interviews sought to elicit why employers
 failed to cut money wages in the Connecticut
 recession of 1991-1992. Bewley
-
 concludes that, even though substitute labor was
 easily available, employers were reluctant to cut
 wages because of the negative effects of such
@@ -21,7 +20,6 @@ real terms, relative to the price level or the
 wages received by others. They also have a
 special aversion to cuts in wages below their
 current nominal levels.75
-
 Norms about Wage Increases.-The motivation
 underlying resistance to money wage cuts
 is so obvious, and the facts are so unexceptionable,
@@ -48,14 +46,12 @@ wages (and prices) should be. All such
 violations are exceptions to natural rate theory,
 and yield reasons for long-run trade-offs between
 inflation and unemployment.
-
 Money wage rigidity is then potentially only
 the tip of an iceberg. If there is one way in
 which nominal wages enter utility functions,
 because of employees' norms regarding what
 their employers should or should not do, there
 could also be many other ways.
-
 There is another natural way whereby such
 norms could enter utility functions: employees
 may not only have a norm that they should not

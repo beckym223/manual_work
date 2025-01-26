@@ -9,7 +9,6 @@ and equipment, and (Section IV) for taking
 into account that the costs of all kinds in
 any required future extraction from the atmosphere
 will not be incurred until much
-
 later.
 
 In fact, one statement in the report reads
@@ -28,14 +27,12 @@ rate. Meanwhile, the statement leads one to
 infer that the capital cost component is not
 negligible as a factor in the decision.
 II. Technology Mixes of Future
-
 Energy Supply and Use
 
 My second illustration is a study that was
 carried out as an input to the deliberations
 of the Committee on Nuclear and Alternative
 Energy Systems (CONAES, in short),
-
 and of its Synthesis Panel. It is entitled
 "Energy Modeling for an Uncertain Future.
 " As explained in the preface, it is a
@@ -52,11 +49,9 @@ consisted mostly of economists and operations
 researchers, two somewhat like-minded
 professions. My comments on interdisciplinary
 interactions about the ideas and
-
 findings of the group will therefore draw
 on discussions with members of other professions
 within and outside CONA ES.
-
 For that purpose it may suffice to give
 only the briefest description of the questions
 addressed, the assumptions made, and
@@ -74,7 +69,6 @@ of adverse effects such as mining accidents,
 air pollution, acid rain, oil spills, possible
 leakage from nuclear waste disposal, or diversion
 or proliferation of weapons-grade
-
 nuclear materials. For brevity, all such effects
 will be called "environmental" effects.
 The place in Table 1 for these impacts is
@@ -91,7 +85,6 @@ and adverse "environmental" impacts that
 remain after scrubbers, inspectors, Civex
 and the like have done their jobs. Not having
 such estimates, the MRG turned the
-
 question around: Assume that tentatively
 chosen upper bounds are imposed on the
 use of technologies that have such impacts.
@@ -99,7 +92,6 @@ Estimate the loss in GNP associated with
 these bounds. Then that number also places
 a price tag on the reduction in "environmental"
 impacts achieved by those bounds.
-
 Thus, even if an a priori valuation of the
 reduction in impacts is not available, then
 such a valuation is still implicit in any

@@ -28,7 +28,6 @@ improvements in labor quality. Substitutions
 among capital and labor inputs in response to
 price changes are essential components of the
 sources of economic growth.
-
 A look at the U.S. economy before and after
 1973 reveals familiar features of the historical
 record. After strong output and TFP growth in
@@ -52,6 +51,5 @@ has been a sharp response to the acceleration in the
 IT price decline in 1995. Nonetheless, more than
 70 percent of the increased output growth can be
 attributed to non-IT products.
-
 Between 1990-1995 and 1995-1999 the contribution
 of capital input jumped by 0.95

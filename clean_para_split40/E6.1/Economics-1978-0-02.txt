@@ -1,12 +1,10 @@
 is repeated in business investment demand,
 housing demand, public expenditures,
 exports, and imports. Elaboration
-
 essentially means taking a closer look at demand
 side components by types of demand.
 The mainstream model of macro economic
 thought has thus become a detailed
-
 system of demand analysis, but if it is to be
 a closed system, it will also have to include
 corresponding detail on the national income
@@ -18,7 +16,6 @@ formation, which appears as a demand
 for final goods in the GNP, and takes up
 an explanation of wage income. An adequate
 explanation of wage income cannot
-
 avoid the explicit treatment of physical
 production involving labor input as well as
 capital input. The demand for labor, like
@@ -27,7 +24,6 @@ While the demand for capital enters directly
 as a component of total demand, the
 demand for labor, together with wage formation,
 enters national income, and only
-
 after expenditure does it enter final demand
 for GNP. To the extent that labor productivity
 affects wage determination and also
@@ -41,14 +37,11 @@ capital. Looked at in this way, factor demand
 for labor and factor demand for fixed
 capital are simply different, but related,
 aspects of total investment.
-
 Behind the IS-LM diagram or other simplified
 renditions of the aggregate demand
-
 model lie many supply-side relationships.
 Not only is the supply side in the background,
 but it also plays a more essential
-
 role once it is recognized that the simplified
 model is actually incomplete. If we were to
 assume the existence of money illusion, it
@@ -57,7 +50,6 @@ system as a closed system of relationships
 depending on nominal income and nominal
 interest rates. I find this approach theoretically
 unsatisfactory. That simple system
-
 exists only as an aggregative approximation
 for a given price level. If we assume no
 money illusion and, more properly, I believe,
@@ -80,7 +72,6 @@ of macroeconomics.' Also, by way of
 side comment, Keynes probably confused
 the issues by making labor supply dependent
 on the nominal wage rate, assuming
-
 the existence of money illusion, and by not
 treating the stock of capital as an explicit
 variable.
@@ -105,7 +96,6 @@ or wage level. This is much like the use of a
 term structure relationship in credit market
 analysis to explain the spectrum of interest
 rates, given one strategic rate.
-
 It is, however, more satisfactory, and
 more revealing, to explain the whole set of
 prices, one by one, on the basis of costs

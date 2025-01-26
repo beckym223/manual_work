@@ -1,6 +1,5 @@
 send out the same kind of initial signalschanges
 in the volume of sales-when it
-
 wants a reallocation of resources as it does
 when it wants a change in the general level of
 wages and prices. In the first situation, given
@@ -8,7 +7,6 @@ the substantial efficiencies which flow from
 long-term associations of suppliers with
 customers and firms with workers, very cautious
 and sluggish changes in wages and
-
 prices are the optimal response to signals. A
 large part of the adjustment is optimally
 taken up as temporary variations in slack
@@ -36,7 +34,6 @@ economic welfare, wage- and price-setting
 institutions have developed with a bias toward
 the sluggish response called for by considerations
 of micro efficiency. The cyclical
-
 behavior of the aggregate wage and price
 levels unfolds from the gradual overcoming
 of that bias.
@@ -66,16 +63,13 @@ prices and the failure of markets to clear in
 the short run. Both phenomena-long-run
 market clearing and short-run stickinessultimately
 derive from the same rational
-
 aspects of human behavior.
-
 Some of the consequences of this recognition
 are nevertheless very troubling for
 economic theory and theoretically informed
 empirical research. In the new classical economics,
 there is no need for empirical research
 to determine how wages and prices
-
 respond to demand shocks, given expectations
 about the general price level. Pure
 theory-the auction-market model-dictates
@@ -93,7 +87,6 @@ sticky wages are consistent with the rational
 calculus. But it does not give us a theoretical
 basis for specifying the two basic components
 of macro wage adjustment: What
-
 "laws" do firms follow, under implicit contracts,
 in adjusting their wages, assuming the
 stability of W, the wage norm? And what

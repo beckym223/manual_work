@@ -16,7 +16,6 @@ of modern health economics and describe interactions
 between the discipline and the field
 of health, drawing heavily on my personal experience.
 I then turn to the question of why
-
 economists did not have more impact on
 health care reform. I report and analyze the
 answers of health economists, economic theorists,
@@ -29,7 +28,6 @@ implications of the importance of values for
 economics and conclude the lecture with my
 recommendations for health care reformrecommendations
 based on my values as well
-
 as my understanding of health economics.
 I. The Past
 
@@ -50,13 +48,11 @@ was pioneering in the application of quantitative
 methods such as 2-stage least squares,
 principal component analysis, and linear programming
 to the estimation of production
-
 functions and other important economic aspects
 of medical care. His numerous papers
 analyzing the British National Health Service
 formed the basis for his Ph.D. thesis at Oxford
 University (Feldstein, 1967).
-
 A third line of work that has had a significant
 influence on health economics also began
 in the early 1960's with the National

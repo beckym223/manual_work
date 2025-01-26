@@ -19,7 +19,6 @@ before tax.
 
 Distribution of Income. The longest continuous
 and comparable income distribution
-
 series available to us comes from the annual
 Current Population Survey (CPS) of the
 Census Bureau. The figures show that the
@@ -40,16 +39,13 @@ greatly understate income inequality in any
 year. What is not recognized is that the CPS
 data greatly understate the increase in inequality
 that has occurred during the 1980s
-
 because very high incomes have been increasing
 much faster than the incomes in the
 lower part of the distribution.5 This can be
 TABLE 1-BEFORE-TAX INCOME SHARES, CENSUS DATA,
 SELECTED YEARS, 1948-1988, PERCENT.
 Top 5 percent Top 20 percent
-
 Year of families of families
-
 1948 17.1 42.4
 
 1952 17.4 41.5

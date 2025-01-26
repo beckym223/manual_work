@@ -3,7 +3,6 @@ designed explicitly to help the poor, but it
 also includes others that are not designed
 primarily for this purpose (for example, retirement
 and unemployment benefits and
-
 health insurance). To evaluate the impact of
 the tax-transfer system on the distribution of
 income, cash and in-kind transfers must be
@@ -14,11 +13,9 @@ While I cannot separate the effects of
 transfer payments and of taxes on the recent
 changes in the after-tax income distribution,
 12 a snapshot for a recent year-
-
 1985-suggests what happened (Figure 1).
 When family units are arrayed by their incomes
 from market production (wages,
-
 salaries, interest, dividends, etc.), the U.S.
 tax system is only mildly progressive. On the
 other hand, transfer payments are highly

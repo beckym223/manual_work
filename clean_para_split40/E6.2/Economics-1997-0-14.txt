@@ -89,7 +89,6 @@ pointed out by Johnson (1970 p. 101):
 ...The fundamental problem is that, as
 with all second-best arguments, determination
 of the conditions under which a
-
 second-best policy actually leads to an
 improvement in social welfare requires
 detailed theoretical and empirical investigation
@@ -101,7 +100,6 @@ second-best arguments.
 C. Good Theory Assuming
 
 Counterfactual Situations
-
 The final abuse of theory was primarily a
 fault of inappropriate stylized facts. Nonetheless,
 in many instances, analysts assumed

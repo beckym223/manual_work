@@ -32,7 +32,6 @@ of income after tax.
 Distribution of Tax Burdens. I have been
 estimating federal, state, and local tax burdens
 by income classes for the last two
-
 decades on the basis of the Bookings
 MERGE files.9 These files are based on the
 CPS surveys, modified at the top by the
@@ -49,7 +48,6 @@ the top 5 percent dropped by one-fifth between
 26.0 percent); for the top 1 percent, the
 reduction was more than one-third (from
 39.6 percent to 25.3 percent).
-
 Tax burdens of the highest income recipients
 fell because top federal individual tax
 rates were reduced throughout this period,

@@ -16,13 +16,11 @@ are never certain, the expected prices described
 should include discounts to reflect
 risk aversion, or premiums to reflect the
 pleasures of risk assumption.
-
 Given the conditions that permit or require
 the holding of inventories, inventories
 may have either a stabilizing or a destabilizing
 effect on the commodity's price, production,
 and consumption. Traditionally,
-
 however, economists have assumed that the
 effect of inventories is to stabilize each of
 these. We think of the wheat market, for
@@ -43,11 +41,9 @@ produced. However, given the possibility of
 storage of wheat or wheat products-by producers,
 dealers, or intermediate or final consumers-
 the price would normally fall only
-
 enough during the harvest period to induce
 the appropriate amount of inventory accumulation.
 The price would then rise, during
-
 the remainder of the year, as inventories
 were drawn down, sufficiently to cover at all
 times the costs of storage, interest, and the
@@ -59,11 +55,9 @@ also year-to-year variations may occur in the
 harvest as a result of weather conditions or
 civil disturbance, and that year-to-year variations
 may also occur in the demand for
-
 wheat, reflecting, say, the "business cycle,"
 will induce some or many market participants
 to carry over inventories of wheat
-
 (or of its products) from one crop year to the
 next (or to reduce stocks previously carried
 over). Stocks held will increase or decrease as
@@ -83,7 +77,6 @@ effect, may thus borrow from past and/or
 from future years' supply or demand.
 As, and to the extent, that market participants
 learn of new "events" affecting or
-
 likely to affect either future normal production
 or future normal demand, the rate of
 inventory accumulation or decumulation will
@@ -97,7 +90,6 @@ would have happened if inventories could
 not exist, or if storage costs-or the interest
 rate-were higher. And this activity clearly
 increases economic welfare.
-
 These activities of course reflect the behavior
 now described as based upon "rational
 expectations." Market participants have in

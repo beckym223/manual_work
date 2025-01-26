@@ -15,7 +15,6 @@ same over a lifetime. Assuming perfect capital
 markets, constant discount rates that apply
 equally to all people under all circumstances,
 tax rates that are constant and
-
 proportional, and no gifts and bequests, the
 present values of lifetime expenditures of
 people with the same (discounted) lifetime
@@ -54,7 +53,6 @@ lifetime incomes or consumption cannot be
 regarded as satisfactory indexes of ability to
 pay.28 Moreover, taxation of annual consumption
 expenditures at graduated rates
-
 would destroy the identity of lifetime taxes
 of taxpayers with the same (discounted) lifetime
 incomes.
@@ -73,7 +71,6 @@ between labor and leisure. There is no theoretical
 basis for judging whether the welfare
 gain from eliminating the intertemporal distortion
 of consumption would exceed the
-
 welfare loss from increasing the intratemporal
 distortion of the labor-leisure choice.29
 A tax that omits saving from the tax base
@@ -97,7 +94,6 @@ be enshrined in the tax law" (pp. 21-22). 9)
 27See Bradford (1980), pp. 106-9, Bradford (1986 p.
 315, and Musgrave (1976), pp. 11-12. Bradfordhi8lds
 this view while Musgrave does not.
-
 28For an excellent discussion of the lifetime vs. the
 short-run perspective as a basis for taxation, see Goode
 (1980).
@@ -106,7 +102,6 @@ short-run perspective as a basis for taxation, see Goode
 Sandmo (1980), Atkinson and Stiglitz (1980), Auerbach
 and Kotlikoff (1987), ch. 5, Rosen (1988), p. 469, and
 Gravelle (1988 and 1989).
-
 30Like the equality between a consumption and an
 income tax in present value terms, this assumes that tax
 and interest rates remain constant over a lifetime and

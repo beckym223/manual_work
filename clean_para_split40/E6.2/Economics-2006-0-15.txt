@@ -1,5 +1,4 @@
 B. Reciprocity and Altruism
-
 Reciprocity is a simple form of social interaction,
 present in economic trade and explained
 by self-interest. Reciprocity is easy to
@@ -53,23 +52,19 @@ explain cooperation in most species, and
 seems to have a convincing evolutionary basis.
 It has been a central theme of sociobiologists
 in the past four decades, but the
-
 concept itself is as old as the concept of
 self-interest, as in a quote from Adam Smith
 (1759):
 
 Every man feels [after himself, the pleasures
 and pains] of the members of his
-
 own family. Those who usually live in the
 same house with him, his parents, his
 children, his brothers and sisters, are naturally
 the objects of his warmest affections.
 They are naturally and usually the
-
 persons upon whose happiness or misery
 his conduct must have the greatest
-
 influence.
 
 Despite its recognized importance, particularly

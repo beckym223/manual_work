@@ -1,8 +1,6 @@
 tape into the computer. Such
-
 options are exercised rarely and when they
 are, usually in a casual way.
-
 The same well-known sets of figures are
 used again and again in all possible combinations
 to pit different theoretical models
@@ -18,31 +16,25 @@ This complacent feeling, as I said before,
 discourages venturesome attempts to
 widen and to deepen the empirical foundations
 of economic analysis, particularly
-
 those attempts that would involve crossing
 the conventional lines separating ours from
 the adjoining fields.
 
 True advance can be achieved only
-
 through an iterative process in which improved
 theoretical formulation raises new
-
 empirical questions and the answers to
 these questions, in their turn, lead to new
 theoretical insights. The "givens" of today
 become the "unknowns" that will have to
 be explained tomorrow. This, incidentally,
 makes untenable the admittedly
-
 convenient methodological position according
 to which a theorist does not need
-
 to verify directly the factual assumptions
 on which he chooses to base his deductive
 arguments, provided 'his empirical conclusions
 seem to be correct. The prevalence
-
 of such a point of view is, to a large extent,
 responsible for the state of splendid
 isolation in which our discipline nowadays
@@ -65,7 +57,6 @@ sector of our economy. Close collaboration
 with agronomists provides agricultural
 economists with direct access to information
 of a technological kind. When they
-
 speak of crop rotation, fertilizers, or alternative
 harvesting techniques, they usually
 know, sometimes from personal experience,
@@ -77,7 +68,6 @@ and sociologists, that is, with social scientists
 of the "softer" kind. While centering
 their interest on only one part of the economic
 system, agricultural economists
-
 demonstrated the effectiveness of a systematic
 combination of theoretical approach
 with detailed factual analysis. They

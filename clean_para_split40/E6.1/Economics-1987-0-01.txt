@@ -19,14 +19,12 @@ Most economists probably share my premise
 that economics ultimately ought to be
 more than just challenging intellectual gymnastics.
 It ought to help us understand how
-
 the economy works and provide a basis for
 intelligent political choices among economic
 policies. Even those who devote their energies
 to resolving purely theoretical issues
 imagine that somehow in the end their efforts
 will prove socially useful.
-
 The dedicated, idealistic young economist
 who aspires to advise a government may well
 envision herself someday as the wise and
@@ -42,7 +40,6 @@ be done when this occurs. She identifies risks
 and uncertainties, which fortunately are not
 overwhelming. She represents the best professional
 judgment of her fellow economists,
-
 indicating the major respects in which most
 economists agree and scrupulously pointing
 out that in minor respects the views of some
@@ -50,7 +47,6 @@ of her professional colleagues might differ
 from her own. She remains above the political
 fray, identifying any values or distributional
 biases that may creep into her
-
 judgments and eschewing identification with
 interest groups or ideological causes.
 The queen for her part listens carefully
@@ -63,7 +59,6 @@ decisions-even very hard ones-and sticks
 to them. The decisions are carried out, the
 economy prospers, and a grateful nation applauds
 the wisdom of the monarch and her
-
 economist and the usefulness of economics.
 But in the real world, both economics and
 politics are frustratingly unlike this picture.
@@ -80,7 +75,6 @@ Walter Heller said in his presidential address
 that the "chorus of self criticism has risen to
 a new crescendo" (1975, p. 1), and the selfdeprecation
 has not abated in the intervening
-
 decade. If a golden age of economists'
 self-confidence ever occurred, it is long past.
 Events of recent years have kept reminding

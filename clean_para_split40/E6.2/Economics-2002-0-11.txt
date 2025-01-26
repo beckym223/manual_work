@@ -49,7 +49,6 @@ neither a firm's nor worker's willingness to trade
 off pensions for wages.
 
 IV. Diversity and Specialization
-
 Specialization, division of labor, and the organization
 of work socially create much of the
 diversity observed in economics. In his compelling
@@ -63,7 +62,6 @@ is one of the most important bits of economic
 analysis at the extensive margin. How are productive
 activities packaged and bundled together
 into jobs, and who works on them?
-
 For the economy as a whole, the most important
 reason by far for specialization and division
 of labor are scale economies in utilizing acquired
@@ -81,7 +79,6 @@ once it is built, it is efficient to keep the offices
 as fully occupied as possible because the marginal
 cost of an unoccupied office is much
 smaller than its average cost.
-
 Specialization is optimal if learning new
 skills involves significant fixed costs that are
 only loosely linked to the intensity of subsequent

@@ -16,7 +16,6 @@ have in mind, but rather the fast-spreading
 use of advanced methods of Operations
 Research and of so-called Systems' Analysis.
 Some of the standard concepts and
-
 analytical devices of economic theory first
 found their way into the curricula of our
 business schools and soon after that, sophisticated
@@ -41,14 +40,12 @@ This raises the thorny question of public
 access to privately collected data and of
 the proper division of labor and cooperation
 between government and business in
-
 that fast-expanding field. Under the inexorable
 pressure of rising practical demand,
 these problems will be solved in one
 way or another. Our economy will be surveyed
 and mapped in all its many dimensions
 on a larger and larger scale.
-
 Economists should be prepared to take
 a leading role in shaping this major social
 enterprise not as someone else's spokesmen
@@ -69,7 +66,6 @@ to foster economic growth. We should
 be equally prepared to share with the
 wider public the hopes and disappointments
 which accompany the advance of
-
 our own often desperately difficult, but
 always exciting intellectual enterprise.
 This public has amply demonstrated its
@@ -77,7 +73,6 @@ readiness to back the pursuit of knowledge.
 It will lend its generous support to our
 venture too, if we take the trouble to
 explain what it is all about.
-
 REFERENCE
 
 F. H. Hahn, "Some Adjustment Problems,"

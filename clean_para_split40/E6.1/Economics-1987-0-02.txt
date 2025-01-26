@@ -16,7 +16,6 @@ Many of the most sophisticated and realistic
 members of the profession, conscious of
 all these difficulties, have abandoned the attempt
 to advise governments on policies
-
 in favor of the more manageable tasks of
 adding to the knowledge base. This may be
 understandable, but it deprives the economic
@@ -24,7 +23,6 @@ policy debate of the input of some very good
 minds and runs the risk of leaving the job of
 interacting with the political arena disproportionately
 to those with strong ideological
-
 views.
 
 I. Fragmentation of the Economic Policy Process
@@ -51,7 +49,6 @@ clear that while the president could propose
 taxing and spending, the ultimate authority
 lies with the Congress, subject only to presidential
 veto. This divided power creates a
-
 built-in hurdle to making and carrying out
 fiscal policy. The hurdle is low when the
 president is articulating a policy that has

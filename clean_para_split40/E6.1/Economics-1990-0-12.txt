@@ -59,9 +59,7 @@ Percent Change in
 Federal Individual Total
 
 Population and Corporate Federal
-
 Percentilea Income Taxesb Taxes
-
 lst decile -44 -16
 
 2nd decile - 32 -11
@@ -87,7 +85,6 @@ Top 5 Percent +4 +3
 Top 1 Percent + 5 + 5
 
 Source: Brookings MERGE file.
-
 aThe classification is by a comprehensive definition
 of income, including imputed rent and corporate earnings
 allocated to stockholders, whether distributed or

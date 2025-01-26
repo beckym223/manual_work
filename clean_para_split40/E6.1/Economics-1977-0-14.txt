@@ -50,14 +50,12 @@ policies or be politically willing to provide
 timely enforcement. Thus, in practice, stabilization
 policies will result in destabilizing the
 economy much of the time.
-
 This view is supported by two arguments, one
 logical and one empirical. The logical argument
 is the one developed in Friedman's Presidential
 Address (1968). An attempt at stabilizing the
 economy at full employment is bound to be destabilizing
 because the full employment or
-
 natural rate is not known with certainty and is
 subject to shifts in time; and if we aim for the
 incorrect rate, the result must perforce be explosive

@@ -7,7 +7,6 @@ broadly consistent with Keynesians' views of
 economic behavior.21
 
 IV. Ricardian Equivalence
-
 We shall begin our detailed discussion with
 Ricardian equivalence. It was chronologically
 the last of the neutralities to be appreciated by
@@ -15,7 +14,6 @@ modern economists. But it is also the simplest.
 That makes it the best place to begin.22 If there
 is missing motivation in the utility function, it
 should be easiest to see here.
-
 A very simple model demonstrates the essence
 of Ricardian equivalence, as it was rediscovered
 by Robert Barro after a lapse of almost

@@ -2,7 +2,6 @@ important objective is to account for the sharp
 acceleration in the level of economic activity
 since 1995 and, in particular, to document the
 role of information technology.
-
 The appropriate framework for analyzing
 the impact of information technology is the
 production possibility frontier, giving outputs
@@ -29,7 +28,6 @@ that is such an important wellspring of the
 growth resurgence. Finally, hours worked must
 be replaced as a measure of labor input.
 A. Production Possibility Frontier
-
 The production possibility frontier describes
 efficient combinations of outputs and inputs for
 the economy as a whole.29 Aggregate output Y
@@ -44,7 +42,6 @@ The production possibility frontier takes the
 form:
 
 (1) Y(In 9 IC , Is, It,9 Cn 9 Cc)
-
 where the outputs include non-IT investment
 goods I,, and investments in computers Ic, software
 IS' and communications equipment It, as
@@ -75,14 +72,11 @@ of IT investment goods requires forgoing part of
 the output of consumption goods and non-IT investment
 goods, so that adjusting the rate of investment
 in IT is costly. However, costs of
-
 adjustment are external to the producing unit and
 are fully reflected in If prices. These prices incorporate
 forward-looking expectations of the future
 prices of If capital services.
-
 B. Aggregate Production Function
-
 The aggregate production function employed
 by Robert M. Solow (1957, 1960) and, more recently,
 by Jeremy Greenwood et al. (1997, 2000),

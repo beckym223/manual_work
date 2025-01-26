@@ -21,7 +21,6 @@ wages are structurally sticky. The new classical
 macroeconomists argue that wages are
 fundamentally flexible. But the rational expectations
 of economic agents, grounded on
-
 past experience with attempts at employment-
 supporting monetary policy, have produced
 the observed wage stickiness. Introduction
@@ -30,7 +29,6 @@ a stable growth path for the money supply or
 some similar rule, would-so the argument
 goes-eventually change the pattern of expectations
 and eliminate the stickiness.
-
 A large and rapidly expanding body of
 recent research on implicit contracts, principal-
 agent relationships, and related subjects
@@ -46,7 +44,6 @@ deals with the stickiness of real and relative
 wages in response to shocks of various kinds.
 It seems to have little to say about the macroeconomic
 stickiness of nominal wages. A
-
 micro theory of real wage stickiness may
 help explain the difficulty of adjusting to
 sudden large changes in aggregate supply
@@ -64,10 +61,8 @@ give my attention.
 
 A road map will be helpful. After summarizing
 the existing literature, the first
-
 section concentrates on relative wage adjustments,
 and argues that under optimal
-
 arrangements for the determination of wages,
 relative wages while not rigid will be sticky.
 They will adjust only gradually to relative
@@ -75,7 +70,6 @@ changes in the conditions facing individual
 firms. The paper then argues that contrary to
 general opinion, relative wage stickiness necessarily
 produces aggregate nominal wage
-
 stickiness; if wages move sluggishly in response
 to the relative conditions facing individual
 firms, they will move sluggishly in

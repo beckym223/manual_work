@@ -1,5 +1,4 @@
 THE AMERICAN ECONOMIC REVIEW
-
 the realized net cash balance of Social Security
 is added to the trust fund and another year is
 added at the end of the 75-year horizon. With a
@@ -36,7 +35,6 @@ future tax increases) or could be expected
 from the adoption of further automatic
 adjustments (for example, by including an
 adjustment for life expectancy).
-
 Before considering the choice between legislated
 changes and automatic adjustment, let us
 consider the allocation in a complete-market
@@ -57,7 +55,6 @@ of equilibrium.
 
 Most social security systems lack the completeness
 that is needed to specify outcomes
-
 solely in terms of underlying economic variables
 (and the stochastic structure of states of
 nature). U.S. legislation determines the payroll
@@ -110,7 +107,6 @@ of traditional benefits (Diamond, 1999).
 65 The legislative process can also change what is com-
 pletely specified, but at least we can analyze what happens
 if there are not any changes.
-
 18
 
 MARCH 2004

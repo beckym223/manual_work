@@ -1,7 +1,6 @@
 R&D in the 1980's (Michael Jensen, 1993)
 and the market's view of current R&D investments
 (Bronwyn Hall and Robert Hall,
-
 1993; B. Hall, 1993).
 
 My own recent foray into this type of
@@ -12,7 +11,6 @@ rates in total factor productivity (TFP)
 on the rate of investment in R&D (the
 R&D-sales ratio), where the estimated coefficient
 can be interpreted as the excess
-
 gross rate of return to R&D (Griliches,
 1979). The earlier 1958-1973 period yields
 an estimate on the order of 0.33, while the
@@ -23,7 +21,6 @@ industry (see Fig. 2) the estimated coefficient
 falls from 0.36 to 0.13 for 1973-1989
 and even lower for 1979-1989. Only one
 observation out of 143 does this!7
-
 These results raise a major data conundrum:
 is it right to treat the computer in-
 
@@ -33,10 +30,8 @@ such calculations just because the productivity
 measure may be better there? It is quite
 possible that if other technologically advanced
 industries (such as instruments,
-
 communications equipment, and pharmaceuticals)
 had their price indexes adjusted
-
 in a similar fashion, Figure 2 would look
 much better, with the computer industry not
 being as much of an outlier and with the

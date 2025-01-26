@@ -51,15 +51,12 @@ function for a typical firm, it is ultimately a
 matter of calculation to determine how many
 firms will produce a given output most efficiently.
 For example, if economies of scale
-
 hold throughout the relevant range and there
 are sufficient complementarities in the production
 of the different commodities supplied
 by the firm, then it is an old and
-
 well-known conclusion that single firm production
 will be most economical-that we
-
 are dealing with a natural monopoly.
 Similarly, in the single product case suppose
 the average cost curve is U shaped and
@@ -70,7 +67,6 @@ per year, this output can be produced most
 cheaply if it is composed of exactly five
 firms, each producing 10,000 units at its
 point of minimum average cost.
-
 Things become far more complex and more
 interesting when the firm and the industry
 produce a multiplicity of commodities, as
@@ -85,14 +81,12 @@ vector is relatively far from the origin. In the
 multiproduct case, since average cost cannot
 be defined, two complications beset the characterization
 of the output vectors which the
-
 firm can produce relatively efficiently. First,
 since here average cost cannot be defined, we
 cannot simply look for the point of minimum
 average costs. But we overcome this
 problem by dealing with output bundles having
 fixed proportions among commodity
-
 quantities-by moving along a ray in output
 space. Along any such ray the behavior of
 average cost is definable, and the point of

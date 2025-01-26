@@ -1,6 +1,5 @@
 the fact that we live in a world that is continually
 changing. And here I want to pose
-
 two questions: First, to what extent does
 the changing institutional environment affect
 the relevance of the analytical tools
@@ -11,44 +10,35 @@ still raising the question of relevance.) And,
 second, why do we ask so few questions
 about why and how the institutional environment
 has changed in the way that it
-
 has, and what are its internal dynamics
 that will lead it to change in particular
 ways in the future-not only in the United
 States but in other countries? A few economists
 have addressed themselves to this
-
 range of questions, notably Karl Marx and
 Joseph Schumpeter. Among living economists,
 three who at least raise this range
 of issues are John Kenneth Galbraith,
 Gunnar Myrdal, and, in the Marxist
-
 tradition, Paul Sweezy."1
-
 Certainly the outstanding example of
 the failure of economic theory to adapt its
 analytical tools to the changing institutional
 environment must be the stubborn
-
 adherence to the assumption of perfect
 competition, a concept which has been described
 as being "as pervasive and fundamental
 as any in the whole structure of
-
 classical and neoclassical economic theory"
 (Stigler, p. 234).12 Indeed for a century or
 so, economists have toiled to make more
 precise the notion of a perfectly competitive
 market. Over this same period, of
-
 course, the character of actual markets has
 been changing in many ways. While improvements
 in transportation and communication
 have tended to promote competition
-
 in expanding markets, the growth
-
 of large firms and the spread of industrial
 concentration have made oligopoly a much
 more relevant model for industrial markets
@@ -86,7 +76,6 @@ demand curve for the individual firm
 seemingly did not add much to the general
 theorist's tool box, and the new mathematical
 economics found it more exciting
-
 to pick up the challenge of Walras and
 Pareto and to turn to general equilibrium
 analysis and to setting forth the conditions

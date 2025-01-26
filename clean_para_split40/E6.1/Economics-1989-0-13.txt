@@ -5,7 +5,6 @@ import quotas and tariffs, price supports, a
 variety of entrenched monopolies and anticompetitive
 and other costly regulative interventions
 in the economy. But we can pride
-
 ourselves on rigorous application of our often
 finely honed tools of analysis and our
 ability to offer sound policy advice, whether
@@ -32,7 +31,6 @@ measures of private and public saving,
 investment and capital. I have suggested that
 usual estimates of some of the critical behavioral
 relations of macroeconomics may be
-
 suspect because of a failure to match theoretical
 constructs with appropriate empirical
 counterparts.

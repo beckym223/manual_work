@@ -1,7 +1,6 @@
 theories can indeed by constructed, as soon
 as one gets away from foolishly restrictive
 and inappropriate assumptions.
-
 II
 
 That brings me to the second and last
@@ -15,7 +14,6 @@ prices are sticky too, at least downward.
 But it is the persistence of disequilibrium in
 the labor market that I want to emphasize.
 How can we account for it?
-
 There is, as I mentioned at the beginning,
 a whole catalog of possible models of the
 labor market that will produce the right
@@ -32,7 +30,6 @@ wage differentials in a decentralized
 labor market. The net result is to preserve
 the general wage level or its trend, but that
 is an unintended artifact.
-
 (2) There is a complementary hypothesis
 about the behavior of employers that I
 have proposed myself: if employers know
@@ -53,7 +50,6 @@ practice, and showed formally that such
 codes of behavior can be self-enforcing if
 people value their reputations in the community.
 Obviously there are no Emily Post
-
 manuals to consult as regards the behavior
 of laid-off workers, but you would certainly
 not be astonished to learn that self-esteem
@@ -61,10 +57,8 @@ and the folkways discourage laid-off workers
 from undercutting the wages of their
 still-employed colleagues in an effort to displace
 them from jobs. Reservation wages
-
 presumably fall as the duration of unemployment
 lengthens; but my casual reading
-
 suggests that this pattern shows up more in
 a willingness to accept lower-paid sorts of
 jobs than in "thorough-going competition"
@@ -78,17 +72,14 @@ lower-grade jobs is itself a form of unemployment.
 (4) I need only touch on the AzariadisBaily-
 Gordon implicit-contract theory, because
 it has been much discussed in the
-
 literature. Here wage stability is a vehicle by
 which less-risk-averse firms provide income
 insurance for more-risk-averse workers, presumably
 in exchange for a lower average
-
 wage.5 It is now understood that the theory
 works well only when workers have some
 source of income other than wages, unemployment
 compensation for instance. This is
-
 not really a disadvantage in a world with
 well-developed unemployment insurance
 systems. In any case such implicit contracts

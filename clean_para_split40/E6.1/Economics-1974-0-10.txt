@@ -26,7 +26,6 @@ problem as well as a presupposition. It
 seems to me there are two basic causal factors.
 One is that contracts are not enforceable
 without cost and forward contracts
-
 are more costly to enforce than contemporaneous
 contracts; the other is that because
 of the many uncertainties about the
@@ -34,10 +33,8 @@ future, neither buyers nor sellers are willing
 to make commitments which completely
 define their future actions. Let me
 take these two points up in turn.
-
 The ability to make enforceable contracts
 is a necessary but not sufficient
-
 condition for a market. However, there is
 no way to insure complete enforceability.
 An individual may make a contract which
@@ -45,26 +42,22 @@ he cannot in fact fulfill. Penalties may indeed
 be imposed on failure to live up to
 one's agreement, but they are not a substitute
 for compliance from the viewpoint
-
 of the other party, and there is always a
 degree of cost in enforcing the penalties.
 The laws of bankruptcy are a social recognition
 that complete enforceability is impossible
 and that it is even socially desirable
 to set limits on the penalties for
-
 failure. However, when the exchange of
 values for values is simultaneous or nearly
 so, the contracts may almost be selfenforcing.
 If a good has been sold and not
-
 paid for, it can be recovered; if there is a
 continuing relation of buyer and seller, a
 failure to settle bills can be met by refusal
 to make further deliveries, in which case
 the loss is minimized. With contracts extending
 into the distant future, on the
-
 contrary, the possibility of failure to comply
 becomes greater, partly because the
 self-enforcement aspects become weaker,
@@ -78,16 +71,13 @@ motivated to protect himself by seeking
 more information about the seller. The
 lender wants to know the borrower's assets,
 the prospects for changes in them,
-
 possibly even what he is going to do with
 the money. This very individualized information-
 seeking relation is quite far
-
 from the arm's length impersonal model of
 a market. The so-called capital markets
 are in many structural aspects very different
 from our model markets. It is of
-
 course an empirical question how far their
 behavior departs from the model. But
 the recurrent theme of credit rationing and
@@ -96,10 +86,8 @@ of the credit market which underlie
 monetarist theories of cyclical fluctuations
 suggest that the incomplete enforceability
 of credit contracts and the
-
 protective steps taken by lenders are significant
 factors in explaining the working
-
 of the market.
 
 While the enforceability question explains

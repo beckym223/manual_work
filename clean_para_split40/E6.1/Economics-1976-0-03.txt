@@ -7,7 +7,6 @@ increasing rigor. And, second, we economists
 pay too little attention to the changing
 institutional environment that conditions
 economic behavior. We do not often
-
 enough reexamine our basic postulates in
 light of changes in this environment, and,
 perhaps more important, we shy away
@@ -22,7 +21,6 @@ to the most "scientific" of the social
 sciences. The justification for this contention
 lies in the growing resemblance between
 the nature of the analytical tools
-
 used in economics and in the natural
 sciences-above all, the increasing use of
 mathematical tools in theoretical analysis
@@ -31,17 +29,14 @@ mathematical and statistical techniques in
 empirical work. Today, mathematically
 formulated economic theory, the development
 of econometric techniques, and the
-
 sophisticated application of econometric
 methods to the "testing of hypotheses" in
 a variety of applied fields constitute the
 core of the science of economics.2
-
 What is science? One brief definition
 runs: "A systematic knowledge of the
 physical or material world." Most definitions
 emphasize the two elements in this
-
 definition: (1) "systematic knowledge"
 about (2) the real world. Without pushing
 this definitional question to its metaphysical
@@ -50,7 +45,6 @@ economics is to be a science, it must not
 only develop analytical tools but must also
 apply them to a world that is now observable
 or that can be made observable
-
 through improved methods of observation
 and measurement. Or in the words of the
 Hungarian mathematical economist J'anos
@@ -61,7 +55,6 @@ earlier assumptions. The criterion of 'truth'
 is, whether or not the proposition corresponds
 to reality" (p. 9, his italics). (Compare
 Wassily Leontief 1966, p. 23.)
-
 One of our most distinguished historians
 of economic thought, George Stigler, has
 stated that: "The dominant influence upon

@@ -12,25 +12,21 @@ the future ones may well want to do this for
 reasons of their own. The inference is rather,
 I submit, that the present values I have described
 reflect a curious mixture of three
-
 ingredients: one intertemporal ethical rule,
 present preferences between consumption
 and protection, and an assumption about
 savings behavior of all generations within
 the next fifty years, say. Under these assumptions,
 sets of "present values" formed
-
 at successive points in time need not, and
 generally will not, be consistent with each
 other.
 
 VI. The Empirical Basis of
-
 Quantitative Economics
 
 I now go on to a discussion of the empirical
 basis for some of the quantitative
-
 statements that economics contributes to
 interdisciplinary studies. I will again illustrate
 this question with reference to the
@@ -38,10 +34,8 @@ few studies I have chosen as examples. At
 the same time I will emphasize the role that
 the premises underlying the concept of
 equilibrium play in this process.
-
 The premise of profit maximization implies
 a subpremise of cost minimization.
-
 I regard that subpremise as fitting reality
 more closely than the entire premise. It
 underlies the supply side of the MRG study
@@ -50,7 +44,6 @@ described.
 
 The premise of maximization of satisfaction
 by the consumer can be made more
-
 plausible and more applicable by a further
 specification. Applied to energy, it says that
 successive equal additions to a consumer's
@@ -62,7 +55,6 @@ increase in the expenditure for the rest of
 his consumption that he would have regarded
 as equivalent to each next addition
 to his energy consumption.
-
 This specification implies the existence of
 a household demand function for energy, in
 which per capita demand for energy decreases
@@ -76,7 +68,6 @@ capital goods as well. Another extension
 distinguishes demand for individual
 fuels, where the demand for one fuel increases
 if the price of another competing
-
 fuel goes up.
 
 These functions are then estimated from
@@ -111,5 +102,4 @@ elasticity of substitution between electric
 and nonelectric energy in the second of the
 two models just discussed. This did constrain
 but not by itself imply numerical
-
 estimates of the elasticities of demand for

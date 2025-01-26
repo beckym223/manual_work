@@ -12,9 +12,7 @@ Roat 0ea .007
 Cost ___ _Cost
 
 Roduction -0037 Reduction
-
 O- j 2 A ,, .2 A O O -8 1
-
 Percentile ot Value Added Percentle ot Value Added
 US.Mantacturin195760 32 Sectors LU-.nn Cu.S.ManCacturnp196066 32Sectors ? Cons
 S015 Rateot .015 Rate ot
@@ -24,20 +22,16 @@ TFP TFP
 Growth Grwth
 
 Cuns Sms .008 Cuon. S .005
-
 Coot sos cost .0056
 
 Reducttnot Reduction
 
 ________________________________ .015 .015
 O .2 .4 .6 ;8 t 0 .2 .4 .6 .8
-
 Percentile ot Vaoue Added Percent0le ot Value Added
 U.S. Manutactuoly 1966690 32 Sectors GO. Monulac18t
 C 9 . 33Cum. tn ' t Curn.
-
 .01 5 Rosate .015S Raob at
-
 TFP TFP
 
 Growth G
@@ -45,7 +39,6 @@ Growth G
 Cuon Sua CunmSum .0073
 
 Reotal. 05 Reoal ~ a - ~ 07
-
 cost 009Cost
 
 Reduction Reduction
@@ -56,7 +49,6 @@ O~ / T _ iS, -?.0014
 
 ._ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .015 .015
 0 .2 .4 .6 .8 1 . .4 6 .8 1
-
 Percentie ot Vatue Added Percentile o at Vou Added
 U.S. MoWuacturod 1973-79 32 Sectors U.S. Manuactuorin 1979-85 32 Sectows
 .015 Ra at .015 Rateot
@@ -72,11 +64,9 @@ Reaot Root
 Coot - .0051 Cost . 0052
 
 Reduction -Il>_0Reduction = - _
-
 0010 .- Rot to
 
 ZZ ~ ~ ~ ~ E ~~~ ~~ 0093 i
-
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ .015o s
 i' -.Ot5 i g . -.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~015
 o .2 04 .6 .8 t
@@ -88,7 +78,6 @@ L 015 Rate oa
 Growth
 
 v _ ~~~~~~~~~~~~~~~~~.0063
-
 Cum Suo --r-- .0055
 
 Real
@@ -99,5 +88,4 @@ FIGURE 3. TF GROWTHPROFILESFORUS.MANUFACTUR015
 0 2 .4 .6 .8 t
 
 Percentl,e of Value Added
-
 FIGURE 3. TFP GROWTH PROFI1.ES FOR UJ.S. MANUFACTURING

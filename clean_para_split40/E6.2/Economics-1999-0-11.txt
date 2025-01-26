@@ -26,7 +26,6 @@ Raynard Kington (1997), for example, have
 used AHEAD to examine disparities in functional
 status and to relate them to socioeconomic
 status (SES variables). They
-
 discovered strong feedback effects not only
 from health to SES variables but from SES
 variables to health. To disentangle these effects
@@ -48,7 +47,6 @@ SES variables to explain variations in late-age
 health without taking account of the feedback
 mechanisms or identifying within-period innovations
 in the stock of health (cf. John
-
 Bound et al., 1998).
 
 Such findings point to the usefulness of creating

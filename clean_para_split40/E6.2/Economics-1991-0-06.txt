@@ -25,7 +25,6 @@ can be made to rest on the convexity of sets
 derived by that averaging process. Convexity
 in the commodity space obtained by aggregation
 over a collection of insignificant
-
 agents is an insight that economic theory
 owes in its revealing clarity to integration
 theory.
@@ -38,7 +37,6 @@ and a method that permit an effective study
 of economic systems of forbidding complexity;
 but it is a demanding master. It ceaselessly
 asks for weaker assumptions, for
-
 stronger conclusions, for greater generality.
 In taking a mathematical form, economic
 theory is driven to submit to those demands.
@@ -54,16 +52,13 @@ The New Palgrave is an introduction and a
 bibliographical key (John Eatwell et al.,
 1987-1989). Walras's consumers and producers
 have been freed from many of their
-
 constraining characteristics; Edgeworth's
 universe of two consumers and two commodities
 has been vastly expanded.
-
 Mathematics also dictates the imperative
 of simplicity. It relentlessly searches for
 short transparent proofs and for the theoretical
 frameworks in which they will be
-
 inserted. Participating in that pursuit, economic
 theory was sometimes drawn by drives
 toward greater generality and toward greater
@@ -90,7 +85,6 @@ mathematical symbols. It is, at the same
 time, of utmost generality; in relating two
 basic concepts of economic theory to each
 other, it uses no assumption.
-
 In its attempts to attain its many objectives,
 economic theory was helped by greater
 abstraction. Preference theory supplies an
@@ -104,10 +98,8 @@ pairs of its points. In this space, whose
 dimension is twice the number of commodities,
 the pairs of commodity points indifferent
 to each other are now assumed to
-
 form a smooth (hyper)surface. As another
 instance of the generality permitted by abstraction,
 consider the notion of a commod-
-
 20n this direct consequence of a theorem of A. A.
 Lyapunov, see Karl Vind (1964).

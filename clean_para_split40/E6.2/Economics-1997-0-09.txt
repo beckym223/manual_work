@@ -12,7 +12,6 @@ enabling otherwise redundant domestic savings
 to be used in capital formation. The
 model, reflecting the views of the day, had little
 role for the price mechanism.26
-
 An example of an analytical effort to clarify
 circumstances under which one of the stylized
 facts could be realized was Bhagwati's ( 1958)
@@ -59,18 +58,15 @@ opportunity cost. This research provided a tool
 with which economists could measure the
 wide disparities in protection accorded to different
 import-competing industries.
-
 Recognizing that these estimates were based
 in part on partial equilibrium analysis,27 a
 number of researchers began work on developing
 techniques for computing general equilibrium
 results. Based on newly developed
-
 solution algorithms, techniques were developed
 for models which endogenized prices,
 and thus moved away from the linear models
 earlier used for analysis.28
-
 By the late 1960's and 1970's, there were significant
 contributions which undermined some
 of the premises on which import-substitution
@@ -93,5 +89,4 @@ Research also began analyzing other aspects
 of the ways in which protection actually
 worked. Here, attention focussed on rentseeking
 (Krueger, 1974) as a by-product of
-
 protection (and, indeed, as a user of resources

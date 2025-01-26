@@ -46,7 +46,6 @@ income/life-cycle hypothesis occur for
 the same reasons. Ricardian equivalence is not
 important for us as an empirical aspect of macroeconomics.
 There are so many reasons other
-
 than the role of norms for its violation. But it
 does give us an initial window on the type of
 motivation missing in classical macroeconomics.
@@ -57,15 +56,12 @@ will depend on current income, just as its
 inclusion makes it natural to believe that social
 security transfers will affect savings and consumption,
 even in a world without frictions.
-
 V. Consumption and Current Income
-
 This takes us to the second neutrality. According
 to this result, other than its contribution
 to a consumer's wealth, current income has no
 independent effect on the consumption of a
 utility-maximizing consumer.
-
 Milton Friedman (1957) derived such
 consumption-income neutrality in the twoperiod
 model of Irving Fisher. In this model, the
@@ -79,7 +75,6 @@ income earned today will have the same effect
 on her current consumption as a discounted
 dollar earned in the next period. Thus, her consumption
 will depend only on the discounted
-
 value of her current and future income and the
 rate of interest. This proposition is easy to
 prove. It generalizes to many different commodities

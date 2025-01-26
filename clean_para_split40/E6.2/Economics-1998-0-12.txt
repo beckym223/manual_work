@@ -19,7 +19,6 @@ Reduction Growth
 0 .2 .4 .6 .8 1
 
 Percentile of Initial Value Added
-
 FIGURE 4. TFP GROWTH PROFILE IN MEXICAN MANUFACTURING SECTOR (1892 ESTABLISHMENTS, 1984- 1994)
 luck in the technological draw, side by side
 with highly diverse experience between industries
@@ -39,7 +38,6 @@ sector or broader aggregate. I will present here
 only a taste of the evidence from the United
 States (on which our systematic work just recently
 got started). Our massive evidence
-
 comes from the Mexican manufacturing sector,
 for which Leonardo Torre ( 1997) has analyzed
 data from a sample of over 2,000 firms. A small
@@ -65,12 +63,10 @@ gives the distribution of average rates of TFP
 growth among the 44 industries. Figure 6B
 shows the distribution of peak cumulative contributions,
 i.e., what the TFP contribution
-
 would have been had all the negatives been
 zeros. Figure 6C displays the percentile of
 firms (by initial value added) marking the borderline
 between positive and negative TFP
-
 growth. And finally, Figure 6D shows, for
 branches with positive TFP growth, the percentile
 of firms which, by themselves, account

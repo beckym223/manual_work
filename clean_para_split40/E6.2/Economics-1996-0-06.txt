@@ -55,7 +55,6 @@ has convinced me that the necessity of making
 things plain to uninstructed people was one of
 the very best means of clearing up the obscure
 corners in one's own mind."
-
 For example, one of the questions that troubled
 me for a long time is why there is such
 a strong correlation between health and years
@@ -85,6 +84,5 @@ schooling and health.
 
 To explore this question I examined survey
 data on smoking behavior collected
-
 by colleagues in the Stanford Heart Disease
 Prevention Program as part of a health

@@ -13,7 +13,6 @@ and labor services. This frontier treats IT
 equipment as part of investment goods output
 and the capital services from this equipment as
 a component of capital input.
-
 Capital input has been the most important
 source of U.S. economic growth throughout the
 postwar period. More rapid substitution toward
@@ -48,7 +47,6 @@ acceleration in productivity growth in these industries
 into the indefinite future, since this depends
 on the persistence of a two-year product
 cycle for semiconductors.
-
 In Section IV I outline research opportunities
 created by the development and diffusion of
 information technology. A voluminous and rapidly
@@ -57,7 +55,6 @@ to the massive impact of IT on firms and product
 markets. Highest priority must be given to a
 better understanding of the markets for semiconductors.
 Although several models of the
-
 market for semiconductors already exist, none
 explains the shift from a three-year to a twoyear
 product cycle.
@@ -89,7 +86,6 @@ and telecommunications equipment. This technology
 has also helped to reduce the cost of
 aircraft, automobiles, scientific instruments, and
 a host of other products.
-
 Modem information technology begins with
 the invention of the transistor, a semiconductor
 device that acts as an electrical switch and encodes

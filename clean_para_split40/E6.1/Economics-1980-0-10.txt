@@ -3,7 +3,6 @@ include pecuniary advantage but not be
 limited by it. Critics who deride the notion
 of "economic man" have a point, but usually
 the wrong point. Economic man is a
-
 social, not a psychological, category. There
 are activities in our culture in which it is
 socially acceptable and expected that individual
@@ -30,7 +29,6 @@ In
 I draw two conclusions from this whole
 train of thought, one about economics and
 the other about the economy.
-
 About economics: it -need not follow
 that we old dogs have to learn a lot of new
 tricks. It still seems reasonable to presume
@@ -58,7 +56,6 @@ of workers depends on their feelings
 that wage levels are fair, then wage rates
 appear in the production functions constraining
 firms. If the individual worker's
-
 utility function depends quite conventionally
 on current income, then the collective
 objective function of a labor pool of identical
@@ -67,11 +64,9 @@ average of the utility of the wage and the
 utility achievable when unemployed, with
 weights equal to the employment and unemployment
 fractions. This objective function
-
 contains both wage and volume of employment
 as arguments; and it has the interesting
 property that the marginal rate of
-
 substitution between wage rate and employment
 can depend very sensitively on the size
 of the unemployment insurance benefit.
@@ -81,7 +76,6 @@ still be the bread and butter of the macro
 theorist. Spread with more palatable behavior
 assumptions, they may make a tastier
 sandwich, and stick to the ribs.
-
 About the economy: if the labor market
 is often not in equilibrium, if wages are
 often sticky, if they respond to nontraditional

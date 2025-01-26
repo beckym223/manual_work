@@ -9,7 +9,6 @@ rigidity. Such wage behavior can easily be perceived
 statistically by examining distributions
 of wage-changes. These distributions are characterized
 by a bunching of wage changes at
-
 exactly zero; there are some wage changes just
 above zero in these distributions, but almost no
 wage changes just below.68 Careful studies have
@@ -44,7 +43,6 @@ but exactly (Akerlof, Dickens, and Perry 1996).72
 Nominal wage rigidity may not only be statistically
 perceptible; it can also be macroeconomically
 important, even outside of Great
-
 Depressions. Nominal wage rigidity imparts a
 long-run trade-off between unemployment and
 long-run inflation. This trade-off is of sufficient

@@ -17,7 +17,6 @@ others, just as a consequence of the label. The
 idea of additivity does not follow nearly so
 easily from the labels "technical advance"
 and "total factor productivity."
-
 Anyway, this vision of the growth process
 opens up many new vistas and gives us many
 new challenges. To me, it gives life to the residual,
@@ -32,12 +31,10 @@ reduction), an address (the firm), and a face
 production manager, etc.) And, finally, we
 shall see that there can be vastly different expressions
 on that face, even as we move from
-
 firm to firm in a given industry, as the TFP
 experience of a period moves from sharply
 positive to devastatingly negative.
 I. Yeast versus Mushrooms: Part I
-
 Table 1 is based on the numerical example
 just given, plus the information that the remaining
 industries (say, in the economy) together

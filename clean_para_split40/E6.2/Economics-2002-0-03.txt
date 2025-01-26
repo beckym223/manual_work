@@ -1,13 +1,11 @@
 the latent characteristics of goods at each location
 on the map. Thinking spatially proves especially
 useful when there are many more
-
 varieties of goods than attributes that each contains.
 Because there are fewer attributes than
 goods, the dimensionality of the problem is
 greatly reduced and analysis can proceed on
 conventional cost-benefit terms.
-
 Examples of applications include hedonic indexes
 of quality change needed to correct price
 indexes for changing product characteristics;
@@ -55,7 +53,6 @@ schools that have more talented teachers,
 higher-quality lawyers work on the largest legal
 claims, and people exposed to higher unemployment
 risks tend to live in the same
-
 neighborhoods.
 
 The address analogy in spatial equilibrium

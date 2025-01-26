@@ -8,7 +8,6 @@ prices reported in the PPI prior to
 1997 do not hold quality constant, failing to
 capture the rapid semiconductor price decline
 and the acceleration in 1994.
-
 D. Computers
 
 The introduction of the Personal Computer
@@ -18,7 +17,6 @@ The sale of Intel's 8086-8088 microprocessor
 to IBM in 1978 for incorporation into the PC
 was a major business breakthrough for Intel.
 12 In 1981 IBM licensed the MS-DOS
-
 operating system from the Microsoft Corporation,
 founded by Bill Gates and Paul Allen
 in 1975. The PC established an Intel/
@@ -42,7 +40,6 @@ the 1990's. The national accounts now rely on
 PPI data, but historical data on computers from
 the PPI, like the PPI data on semiconductors, do
 not hold quality constant.
-
 Gregory C. Chow (1967) pioneered the use of
 hedonic techniques for constructing a constant
 quality index of computer prices in research
@@ -60,7 +57,6 @@ NIPA. Triplett (1986) discussed the economic
 interpretation of these indexes, bringing the
 rapid decline of computer prices to the attention
 of a very broad audience.
-
 The BEA-IBM constant quality price index
 for computers provoked a heated exchange between
 BEA and Edward F. Denison (1989), one

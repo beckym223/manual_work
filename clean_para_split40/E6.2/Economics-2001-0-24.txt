@@ -29,7 +29,6 @@ and purchasers of U.S. exports are responding
 to relative price changes, increasing
 the contributions of computers, software, and
 communications equipment.
-
 Table 2 shows that the price of computer
 investment fell by more than 32 percent per
 year, the price of software 2.4 percent, the price
@@ -43,7 +42,6 @@ equipment much more rapidly than other
 forms of capital.
 
 E. Total Factor Productivity
-
 The price or "dual" approach to productivity
 measurement makes it possible to identify the
 role of IT production as a source of productivity
@@ -80,7 +78,6 @@ semiconductor output to GDP, multiplied by the
 rate of semiconductor price decline. In fact, semiconductors
 are used to produce telecommunications
 equipment and many other products.
-
 However, the value of semiconductor output is
 dominated by inputs into IT production.
 The Domar aggregation folmula can be approximated

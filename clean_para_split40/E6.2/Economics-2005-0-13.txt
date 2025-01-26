@@ -24,7 +24,6 @@ more responsiveness to individual tastes. A basic
 principle of designing social insurance policies
 should be a willingness to accept such
 ideas when they become available.
-
 Separating Social Insurance from Income
 Redistribution.-As I indicated earlier, social
 insurance programs are not means tested. Eligibility
@@ -32,7 +31,6 @@ for benefits does not depend on the income
 or wealth of the recipient but on an event
 like reaching age 65, beginning a spell of unemployment,
 or incurring a medical problem.
-
 Not surprisingly, the evidence that I cited makes
 it clear that today's social insurance programs
 do not redistribute income to the poor. Indeed,
@@ -51,7 +49,6 @@ of the myriad of existing in-kind programs
 like food stamps and housing subsidies
 (Moffitt, 2003), I have no doubt about the appropriateness
 of transferring income to the very
-
 poor.
 
 There is, moreover, a clear case for being
@@ -95,7 +92,6 @@ else. Since we are an above-income group, national
 inequality would rise. Nevertheless, I
 think there are few who would reject bestowing
 this extra wealth on us all.
-
 This brings me to the end of my four economic
 principles of social insurance. I turn now to discuss
 how the three major forms of social insurance

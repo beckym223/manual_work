@@ -58,7 +58,6 @@ of this world reinforce these views. However,
 ideologies themselves are woven from
 human sentiments, and antipathy to market solutions
 is more than just doctrine.
-
 My concern in this paper is that it is not
 enough to find ways to handle information and
 technology issues in privatization if consumers
@@ -95,12 +94,10 @@ agenda:
 their self-interest in specific markets
 to achieve the levels of efficiency and wellbeing
 that privatization promises?
-
 * What can be done as part of the design of
 privatization, such as information, instruction,
 and support structures, to help consumers
 satisfactorily pursue their self-interest?
 * When privatization is in consumers' selfinterest,
 how can they be enlightened and
-
 convinced to support the change?

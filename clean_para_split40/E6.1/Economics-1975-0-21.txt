@@ -4,14 +4,12 @@ go unheeded. On the other, spotting
 emergent problems early can perhaps
 hasten an idea's time and alert the policy
 makers to impending danger.
-
 Economists can more readily be faulted
 for being caught by surprise by the shortages
 of materials and primary processing
 capacity that caused the economy to
 bump against its ceiling sooner than expected
 and by the worldwide economic
-
 boom that put severe pressure on raw
 commodity supplies and prices. On the
 first point, we suffered both from information
@@ -25,30 +23,24 @@ shortfall of investment that began in the
 late 1960's, of underinvestment caused by
 price controls, of delays induced by environmental
 policies, and of the surge in
-
 foreign demand touched off by devaluation.
 However, I should add that the
-
 shortages problem is meat and drink for
 economists, and they are responding (especially
 in the energy field) with new
-
 analyses of price elasticities, investment
 needs, and the like. All of a sudden, price
 theory is back in vogue, and elasticities
 have replaced multipliers as the badge of a
 policy maker's savoir faire.
-
 Delays in perceiving that the U.S. economic
 expansion was part of a worldwide
-
 upsurge can again be laid more to lack of
 an adequate information system than to
 any inability to understand the underlying
 principles. Still, a better sense of history
 and of the emerging worldwide imbalance
 between growing aspirations and
-
 growing incomes on one hand and inelastic
 resource supply and lagging technology
 on the other would have made us more
@@ -58,12 +50,10 @@ the future in view of the new worldwide
 data networks that are being developed by
 Project LINK at the University of Pennsylvania
 and by Otto Eckstein and his
-
 colleagues at Data Resources Incorporated
 (DRJ).
 
 Without absolving economists, one
-
 should apply this operational test: With
 proper foresight, would tighter monetary
 and budget policy have been able to
@@ -74,7 +64,6 @@ restraint between fiscal 1973 and fiscal
 1974 (from a $2 billion deficit to a $10
 billion surplus under the old 4 percent unemployment
 standard) and that monetary
-
 policy pushed interest rates into the
 double-digit region; second, that there was
 little that an aggregate demand squeeze

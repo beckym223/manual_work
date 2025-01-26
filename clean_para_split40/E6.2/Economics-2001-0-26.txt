@@ -13,7 +13,6 @@
 -0.20 --
 
 1948-i3 197340 1990405 1995-99
-
 ONon-IT P cMl arT Produ
 
 FIGURE 10. CONTRIBUTIONS OF INFORMATION TEcHNoLoGY To TOTAL FACTOR PRODucTIviTy GRowTH
@@ -33,7 +32,6 @@ increased.37
 The contribution of capital input reflects the
 investment boom of the late 1990's as businesses,
 households, and governments poured
-
 resources into plant and equipment, especially
 computers, software, and communications
 equipment. The contribution of capital, predominantly
@@ -56,7 +54,6 @@ in TFP from 1990-1995 to 1995-1999 can be
 attributed to IT production, this is far greater than
 the 4.26 percent share of IT in the GDP.
 G. Average Labor Productivity
-
 Output growth is the sum of growth in hours
 and average labor productivity. Table 8 shows
 the breakdown between growth in hours and

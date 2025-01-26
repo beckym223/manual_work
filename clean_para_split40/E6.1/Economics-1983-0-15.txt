@@ -21,7 +21,6 @@ for recent stock prices may well be
 Franco Modigliani's and Richard Cohn's
 "inflation-illusion" theory-itself clearly inconsistent
 with rational expectations.
-
 The rational expectations theory, at least
 as applied to individual commodities, assumes
 that there exists, at all times, some
@@ -51,13 +50,11 @@ might maintain the economy on a Golden
 Rule growth path? Or is there some concept
 of a less-fundamental, less-long-run equilibrium
 level of share prices which market
-
 participants can be expected to understand
 and quantitatively approximate? If there is
 no such concept of equilibrium share-price
 level, how can there be a unique rational
 expectation of share prices?
-
 A simpler course is to admit that we have
 no very precise concept of an equilibrium
 level of share prices, but to argue that we can
@@ -81,12 +78,10 @@ buyers and sellers are expecting will happen
 to prices of those particular shares, and to
 the market averages? Is there a better description
 than the "beauty contest" parable?
-
 Actually, Keynes' description of the determination
 of stock prices is far more detailed
 and substantive than I have here described
 it, and I recommend its occasional
-
 rereading. However, there is no reason to
 suppose that Keynes in 1935 had the last
 word on stock prices. Henry Wallich, an
@@ -100,11 +95,9 @@ that term. His explanation for at least a part
 of the most recent "radical revision" -since
 about 1973-runs in terms that I can perhaps
 best describe as "sociological":
-
 One might guess that [the reasons for
 this massive change in investment attitudes]
 have something to do with
-
 21For an important related paper, reaching similar
 conclusions by different techniques, see William
 Brainard, John Shoven, and Laurence Weiss.

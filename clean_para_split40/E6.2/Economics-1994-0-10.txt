@@ -5,7 +5,6 @@ late 1980's. Similar trends can be seen also
 in other countries, even in Japan (Evenson,
 1991). But before one takes this as an indicator
 of our recent problems, one should
-
 glance also at the left side of this figure,
 which goes back to the early 1920's. How
 long has this been going on? This ratio
@@ -19,7 +18,6 @@ III. Patents: A Shrinking Yardstick?
 To decide whether we should be worried
 by what is happening with the patent numbers
 we need to know what they measure.
-
 Since I have discussed this at some length
 elsewhere (Griliches, 1990), I will make only
 two points here. First, the interpretation of
@@ -37,7 +35,6 @@ economy), then the fact that their total
 numbers remained roughly constant over
 long time periods is consistent with nondeclining
 growth rates of output and overall
-
 productivity.10 If inventions are "produced"
 by a combination of current R&D and the
 existing state of knowledge (incorporating
@@ -45,7 +42,6 @@ the accumulated effects of science and
 spillovers from the previous research activities
 of others), and if R&D is invested approximately
 "optimally," then under reasonable
-
 assumptions, a rise (or fall) in the
 underlying knowledge stock will affect them
 both in parallel fashion and will leave their
@@ -57,7 +53,6 @@ size of the market, since a rise in the value
 of inventions will push R&D up until present
 costs equal again the present value of
 future (private) returns.
-
 The rate of growth of domestic patents
 was close to zero during the last three
 decades. That by itself should not be worrisome.
@@ -73,7 +68,6 @@ R&D expenditures were growing by 4.8 percent
 per year, in constant prices. But a
 negative growth rate in the number of inventions
 and a positive one in R&D are
-
 inconsistent with an unchanging inventions
 production function, unless the overall pool
 of available knowledge is declining, or more

@@ -1,13 +1,10 @@
 Conceptual advances have continued
-
 throughout the past twenty-five years, but
 they have been more in the nature of a
 fleshing out and consolidation of the original
 breakthroughs with the aid of the
-
 powerful tools of mathematics and econometrics.
 Multiplier analysis, for example,
-
 has moved from the theoretical realm into
 large computer models of the economywith
 the tax cut of 1964 and the surtax of
@@ -22,7 +19,6 @@ Coupled with multiplier studies is the
 even more subtle study of the structure
 of the "outside lags," of the timing of responses
 in the economy to changes in
-
 fiscal policy. Though the empirical efforts
 and debates go on apace, the behavior of
 the cumulative multipliers in a clutch of
@@ -34,7 +30,6 @@ after the initiation of the policy" (Blinder
 and Solow). Although intractable questions
 remain concerning investment responses
 to fiscal policy changes, enough
-
 has been learned about aggregate demand
 responses to provide two broad generalizations
 about fiscal policy:
@@ -42,14 +37,11 @@ about fiscal policy:
 One, the conditions for intelligent
 fiscal policy are met if economic f orecasting
 can answer two not-very-exacting
-
 questions: Do projected economic
-
 conditions in the ensuing six to nine
 months call for restraint or stimulus?
 Is the required dosage large or small?
 Two, given the limited margin for
-
 error in a high-employment economy,
 it is better to rely on many smaller
 monetary-fiscal moves than a few large
@@ -63,14 +55,12 @@ policy that makes efficient use of feedback
 information will be more effective than
 an automatic policy that locks in on fixed
 fiscal and monetary targets.
-
 Development of a simplified measure of
 fiscal impact revolving around the "full
 employment surplus" (FES) concept is
 another example of the typical process by
 which economists expose error, develop approximations
 of truth, but continue the
-
 vigorous debate on further improvements.
 First, policy makers had to be weaned
 away from the annually balanced budget
@@ -88,7 +78,6 @@ House.
 But success on the policy frontier has
 its own pitfalls, both political and economic.
 What was intended as a measure of
-
 policy was instead taken as a goal, namely,
 a balanced budget at full employment,
 a "self-fulfilling prophecy" as the Nixon
@@ -98,14 +87,11 @@ fixed regardless of changes in monetary
 policy and significant shifts in private
 demand, for example, a plant-and-equipment
 boom. Apart from trying to correct
-
 such misconceptions, economists have had
 to wrestle with the problem of the overstatement
 of the full employment surplus
-
 when inflation expands revenues faster
 than expenditures, not to mention the
 problem of weighting for differing multipliers
 if tax or expenditure components
-
 change sharply. In brief, the advances over

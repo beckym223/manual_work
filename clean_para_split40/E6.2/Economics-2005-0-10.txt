@@ -29,7 +29,6 @@ account, the incremental deadweight loss is
 nearly 50 percent of the incremental revenue.12
 The true cost per additional dollar of payroll tax
 revenue is therefore $1.50.
-
 Note that this is just the deadweight loss or
 excess burden-i.e., the pure waste-associated
 with the incremental tax. It does not include the
@@ -69,13 +68,11 @@ and older workers who are not in the top 35
 wage-indexed earning years of their life, the
 basis on which Social Security benefits are calculated,
 as well as working women who will
-
 eventually claim benefits based on their husbands'
 earnings.
 
 Although an unfunded notional defined contribution
 system would provide some remedy,
-
 the very low implicit rate of return in an unfunded
 system implies that the payroll tax
 would retain much of its distorting character. A

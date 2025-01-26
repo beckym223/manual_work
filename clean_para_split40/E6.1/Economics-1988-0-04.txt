@@ -6,7 +6,6 @@ to the conclusion of these writers that the
 economic position of mankind will continue
 to improve over time. In the process of rebutting
 their arguments, Malthus develops
-
 his famous theory of population growth and
 reaches much more pessimistic conclusions
 about the long-term economic prospects of
@@ -52,13 +51,10 @@ presumption that this equilibrium wage is at
 the subsistence level, especially if the positive
 check through death rates is not important.
 In this model tastes for marriage
-
 and children, not vague notions of subsistence,
 determine long-run wages.
-
 The long-run wage is stable in the Malthusian
 model when shocks push the system
-
 out of equilibrium. For example, if an infectious
 disease destroys much of the population,
 as the Black Death destroyed perhaps
@@ -81,10 +77,8 @@ to lower wage rates until eventually
 the long-run wage is restored. However,
 population is permanently higher because
 the amount of land is greater.
-
 This example brings out that the equilibrium
 wage is more immune to shocks in
-
 the Malthusian system than is the level of
 population. Indeed, if tastes are stable over
 time-the Malthusian model, along with
@@ -101,7 +95,6 @@ century (Lee, 1987b, gives a good analysis of
 the evidence). People evidently married
 earlier when wages were above the equilibrium
 level and married later when they
-
 were below.
 
 It is ironic that Malthus's first essay on

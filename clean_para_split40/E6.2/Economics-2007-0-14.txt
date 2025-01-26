@@ -63,11 +63,9 @@ think of themselves as responsible human beings.
 When they lose the ticket, they do not feel
 entitled to just buy another one. That is not the
 type of person they aspire to be.
-
 We should also observe that it is not coincidental
 that the lost ticket paradox could be explained
 both by mental accounting and by
-
 norms. Formally, any model of mental accounting
 can be translated into a model of norms: just
 replace the rules of mental accounting as the
@@ -99,7 +97,6 @@ difference.)
 
 46 See, for example, David Cannadine (1977).
 47 See Woody Holton (1999).
-
 48 But it turns out that there is quite possibly a substan-
 tive difference between the two interpretations. With the
 mental accounting interpretation the losers of the ticket

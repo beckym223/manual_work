@@ -1,6 +1,5 @@
 * A realistic norm will make income and employment
 dependent on systematic monetary
-
 policy, and thus violate rational expectations
 theory; and
 
@@ -25,7 +24,6 @@ although, of course, as with any method,
 there is the possibility for error.
 Inclusion of the "missing motivations in macroeconomics"
 then combines the observations
-
 of the Keynesians with the intentionality of
 economic decisions in New Classical economics.
 Such a synthesis yields the best of the two
@@ -52,14 +50,12 @@ assumed constant, while others are allowed to
 vary. I ask you to withhold your doubts regarding
 whether such exogeneity is a correct assumption
 or not. The incorporation of such
-
 endogeneity is the next step-not the first
 step-in the study of the effect of norms on
 macroeconomics, especially since such endoge-
 neity may sometimes dampen, but will rarely
 nullify, the conclusions of this lecture.
 II. The Five Neutrality Results
-
 For clarity, this section will now give an
 overview of each of the five neutrality results.
 A. Dependence of Consumption on Wealth,
@@ -77,9 +73,7 @@ is given).
 Changes in the pattern of current income that
 leave overall wealth constant are neutral in their
 effects on current consumption.
-
 B. The Modigliani-Miller Theorem
-
 One version of the Modigliani-Miller Theorem
 says that a firm's investment strategy is
 totally independent of its liquidity position.8

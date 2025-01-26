@@ -30,7 +30,6 @@ redistribution of income (presumably toward
 the poorest) is a legitimate function
 of government policy. The profession's reservations
 about rent control, interest rate
-
 ceilings, and minimum wage laws do not
 appear to reflect a rejection of the goals of
 those measures, but rather a feeling that
@@ -54,14 +53,12 @@ practice.
 
 Simultaneously, however, there is an important
 current in economics that focuses
-
 on the flaws in the price system, the ways
 that real markets fail because they lack
 some of the characteristics that make idealized
 markets so attractive. I think that
 outsiders, who tend to see economists as
 simple-minded marketeers, would be
-
 astonished to learn how much of the history
 of modern economic analysis can be written
 in terms of the study of the sources of
@@ -87,6 +84,5 @@ system can be the absence of certain
 markets. The common generic term for the
 reason why markets are missing is "transaction
 costs." That sounds rather minor,
-
 the sort of thing that might go away in
 due course as accounting and information

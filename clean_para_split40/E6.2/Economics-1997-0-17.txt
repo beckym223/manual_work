@@ -18,9 +18,7 @@ all enabled observers to examine more
 critically the ways in which alternative policy
 prescriptions might have side effects that had
 earlier been unanticipated.
-
 B. Refinement and More Appropriate
-
 Interpretation of Theory
 
 As already seen, some of the intellectual underpinning
@@ -47,7 +45,6 @@ Hagen's (1958) employment-generating case
 for protection, the optimal intervention literature
 demonstrated clearly that a first-best intervention
 would be in the labor market, and
-
 that a tariff or quota could not achieve a firstbest
 outcome.
 
@@ -66,7 +63,6 @@ adopted in achieving their desired goals.
 Finally, there was theory that was developed
 in response to the functioning of importsubstitution
 regimes. Here again, the theory of
-
 rent-seeking, as it pointed to the ways in which
 bureaucrats and others made protection very
 costly, was important. Further, when it was
@@ -78,7 +74,6 @@ system, once established, and that resources
 were expended in operating the system, it had
 to be recognized that changing the system
 would be politically difficult.
-
 Development of a better understanding of
 the incentives for underinvoicing and overinvoicing
 of exports and imports and for smuggling
@@ -87,7 +82,6 @@ in the same direction: not only could these activities
 prove costly to the exchequer and in
 terms of resource drains, but the very recognition
 of their presence served to remind
-
 policy makers of the limitations of their
 instruments.
 
@@ -95,13 +89,11 @@ Finally, good analyses demonstrating how
 individual import controls actually worked
 contributed to understanding and made empirical
 work more effective. The further
-
 refinement of theory showing tariff-quota
 equivalence has already been mentioned.
 Rent-seeking again comes to mind. But, in
 addition, individual mechanisms for encouraging
 import substitution each had their
-
 own, often idiosyncratic, incentive effects. A
 good example is Gene Grossman's (1981)
 classic analysis of domestic content regulations

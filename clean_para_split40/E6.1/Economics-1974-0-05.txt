@@ -2,7 +2,6 @@ neoclassical theory is a theory of relative
 prices. Monetary theories vaguely related
 to it in spirit can be grafted on to it, but
 none have succeeded in achieving a
-
 genuine synthesis.
 
 The two failures of the neoclassical explanatory
@@ -10,20 +9,16 @@ mechanism reflect on its foundations
 in quite different ways. The existence
 of unemployment is clearly a direct contradiction
 to the notion of the smoothly
-
 clearing market. One must of course be
 aware that the official measure of unem-'
 ployment is by no means a simple inequality
 between supply and demand; it aggregates
 a whole range of distinct markets,
-
 it does not separate out voluntary and involuntary
 unemployment according to the
-
 tests of economic theory, and it does not
 take account of unfilled jobs. I do not subscribe,
 I hasten to say, to the sometimes
-
 expressed view that all unemployment is
 essentially voluntary, an unwillingness to
 search or whatnot; indeed, the official
@@ -39,7 +34,6 @@ model; there are two individuals, identical
 in productive capacity and both willing
 to work at a given wage, but one is working
 at that wage and the other is not.
-
 Differential levels of economic development,
 on the other hand, point to a difficulty
 with the other fundamental concept;
@@ -49,7 +43,6 @@ then firms, occupying similar economic
 positions, are facing different constraints
 on their optimization. This does not contradict
 the fundamental assumption of
-
 optimizing behavior, but it does raise
 severe questions about its interpretation.
 The simplest hypothesis is to take the
@@ -64,12 +57,10 @@ across national boundaries, and of course
 the same questions arise among firms or
 workers within a single economy. The constraints
 upon the firm's optimization begin
-
 to seem more like variables to be explained
 than like constants exogenously given.
 Let me look now at the two basic concepts
 from the inside, from the point of
-
 view of our direct perceptions which motivate
 the modelling. The two are far from
 parallel. The optimization by individual
@@ -82,10 +73,8 @@ which are reasonable to postulate, and we
 can specify constraints which clearly are
 real. It can be and has been correctly objected
 that our models are too simple; we
-
 ignore other arguments in the utility function,
 power, status, social approval, or
-
 whatnot that also motivate individuals,
 and we ignore some constraints, capacity
 for calculation and social controls. But the

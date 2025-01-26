@@ -20,7 +20,6 @@ effect whatever on the market sector;
 in view of the actual scale of these activities
 in the contemporary American economy,
 such a judgment would, I think, be
-
 interpreted by most individuals as describing
 valuation at, or near, the upper limit
 of the range of reasonable valuations. Thus,
@@ -28,17 +27,14 @@ for what we may consider typical valuation,
 our lower boundary seems convincing
 as such, and our upper boundary seems
 not far off the mark as such.
-
 Can these propositions concerning alternatively
 computed ratios of social benefit
-
 stream to cost provide guidance for the
 appraisal of the results of the American
 progress-generating activities? I suggest
 that the answer is in the affirmative,
 though it must be recognized that an affirmative
 answer implies a rather modest
-
 interpretation of what it means to be
 guided in one's behavior by an estimated
 rate of return. Such a limitation is inherent
@@ -50,11 +46,9 @@ We are concerned here with activities
 for which the marginal social returns, and
 hence the ultimately relevant social allocation
 criteria, are not capable of being
-
 estimated by examining private or national
 accounts. Even with regard to the progressgenerating
 inputs financed by profit-seeking
-
 institutions, significant external effects
 and shifts in competitive positions create
 differentials between social returns and the
@@ -64,7 +58,6 @@ market sector reduces their profits, while
 gains in competitive position achieved during
 the intervening period may prove enduring.
 These gains increase the private
-
 returns. At the same time, the spillover
 effect of the progress-activities originating
 in the nonprofit institutions expresses itself
@@ -73,7 +66,6 @@ for the progress-generating activities of
 nonprofit institutions, obviously there exists
 no way of approximating from accounting
 data the value of their nonmarket
-
 contribution or that of their spillover effect
 on the market economy. When appraising
 marginal social returns each individual is
@@ -86,11 +78,9 @@ margin."5
 
 In such circumstances only one statement
 can be made about the marginal
-
 criteria of desirable allocation on a reasonably
 "objective" (or general) level of discourse.
 The statement is that once a very
-
 large number of individual preferences concerning
 the ranking of the specific objectives
 of the progress-activities have been bridged

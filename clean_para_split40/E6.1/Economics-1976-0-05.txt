@@ -3,7 +3,6 @@ part of economics resemble more a branch
 of engineering than a social science. And at
 the level of the individual firm some progress
 continues to be made in empirical
-
 studies of production and cost functions,
 the determinants of the demand for inputs,
 the transmission of technical change, and
@@ -11,12 +10,10 @@ related topics. I do not wish to minimize
 the value of this work. But we should not
 ignore the extent to which rigorous formulations
 of the theory of the firm have had
-
 to be relaxed in order to obtain useful results
 in empirical work. Nor, I might add,
 should we forget the extent to which conventional
 theory ignores how and why
-
 work is organized within the firm and
 establishment in the way that it is, what
 may be called the "social relations" of the
@@ -28,12 +25,10 @@ household behavior-ranging from studies
 of the determinants of consumers' demand
 to recent work on human capital, the behavior
 of labor markets, the economics of
-
 crime, and the like. I must confess to some
 skepticism, however, about the relevance
 of the economic models of household behavior
 recently developed by Gary Becker
-
 and his followers-what has been referred
 to as "the new home economics." Granted
 that much useful work has been done in
@@ -48,10 +43,8 @@ how many children to have and when, or
 whether and when to commit a crime. And
 after a substantial amount of intensive research,
 the human capital approach still
-
 leaves unexplained a significant part of the
 differences in personal incomes.
-
 In the second area mentioned, particularly
 general equilibrium theory, it seems
 to me that relevance has been largely absent
@@ -69,16 +62,13 @@ in their steadfast pursuit of rigor. Although
 a step in the right direction, recent attempts
 to develop a pure theory of disequilibrium
 are subject to much the same
-
 criticism.
 
 Rigor and relevance have been successfully
 blended in input-output analysis,
-
 although largely at the expense of ignoring
 the price sensitivity of input-output coefficients.
 Here again, the emphasis is on
-
 engineering-type relationships, but in this
 case the entire economy is the object of
 study.
@@ -96,7 +86,6 @@ me it has always been startling that the
 accepted province of micro-economic theory
 has little room for the personal distribution
 of income-and virtually none
-
 for the personal distribution of wealth. Of
 course, we speak of "distribution," but by
 this we mean either factor prices or total

@@ -9,7 +9,6 @@ growth, which contributes point-for-point to
 ALP growth.
 
 D. Contributions of IT Investment
-
 Figure 5 depicts the rapid increase in the
 importance of IT services, reflecting the accelerating
 pace of IT price declines. In 1995-1999
@@ -20,7 +19,6 @@ As a consequence, the value of computer services
 grew substantially. However, the current
 dollar value of computers was only 1.6 percent
 of gross domestic income in 1999.
-
 The rapid accumulation of software appears
 to have different sources. The price of software
 services has declined only 2.04 percent per year

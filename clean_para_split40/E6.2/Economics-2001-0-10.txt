@@ -8,7 +8,6 @@ prices, as well as software output and
 investment.
 
 F. Research Opportunities
-
 The official price indexes for computers and
 semiconductors provide the paradigm for economic
 measurement. These indexes capture the
@@ -47,7 +46,6 @@ in the official system of price statistics.
 The daunting challenge that lies ahead is to
 construct constant quality price indexes for custom
 and own-account software.
-
 II. The Role of Information Technology
 At the aggregate level IT is identified with the
 outputs of computers, communications equipment,
@@ -58,7 +56,6 @@ to the rest of the world. The GDP also includes
 the services of IT products consumed by households
 and governments. A methodology for analyzing
 economic growth must capture the
-
 substitution of IT outputs for other outputs of
 goods and services.
 

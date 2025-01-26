@@ -32,7 +32,6 @@ the negative contribution of the losers. If the
 losers had only contributed zero change in
 TFP, we would have had cumulative TFP contributions
 of about 0.8 percent per annum in
-
 1948-1953, in 1957-1960, and in 1960-
 1966. And the other periods would not have
 been much different: about 0.7 percent in
@@ -47,7 +46,6 @@ percent in 1960-1966 and 1979-1985.
 Does this not suggest that we make a major
 research push trying to improve our understanding
 of the phenomenon of negative TFP
-
 growth? What syndromes characterize the firms
 and industries experiencing it? How much of it
 stems from external shocks like international
@@ -66,7 +64,6 @@ made a convincing case concerning: (a) the
 usefulness of sunrise-sunset diagrams, (b) the
 aptness of the "yeast versus mushrooms" dichotomy,
 and (c) the pervasiveness with
-
 which the mushroom side of that dichotomy
 seems to come out ahead when the GDP is
 broken down into industries or industrial
@@ -91,7 +88,6 @@ The above results are, I think, very interesting
 (in the sense of piquing our curiosity)
 , very strong (in terms of their implications
 about the nature of the growth
-
 process), and very robust (in the sense that
 they have wide applicability over different
 data sets analyzed by different authors using
@@ -107,6 +103,5 @@ appliances in the 1930's, pharmaceuticals in
 the 1940's, etc. The image that I had in
 mind was one of yeast within each industry
 and mushrooms between industries-a
-
 commonality of TFP experience by firms within'
 an industry, depending on that industry's

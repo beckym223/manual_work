@@ -17,7 +17,6 @@ Decisioni Problems (a) (b) (c) (d) (e) (f) (g)
 Conservation
 
 (2) Technology Mix -X v V v
-
 ol Future Energy
 
 Supply and Use
@@ -43,7 +42,6 @@ professions, and comment on the methods
 that have been or might have been proposed
 or applied by the respective collaborating
 professions. Those issues and
-
 methods that I shall have time to refer to
 are set out along the top of the table.
 Each check mark in a cell of the table indicates
@@ -58,19 +56,15 @@ as "a task that had to be undertaken
 quickly and completed with great speed."'
 Likewise, on the concluding page (40), it is
 called a "preliminary analysis.'
-
 The principal current source of helium is
 as an optional by-product of the production
 of natural gas, in which it may occur in concentrations
 ranging (by volume) from 10
-
 percent on down with increasing costs of
 separation. Present demand for various industrial
 and space uses falls below present
-
 supply, and a program of storage in the partially
 depleted Cliffside gas field near
-
 Amarillo, Texas, is in operation. The study
 is motivated by the anticipation of a substantially
 higher future demand.
@@ -79,7 +73,6 @@ The report of the Helium Study Committee
 lists, on pages 35-36, five steps that
 can be taken for the purpose of increasing
 the rate of storage. I paraphrase:
-
 Step i: Stop the current venting of
 helium which has been separated from
 natural gas allocated as a feedstock to

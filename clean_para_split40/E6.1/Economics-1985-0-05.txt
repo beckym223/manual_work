@@ -34,7 +34,6 @@ skills by workers, and specific and
 valuable knowledge about each other by both
 firms and workers.3 This approach also emphasizes
 the asymmetry of knowledge between
-
 firms and workers about the marginal
 revenue product of labor, and its influence
 on the nature of the contract. Still a different
@@ -56,7 +55,6 @@ II. Some Extensions to Implicit Contract Theory
 We can distinguish several categories and
 subcategories of changes in economic circumstances,
 the wage response to which must
-
 be accommodated by social conventions and
 informal understandings that we call implicit
 contracts. Let us consider first some of the
@@ -76,7 +74,6 @@ two kinds of relative changes in economic
 conditions that implicit contracts must allow
 for; changes which are realizations of a probability
 distribution known at the time the
-
 contract is entered, and those stemming from
 developments to which no basis could be
 found for assigning probabilities.

@@ -24,13 +24,11 @@ economic analysts of all stripes have lost
 essential communication with the compilers
 and synthesizers of their data. As a consequence,
 popular discourse, policymaking,
-
 and basic principles of economics have suffered
 inordinate confusion. I shall offer this
 indictment, in particular, with regard to discussion
 of the major macroeconomic variables
 with which we are most concerned:
-
 income, output, employment, prices, and
 productivity; consumption, saving, investment,
 and capital formation; wealth, assets
@@ -45,28 +43,23 @@ confusions do not make all that much difference,
 but often they do.'
 
 I. Measures of Income and Product
-
 Take income for starters. We all know
 what we mean by income, don't we? Or
 do we? The theoretical Hicks-Haig-Simons
 (J. R. Hicks, 1940, 1946, 1948; Robert Haig,
 1921; Henry Simons, 1938) concept of income
 is that which we can consume while
-
 keeping our real wealth intact. But this is a
 far cry from the usual measures of individual
 incomes, corporate profits or the aggregates
 of personal and national income.
-
 First, we allow for capital consumptionthe
 depreciation of existing capital-in
 measuring income. We may note that capital
 consumption allowances with capital consumption
 adjustment were 8.22 percent of
-
 GNP in 1951 before the move to permanently
 higher tax depreciation allowances
-
 began, were 9.14 percent of GNP by 1960,
 11.69 percent by 1983, and 11.98 percent in
 1987. Did production really become more
@@ -75,7 +68,6 @@ turn that much less durable,2 or is it possible
 that we are overstating capital consumption
 and understating national and personal income
 and net saving, both in absolute
-
 amounts and as compared to the past?
 What about capital gains and losses? If
 the value of our stock or bond or house goes

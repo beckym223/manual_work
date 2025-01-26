@@ -6,7 +6,6 @@ expectation that half of it would be offset by
 lower prices. The trouble is that Pigou's
 demand elasticities are way too high. A recent
 econometric study by Kim Clark and
-
 Richard Freeman, based on quarterly data
 for U.S. manufacturing. 1950-76, puts the
 real-wage elasticity of demand for labor at
@@ -17,25 +16,21 @@ counterweight to other estimates that are
 typically lower, averaging out at about 0.15
 according to a survey by Daniel Hamermesh.
 To my mind, smooth wage adjustment
-
 seems intrinsically unlikely in a world
 with such a small demand elasticity and
 institutions like those sketched earlier.
 Nothing I read in the newspapers suggests
 to me that 6 percent of nonfrictional unemployment
 produces a threat adequate to set
-
 off a quick 12-15 percent fall in the real
 wage, or a drop in nominal wage rates twice
 as large. Sellers facing inelastic demands
 usually try to discourage price cutting; why
 should workers be different?
-
 The modern classical school seems curiously
 remote from all this. When they try to
 explain how the equilibrium volume of employment
 can fluctuate as widely as actual
-
 employment does in business cycles, their
 only substitute for Pigou's high elasticity of
 demand is a high elasticity of supply (of
@@ -68,12 +63,10 @@ voluntary intertemporal substitution, and
 why they queue up in such numbers when
 legitimate jobs of their usual kind are
 offered during a recession.4
-
 When they face the market-clearing issue
 at all, Pigou's successors take a rather abstract
 line. They regard it as inherently incredible
 that unexploited opportunities for
-
 beneficial trade should be anything but
 ephemeral-which means merely that they
 ignore all those human and institutional

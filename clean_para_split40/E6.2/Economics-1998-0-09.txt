@@ -2,7 +2,6 @@ C, and D. First, we order the industries in descending
 order, according to their rates of TFP
 increase in the period. Then we calculate cumulative
 real cost reduction (a real dollar
-
 amount) and plot it against cumulative initial
 real value added. Then we scale the vertical
 axis so as to comply with whatever metric we

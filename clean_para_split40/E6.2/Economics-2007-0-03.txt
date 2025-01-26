@@ -19,7 +19,6 @@ in inflation and unemployment in the late 1960s
 and early 1970s. That occurrence was impossible
 to reconcile with the simple nonaccelerationist
 Phillips curves of the time.
-
 But Keynesian economics also declined because
 of a change in economic methodology.
 The Keynesians had emphasized the dependence
@@ -32,7 +31,6 @@ rate, which was used as an indication
 of the looseness of the labor market.
 They based these functions on their own introspection
 regarding how the various actors
-
 in the economy would behave. They also
 brought some discipline into their judgments
 by estimating statistical relations.5

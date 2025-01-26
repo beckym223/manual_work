@@ -1,6 +1,5 @@
 I. The Meaning of Supply and Demand
 in a Macroeconomic Context
-
 It is worth considering whether a new
 basic model should guide our thinking
 about performance of the economy as a
@@ -11,7 +10,6 @@ of our knowledge about the analytics of the
 economy at the end of World War II and
 the apprehensiveness with which we approached
 the modern era of expansion, it
-
 should be evident that we have come a long
 way professionally. Yet the economic problems
 of today seem to be intractable when
@@ -19,16 +17,13 @@ studied through the medium of simplified
 macro models. The new system should
 combine the Keynesian model of final demand
 and income determination with the
-
 Leontief model of interindustrial flows.
 This is the motivation for my focusing attention
 on the supply side of the economy.
-
 It is frequently said, in almost an offhand
 manner, that the theories of aggregate employment
 and output determination are demand
 models, that economic policy for
-
 overall direction of the economy is a policy
 of demand management. I would generally
 agree with these remarks, but not in every
@@ -43,7 +38,6 @@ consumers, businesses, government, and
 foreigners (consumption, investment, public
 spending, and net exports) covers total demand
 in the economy and is composed of
-
 demands by the constituent parts. But demand
 by firms, and, in many cases by government,
 are not ends in themselves. Business
@@ -61,7 +55,6 @@ production process with the supply of factors
 of ever-increasing powers of productivity,
 thus making it possible to supply increasing
 amounts of goods and services
-
 with inputs that are increasing at a somewhat
 slower rate.
 
@@ -71,13 +64,11 @@ timelessly held fixed by assumption only
 and not in reality, we have ignored the supply-
 side characteristics of investment demand.
 Students of today's business cycle
-
 commonly cite investment demand as the
 promising potential route to higher productivity
 in the relatively near future, thereby
 lessening inflationary pressure. In this respect,
 economic theoreticians have been
-
 myopic relative to the applied economic
 analysts in the world of affairs. Nevertheless,
 as we shall see, there is much more

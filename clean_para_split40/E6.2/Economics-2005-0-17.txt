@@ -5,7 +5,6 @@ percentile of the distribution of wages
 to the Social Security program other than disability
 is now 10.6 percent, divided equally
 between employers and employees.
-
 Benefits take the form of an annuity that is
 indexed to the CPI to retain its real value during
 the individual's retirement years. The level of
@@ -35,7 +34,6 @@ but also for younger women who expect to marry
 and for divorced women and widows who will
 also expect to claim benefits based on their former
 (or future) husbands' earnings.
-
 I became interested in Social Security as a
 graduate student in the 1960s when I realized
 that the tests of consumption theory-Friedman'
@@ -86,7 +84,6 @@ implicit return in a pure pay-as-you-go system
 is still the rate of growth of the tax base, now
 the sum of the growth rate of population and the
 growth rate of productivity.
-
 Samuelson noted that this positive rate of return
 meant that an unfunded Social Security program
 could raise welfare in an economy that has no

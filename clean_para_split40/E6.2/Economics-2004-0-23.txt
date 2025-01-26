@@ -1,5 +1,4 @@
 THE AMERICAN ECONOMIC REVIEW
-
 system that is less than fully funded will have less
 correlation with the returns on private retirement
 savings, as it adjusts benefits in response
@@ -78,12 +77,10 @@ the progressive benefit formula and the retirement
 test and provides insurance for aggregate
 earnings risk through the defined benefit structure
 with less than full funding.
-
 My broad conclusion here is that the absence
 of a complete specification of Social Security is
 not by itself an argument that there is anything
 wrong with our current approach.
-
 VII. Concluding Remarks
 
 Occasionally, I run into people who believe
@@ -95,7 +92,6 @@ this structure makes sense. Mandated savings
 makes sense if you think that many workers
 would not provide themselves a reasonable replacement
 rate. This is not just an issue of
-
 avoiding poverty, but one that extends quite far
 up the income distribution. Mandating annuitization
 makes sense if you think that workers do

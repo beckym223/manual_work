@@ -1,6 +1,5 @@
 likely, unless the relationship between inventions
 and the number of patents applied
-
 for has been changing.
 
 The suspicion that the relationship between
@@ -23,18 +22,14 @@ fueled by the new global opportunities
 that opened up in the post-World War
 II period, were being invested in face
 of rapidly diminishing returns.
-
 (ii) Some of the observed growth in R&D
 could be spurious, the result of reclassification
 of informal technological activities
 into formal R&D under the
-
 pressure of tax accountants, publicrelations
 experts, and R&D tax credits.
-
 (iii) The rise of formal R&D-based invention
 crowded out smaller, less valuable
-
 individual-inventor-based patents, while
 the rise in the cost of patenting (in
 terms of the time costs of dealing with
@@ -42,7 +37,6 @@ the patent system) and the more recent
 sharp rise in fees may have selected out
 a large number of potentially low-valued
 patents. Given the evidence that
-
 the value distribution of inventions and
 patents is extremely skewed, with only
 a small fraction having a high present
@@ -65,7 +59,6 @@ presence of so many opposing forces, there
 is no compelling need to reply on the
 exhaustion-of-inventive-opportunities hypothesis,
 especially since patents-to-R&D
-
 ratios were falling much more drastically
 during the "good times" of the past than
 recently.14 Moreover, if we do take these

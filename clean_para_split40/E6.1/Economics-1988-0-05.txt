@@ -13,7 +13,6 @@ two major advances over the Malthusian
 model. Each person maximizes utility
 that depends on present and future consumption.
 More important is the recognition
-
 that changes in the capital stock respond to
 rates of return on investments. Unfortunately,
 the neoclassical model also takes a
@@ -27,7 +26,6 @@ neoclassical model are familiar. What may
 not be generally appreciated is that despite
 the different assumptions, the analytic structures
 of the neoclassical and Malthusian
-
 models are quite close and many of their
 implications are similar. If technology and
 preferences do not change over time, both
@@ -69,7 +67,6 @@ within the model. Moreover, the Malthusian
 model can equally well postulate exogenous
 progress to "explain" persistent growth.
 II. The Family and Economic Growth
-
 After a short while the economics profession
 became disenchanted with the neoclassical
 model, presumably because it too did

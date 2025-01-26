@@ -46,7 +46,6 @@ of risk on one asset compared to others
 is the key risk component. The implied linear
 restrictions (or no-arbitrage conditions) imply a
 unique market price for risk.
-
 But the fact is that combinability of characteristics
 across varieties is not possible for most
 other goods. If it is expensive to untie bundles
@@ -77,7 +76,6 @@ the margin. Type 0' and 02 buyers in Figure
 of the two slopes at z1 and Zh is appropriate for
 assessing the (marginal) benefits of a small independent
 public project affecting z in some
-
 application, with the average weighted by benefit
 incidence of the project among different
 types of people.
@@ -94,7 +92,6 @@ examine wage premiums on very risky
 jobs, where risk was measured as excess insurance
 premiums charged by private companies
 on worker compensation policies.
-
 The revealed preference argument in Figure
 1 applies directly to that problem. Here z represents
 job safety and p( z) is estimated by

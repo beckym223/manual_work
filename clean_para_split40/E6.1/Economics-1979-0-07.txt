@@ -6,21 +6,16 @@ R1. The growth rate of real GNP, out to
 bounds on energy technologies.
 
 
-
 R2. Capital cost levels of present and potential
 future energy technologies.
-
 R3. Availabilities of oil, gas, uranium, at
 various costs of extraction.
-
 R4. Long-run price and income elasticities
 of demand for end-use energy
-
 forms.
 
 The "policy" variables represent the hypothetical
 bounds already described,
-
 P1. Moratoria on new nuclear construction.
 
 
@@ -47,7 +42,6 @@ The numerical inputs into the three models
 were the same for almost all realization and
 blend variables, except for the price and income
 elasticities of demand, which were
-
 specific to each model. Two ideas central to
 current economic analysis entered into this
 procedure. One is the use of an optimization
@@ -58,26 +52,21 @@ of long-run elasticities of demand. For demand
 by end-use consumers, these are to be
 based on econometric analysis of timeseries
 and/or cross sections of income,
-
 prices, and quantities consumed. For industrial
 demand, a process analysis of alternative
 industrial energy-using processes
-
 may add valuable information.
-
 The principal finding was the proportionally
 small effect on GNP of sizable cuts
 in energy use below its base case growth
 path. In interpreting this finding, note that
 the optimization procedure implies an assumption
 whereby the economy responds to
-
 anticipated changes by minimizing the cost
 of adaptation. The principal means of adaptation
 are changes in the type and composition
 of the capital equipment for the extraction,
 conversion, transport, and use of
-
 energy-at the regular time for replacement
 or earlier.
 
@@ -85,7 +74,6 @@ Table 2 shows the numerical results. For
 two models, with price elasticities of -.25
 and -.4, respectively, policies entailing percentage
 cuts in energy use out of the base
-
 case that gradually increase to between 10
 and 20 percent in the year 2010, were found
 to cut not more than 2 percent out of the
@@ -99,7 +87,6 @@ technologies described above. In row
 (2), a zero-energy-growth path is simulated
 by the imposition of a hypothetical "conservation
 tax" on primary energy flows. The
-
 rate of this fictitious tax must increase as
 the GNP continues to grow in spite of the
 downward pull from the zero-energy-growth

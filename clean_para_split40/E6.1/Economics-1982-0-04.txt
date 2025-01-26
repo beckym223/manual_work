@@ -9,7 +9,6 @@ is essentially accurate.
 First, in the received analysis perfect competition
 serves as the one standard of welfare-
 maximizing structure and behavior.
-
 There is no similar form corresponding to
 industries in which efficiency calls for a very
 limited number of firms (though the earlier
@@ -30,12 +29,10 @@ the world of reality any more than perfectly
 competitive markets do, though there
 are a number of industries which undoubtedly
 approximate contestability even if
-
 they are far from perfectly competitive. In
 our analysis, perfect contestability, then,
 serves not primarily as a description of reality,
 but as a benchmark for desirable
-
 industrial organization which is far more
 flexible and is applicable far more widely
 than the one that was available to us before.
@@ -48,7 +45,6 @@ are involved. When there is a change in the
 assumed nature of these expectations or reactions,
 the implied behavior of the oligopolistic
 industry may change drastically.
-
 In our analysis, in the limiting case of
 perfect contestability, oligopolistic structure
 and behavior are freed entirely from their
@@ -85,7 +81,6 @@ analysis of contestable monopoly, see my
 article with Elizabeth Bailey and Willig, Panzar
 and Willig's article, and my book with
 Panzar and Willig, chs. 7 and 8.)
-
 But once each product obtains a second
 producer, that is, once we enter the domain
 of duopoly or oligopoly for each and every
@@ -100,12 +95,10 @@ world of pure or partial monopoly, any contestable
 market must behave ideally in every
 respect. Optimality is not approached gradually
 as the number of firms supplying a
-
 commodity grows. As has long been suggested
 in Chicago, two firms can be enough
 to guarantee optimality (see, for example,
 Eugene Fama and Arthur Laffer).
-
 Thus, the analysis extends enormously the
 domain in which the invisible hand holds
 sway. In a perfectly contestable world, it

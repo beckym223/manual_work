@@ -30,7 +30,6 @@ retirement. But even with this improved transparency,
 the low implicit pay-as-you-go rate of
 return leaves a substantial distortion in work
 and compensation incentives.
-
 Although the scope for reducing the substantial
 deadweight losses of the pure pay-as-you-go
 system and for increasing the present value of
@@ -50,7 +49,6 @@ longevity. This demographic change is significant
 not only because it drives the political
 process but also because it increases the potential
 gain of making such a change.
-
 The desirability of shifting to an investmentbased
 or mixed system depends on four issues: (a)
 the transition process and its cost; (b) the ongoing
@@ -64,7 +62,6 @@ I will now summarize what I have learned.
 I commented earlier on the transition problem
 when I discussed my experience with President
 Reagan. The common view that the
-
 transition from a pure pay-as-you-go system to
 a mixed system requires the transition generation
 to "pay double"-once to save for their
@@ -82,7 +79,6 @@ go benefits. The growth of the PRA annuities
 offsets the slowdown of the pay-as-gobenefits
 that results from not increasing the tax
 rate as the population ages.
-
 There is no free lunch in this process. The
 key is that additional saving during the transition
 years can reduce long-run costs. This extra

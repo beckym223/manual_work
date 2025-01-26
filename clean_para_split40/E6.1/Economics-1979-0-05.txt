@@ -1,6 +1,5 @@
 helium resulting from productive combustion
 of the host gas, and store the
-
 helium instead.
 
 Step iv: Build new helium separation
@@ -27,7 +26,6 @@ Steps i, iii, iv, and the "ultimate step"
 consist of successive technical process
 choices. Taken in that order, they correspond
 to the economist's notion of a
-
 long-run supply curve, indicating how the
 cost of each additional unit of supply is a
 rising step function of the cumulative supply
@@ -39,11 +37,9 @@ larger and firmer. Steps ii and v are
 steps whose timing should depend on additional
 factors besides the separation cost
 sequence already mentioned.
-
 The expectation of a much larger demand
 well into the twenty-first century is documented,
 in the report and in the Forum, by
-
 a fascinating enumeration of anticipated
 future technologies. Many of these are based
 on or may utilize superconductivity, so far
@@ -78,7 +74,6 @@ at temperatures of 20-30?K, a range reachable
 using liquid hydrogen as a coolant.
 (See L. A. Hall, National Bureau of Standards
 Report, and E. B. Forsyth et al.)
-
 From the economic point of view, the
 case for the helium storage program is not
 convincingly made either in the report or
@@ -98,7 +93,6 @@ addresses the second decision problem of
 Table 1. One will, of course, also need to
 consider other important helium uses that
 are not directly energy related.
-
 Before turning to problem (2), I draw attention
 to a few passages in the Helium Report
 that will provide background for Sections
@@ -107,5 +101,4 @@ the choice of measures of value in which to
 express benefits and costs. The report
 (p. 23) contains an important piece of information
 bearing on cost comparisons, to
-
 the effect that the energy requirements for

@@ -1,7 +1,6 @@
 I discuss it, I need to digress briefly
 and remind you about the developments in
 computer price measurement.
-
 Quality change is the bane of price and
 output measurement. Until 1986, computer
 prices were treated as unchanged in the
@@ -25,7 +24,6 @@ in manufacturing productivity in the 1980's
 much stronger, about one-third of the total
 coming from the introduction of this price
 index alone (Gordon, 1993b).
-
 There was nothing wrong with the price
 index itself. It was, indeed, a major advance,
 and the BEA should be congratulated for
@@ -36,7 +34,6 @@ product had received parallel treatment, and
 thus it stuck out like a sore thumb. This had
 the unfortunate consequence that the productivity
 growth in the computer industry
-
 itself was seriously overestimated, because
 some of its major inputs, such as semiconductors,
 were not similarly deflated. Second,
@@ -68,14 +65,12 @@ GROWrH (PER ANNUM), U.S. THREE-DIGIT
 MANUFACTURING INDUSTRIES, 1978-1989
 Note: Computers adjusted downward; electronic components
 and drugs adjusted upward.
-
 late 1980's. This last problem has largely
 been solved recently with the introduction
 of "benchmark-weighted" estimates of gross
 domestic product (GDP) and the moving
 away from fixed-weights national income accounting
 (Allan Young, 1992). But the first
-
 problem, the uniqueness of this adjustment
 in the face of similar, though perhaps not as
 extreme, problems elsewhere remains to
@@ -88,17 +83,14 @@ by deflating materials purchases in
 this industry, which to a significant extent
 consist of purchases of other computer components
 and semiconductors, by the same
-
 output price index. I have also substituted a
 similar price index in the semiconductors
 (electronic components) industry and also
 adjusted the growth of TFP in the pharmaceuticals
 industry upward to reflect the
-
 exclusion of price declines due to the introduction
 of generics in the current measurement
 procedures. (I shall come back to
-
 discuss this last adjustment later on.) So
 adjusted, Figure 3 does not look all that
 8For historical background on these developments

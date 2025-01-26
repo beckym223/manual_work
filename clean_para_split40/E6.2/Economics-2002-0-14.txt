@@ -48,7 +48,6 @@ earned as much as those who actually chose to
 get their college degrees. But we also discovered
 that persons who subsequently gained college
 degrees probably would have earned
-
 relatively less as high-school graduates than
 those who voluntarily discontinued their education
 after high-school graduation. Positive selection
@@ -66,7 +65,6 @@ are not much different from abilitycorrected
 ones.
 
 VI. Manufactured Inequality
-
 The production of income is not deterministic.
 Sometimes, random forces play an important
 role in assigning earnings to individuals.

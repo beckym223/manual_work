@@ -4,12 +4,10 @@ brings us to a fundamental set of new considerations
 on the supply side.
 
 II. The Task of Modeling Supply
-
 If sector prices by line of production are
 to be explained in a fundamental way by
 sector costs, there will have to be an accompanying
 explanation of sector outputs and
-
 inputs. This brings us directly to the supply
 side of things. While the supply side is
 represented in the macro production function
@@ -34,7 +32,6 @@ must be treated like primary factor inputs.
 At the sector level, however, there is no
 question about the need to consider intermediate
 inputs. Sector output (gross) is
-
 properly a function of intermediate inputs,
 labor input, and capital input-all sector
 designated. The presently fashionable way
@@ -47,7 +44,6 @@ The KLEM production function concept
 is useful in partial studies of separate industries
 or sectors, and has long been anticipated
 in aggregative production function
-
 studies. It has been routine in production
 function studies in agriculture to use feed,
 seed, fertilizer, and other intermediate inputs
@@ -63,7 +59,6 @@ of these is a pure material input and the
 other stands for some capital, labor, and
 general running cost input. In my own investigations
 of U.S. railroad production
-
 functions, I included fuel consumption (in
 coal equivalents) as one of the factor inputs
 together with labor and capital. The gross
@@ -75,7 +70,6 @@ These individual industry production
 functions with a small number of intermediate
 inputs are hardly substitutes for a detailed
 input-output analysis on a general
-
 system level. The role of input-output
 analysis is to explain intermediate flows in
 the economic system. The full system is
@@ -84,12 +78,9 @@ analysis because
 
 (i) There is much more to economic activity
 than can be summarized by the
-
 system of final goods production.
-
 (ii) The explanation of types of final
 prices depends on highly specific
-
 types of intermediate, as well as final,
 goods/services prices.
 
@@ -107,7 +98,6 @@ readily derived from demand analysis without
 consulting the table of intermediate
 flows in I-0 analysis. These are only striking
 examples. Many more have arisen in
-
 the past, and more are bound to occur in
 the future; therefore, the concern of this
 presentation is not with singular events.

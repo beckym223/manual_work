@@ -17,7 +17,6 @@ Growth
 64
 
 Percentile of lnitiA ualue AddeA
-
 Mexican Manufacturing: Paper [90 Establishments]
 .06 -
 
@@ -38,7 +37,6 @@ Growth _ 0
 -.06 -, - --,-t1r-- -1
 
 - Percentile of lnitialalue Adcd
-
 Mexican Manufacturing: Toiletries [39 Establishments]
 .06-
 
@@ -59,7 +57,6 @@ Growth
 -.06 , _ ,_,_,__ _
 
 0 Percentile of InitiaIalue Add 1
-
 FIGURE 5B. TFP GROWTH PROFILES FOR MEDIUM-GROWING BRANCHES (MEXICAN MANUFACTURING, 1984-1994)
 we have seen and emphasized might simply
 be the result of errors of observations? This
@@ -68,7 +65,6 @@ can actually create frequency distributions
 of rates of TFP increase which contain exactly
 the same information as the sunrisesunset
 diagrams previously presented. The
-
 only trick is to count as the unit of frequency
 not one firm (out of an industry aggregate)
 or one industry (out of some larger aggregate)
@@ -76,11 +72,9 @@ but, instead, say, 1 percent of the total
 value added of the aggregate. Thus a firm
 with 20 percent of the value added of an industry
 would appear with 10 times the
-
 weight of a firm accounting for 2 percent of
 the value added of that industry. In such a
 chart, the cumulative frequency (say, 68 percent)
 above ATFP = 0 would represent the
-
 projection on the horizontal axis of the
 maximum point on a sunrise diagram. Its

@@ -15,12 +15,10 @@ modification, the earned income credit would
 increase the likelihood that a family with
 several children could earn enough to remain
 outside the welfare system.
-
 Table 8 reports the average effective federal
 income tax rates by population deciles
 under the schedule that restores overall progressivity
 to 1977 levels (Plan II) and under
-
 the schedule that matches 1990 distribution
 with a broadened base (Plan I). The average
 effective rates in Plan II are lower than those
@@ -48,7 +46,6 @@ income tax. The main rival of the income tax
 -the consumption expenditure tax- is distinctly
 inferior on theoretical as well as practical
 grounds. The endowment or lifetime
-
 perspective of the expenditure tax is indefensible
 in a world of financial, political, and
 family instability. The transition problems in

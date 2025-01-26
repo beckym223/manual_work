@@ -25,7 +25,6 @@ declining prices. The cost of capital is an essential
 concept for the economics of information
 technology,23 due to the astonishing decline of
 IT prices given in Table 1.
-
 The cost of capital is important in many areas
 of economics, especially in modeling producer
 behavior, productivity measurement, and the

@@ -43,7 +43,6 @@ especially in the micro area. One is
 much more cheered by work such as that of
 Robert Fogel (1986) on heights and nutrition,
 Alan Krueger and Orley Ashenfelter
-
 (1992) on twins, Richard Levin et al. (1987)
 on the appropriability of technology,
 Rebecca Henderson and Cockburn on pharmaceutical
@@ -64,7 +63,6 @@ to convince others that this is a cause worth
 supporting.
 
 VI. Expanding the Framework
-
 Is there something possibly wrong with
 the way we ask the productivity question,
 with the analytical framework into which we
@@ -78,7 +76,6 @@ known and common factor and product
 prices, throwing all of the heterogeneity
 and uncertainty-the surprises and the disappointments-
 into the residual category.
-
 An alternative view would see measured
 productivity growth as a summation of
 above- (and below-) average returns to various

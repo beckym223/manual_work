@@ -5,7 +5,6 @@ squarely out of economics and which is at
 least a preliminary guideline in the formation
 of the moral judgment, in what might
 be called the "economic ethic."
-
 Nevertheless, the economic ethic, or the
 total cost-benefit principle, is subject to
 sharp challenge. Two principal criticisms
@@ -37,10 +36,8 @@ If the rate of benevolence is zero, of
 course, we have indifference or pure selfishness;
 if the rate of benevolence is negative
 we have malevolence, in which case
-
 people need compensation in order to contemplate
 without loss the increased welfare
-
 of an enemy, or in reverse would be
 willing to damage themselves in order to
 damage another. The rate of malevolence
@@ -58,33 +55,27 @@ determining cost-benefit analysis we can
 easily include rates of benevolence and
 malevolence, adding the benefits and subtracting
 the costs to those toward whom
-
 we are benevolent, multiplied of course by
 the rate of benevolence, and subtracting
 the benefits and adding the costs, similarly
 modifed, to those towards whom we
-
 are malevolent.
 
 The concept of a rate of benevolence, incidentally,
 is at least a partial solution to
-
 the perplexing question of interpersonal
 comparisons of utility around which economists
 have been doing a ritual dance for
-
 at least three generations. Any decision
 involving other people obviously involves
 these interpersonal comparisons. They are
 made, of course, inside the mind of the decision-
 maker and what his rates of benevolence
 or malevolence are likely to be is
-
 determined by the whole social process in
 which he is embedded. Surely something
 can be said about this. We are, for instance,
 likely to be more benevolent to
-
 people who are going to vote for us and
 perhaps malevolent to people who are
 going to vote against us. The economic
@@ -95,7 +86,6 @@ called "economics imperialism," which is
 an attempt on the part of economics to
 take over all the other social sciences.
 The second attack on the "economic
-
 ethic" is more fundamental and harder to
 repulse. This is the attack from the side
 of what I have elsewhere called the "heroic

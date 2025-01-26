@@ -25,7 +25,6 @@ equilibrium, to have nonneutral effects; the
 firm's product price and the Consumer Price
 Index may not move in parallel. As a consequence,
 indexing would have unwanted real
-
 effects even in the face of monetary shocks.
 While we have seen that some degree of real
 wage stickiness is optimal, the absence of full
@@ -53,11 +52,9 @@ indexing is almost always less than complete.
 Haggling costs are apparently minimized by
 making periodic wage adjustments that simultaneously
 take into account nominal, real,
-
 and relative factors, rather than by fixing the
 nominal relationship in a formula and separately
 adjusting for changes in real and
-
 relative conditions.
 
 In any event, even if wages were fully
@@ -74,13 +71,11 @@ extremely rapid and sustained inflation
 -typically involves a substantial lag between
 observed price changes and wage adjustments.
 Such indexing only guarantees a
-
 gradual response of wages to aggregate demand
 shocks in proportion as prices themselves
 are flexible in the face of constant
 wages. Even if prices were competitively determined,
 the economy would still have to
-
 work its way through a series of price-wageprice
 reactions in each one of which prices
 fell, relative to wages, by an amount depending
@@ -88,7 +83,6 @@ on the slope of the marginal cost curves.
 And prices do not move with such frequency
 or flexibility. Arthur Okun (1981) has carefully
 elaborated the reasons why, in the
-
 customer markets which predominate in
 modern economies, prices are not likely to
 move quickly and easily up and down a
@@ -97,7 +91,6 @@ has elaborated how the highly articulated
 input-output relationships of modern economies
 tend to slow the price reaction to aggregate
 demand shocks. And George Akerlof
-
 and Janet Yellen (1984) have recently shown
 that in less than perfectly competitive markets
 inertial price-setting behavior in response to

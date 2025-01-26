@@ -2,7 +2,6 @@ by personal activities that would characterize
 the most free and open societies. They are necessary
 to sustain both human-capital investment
 incentives and work incentives.
-
 For example, in almost every society doctors
 earn more than other people. These wage differentials
 persist in equilibrium in order to compensate
@@ -63,12 +62,10 @@ are seldom made. Standardizing current
 earnings data for education presents more difficult
 conceptual problems because family backgrounds
 and personal financial barriers on
-
 educational choices distort investment margins
 and make wage differentials not fully equalizing
 on costs. Nonetheless, some portion of educational
 wage differences-and, judging from
-
 the remarkable uniformity of estimated rates of
 return to education in different countries, perhaps
 a major portion-are equalizing on their

@@ -13,7 +13,6 @@ or utilities. This is not permitted because of
 -the exclusion of evaluative use of nonutility
 information, and this is what the FieldExpansion
 Lemma is formalizing. Second,
-
 presuming that everyone has the same
 strictly concave utility function, we might
 think that the sum-total of utilities would be
@@ -32,7 +31,6 @@ informational framework, and the only way
 to choose between them is to go by the
 preference of one person or another (since
 they have opposite preferences).
-
 To try to make social welfare judgments
 without using any interpersonal comparison
 of utilities, and without using any nonutility
@@ -69,7 +67,6 @@ While the axiomatic derivations of different
 social-welfare rules in this literature
 are based on applying interpersonal comparisons
 to utilities only, the analytical
-
 problems are, in many respects, rather similar
 when people are compared in terms of
 some other feature, such as real income,

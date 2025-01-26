@@ -4,7 +4,6 @@ twelve regional money markets but quickly
 fused into a single system in World War I.
 Centralization and federalization have reflections
 in demography and in finance.
-
 City populations in unified states follow a
 Pareto-skewed distribution with a single
 dominant city like London, Paris, or Vienna,
@@ -35,7 +34,6 @@ quickly centralized administrative and financial
 functions, in Rome and Milan for Italy,
 and in Berlin for Germany. Another explanation
 runs in terms of size, with larger
-
 states necessarily federal because of the difficulty
 of providing administration to local
 units over long distances. This fits Canada,
@@ -58,7 +56,6 @@ rest of the country because it paid more in
 taxes to the federal government than it received
 in federal expenditure. This thesis implicitly
 violated the distinction between a
-
 budget and a market: in a market equal
 values are exchanged. A budget, on the other
 hand, is a device expressing the cohesion of a
@@ -89,7 +86,6 @@ Under the eighteenth-century Poor Law in
 England, the parish resisted immigration
 from neighboring parishes because of reluctance
 to share with outsiders. Fernand
-
 Braudel (1982) and Sir John Hicks (1969)
 have each expatiated on the rise of the size of
 the economic unit from the city-state to the
@@ -102,7 +98,6 @@ for goods where costs of transport were high
 and could be saved by direct selling, rather
 than relaying goods through fairs in the Middle
 Ages and later through cities such
-
 as Amsterdam, Hamburg, Frankfurt, and
 London. The hub-and-spoke system recently
 discovered in airplane travel and still in place

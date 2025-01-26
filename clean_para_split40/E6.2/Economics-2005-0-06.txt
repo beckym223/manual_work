@@ -16,7 +16,6 @@ qualify for benefits. Doing so would impose tax
 costs on the rest of the population that could
 make overall well-being lower than in a universal
 (i.e., not means-tested) program.
-
 Consider a simple example of a means-tested
 retirement program (Feldstein, 1987). Assume
 that some fraction of the population is myopic
@@ -45,10 +44,8 @@ allow. Although they would achieve higher lifetime
 utility through their action, their benefits
 would be financed by tax-financed transfers,
 which would make others worse off.
-
 There is no way for the government to distinguish
 between the genuinely myopic and
-
 those who are rational utility maximizers gaming
 the system. The government could, in principle,
 set the means-tested benefit so low that
@@ -94,7 +91,6 @@ you-go system also causes a fall in capital
 income and therefore in corporate and personal
 tax revenue that requires higher marginal tax
 rates to recover the lost revenue.
-
 Both of these examples of asymmetric information
 show that a social insurance program may be
 an appropriate response to a market failure but that

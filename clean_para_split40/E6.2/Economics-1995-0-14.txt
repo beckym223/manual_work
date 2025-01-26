@@ -43,7 +43,6 @@ of another who is offended at his holding
 it."38 The need to guarantee some "minimal
 liberties" on a priority basis can be incorporated
 in social choice formulations.
-
 It turns out, however, that such unconditional
 priority being given even to minimal
 liberty can conflict with other principles of
@@ -65,7 +64,6 @@ field-independent general force of preferences
 (thereby qualifying the Pareto principle)
 , and (iii) restricting the domain of permissible
 individual-preference profiles. As
-
 in the case of the Arrow impossibility problem,
 the different ways of resolving this conflict
 have variable relevance depending on

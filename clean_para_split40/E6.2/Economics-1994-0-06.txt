@@ -4,7 +4,6 @@ countries for which we have data). This
 raised the specter of diminishing returns to
 R&D and offered the hypothesis of "exhaustion
 of inventive opportunities" as a
-
 potential explanation for the productivity
 slowdown.
 
@@ -18,15 +17,12 @@ while the other uses patents as indicators of
 the output of the R&D effort and looks at
 what has happened to the "knowledgeproduction
 function" (see e.g., Griliches,
-
 1990; Ricardo Caballero and Adam Jaffe,
 1993; Robert Evenson, 1993; Samuel
-
 Kortum, 1993). The bridge that is missing
 between these two approaches would examine
 the units in which patents affect productivity
 growth and ask whether they have
-
 stayed constant over time. Without such
 constancy, no clear interpretation is possible.
 
@@ -45,7 +41,6 @@ Mansfield's and my own early work on diffusion
 and on the role of R&D in agriculture
 and manufacturing as trying to endogenize
 as much of technical change as was
-
 possible (Griliches, 1957, 1958, 1964;
 Mansfield, 1961, 1965). Other important
 contributors to this literature were Richard
@@ -74,13 +69,11 @@ something more out of the R&D story: the
 possibility that the productivity impact of
 R&D has declined over time-that the coefficients
 have changed. This hypothesis has
-
 been investigated repeatedly by a number of
 researchers with mixed results. Studies that
 used data through the 1970's and early
 1980's found no decline in the relevant coefficients.
 More recent studies that analyze
-
 data through the late 1980's report more
 mixed results, varying strongly with how the
 computer industry and its deflator are handled

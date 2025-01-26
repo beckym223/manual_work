@@ -6,7 +6,6 @@ its depletion is called permanent income.38 An
 alternative expression of Friedman's hypothesis
 is that consumption depends on permanent
 rather than on current income.39
-
 The permanent income hypothesis may be in
 accordance with most standard economic models.
 Nevertheless, it contradicted prior thinking
@@ -17,17 +16,14 @@ of current consumption.
 
 "The fundamental psychological law [emphasis
 added], upon which we are entitled
-
 to depend with great confidence both a
 priori from our knowledge of human nature
 and from the detailed facts of experience,
 is that men are disposed, as a rule
 and on the average, to increase their consumption
 as income increases, but not by
-
 as much as the increase in income" (Keynes,
 The General Theory, 1936, 96).
-
 It is true that The General Theory discussed a
 long list of other factors that could affect consumption.
 The list was sufficiently rich to include
@@ -39,7 +35,6 @@ Friedman's. In the Keynesian theory, consumers
 are more sensitive to current income than to
 other changes in income that have similar effect
 on the consumer's wealth.
-
 A. Empirical Results and Their Explanation
 A large number of tests have demonstrated the
 excess sensitivity of consumption to current income,

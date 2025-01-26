@@ -1,5 +1,4 @@
 (R&D), and of what we might call
-
 technical innovations. On the other hand, TFP
 improvement, once purged of the changes in
 the quality of labor and/or the direct contributions
@@ -9,13 +8,11 @@ scale, spillovers, and systematic complementarities.
 And finally, real cost reduction, to my
 mind, makes one think like an entrepreneur or
 a CEO, or a production manager.
-
 I think it would be perfectly fair to characterize
 my presentation today as a paean in
 praise of "real cost reduction" as a standard
 label for R'. Labels do not change the underlying
 reality, but they may change the
-
 way we look at it and the way we think about
 it. They also can lead us to understand it better.
 Thinking in terms of real cost reduction
@@ -59,7 +56,6 @@ capital stock went down. And we all have seen
 cases where, say, an office's real costs were
 reduced when a martinet of a manager was replaced
 by someone more reasonable. But we
-
 have also seen cases where real costs were reduced
 when a very lax manager was replaced
 by someone more strict.
@@ -103,7 +99,6 @@ of the subtlety and complexity of the
 growth process, not really capable of being
 captured through a simple feedback mechanism.
 (See Romer, 1990, 1994a, b; Lucas,
-
 1993.)
 
 So, real cost reduction is multifaceted and

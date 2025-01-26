@@ -26,7 +26,6 @@ job tenures, implicit contracts must allow for
 the possibility of relative wage changes in the
 face of climatic changes in external conditions.
 But the interest of both firms and
-
 workers dictates that those changes occur
 only after enough information has been
 accumulated to warrant a high probability
@@ -35,7 +34,6 @@ justify a substantial wage adjustment, it is
 not sufficient that the firm act on unbiased
 forecasts-they must also acquire some confidence
 in the accuracy of the forecasts.
-
 One might object to this line of reasoning
 on grounds that failure to adjust wages
 quickly enough while the evidence is accumulating
@@ -54,7 +52,6 @@ some time to begin to realize that an actual
 change in employment reflects a shift in the
 long-term distribution of employment probabilities.
 Second, the common practice of
-
 layoffs subject to recall is a way for a firm to
 signal that the lower employment is expected
 to be temporary. Third, significant downward
@@ -63,7 +60,6 @@ made. Given the inability of workers easily to
 assess the magnitude of the available rents,
 firms are deterred from exploiting the bilateral
 monopoly relationship through the
-
 damage they might do to their "reputations"
 and the future increases in employment costs
 thereby imposed. Since reputation is a fragile
@@ -83,7 +79,6 @@ changes that survive these barriers are much
 more clearly interpreted as a signal that the
 stream of future rents has changed than are
 variations in employment.
-
 Efficient implicit wage contracts, in the
 presence of uncertainty, must also have the
 characteristic that they minimize "haggling
@@ -97,7 +92,6 @@ These considerations argue that significant
 relative wage adjustments to meet perceived
 permanent changes in condition be an infrequent
 occurrence and not lightly changed
-
 once made.
 
 In sum, modern contract theory concludes

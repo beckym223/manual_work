@@ -52,7 +52,6 @@ What relevance has this excursion into
 depression economics for contemporary
 problems of unemployment and wage inflation?
 The issues are remarkably similar,
-
 even though events and Phillips have
 shifted attention from levels to time rates
 of change of wages and prices. Phillips
@@ -72,17 +71,14 @@ discussion of inflation, wages, and
 unemployment. Suppose that the current
 rate of unemployment continues. Associated
 with it is a path of real wages,
-
 rising at the rate of productivity growth.
 Consider an alternative future, with unemployment
 at first declining to a rate one
-
 percentage point lower and then remaining
 constant at the lower rate. Associated
 with the lower unemployment alternative
 will be a second path of real wages. Eventually
 this real wage path will show, at
-
 least to first approximation, the same rate
 of increase as the first one, the rate of
 productivity growth. But the paths may
@@ -94,7 +90,6 @@ lowers labor's marginal productivity. In
 any case, the test question is whether with
 full information about the two alternatives
 labor would accept the second one-
-
 2 Phillips himself is not a prophet of the doctrine associated
 with his curve. His 1958 article was probably the
 most influential macro-economic paper of the last

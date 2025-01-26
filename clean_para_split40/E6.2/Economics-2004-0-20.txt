@@ -67,7 +67,6 @@ benefits in response to this slower rate of
 growth. Thus the Swedish system can be analyzed
 for an indefinite future without an assumption
 about the structure of future
-
 legislation, so one does not need a fully funded
 system to have that property. Sweden, like
 Chile, puts all of the risk of future outcomes on
@@ -77,7 +76,6 @@ taxes.70
 Some simple ways for pretty much ensuring
 automatic balance can illustrate alternative approaches.
 In the French and German pension
-
 systems, workers accumulate "points" based on
 earnings that have been subject to tax. Think of
 this as a sum of wage-indexed wages over a

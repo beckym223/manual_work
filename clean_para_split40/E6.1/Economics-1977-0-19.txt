@@ -47,7 +47,6 @@ regardless of the relative weights attached
 to unemployment and inflation. It would tend
 to be prevailingly too small for some initial
 period and too large thereafter.
-
 One must thus conclude that the case for a
 constant money growth is no more tenable in the
 case of supply shocks than it is in the case of
@@ -79,7 +78,6 @@ Up to 1974, these policies have helped to
 keep the economy reasonable stable by historical
 standards, even though one can certainly point
 to some occasional failures.
-
 The serious deterioration in economic stability
 since 1973 must be attributed in the first place
 to the novel nature of the shocks that hit us,

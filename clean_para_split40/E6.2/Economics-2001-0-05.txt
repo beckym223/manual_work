@@ -15,7 +15,6 @@ the development of information technology.
 Kilby was awarded the Nobel Prize in Physics
 in 2000 for discovery of the integrated circuit;
 regrettably, Noyce died in 1990.6
-
 A. Moore's Law
 
 In 1965 Gordon E. Moore, then Research
@@ -33,11 +32,9 @@ for 35 years. He recently extrapolated this
 trend for at least another decade.8
 In 1968 Moore and Noyce founded Intel Corporation
 to speed the commercialization of
-
 memory chips.9 Integrated circuits gave rise to
 microprocessors with functions that can be programmed
 by software, known as logic chips.
-
 Intel's first general purpose microprocessor was
 developed for a calculator produced by Busicom,
 a Japanese firm. Intel retained the intellectual
@@ -70,7 +67,6 @@ Accounts since 1996. These are divided between
 memory chips and logic chips. The underlying
 detail includes seven types of memory chips and
 two types of logic chips.
-
 Between 1974 and 1996 prices of memory
 chips decreased by a factor of 27,270 times or at
 40.9 percent per year, while the implicit deflator

@@ -5,7 +5,6 @@ until we have the fruits of some redirection
 of economic research. But is it not clearly
 these broader, conceptually relevant measures
 on which we should be focusing in
-
 analysis, evaluation, and the determination
 of public policy?
 
@@ -18,13 +17,11 @@ Rather, it alters old relations and reveals
 important new ones. Take the wellknown
 loglinear production function, for example.
 In its most common Cobb-Douglas
-
 form, we are accustomed to relating output
 to private "capital" and "labor." David
 Aschauer (1988) reports significant contributions
 to private output from government infrastructure
 capital. I have added arguments
-
 for R&D and human capital and found both
 significantly positive while the coefficient of
 tangible capital is sharply negative.'8 I am
@@ -75,11 +72,9 @@ as the factors of production? In truth, firms
 invest much in the experience, skills, and
 dedication of their labor, which then constitute
 an important component of capital
-
 value. Much of the value of the firm constituting
 the numerator of the q-ratio is determined
 by TISA components of capital that
-
 do not enter into its replacement-cost denominator.
 To the extent these were substitutes
 for conventionally included capital,

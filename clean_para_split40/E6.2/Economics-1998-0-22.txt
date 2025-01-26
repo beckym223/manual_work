@@ -14,7 +14,6 @@ mutch to question in regression lines that draw
 much of their slope from the differences between
 Sudan and Switzerland, between Bangladesh
 and Brazil, or between Ceylon and
-
 Canada. In contrast, it seems much more sensible
 to look at episodes within individual
 countries and to search for common elements
@@ -41,7 +40,6 @@ that they focus on the components of growth
 cost reduction in particular) rather than on the
 overall growth rate. There is also a subtle distinction
 to be drawn between two ways of
-
 presenting cross-country regressions- (i) as
 "explaining" why and how some countries
 grow faster than others (not recommended),
@@ -49,15 +47,12 @@ and (ii) as simply summarizing a series of
 "stylized facts" describing the experience we
 observe (far preferable, and not just for its being
 more modest in its claims).
-
 V. Some Policy Implications
-
 In approaching the question of the influence
 of policy on real cost reduction in particular,
 and, to a degree even on economic growth in
 general, I believe that the key words are "obstructing"
 and "enabling." We know from
-
 sad experience how easy it is for governments
 to adopt policies that get in the way of economic
 growth and even turn it negative. We
@@ -67,7 +62,6 @@ to a paradise of prosperity and growth.
 Broadly speaking, the easiest starting point for
 a successful growth experience is a onceprosperous
 economy that has suffered from
-
 bad policies. Releasing that economy from its
 trammels, correcting an accumulation of past
 mistakes, can sometimes set in motion a prolonged

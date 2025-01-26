@@ -37,7 +37,6 @@ and 1958, when wages kept rising despite the
 substantial rise in unemployment. It also served
 to dispose of the rather sterile "cost push"-
 "demand pull" controversy.
-
 In the following years, a good deal of attention
 went into developing theoretical foundations for
 the Phillips curve, in particular along the lines of
@@ -62,7 +61,6 @@ unique Full Employment but rather a whole
 family of possible equilibrium rates, each associated
 with a different rate of inflation (and requiring,
 presumably, a different long-run
-
 growth of money). It also impaired the notion of
 a stable underemployment equilibrium. A fall in
 demand could still cause an initial rise in unemployment
@@ -78,7 +76,6 @@ through stabilization policies rather than
 by relying on the slow process of wage adjustment
 to do the job, at the cost of protracted unemployment
 and instability of prices. Indeed,
-
 the realm of stabilization policies appeared to expand
 in the sense that the stabilization authority
 had the power of choosing the unemployment

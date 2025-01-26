@@ -13,7 +13,6 @@ IV. Personal Risk
 
 What information consumes is rather obvious:
 it consumes the attention of its
-
 recipients. Hence a wealth of information
 creates a poverty of attention, and a need
 to allocate that attention efficiently among
@@ -24,20 +23,16 @@ Herbert Simon, 1971
 
 A large literature from behavioral economics
 and psychology finds that people
-
 often make inconsistent choices, fail to
 learn from experience, exhibit reluctance
 to trade, base their own satisfaction on
 how their situation compares with others',
 and in other ways depart from the standard
 model of the rational economic
-
 agent. If people display bounded rationality
 when it comes to maximizing
-
 utility, then their choices do not necessarily
 reflect their "true" preferences,
-
 and an exclusive reliance on choices to
 infer what people desire loses some of
 its appeal.
@@ -45,7 +40,6 @@ its appeal.
 Daniel Kahneman and
 
 Alan Krueger, forthcoming
-
 The biological evidence that the human brain
 is complex and layered, more an imperfect
 meeting of minds than an optimizing computer,
@@ -89,7 +83,6 @@ tion of self-interest.
 
 Most of the evidence on consumer decisionmaking
 comes from laboratory experiments.
-
 Economists reviewing the experimental evidence
 sometimes comment that markets punish
 inconsistencies, and consumers learn to avoid

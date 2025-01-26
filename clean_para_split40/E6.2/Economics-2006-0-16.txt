@@ -1,10 +1,7 @@
 VI. Consumers and Medicare Part D
-
 Medicare's Part D drug plan is extraordinarily
 complex. This government program
-
 takes the cake, the candles, the
-
 platter, and the crumbs.
 
 Kathleen Pender,
@@ -14,16 +11,13 @@ San Francisco Chronicle
 Medicare Part D is not that difficult to
 understand. There has been a lot of confusing
 information in the news about Part
-
 D Medicare.
 
 OregonHealthInsurance.com
-
 The new Medicare Part D program that began
 operation on January 1, 2006, provides prescription
 drug coverage through Medicareapproved
 plans offered by private insurance
-
 companies and HMOs. Consumers in the Medicare
 population can choose to opt out, or to
 enroll in one of the private plans available in
@@ -56,7 +50,6 @@ of the population who currently pay all
 (2004), Anne E. Hall (2004), Haiden A. Huskamp et al.
 (2004, 2005), John R. Moran and Kosali I. Simon (2005),
 and Z. Yang et al. (2004).
-
 their pharmacy bills enroll in Part D, experience
 this increase in number of prescriptions, and
 face the current average monthly cost of a new
@@ -65,7 +58,6 @@ the program by $6.8 billion. In these worst
 cases, the effect of adverse selection and moral
 hazard together is projected to increase the cost
 of the program to $55.8 billion.
-
 The creation of a market in which private
 companies compete to offer coverage, and in
 which consumers have choices of carriers and
@@ -88,7 +80,6 @@ program. My research group attempted to do
 this by modifying a survey we were planning to
 study health perceptions and choices of the elderly.
 During the week of November 7-15,
-
 2005, just before enrollment for Part D began,
 we surveyed 4,739 persons age 50 and older and
 gathered information on health conditions and

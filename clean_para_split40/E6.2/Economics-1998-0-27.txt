@@ -28,7 +28,6 @@ The next step is to recognize that of the five
 main pillars, at least three (the rate of investment,
 the rate of return, and real cost reduction)
 are key foci of decision-making
-
 processes at the level of the firm. I cannot escape
 the conclusion that the great bulk of the
 action associated with the growth process
@@ -42,7 +41,6 @@ industries and industrial branches.
 Key insights flow from taking this kind of
 focus. Few economists are aware of the pervasiveness
 with which sunrise-sunset diagrams
-
 are characterized by overshooting, or of
 the importance that firms or industries with
 real cost increases (i.e., reductions in TFP)
@@ -66,7 +64,6 @@ experiences. In such exercises, as in
 Table 3, the difference in rates of real cost reduction
 has typically been a major "source"
 of the difference in growth rates.
-
 Also impressive in the analysis of the
 Jorgenson data is the degree to which the varying
 experiences of U.S. manufacturing in different
@@ -79,7 +76,6 @@ more steady (for these decades in U.S. manufacturing)
 than the destructive part, whetting
 our (or at least my) appetite to look deeper,
 inquiring into why this was so.
-
 The Mexican data at the firm level were
 somewhat more recalcitrant than the Jorgenson
 data by industrial branch, but they nonetheless

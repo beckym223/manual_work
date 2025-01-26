@@ -1,5 +1,4 @@
 THE AMERICAN ECONOMIC REVIEW
-
 years or less-is two orders of magnitude
 smaller, around 0.3 percent. Most of the high
 return on equity is estimated to be compensation
@@ -23,7 +22,6 @@ risk," based on exactly the same resolution of
 the equity premium puzzle. The different cost
 estimate is entirely due to differences in the
 consumption paths being compared.
-
 Resolving empirical difficulties by adding
 new parameters always works, but often only by
 raising more problems. The risk-aversion levels

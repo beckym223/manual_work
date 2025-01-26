@@ -3,11 +3,9 @@ from the frontiers of economics, no stirring
 cry for reform of conventional economics,
 no closely reasoned analysis of an economic
 dilemma or puzzle, no scathing or
-
 reproachful scolding of the profession for
 its technical preciousness or moral blindness,
 no report on painstaking research
-
 results, no valedictory on a lifetime of
 theoretical or empirical contributions. The
 AEA presidential addresses have been all
@@ -17,7 +15,6 @@ But tonight, going against our current
 fashion of telling the world what's wrong
 with economics, I offer a modest contribution
 to the immodest subject of what's
-
 right with economics-and, in particular,
 what's right with economics as a guide to
 public policy. In doing so, I won't ignore
@@ -28,7 +25,6 @@ that it is at least as reasonable to judge a
 discipline by its successes as by its failures,
 I intend to accentuate the positive.
 I. The Critical Look Inward
-
 In recent years, as I shall illustrate in a
 moment, we have instead accentuated the
 negative. In good part, this has taken the
@@ -42,7 +38,6 @@ has risen to a new crescendo. It is almost
 as if we take pride in our humility. Nietzsche
 must have been thinking of economists
 when he observed that "he who
-
 despises himself nevertheless esteems himself
 as a self-despiser."
 
@@ -53,7 +48,6 @@ favorite targets are the shortcomings of
 mainstream economics, the misuse of
 modern techniques, the fallacies of conventional
 wisdom-in each case, the target
-
 is not the critic's but his colleagues' brand
 of economics, not mea culpa but eorum
 culpa.
@@ -68,18 +62,14 @@ follow the parlous path of economic virtue.
 Ceremonial occasions-presidential, memorial,
 or inaugural addresses-in particular
 seem to evoke musings on the
-
 troubled or even dismal state of our science.
 For the AEA faithful, I need only
-
 recall John Kenneth Galbraith condemning
 neoclassical and neo-Keynesian economics
 for ignoring power and thus losing
-
 contact with the real world; Wassily
 Leontief attacking mathematical economics
 for building a showy superstructure
 on weak empirical foundations and
-
 unverified assumptions, and thus losing
 contact with the real world; Kenneth

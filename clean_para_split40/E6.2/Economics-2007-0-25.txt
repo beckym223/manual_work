@@ -16,7 +16,6 @@ with the view that consumers think that prices
 should not change (for whatever reason); and
 that they are also likely to retaliate (change
 brands) when prices do change.
-
 I should also remark that in countries where
 inflation is very high, customers will expect
 price changes to occur frequently, and possibly
@@ -42,17 +41,14 @@ views on what wages and prices should be. The
 reflection of such views in utility functions produces
 trade-offs between inflation and unemployment.
 Those trade-offs have significant
-
 implications for economic policy. On the one
 hand, central banks should avoid very low targets
 for inflation. On the other hand, they should
 avoid high inflation, where the trade-offs between
 inflation and unemployment may be
-
 reversed.
 
 VIII. Rational Expectations Theory
-
 Our discussion of rational expectations piggybacks
 on our previous discussion of the nat-
 ural rate.
@@ -70,7 +66,6 @@ There are two key assumptions underlying
 this neutrality. The obvious one is rational expectations.
 To some, rational expectations regarding
 the effects of the money supply on
-
 prices and wages would seem to be beyond the
 sophistication of most wage and price takers,
 and also of most wage and price setters.
@@ -92,7 +87,6 @@ their nominal values should be, monetary policy
 can be effective in stabilizing output-and possibly
 in raising its long-run level-even in the
 presence of rational expectations.
-
 IX. Economic Methodology
 
 We have seen that the absence of norms plays

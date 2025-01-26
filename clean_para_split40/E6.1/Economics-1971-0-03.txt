@@ -1,5 +1,4 @@
 Economics today rides the crest of
-
 intellectual respectability and popular
 acclaim. The serious attention with which
 our pronouncements are received by the
@@ -12,11 +11,9 @@ only truly national goal. The flow of
 learned articles, monographs, and textbooks
 is swelling like a tidal wave; Econometrica,
 the leading journal in the field
-
 of mathematical economics, has just
 stepped up its publication schedule from
 four to six issues per annum.
-
 And yet an uneasy feeling about the
 present state of our discipline has been
 growing in some of us who have watched
@@ -24,7 +21,6 @@ its unprecedented development over the
 last three decades. This concern seems to
 be shared even by those who are themselves
 contributing successfully to the
-
 present boom. They play the game with
 professional skill but have serious doubts
 about its rules.
@@ -40,7 +36,6 @@ slums, on pure water and fresh air. In an
 almost Pavlovian reflex, whenever a new
 complaint is raised, President Nixon appoints
 a commission and the university
-
 announces a new course. Far be it from
 me to argue that the fire should not be
 shifted when the target moves. The trouble
@@ -63,13 +58,11 @@ fact a symptom of a fundamental imbalance
 in the present state of our discipline.
 The weak and all too slowly growing empirical
 foundation clearly cannot support
-
 the proliferating superstructure of pure, or
 should I say, speculative economic theory.
 Much is being made of the widespread,
 nearly mandatory use by modern economic
 theorists of mathematics. To the
-
 extent to which the economic phenomena
 possess observable quantitative dimensions,
 this is indisputably a major forward

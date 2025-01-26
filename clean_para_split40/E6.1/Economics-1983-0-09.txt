@@ -9,7 +9,6 @@ that
 
 ... the existing state of affairs will continue
 indefinitely, except in so far as
-
 we have specific reasons to expect a
 change... For, if there exist organized
 investment markets,... an investor can
@@ -19,23 +18,19 @@ a genuine change in the news over the
 near future, as to the likelihood of which
 he can attempt to form his own judgment,
 and which is unlikely to be very
-
 large. For, assuming that the convention
 holds good, it is only these changes
 which can affect the value of his investment,
 and he need not lose his sleep
-
 merely because he has not any notion
 of what his investment will be worth
 ten years hence.
 
 [General Theory, pp. 152-53]
-
 Thus, the price of gold might well, for a
 considerable period of time, fluctuate narrowly
 around a level far from the equilibrium
 price at which amounts produced
-
 and consumed would in the long run be
 equal. And so, although to a considerably
 lesser extent, could the price of wheat or tin.
@@ -45,10 +40,8 @@ self-maintaining movement in either direction.
 
 
 IV. Macroeconomic Inventory Theory
-
 Let us now turn to some of the macroeconomic
 implications of this microeconomic
-
 theory of commodity prices and inventories.
 First, and most important, is to recognize
 that there is nothing in standard price theory-
@@ -71,10 +64,8 @@ only a time-series with proportionally smaller
 variation. Thus, several years of systematic
 general accumulation of inventories, followed
 by substantial periods of general
-
 decumulation of inventories, finds no basis
 in conventional price theory.
-
 Yet one of the most obvious macroeconomic
 facts of life is the existence of pronounced
 cycles, both in the size of aggregate
@@ -97,13 +88,11 @@ or in net exports. The existence of
 these pronounced cycles in aggregate inventory
 accumulation has long challenged macroeconomists
 to develop theories that might
-
 explain this phenomenon. The response to
 this challenge has produced a second and
 macroeconomic literature about inventories,
 that is almost completely nonintersecting
 with microeconomic price theory.
-
 In this macroeconomic inventory literature,
 prices and price expectations are rarea
 world of constant change, few if any market participants

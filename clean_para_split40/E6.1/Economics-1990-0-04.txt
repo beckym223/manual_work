@@ -19,7 +19,6 @@ Top 5 Percent 32.7 33.0 28.4 28.9 26.0 27.4
 Top 1 Percent 39.6 39.0 29.0 28.4 25.3 26.8
 All Decilese 25.2 26.1 25.0 25.3 24.5 25.4
 Source: Brookings MERGE files.
-
 aAssumes corporate income and property taxes are borne by capital income.
 bArrayed by comprehensive income which includes transfer payments, employee
 fringe benefits, net imputed rent, and corporate earnings allocated to shareholders.
@@ -34,7 +33,6 @@ in the profitability of the corporate sector.10
 Since 1985, the distribution of tax burdens
 has changed largely because of the enactment
 of the landmark Tax Reform Act of
-
 1986. This act increased the progressivity of
 the tax system, most notably by raising the
 personal exemptions, standard deductions,
@@ -61,7 +59,6 @@ much. Since the before-tax distribution has
 become much more unequal in the 1980s, it
 follows that inequality has increased even
 more on an after-tax basis.'1
-
 Transfer Payments. The other major element
 of government policy affecting the distribution
 of income is the system of transfer

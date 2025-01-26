@@ -5,10 +5,8 @@ available technologies, ranging from light
 bulbs to electric motors, double-glazed windows
 and improved internal-combustion engines,
 that for some reason have not been
-
 successfully marketed. The interest continues,
 and the recent National Academy of
-
 Sciences study gave sympathetic attention,
 but no analysis, to a number of proposals
 for residential, commercial, industrial, and
@@ -16,7 +14,6 @@ transportation energy management and for
 improved electricity production and fuel
 supply and concluded that, including reductions
 in CFC's, "The United States could
-
 reduce or offset its greenhouse gas emissions
 by between 10 and 40 percent of 1990
 levels at low cost or at some net saving, if
@@ -25,7 +22,6 @@ p. 73).
 
 All of these ideas are completely orthogonal
 to the econometric estimates. The
-
 Academy panel that produced the report
 was unable to offer an explanation for why
 these low-cost or negative-cost technologies
@@ -62,10 +58,8 @@ efficiency, and switching from high-carbon
 to lower-carbon or noncarbon fuels in Asia
 and Africa would not only be a major economic
 enterprise but a complex effort in
-
 international diplomacy and politics. If successful,
 it would increase the costs to the
-
 developed world by at least another percent
 or two on top of the 2 percent I mentioned.
 It is furthermore not easy to hide the transfer
@@ -80,7 +74,6 @@ through our somehow offsetting their cost,
 to forgo a massive electrification based on
 coal and the cheapest coal-combustion technology.
 Without engaging in blackmail, the
-
 Chinese can assert that it is not in their
 interest to do that at their own expense,
 even if they are the keystone of a "social

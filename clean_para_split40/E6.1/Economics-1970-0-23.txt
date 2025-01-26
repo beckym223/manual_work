@@ -2,13 +2,10 @@ A downtrend of rates of return in the
 progress-generating activities is, of course,
 not the same phenomenon as the previously
 discussed gap between the average
-
 and the marginal rate on the progressinputs
 of single periods; the downtrend
-
 over time calls for a different interpretation.
 It may be interpreted as meaning
-
 that researchers, teachers and other workers
 engaged in knowledge-acquisition and
 distribution activities of growing complexity
@@ -17,14 +14,11 @@ own group somewhat less than would have
 been required for unchanging performance
 at unchanging costs. Even the relativevaluation
 (or relative-wage) component of
-
 a downtrend can in good part be so interpreted,
 because while this component
-
 becomes enlarged by rent-formation, it
 nevertheless is true that the relative increase
 of the incomes of progress-workers
-
 typically results from the need to use very
 highly qualified personnel on a rising
 scale."' Trying to avoid a downtrend
@@ -34,15 +28,12 @@ of each successive period accordingly
 would in the long run prove incompatible
 with a nondiminishing rate of technological
 advance in the economy at large.
-
 In view of the scarcity of the ultimate resources
 needed for any economic processincluding
 the process of self-improvement
-
 of progress-workers-a secular downward
 tendency of yields should indeed be expected,
 and Kenneth Arrow was right in
-
 reminding us at last year's annual meeting
 that "eternal exponential technological
 growth is just as unreasonable as eternal
@@ -52,7 +43,6 @@ slow, secular downward tendency of the
 progress-yields may become interrupted
 for very long periods. Recurring "breakthroughs"
 play an important role in the
-
 history of the sciences.
 
 Quite aside from the question of a downward
@@ -75,7 +65,6 @@ I said in Section II, I am abstaining here
 from efforts to apply formal analysis to the
 problem of marginal rates, since each individual
 is entitled to his own marginal
-
 calculus and in most of the area in which
 this paper has been moving individual
 valuations become submerged in compromise

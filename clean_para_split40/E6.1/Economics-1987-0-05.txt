@@ -12,12 +12,10 @@ or eliminate.
 
 Both in the administration and in Congress,
 decisions were made at a breakneck
-
 pace, in a highly charged political atmosphere,
 amid conflicting claims and competing
 forecasts, with little attention to the consistency
 of monetary and fiscal policy and
-
 mostly by people with little experience in
 evaluating the reasonableness of any set of
 economic estimates. (See David Stockman,
@@ -30,7 +28,6 @@ The agonizing-and so far only partially
 successful- struggle to correct the mistakes
 of 1981 have kept the economic policy process
 under stress and have continued to
-
 dramatize some of its weakest aspects. The
 struggle between the president and the Congress
 over deficit solutions illustrates the
@@ -40,7 +37,6 @@ exercise in damage control, while the Federal
 Reserve makes all the important decisions
 about the economy, underlines the separation
 of monetary and fiscal policy. The
-
 sensitivity of deficits to the pace of the economy
 advertises the unreliability of macroeconomic
 forecasts. The fact that all the actions
@@ -48,7 +44,6 @@ that could be taken to correct the deficit are
 unpleasant ones drags out the annual agony
 of budget setting interminably and dramatizes
 how layered and cumbersome it has
-
 become.
 
 Small wonder that the strains of the last
@@ -62,7 +57,6 @@ themselves clearly, and have strong
 ideological biases. Economists return the
 favor by regarding politicians as shortsighted,
 interested only in what is popular
-
 with the electorate, and unwilling to face
 hard decisions. All of the stereotypes are
 partly right.
@@ -82,7 +76,6 @@ the public interest motivation of the
 philosopher queen.
 
 III. Some Drastic Nonsolutions
-
 Widespread concern that the economic
 policy process is not working well has
 spawned proposals for drastic change that
@@ -92,7 +85,6 @@ elected officials by putting economic policy
 on automatic pilot and the other toward
 making elected officials more directly responsible
 to the voters for their policies.
-
 The automatic pilot approach 'flows from
 the perspective of public choice theory that
 the decisions of democratically elected officials

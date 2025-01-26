@@ -4,14 +4,12 @@ to questions raised by James Buchanan
 Arrow's results, but they are momentous in
 their own right.3 Pointing to "the fundamental
 philosophical issues" involved in
-
 "the idea of social rationality," Buchanan
 (1954a) argued that "rationality or irrationality
 as an attribute of the social group
 implies the imputation to that group of an
 organic existence apart from that of its individual
 components" (p. 116). Buchanan was
-
 perhaps "the first commentator to interpret
 Arrow's impossibility theorem as the result
 of a mistaken attempt to impose the logic of
@@ -29,7 +27,6 @@ indicated by a social ordering" (Buchanan,
 whether Buchanan's critique negates the
 impossibility results, but we must also investigate
 the more general issues raised by
-
 Buchanan.4
 
 Third, Buchanan's reasoned questioning
@@ -38,7 +35,6 @@ at the very least, a need for caution in
 imposing strong "consistency properties" in
 social choice, but his emphasis on procedural
 judgments may be taken to suggest,
-
 much more ambitiously, that we should
 abandon altogether consequence-based
 evaluation of social happenings, opting instead
@@ -46,7 +42,6 @@ for a procedural approach. In its pure
 form, such an approach would look for
 "right" institutions rather than "good" outcomes
 and would demand the priority of
-
 appropriate procedures (including the acceptance
 of what follows from these procedures)
 . This approach, which is the polar
@@ -61,7 +56,6 @@ has occurred in public choice theory and in
 other writings influenced by Buchanan's
 work (most notably, in the important contributions
 of Robert Sugden [1981, 1986]).
-
 This contrast is particularly important in
 characterizing rights in general and liberties
 in particular. In the social choice literature,
@@ -77,7 +71,6 @@ Gaertner, Pattanaik, and Suzumura [1992]),
 rights have been characterized in procedural
 terms, without referring to states of affairs.
 We have to examine how deep the
-
 differences between the disparate formulations
 are, and we must also scrutinize their
 respective adequacies.
@@ -100,7 +93,6 @@ being based only on what Arrow calls
 "tastes" (p. 23). How adequate are the respective
 characterizations of individual rationality,
 and through the presumption of
-
 rational behavior (shared by most economic
 3Dennis C. Mueller (1989) provides an excellent
 introduction to public choice theory and its relation to

@@ -19,21 +19,18 @@ to within-variation (around zl). Similar
 considerations apply to housing and land market
 studies that impute values for crime, climate,
 and pollution. Here, too, revealed
-
 preference implies that estimated pollution and
 crime gradients are likely to be lower bounds
 for the average citizen because they ignore important
 sorting considerations.
 
 C. Time-Series Imputations
-
 The main practical difficulty in assessing
 changing standards of living is that goods
 change their character over time. The prices of
 tractors and automobiles today differ from 30
 years ago, not only because manufacturing productivity
 and input prices have changed, but
-
 also because the products themselves have improved.
 The nature of the problem is starkest
 when entirely new goods appear on the market.
@@ -57,7 +54,6 @@ services. In practice it is extremely difficult to
 link entirely new goods to old goods in this
 way. Adjusting for quality improvements of existing
 goods is more manageable.
-
 Rising incomes naturally cause product quality
 to improve over time, because the income
 elasticity of demand for quality is positive.
@@ -77,7 +73,6 @@ Transactions prices rise not because cost has
 increased, but because the quality of what is
 being referred to as a particular good has increased.
 Income effects are represented by
-
 movements along a given p( z) locus in Figure
 1. The same envelope of offer functions define
 p(z), but bid functions shift up and to the right

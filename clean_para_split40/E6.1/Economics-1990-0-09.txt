@@ -14,7 +14,6 @@ use of the realization principle for calculating
 capital gains and losses and from the
 accounting conventions for inventories, depreciation,
 and depletion used in arriving at
-
 net business profits. There would also be no
 need to adjust the tax base for inflation, as
 consumption would be measured appropriately
@@ -23,7 +22,6 @@ problems for income taxation and I shall
 deal with them later, but it would be unfortunate
 to abandon the income tax for administrative
 and compliance reasons alone.
-
 The transition from the income tax to an
 expenditure tax would be troublesome. The
 retired elderly would draw down assets, some
@@ -36,7 +34,6 @@ previously taxed accumulations. Grandfathering
 all assets at the time an expenditure
 tax is initiated would leave a big loophole
 for people with large amounts of
-
 untaxed accrued capital gains. But I have
 not seen any practical method of making the
 necessary distinctions in order to prevent
@@ -53,11 +50,9 @@ history of transfer taxation in this country
 and abroad provides little assurance that
 effective death and gift taxes would be levied
 to supplement an expenditure tax.
-
 Proponents of expenditure taxation often
 compare the merits of a comprehensive expenditure
 tax with the income tax as it has
-
 developed. It is hard to believe that an expenditure
 tax would be enacted without numerous
 exemptions and exclusions. In fact,

@@ -4,14 +4,12 @@ chooses the amount of employment. This is
 not exactly simple monopoly, because the
 union cannot set the wage schedule unilaterally.
 To the extent that it can, another
-
 source of wage stickiness can be identified.
 Under a reasonable assumption about what
 the union maximizes, it turns out that the
 only aspect of the demand for labor that has
 any effect on the monopoly wage is its elasticity.
 So if the demand curve for labor
-
 shifts down nearly isoelastically in a recession,
 the contractual wage will change little
 or not at all, and the full effect of the fall in
@@ -49,7 +47,6 @@ a reasonable theory of unemployment.
 To make my position plausible, I want to
 try to summarize the sort of general characteristics
 that the labor market should have
-
 if the particular mechanisms that I have
 enumerated are to be important. By the
 way, I have no reason to believe that my list
@@ -64,10 +61,8 @@ The sort of labor market I have in mind is
 segmented. It often makes sense to think of
 an employer or definable group of employers
 as facing its own labor pool. Some
-
 members of the labor pool may be unemployed,
 but still belong to it. Although
-
 transportation, information, and transaction
 costs are possible sources of segmentation,
 they need not be among the most important.
@@ -109,9 +104,7 @@ Third, the stability of the labor pool
 makes it possible for social conventions to
 assume some importance. There is a difference
 between a long-term relationship
-
 and a one-night stand, and acceptable behavior
 in one context may be unacceptable
-
 in the other. Presumably most conventions
 are adaptive, not arbitrary, but adaptiveness

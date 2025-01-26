@@ -7,15 +7,12 @@ without influence...... "But, he continues,
 depends primarily on its relevance to
 current economic theory" (p. 23). (Compare
 Tjalling Koopmans, p. 170.) What a
-
 curious relating of rigor to relevance!
 Whether the real world matters depends
 presumably on "its relevance to current
 economic theory." Many if not most of today'
 s economic theorists seem to agree
-
 with this ordering of priorities.3
-
 To what aspects of the observable world
 does economics apply its analytical tools?
 According to the familiar definition in the
@@ -25,19 +22,15 @@ Robbins, economics "is the study of the
 allocation of scarce resources among unlimited
 and competing uses." To this definition
 of microeconomics the Encyclopedia
-
 then rather weakly adds macroeconomics,
 which is defined as the study of
-
 money, the general price level, and the
 level of output and employment.
-
 Let us consider the microeconomic part
 of this definition. Presumably the reference
 is to real resources, used to produce observable
 goods and services, that are exchanged
 and consumed by real people living
-
 in the kind of world we see around us.
 Of course, some degree of abstraction is
 necessary if useful generalizations are to be
@@ -46,10 +39,8 @@ runs up against a dilemma. Shall he seek to
 make his analysis ever more rigorous, regardless
 of the possibly diminishing relevance
 of his conclusions to the observed
-
 world? Or shall he sacrifice elegant refinement
 for somewhat cruder analysis that
-
 may lead to testable results? I suppose the
 reply can be given that we need to do both
 and that we need specialists in each of
@@ -63,7 +54,6 @@ which economists are presumably concerned.
 In speaking of how well current microeconomic
 theory combines rigor and relevance,
 I should distinguish among the
-
 different but interrelated problem areas
 with which this part of economic theory
 concerns itself. Micro theory addresses itself
@@ -74,17 +64,13 @@ of resources within decision-making
 units, both firms and households, under
 given assumptions as to the criteria of optimization;
 (2) again under given assumptions,
-
 the conditions necessary for the
-
 existence of a general (or partial) equilibrium
 among all (or some) of these decisionmaking
 units, including the determination
-
 of the uniqueness and stability of such an
 equilibrium; and (3) the conditions required
 for the achievement of an economic
-
 optimum from a broad, social point of
 view.
 
@@ -96,9 +82,7 @@ considerable progress has been achieved in
 dealing with production planning in the
 individual firm or establishment (or government
 department) for which mathematical
-
 tools, including programming and
-
 the whole range of activity analysis, have
 proved to be useful. To some extent, howI
 This has led Leontief to expostulate: "Seldom, in

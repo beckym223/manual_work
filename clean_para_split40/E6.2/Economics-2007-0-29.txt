@@ -4,7 +4,6 @@ accurate: by their nature, norms are generated
 and known by a whole community. They are
 known to those who abide by them, and those
 who observe them as well.
-
 We have shown ways in which macroeconomic
 variables will be affected by norms. The neutralities
 say that consumption should have no special
@@ -23,7 +22,6 @@ credit constraint. In so doing, they have failed to
 consider that those violations would occur even in
 the absence of those frictions: they will occur
 because of decision makers' norms.
-
 The incorporation of norms based on careful
 observation imparts an appropriate balance to
 macroeconomics. The New Classical research

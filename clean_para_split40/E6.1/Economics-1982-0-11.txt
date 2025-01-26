@@ -7,7 +7,6 @@ and marginal cost will decline as industry
 output increases and so the minimum size of
 the entry cost required to preserve equilibrium
 declines correspondingly.
-
 However, here I want to describe another
 approach offered in our book to the problem
 of existence which I have just described- the
@@ -70,7 +69,6 @@ I should like to take advantage of your
 patience by dealing here not with the simplest
 case-that of the single product industry-
 but with the multiproduct problem.
-
 I do this partly to offer you some feeling of
 the way in which the multiproduct analysis,
 which is one of the hallmarks of our study,
@@ -83,6 +81,5 @@ deal exclusively with the total cost function.
 Figure 4 shows such a total cost function for
 the single firm, which is taken to manufacture
 two products, boots and shoes.
-
 Let us pause briefly to examine its shape.
 Along any ray such as OR, which keeps

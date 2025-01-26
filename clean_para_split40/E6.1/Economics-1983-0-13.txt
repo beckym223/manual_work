@@ -15,12 +15,10 @@ money or the output of goods; for instance,
 many recognized that prices did not fall sufficiently
 promptly in recessions to avoid nonfrictional
 unemployment of labor and/or
-
 machines. And such unemployed resources
 then permitted a subsequent expansion of
 real output, once the next boom began.
 VII. Price-Theoretic Models of
-
 Aggregate Investment
 
 Most business cycle theories-or, more
@@ -29,7 +27,6 @@ broadly, most macroeconomic theories of the
 or even earlier, have thus been built on
 more-or-less elaborate price-theoretical considerations,
 related essentially to investment;
-
 and mainly to fixed investment. For, clearly,
 it is investment-not consumption or proprietors'
 labor-that is the primary source of
@@ -37,19 +34,16 @@ medium-run macroeconomic disturbance and
 instability. Although (as noted earlier) sharp
 fluctuations in the rate of investment in inventories
 contribute more to U.S. business
-
 cycle recessions and to the early stages of
 business recoveries than do fluctuations in
 plant-and-equipment investment, the latter
 typically contribute significantly more to expansions
 of GNP from cyclical troughs to
-
 peaks than does inventory accumulation.
 Moreover, in the medium and longer run,
 fluctuations in inventories are governed by
 most of the same factors that govern plant
 and equipment expenditures.
-
 There are many price levels-relative price
 levels-important for investment in plant,
 equipment, and normal inventories. They include:
@@ -88,7 +82,6 @@ are "strategically" important? Which are the
 price levels, the changes in one or more of
 which relative to another or others are primarily
 responsible-in the real world-for
-
 macroeconomic stability or instability, real
 and nominal?
 

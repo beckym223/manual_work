@@ -9,7 +9,6 @@ standard assumptions, with perfect certainty and
 with perfect foresight, Ricardian equivalence
 will occur. Such a result had previously been
 unsuspected by economists.30
-
 Two possible conclusions can be drawn from
 this surprise. On the one hand, we might continue
 to assume that classical assumptions describe
@@ -18,9 +17,7 @@ that are the subject of this paper concern the
 realignment to macroeconomics that occurred
 as economists gained understanding of the consequences
 of classical assumptions from the
-
 mid-1950s to the mid-1970s.
-
 Economists may have been correct in drawing
 the conclusion that the early Keynesian economics
 was too simplistic and naive. But they
@@ -34,7 +31,6 @@ an increased bequest to her child. Something
 must be missing from the motivation in Barro's
 model; otherwise, it would not have given rise
 to results that are so surprising.
-
 B. Douglas Bernheim and Kyle Bagwell
 (1988) give further evidence suggesting that
 Ricardian equivalence is such a telltale. They
@@ -101,7 +97,6 @@ equivalence. Largely because of the problem of endogene-
 ity, it is difficult to come to firm conclusions regarding its
 empirical validity. There are studies with findings both for
 and against such crowding out.
-
 31 See also John Laitner (2002), Laitner and Henry Ohls-
 son (2001), Alan S. Blinder (1975) and Michael D. Hurd
 (1989), who have also modeled the bequest motive as coming

@@ -11,7 +11,6 @@ would still survive.16 But the methodological
 critique of James Buchanan would still
 apply forcefully, as reformulated in the following
 way: why should any restriction
-
 whatever be placed a priori on the choice
 function for the society? Why should not
 the decisions emerging from agreed social
@@ -19,7 +18,6 @@ mechanisms be acceptable without having
 to check them against some preconceived
 idea of how choices made in different situations
 should relate to each other?
-
 What happens, then, to Arrow's impossibility
 problem if no restrictions whatever
 are placed on the so-called "internal consistency"
@@ -28,12 +26,10 @@ Would the conditions relating individual
 preferences to social choice (i.e., the
 Pareto principle, nondictatorship, and independence)
 then be consistent with each
-
 other? The answer, in fact, is no, not so. If
 the Pareto principle and the conditions of
 nondictatorship and independence are redefined
 to take full note of the fact that
-
 they must relate to social choices, not to any
 prior notion of social preference, then a very
 similar impossibility reemerges (see Theorem
@@ -44,7 +40,6 @@ impossibility theorem" work? The underlying
 intuition is this. Each of the conditions
 relating individual preferences to social decisions
 eliminates-either on its own or in
-
 the presence of the other conditions-the
 possibility of choosing some alternatives.
 And the conjunction of these conditions can
@@ -56,7 +51,6 @@ such a condition, and the object of this
 condition in a choice context, surely, is to
 avoid the selection of a Pareto-inferior alternative.
 Therefore this condition can be
-
 sensibly redefined to demand that if everyone
 prefers x to y, then the social decision
 mechanism should be such that y should
@@ -91,7 +85,6 @@ of individual preferences over pairs
 other than (x, y). It can be shown that there
 is no way of going from individual preferences
 to social choice satisfying these
-
 15The pioneering work on choice-functional formulations
 came from Hansson (1968, 1969), Thomas
 Schwartz (1972, 1985), Fishburn (1973), and Plott
@@ -111,5 +104,4 @@ Parks, John Ferejohn, D. M. Grether, Kelsey, V. Denicolo,
 and Yasumi Matsumoto, among others. For general
 overviews and critiques, see Blair et al. (1976),
 Suzumura (1983), and Sen (1986a).
-
 17See also Buchanan and Tullock (1962).

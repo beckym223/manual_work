@@ -5,7 +5,6 @@ factor-substitution-i.e., insofar as physical
 investment exceeds the equivalent of
 mere "widening"-such investment presupposes
 the invention of new equipment
-
 of lesser labor-intensity.'9 Practically all
 long-run increase of output per man-hour
 (and even the prevention of some decrease
@@ -22,7 +21,6 @@ to follow through consistently the implications
 of the conception that all long-run
 increase in man-hour output reflects technological
 progress, one would arrive at even
-
 higher productivity-gains than those which
 we shall assume (though at more costly
 ones); the progress-generated productivity-
@@ -44,11 +42,9 @@ output require new ideas only in a very
 modest sense of this term, i.e., require
 merely somewhat trivial new ideas (resulting
 in slow changes of the physical
-
 composition of the capital stock). Thisis
 what in my appraisal justifies the "neoclassical"
 procedure of attributing part of
-
 the increase in output per man-hour to
 changes in input-proportions aside from
 technological progress. But this way of

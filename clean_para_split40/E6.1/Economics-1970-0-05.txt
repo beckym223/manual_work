@@ -12,7 +12,6 @@ against costs. The costs of progress so conceived
 are the costs of those inputs which
 in this paper are referred to as "progressgenerating.
 " These inputs become combined
-
 with hiuman talent which is no easier
 to define and is certainly no less essential
 than are the Ricardian "original" and "indestructible"
@@ -27,7 +26,6 @@ cost the proportion in which technological
 progress increases the output flow annually.
 3 On specific simplifying assumptions,
 the progress-induced proportionate
-
 addition to output will remain permanent
 and independent of the output-base. With
 a deduction on the productivity-side to
@@ -45,14 +43,12 @@ rate of return can not, of course, guide us
 to the core of the ultimately relevant problems
 of resource-allocation, but the concept
 will nevertheless be found useful.
-
 Even on assumptions assuring constant
 proportionate additions to the output-flow
 the delayed start of the benefit stream will
 subsequently require allowances in the
 nature of discounts, yet for reasons explained
 in Appendix A and in Section VI,
-
 this difficulty will not prove critical.6 We
 will also have to try to get rid of the effect
 of cyclical and erratic forces on our yearly
@@ -66,7 +62,6 @@ based on these assumptions has led to
 reasonably realistic results in a good many
 other respects. I shall make these assumptions
 which should assure at least rough
-
 comparability of the benefit-cost ratios so
 obtained with analogous ratios for physical
 capital formation on a more-or-less given
@@ -77,7 +72,6 @@ of technological progress when future inputs
 raise the output-base must not be allowed
 to destroy the comparability of progressreturns
 with the returns from investment
-
 in the usual sense. This must be watched
 in formulating the assumptions needed for
 the justification of such comparisons.

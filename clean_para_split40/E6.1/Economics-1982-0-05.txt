@@ -7,7 +7,6 @@ possible worlds.
 First, let me recall the observation that
 real markets are rarely, if ever, perfectly contestable.
 Contestability is merely a broader
-
 ideal, a benchmark of wider applicability
 than is perfect competition. To say that contestable
 oligopolies behave ideally and that
@@ -52,7 +51,6 @@ least costly producer is in the long run
 vulnerable to entry or replacement by rivals
 whose appearance is inefficient because it
 wastes valuable social resources.
-
 There is one last contrast between the
 newer analyses and the older theory which I
 am most anxious to emphasize. In the older
@@ -67,7 +65,6 @@ competitors. Assuming that this destiny
 had somehow been revealed, the older
 analyses proceeded to investigate the consequences
 of the exogenously given industry
-
 structure for pricing, outputs, and other decisions.
 2
 
@@ -75,7 +72,6 @@ The new analyses are radically different in
 this respect. In our analysis, among others,
 an industry's structure is determined explicitly,
 endogenously, and simultaneously
-
 with the pricing, output, advertising, and
 other decisions of the firms of which it is
 constituted. This, perhaps, is one of the prime
@@ -83,12 +79,10 @@ contributions of the new theoretical analyses.
 I. Characteristics of Contestable Markets
 Perhaps a misplaced instinct for melodrama
 has led me to say so much about
-
 contestable markets without even hinting
 what makes a market contestable. But I can
 postpone the definition no longer. A contestable
 market is one into which entry is
-
 absolutely free, and exit is absolutely costless.
 We use "freedom of entry" in Stigler's sense,
 not to mean that it is costless or easy, but

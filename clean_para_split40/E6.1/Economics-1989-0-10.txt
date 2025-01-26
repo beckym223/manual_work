@@ -10,7 +10,6 @@ quantities of other assets. Some theorists then
 find that in certain ideal types of costlessinformation,
 perfectly competitive, priceflexible,
 market-clearing economies, changes
-
 in the quantity of money have no real effects
 and merely bring proportionate changes in
 prices.20 Then, to my astonishment, some of
@@ -28,7 +27,6 @@ The theoretical concept of assets of
 "outside," government money is a far cry
 from the multitide of largely private instruments
 that enter into transactions and
-
 wealth. To the extent that these are or can be
 readily quantified, they are a poor fit indeed
 to the money of much economic theory and
@@ -43,7 +41,6 @@ theory and policy.
 As I have pointed out elsewhere,2' motivation
 for the macroeconomic, rational expectations
 revolution, or counterrevolution,
-
 stemmed at least in part from the perception,
 as so attributed by Robert Lucas and
 Thomas Sargent, that "massive government
@@ -57,7 +54,6 @@ alluded to problems with measures of "money.
 observed by Lucas and Sargent, and by so
 many others, were simply not the deficits of
 meaningful economic theory.
-
 The significance of a deficit, any deficit, is
 that it adds to net debt. When any agent
 spends more than its income it must borrow

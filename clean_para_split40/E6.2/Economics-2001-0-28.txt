@@ -11,7 +11,6 @@
 0.00
 
 1948-73 1973-90 1990-95 1995-09
-
 *Labor Quality 8 Non-IT Capital Deepening EIT Captal Deepening El Non-IT Productivlty OIT Productivity
 FIGURE 12. SOURCES OF AVERAGE LABOR PRODUCTIVITY GROWTH
 Note: Contributions are from Table 8.
@@ -35,9 +34,7 @@ deepening contributed 0.60 percentage points,
 offsetting a negative contribution of labor quality
 of 0.20 percent. The acceleration in TFP
 added 0.51 percentage points.
-
 H. Research Opportunities
-
 The use of computers, software, and communications
 equipment must be carefully distinguished
 from the production of IT.39 Massive
@@ -48,10 +45,8 @@ efficient, more IT equipment and software is
 produced from the same inputs. This raises productivity
 in IT-producing industries and contributes
 to TFP growth for the economy as a
-
 whole. Labor productivity also grows at both
 industry and aggregate levels.
-
 Second, investment in information technology
 leads to growth of productive capacity in
 IT-using industries. Since labor is working with

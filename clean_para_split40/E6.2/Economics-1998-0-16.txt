@@ -11,9 +11,7 @@
 0
 
 I ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ I I II
-
 -6 -4.5 -3 -1.5 0 1.5 3 4.5 6
-
 TFP Growth Rate
 
 FIGURE 6A. AVERAGE ANNUAL TFP GROWTH RATE: MEXICAN MANUFACTURING 1984-1994
@@ -28,14 +26,11 @@ conveniently think in terms of logarithms, so
 let:
 
 V = observed value added of firm;
-
 pj = estimated firm-level price index;
 y, = v, - p, = estimated output;
-
 Vj = Tj + ej [Tj =true value added];
 p= = 7rj + Uj [7r, = true price index]; and
 qj = T- 7r, [true output of firm].
-
 We would like to have data on cj and its
 variance
 
@@ -43,15 +38,11 @@ variance
 
 If we simply work with observed value added
 as our quantity variable, we get
-
 a?2 = a2 + a? (assuming at0 = ?)
-
 If we worked with the measured yj, we get
 2= ao + a? + a2 + u2- 2at
-
 (assuming a and e to be strictly random).
 My presumptions are as follows:
-
 (i) We can estimate value added quite accurately
 at the firm level. Hence the presumption
 that ao is small.
@@ -60,14 +51,12 @@ that ao is small.
 variety among the firms and their products.
 Hence, except in cases of industries
 with very homogeneous products, we
-
 should not expect a2 to be small. Hence,
 I expect a > a?
 
 (iii) Finally, we have the presumption that, at
 least at the level of firms within an industry,
 o7 < 0. We know that firms
-
 choose to operate in regions of the demand
 curve where they consider the elasticity
 facing them to be greater than one.
@@ -77,7 +66,6 @@ in value added to accrue to those firms
 in an industry which were passing along
 to consumers some of the fruits of current
 or past real cost reductions.
-
 These three presumptions lead me to the conclusion
 that ao is likely to understate the true
 variance of output ao (because - 2JT > 0 and

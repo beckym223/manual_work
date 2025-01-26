@@ -4,7 +4,6 @@ class, age, and education levels. This
 follows the approach of Jorgenson et al. (1987).
 The estimates have been revised and updated by
 Mun S. Ho and Jorgenson (2000).28
-
 The distinction between labor input and labor
 hours is analogous to the distinction between
 capital services and capital stock. The growth in
@@ -27,7 +26,6 @@ the growth of hours worked, which rose from
 1.17 percent for 1990-1995 to 1.98 percent for
 1995-1999, as labor-force participation increased
 and unemployment rates plummeted.
-
 The growth of labor quality has declined considerably
 in the late 1990's, dropping from 0.53
 percent for 1990-1995 to 0.20 percent for

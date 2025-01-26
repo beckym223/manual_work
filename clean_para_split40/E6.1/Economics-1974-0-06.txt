@@ -1,8 +1,6 @@
 the current fashion for exalting
-
 Ricardo over his successors; Ricardo implicitly
 equated supply and demand on all
-
 his markets without ever realizing the
 problematic nature of this process. Jevons
 felt obliged to enunciate explicitly a Law
@@ -16,11 +14,9 @@ and ignored the market completely. It is
 Walras's auctioneer which has proved to
 have had the most enduring effect on subsequent
 theoretical development, and the
-
 stability theory which flows from that concept
 is still the subject of vigorous theoretical
 development, though very little
-
 empirical application. What is envisioned
 is a feedback mechanism in which errors
 in the price are successively corrected by
@@ -30,17 +26,14 @@ the operations of the market. But on one
 hand the stability models are far from
 adequate representations even of the dynamics
 of the neoclassical models and,
-
 what may be connected, the results are by
 no means necessarily favorable to the
 stability of the adjustment process; and on
 the other hand, the motivations for the
 feedback to operate are obscure.
-
 Let me be clear on one methodological
 point. The fact that our intuitive understanding,
 our verstehen as the German
-
 social methodologists call it, of the market
 as an institution is not entirely satisfactory
 does not mean that we should not use the
@@ -51,30 +44,24 @@ theory is to be judged by its ability to
 predict and understand phenomena. The
 theory of the perfect market is in an interesting
 way complementary to Keynesian
-
 theory. We have never been able to
-
 integrate Keynesian viewpoints into standard
 neoclassical theory, in terms of individual
 motivation, yet this theory, with
-
 its various modifications, has been a most
 serviceable tool of prediction and control.
 In fact, it is useful in domains where competitive
 theory fails and vice versa. Neither
 theory is good, however, at predicting dynamic
 processes, the short-run changes
-
 which are responses to disequilibria, and it
 is here that the pressure for a more satisfactory
 model arises.
 
 Hold in abeyance for a moment our considerations
 about the market. Let us return
-
 to the optimization problem of the individual.
 One aspect on which we put a
-
 good deal of weight, particularly in our less
 formal discussions, is that a market system
 is informationally economical. That is, we
@@ -90,13 +77,11 @@ taken as a whole, has vastly more in it
 than any one individual knows; it contains
 the utility functions and production possibilities
 of all individual agents. Indeed,
-
 the apparent modesty of the information
 needed is one of the most appealing aspects
 of the neoclassical model, both in the
 descriptive sense that the individual's decision
 problems appear manageable for him
-
 and for the economist studying him, and
 in the normative sense that the system
 permits its members to spend their time
@@ -104,7 +89,6 @@ and effort at producing goods rather than
 in unnecessary duplication of information.
 But clearly this simplification of the individual'
 s decision making is made possible
-
 only because the markets have supplied
 the information economized on, in the form
 of prices. In equilibrium, at least, the system

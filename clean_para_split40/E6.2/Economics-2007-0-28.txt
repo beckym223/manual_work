@@ -6,7 +6,6 @@ from changes in their conception of the family--
 of their own place within it and of the place of
 their heirs. That also occurred over a very long
 run-over the course of centuries.
-
 B. Life-Cycle Hypothesis
 
 Regarding the life-cycle hypothesis, we argued
@@ -20,7 +19,6 @@ place, such stabilization will make the adherence
 to the norm less costly, not more costly,
 in purely economic terms. Furthermore, macroeconomic
 sources are responsible for only a
-
 small fraction of the variation in individual
 incomes. As a result, there is further reason
 why the role of current income in norms is
@@ -28,7 +26,6 @@ unlikely to change as a result of macroeconomic
 stabilization.
 
 C. Cash Flow and Investment
-
 The rise of the CFO suggests that norms
 regarding investment have changed in large US
 firms. Quite possibly, this change occurred because
@@ -77,9 +74,7 @@ change-with the possibility that they underadjust
 to increases in inflation when it is low
 and overadjust when it is high-should be
 empirically investigated.
-
 E. Where Do the Norms Come From?
-
 We do not know the general answer to the
 question where norms come from. This lecture
 has tried to make the case that norms, such as

@@ -17,16 +17,13 @@ with sales or purchases for future delivery
 (i.e., negative inventories) or through affecting
 some other form of intertemporal substitution
 between, for example, labor and
-
 leisure, now and in the future.2
-
 Markets for commodities, of course, vary
 widely in the extent to which inventories are
 able to stabilize price or consumption. At the
 one extreme is the traditional market for
 fresh flowers. Holding inventories is, by definition,
 impossible. Random fluctuations in
-
 the production of or the demand for fresh
 flowers are thus fully reflected in daily prices.
 And because the immediate response of
@@ -35,7 +32,6 @@ definition, and the response of amounts demanded
 to price is relatively small, price
 fluctuations in fresh flowers may be substantial.
 Inventories cannot supplement
-
 below-normal current production; nor can
 inventories be accumulated to profit from a
 below-normal current price or from an
@@ -51,12 +47,10 @@ that rational expectations and inventory
 adjustments tend to stabilize prices and consumption
 in the presence of random fluctuations
 in supply or demand.3 On the other
-
 hand, durable or " permanent" changes in
 supply or demand alter the equilibrium price,
 and, almost at once, the actual market price
 begins to reflect that change.
-
 II. Price Speculation
 
 However, the existence of large inventories
@@ -88,7 +82,6 @@ by calculation of the future" (pp. 337-38). Marshall
 perhaps failed to close his argument by stating explicitly
 that expected prices enter into today's production decisions,
 although that is clearly implied.
-
 21t was in precisely the context of inventories-and
 by explicit analogy with the wheat market-that I once
 explained Keynes' theory of the "speculative demand"

@@ -25,13 +25,11 @@ are low enough, referred to as an earnings or
 retirement test. Each of these steps in determining
 benefits affects income distribution, insurance,
 and labor supply. I will skip over
-
 implications of using 35 years (as opposed to
 more or fewer years or all of lifetime earnings
 subject to tax)41 and of using a wage index to
 weight the earnings in different years in determining
 benefits (as opposed to using an
-
 interest rate)42 and concentrate on the effects
 
 
@@ -56,7 +54,6 @@ of these opportunities. When many workers can
 not sort out the basics of portfolio diversification
 in their 401(k)s, there is no reason to anticipate
 successful execution of far more
-
 complex financial strategies. By having replacement
 rates that are higher for lower levels of
 lifetime earnings, a social security system that

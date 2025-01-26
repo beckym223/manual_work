@@ -10,7 +10,6 @@ wants to use a stochastic growth model with
 CRRA preferences to account for the entire
 return differential between stocks and bondshistorically
 about 6 percent-as a premium for
-
 risk, the parameter y must be enormous, perhaps
 50 or 100.11 Such values obviously cannot
 be squared with (6). This "equity premium puzzle"
@@ -27,7 +26,6 @@ proposed different forms of recursive utility,
 preference families in which there is one parameter
 to determine intertemporal substitutability
 and a second one to describe risk
-
 aversion. The first corresponds to the parameter
 y in (6), and can be assigned a small
 value to fit estimated average returns to capital.

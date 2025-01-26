@@ -6,7 +6,6 @@ to traditional monetary theory-liquidity
 preference-and an unorthodox hypothesis
 about the working of the labor market-complete
 downward rigidity of wages.
-
 Because of liquidity preference, a change in
 aggregate demand, which may be broadly defined
 as any event that results in a change in the
@@ -58,7 +57,6 @@ which is smaller than the original shift. The stabilizing
 power of this mechanism is controlled
 by various parameters of the system. In particular,
 the economy will be more unstable
-
 the greater the interest elasticity of demand for
 money, and the smaller the interest responsiveness
 of aggregate demand. Finally, a large
@@ -92,8 +90,6 @@ for money was highly interest elastic;
 failure to distinguish between the short- and
 long-run marginal propensity to save led to overestimating
 the long-run saving rate, thereby
-
 fostering concern with stagnation, and to underestimating
 the short-run propensity, thereby
-
 exaggerating the short-run multiplier. Interest

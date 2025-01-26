@@ -1,8 +1,6 @@
 retirement health accounts (PRHAs) that finance a
 range of Medicare choices.
-
 IV. Unemployment Insurance
-
 Although unemployment insurance is a relatively
 small program with total federal and state
 outlays in 2003 of $39 billion, it is particularly
@@ -57,17 +55,14 @@ a source of increased inflation, it continues to
 raise the rate of unemployment. This is a particularly
 serious problem in Europe where unemployment
 rates remain close to 10 percent.
-
 The old notion that unemployment benefits
 were too low to affect the economy was the
 result of a misleading comparison of the average
 weekly unemployment benefit and the average
 weekly wage. Although the average
-
 benefit was only about 30 percent of the average
 wage of all workers, the unemployed had substantially
 lower pre-unemployment wages than
-
 the labor force as a whole. Unemployment insurance
 benefits actually averaged about 50 percent
 of the pre-unemployment income of those

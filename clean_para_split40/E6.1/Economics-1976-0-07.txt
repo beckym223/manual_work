@@ -8,7 +8,6 @@ which economists should address themselves
 is the "optimum" allocation of resources,
 and it insists on providing a precise
 definition of optimum. (Compare
-
 Ward, pp. 52-54, 90.) Since, as Koopmans
 points out, competitive equilibrium theory
 ignores the welfare implications of the personal
@@ -21,17 +20,14 @@ analysis also must face the problem
 of how optimally to combine rigor and
 relevance. What we today call macroeconomics
 grew out of the catastrophe of
-
 the Great Depression,'0 and in the early
 development of macro-economic analysis
 relevance took precedence over rigor. Today,
 rigor competes with relevance in
-
 macro-economic and monetary theory, and
 in some lines of development macro and
 monetary theorists, like many of their colleagues
 in micro theory, seem to consider
-
 relevance to be more or less irrelevant. A
 good example has been the elaboration of
 so-called growth theory Ahich now seems
@@ -40,7 +36,6 @@ Apparently, there has come to be a growing
 recognition that the considerable efforts
 spent on growth models have not significantly
 advanced knowledge beyond the
-
 contributions of the original Harrod-Domar
 and the Solow-Swan neoclassical models.
 And other intriguing topics have arisen to
@@ -51,7 +46,6 @@ In both micro- and macroeconomics, efforts
 are sometimes made to extract a drop
 or two of relevance from exercises in analytical
 rigor; and conclusions are drawn
-
 about the functioning of some aspect of
 the real world, or policy recommendations
 are made, on the basis of theoretical exercises
@@ -62,27 +56,22 @@ function, with its built-in assumptions
 of constant returns and perfect competition,
 to industries in which these assumptions
 obviously do not hold. Another
-
 example is a good deal of the recent literature
 seeking to reformulate the microeconomic
 foundations of macro-economic
-
 theory and policy-what Edmund Phelps
 (1969, 1972) has termed "The New Microeconomics
 in Inflation and Employment
-
 Theory." The theoretical analysis in much
 of this literature rests on assumptions that
 also fly in the face of the facts. To cite a
 few examples: all unemployment is a voluntary
 activity as part of a search procedure
 in which workers are continuously
-
 equating costs and prospective benefits at
 the margin; the labor supply is typically
 taken to be homogeneous with perfect mobility
 among labor submarkets; so-called
-
 structural unemployment is ignored as are
 the striking differences in unemployment
 rates among different age, sex, ethnic, and

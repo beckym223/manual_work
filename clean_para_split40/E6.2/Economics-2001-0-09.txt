@@ -16,7 +16,6 @@ Robert P. Parker and Grimm (2000) describe
 the new estimates of investment in software. BEA
 distinguishes among three types of softwareprepackaged,
 custom, and own-account software.
-
 Prepackaged software is sold or licensed in standardized
 form and is delivered in packages or
 electronic files downloaded from the Internet.
@@ -40,7 +39,6 @@ more than 10 percent per year over the period
 matched model price index for all prepackaged
 software from the PPI; prior to 1998 the PPI
 data do not hold quality constant.
-
 BEA's prices for own-account software are
 based on programmer wage rates. This implicitly
 assumes no change in the productivity of

@@ -17,7 +17,6 @@ whether it is at all "possible" for us to hang
 on.
 
 VI. Procedures and Consequences
-
 I turn now to the general issue, identified
 earlier, of the contrast between relying respectively
 on (i) the "rightness" of procedures,
@@ -36,12 +35,10 @@ of the process through which they are
 brought about? I shall also presently question
 whether this presumption of processindependence
 is the right way of seeing the
-
 claims of social choice theory. Second, can
 we do the converse of this, and judge procedures
 adequately in a consequence-independent
 way? This issue I take up first.
-
 Sugden (1981, 1986), who has extensively
 analyzed this dichotomy (between procedural
 and consequence-based views), explains
@@ -61,7 +58,6 @@ interdependent world, examples of permissive
 rules that fail to generate the freedom
 to pursue the respective individual ends are
 not hard to find (see Sen, 1982b).
-
 Indeed, it is not easy to believe that the
 public-choice approach is-or can bereally
 consequence-independent. For example,

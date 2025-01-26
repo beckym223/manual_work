@@ -74,11 +74,9 @@ and benefit changes.
 
 A. Fully Funded Defined Contribution and
 Partially Funded Defined Benefit
-
 The parallel to the workings of the ArrowDebreu
 model and the completeness of the specification
 makes economists more comfortable
-
 thinking in terms of mandated fully funded defined
 contribution systems than the type of partially
 funded defined benefit system we have.

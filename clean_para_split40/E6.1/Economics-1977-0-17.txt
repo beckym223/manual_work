@@ -61,7 +61,6 @@ slack. In short, once a price shock hits, there is
 no way of returning to the initial equilibrium
 except after a painful period of both above equilibrium
 unemployment and inflation.
-
 There are, of course, in principle, policies
 other than aggregate demand management to
 which we might turn, and which are enticing
@@ -86,7 +85,6 @@ money supply will provide a satisfactory response
 to price shocks in the sense of giving
 rise to an unemployment-inflation path to which
 the country would object least?
-
 C. The Monetarist Prescription: Or, Constant
 Money Growth Once More
 

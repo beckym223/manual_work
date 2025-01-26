@@ -1,5 +1,4 @@
 THE AMERICAN ECONOMIC REVIEW
-
 rate each year to produce enough revenues to
 cover expenditures for given values of
 points.71 Both types of adjustment need a
@@ -7,7 +6,6 @@ small buffer stock of assets (or borrowing
 ability) because of lags between setting benefit
 or tax rules and the determination of actual
 expenditures and revenues.72
-
 U.S. Social Security uses price and wage
 indexing in the determination of both benefits
 and the payroll tax base.73 This reliance on
@@ -21,7 +19,6 @@ anticipation of or in response to life expectancy
 changes. The other is to decrease the actuarial
 imbalance in a way that may be easier politically
 than comparable direct changes.
-
 But what mix of benefit and revenue changes
 is the best response to increased life expectancy?75
 71 To some, this is the heart of a defined benefit system,
@@ -104,7 +101,6 @@ a good idea.
 Should we have more automatic adjustments
 helped and hurt by an increase are not likely to be simply
 related to life expectancy.
-
 76 Automatic adjustment of benefits for life expectancy
 is naturally done on a cohort basis, while any adjustment in
 taxes is naturally done on a yearly basis. Thus more rapid

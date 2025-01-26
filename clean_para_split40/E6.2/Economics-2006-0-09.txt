@@ -12,12 +12,10 @@ punishment breeds agoraphobia. Just as
 children humiliated in the classroom may be
 turned off rather than educated, consumers humiliated
 in the marketplace may develop an
-
 aversion to markets, where opportunities for
 choice may be interpreted as opportunities for
 mistakes, embarrassment, and regret.
 A. Memory and Perceptions
-
 There are now extensive experiments and
 insights from cognitive psychology showing
 that memory is imperfect and perceptions are
@@ -29,7 +27,6 @@ of alternatives and our preferences, and
 imperfections in remembering facts and sensations
 can distort our perspective, leading to inconsistent
 behavior and disappointment. Table
-
 1 summarizes some of these effects; I will comment
 on how they can lead to suboptimal market
 outcomes.
@@ -44,14 +41,12 @@ ad matches the mood of the consumer. George
 Loewenstein (1996) finds that emotional sensations
 are more easily remembered than nonemotional
 ones, but emotions themselves are
-
 difficult to retrieve from memory-we remember
 experiencing episodes of pleasure or pain,
 and these memories can powerfully condition
 our behavior-"once burned, twice shy"-but
 we fortunately cannot relive the experiences in
 their original intensity.
-
 Finding and retrieving information from
 memory is a complex cognitive task. The answer
 may be on the tip of your tongue, but

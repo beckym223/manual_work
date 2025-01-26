@@ -8,21 +8,17 @@ problems of the day, there is a simple and
 straightforward remedy, the payment of
 interest on demand deposits and possibly,
 with ingenuity, on currency too.
-
 The ultimate disaster of inflation would
 be the breakdown of the monetary payments
 system, necessitating a currency
-
 reform. Such episodes have almost invariably
 resulted from real economic catastrophes-
 wars, defeats, revolutions, reparations-
 not from the mechanisms of
-
 wage-price push with which we are concerned.
 Acceleration is a scare word, conveying
 the image of a rush into hyperinflation
 as relentlessly deterministic and
-
 monotonic as the motion of falling bodies.
 Realistic attention to the disaggregated
 and stochastic nature of wage and price
@@ -52,16 +48,13 @@ even when the price level is stable. The
 mistakes are more likely, or the more
 costly to avoid, the greater the inflationary
 trend. There are costs in setting
-
 and announcing new prices. In an inflationary
 environment price changes must
-
 be made more frequently-a new catalog
 twice a year instead of one, or some formula
 for automatic escalation of announced
 prices. Otherwise, with the interval
 between announcements unchanged,
-
 the average misalignment of relative prices
 will be larger the faster the inflation. The
 same problem would arise with rapid
@@ -69,7 +62,6 @@ deflation.
 
 Unanticipated inflation and deflationand
 unanticipated changes in relative
-
 prices-are also sources of transfers of
 wealth. I will not review here the rich and
 growing empirical literature on this subject.
@@ -93,7 +85,6 @@ anti-inflation.
 
 I have long contended that the government
 should make low-interest bonds of
-
 guaranteed purchasing power available
 for savers and pension funds who wish to
 avoid the risks of unforeseen inflation. The
@@ -104,6 +95,5 @@ question refers to the effects on aggregate
 real demand, ceteris paribus, of a change in
 the price level. The Pigou effect tells us
 that government bondholders whose
-
 wealth is diminished by inflation will spend
 less. This brake on old-fashioned gap

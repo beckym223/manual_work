@@ -6,9 +6,7 @@ and the deduction for charitable contributions
 were restricted to amounts in excess of
 two percent of income. In addition, the taxexemption
 for interest on newly issued state
-
 and local bonds should be removed.
-
 Although income tax compliance is better
 in the United States than in most other
 countries, roughly 15 percent of individual
@@ -45,7 +43,6 @@ and gift taxes to compensate for their low
 average rates. These taxes were almost gutted
 by increases in the exemptions and reductions
 in the tax rates when income tax
-
 rates were cut in 1981. Now that the top
 income tax rates are even lower, it is time to
 rely more heavily on the estate and gift
@@ -101,13 +98,11 @@ on pre-1986 data relating charitable giving to
 income, the price of giving, and other variables fail
 utterly to predict the response of charitable giving to
 the Tax Reform Act of 1986.
-
 44Kenadjian (1988).
 
 45For discussions of the function of a two-earner
 deduction and the need for income averaging, see Pechman
 (1987a), pp. 102-7 and 127-28.
-
 46To prevent undue hardship to highly leveraged
 firms, the denial of the interest deduction might be
 phased in over a period of years.

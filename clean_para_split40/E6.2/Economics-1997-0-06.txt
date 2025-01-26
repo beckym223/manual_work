@@ -9,20 +9,17 @@ internal to the industry), it was believed
 that no individual producer would find it profitable
 to start production. In these circumstances,
 the infant industry argument could
-
 justify temporary intervention to make entry
 into the new industry privately profitable provided
 that, over the longer term, its costs
 would decline below the imported cost by
 enough to yield an economic return on the intervening
 loss, which could be viewed as an
-
 investment.
 
 Although the infant industry argument was,
 in a first-best world, an argument for a production
 subsidy (which would presumably
-
 equal the unit value of the externality and
 might apply as well for production for exports
 as for the domestic market), it was combined
@@ -38,7 +35,6 @@ were infant industries requiring initial intervention,
 and that export earnings were unlikely
 to increase, the stage was set for trade
 and industrialization policies.
-
 The premises underlying import-substitution
 policies were so widely accepted that developing
 country exceptions were even incorporated
@@ -55,18 +51,15 @@ system, would accept an "exception" for
 developing countries shows how deeply entrenched
 the views supporting import substitution
 were. It is arguable that the very
-
 existence of this exception not only legitimized
 developing countries' inner-oriented
 trade policies, but also removed pressures
 that might otherwise have been brought to
 bear earlier for them to adopt trade and payments
 regimes more conducive to economic
-
 growth. "
 
 D. Resulting Evolution of Policies
-
 In one way or another, provision was made
 in country after country that, once domestic
 production became feasible, imports would be

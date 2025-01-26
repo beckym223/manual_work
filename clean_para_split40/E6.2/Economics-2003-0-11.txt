@@ -1,4 +1,3 @@
-THE AMERICAN ECONOMIC REVIEW
 would borrow against future labor income if
 they could-enjoy a utility gain equivalent to a
 4-percent perpetual increase in consumption.
@@ -46,11 +45,8 @@ increased from 2 to 4.
 
 Two features of the theory interact to bring
 this about.22 First, and most crucial, is a differ-
-20 See Satyajit Chatterjee and Dean Corbae (2000).
-21 Based on Exhibits 2 and A.3.1.
-22 Storesletten et al. do a good job of breaking the
-differences into intelligible pieces. I also found the example
-explicitly solved in Krebs (2002) very helpful in this regard.
+
+
 ence in the way reductions in the variance of
 aggregate shocks affect risks faced at the individual
 level. In the Storesletten et al. simulations,
@@ -103,7 +99,4 @@ models capable of bringing cross-section and
 panel evidence to bear on this and other macroeconomic
 questions is an enormous step forward.
 But Krusell and Smith find only modest
-effects of heterogeneity on the estimates of wel-
-10
-
-MARCH 2003
+effects of heterogeneity on the estimates of welfare

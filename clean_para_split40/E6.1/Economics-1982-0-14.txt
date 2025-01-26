@@ -93,9 +93,3 @@ periods to be formally equivalent to different
 goods we may take our supplier to be an
 intertemporal natural monopolist in a multiproduct
 industry. That is, no combination of
-3The reader can readily generalize this result. If the
-flat-bottomed segment for the firm extends from ym to
-ym(l + I/w), where w is an integer, then there will be w
-regions of linear homogeneity in the industry cost function
-and it will be linearly homogeneous for any output
-y , wy mtwo

@@ -1,0 +1,47 @@
+Slovenia, South Africa, and Zambia. As suggested by Diewert (2008), these detailed ring prices
+were used in a modified version of the CPD regression (1)
+(3) \npf - In/?/7" = cy? + 7/ +
+
+where p-'f is the ring price for item j in basic head / in country c in region r, p[r is the previ
+ously established regional parity for basic head /, from (3), and the right-hand side variables are
+regional and item dummies. Intuitively, each item price in the ring, p-- \ the price of shrimp (j) in
+the fish basic heading (z) in ring country c in region r, is converted to the region numeraire cur
+rency (e.g., Hong Kong dollars for Asia/Pacific) using the previously established within-region
+parity for fish, pc'r from (2). The regression (3) then picks out the regional log price level for
+fish, a'h e.g., in Hong-Kong dollars per global numeraire, which is the numeraire of the OECD
+Eurostat region, the US dollar. We then have a set of all-region parities for each basic heading,
+exp(a/"), which are unity for the numeraire region (OECD-Eurostat). These "prices," together
+with the regional aggregates of expenditures on each basic head expressed in regional numeraire
+currency, are used in a global multilateral aggregation to give regional PPPs, one index for each
+region, that allow the within-region PPPs to be scaled up to global PPPs.
+Four specific aspects of this ICP construction are of concern here. First, the absence of weights
+within basic headings, including the lack of representativity weights, may result in basic head
+ings being priced using high-priced unrepresentative goods that are rarely consumed in some
+countries. This is a particular concern for the ring, where identical goods are being matched
+across very different countries. Second, when country PPPs are constructed from the prices of
+basic headings, the ICP uses expenditure weights from the national accounts. These weights are
+appropriate for national income accounting purposes but do not reflect the consumption patterns
+of people who are poor by global standards. Third, the joining of the regions using the ring
+information is based on region-wide "super" PPPs in which, for example, there is a price level
+for Africa or Asia/Pacific relative to the OECD. Measurement errors, or conceptual problems in
+these indexes?I think of these as "tectonic" price indexes?play an important role in determin
+ing global inequality. Fourth is an issue to which I shall return only briefly, which is an urban
+bias in price collection in some countries, particularly large countries such as China.
+The second issue, reweighting for poverty, has been investigated by Deaton and Dupriez
+(2009) who compute a new set of PPPs for the countries in the poverty counts, using the price
+data from the 2005 ICP but reweighting by the expenditure patterns of people near the global
+poverty line in each country. Their main result is that the poverty-weighted PPPs, or P4s, are very
+close to the usual PPPs, or P3s. Indeed, the main difference between the indexes comes not from
+the reweighting, but because the P4s use household survey data?the only source of information
+on the expenditure patterns of the poor?rather than NAS data, and because there are incon
+sistencies between the two sources. The insensitivity to reweighting may seem surprising given
+that patterns of consumption for the global poor are very different from the plutocratic patterns
+of consumption in the national accounts. But that by itself is not enough to generate a difference
+in the price index or the PPP. Between any pair of countries, the substitution of poverty-line for
+NAS budget shares will only change the price index between them if the change in budget shares
+induced by movement down the income distribution is systematically correlated across goods
+with the price relatives in the two countries. This would happen if we were calculating a price
+index for a pair of countries, one rich, with low food share and low relative prices of food, and
+a poor country, with high food share and high relative prices for food (much of food is traded),
+where the move from a plutocratic to poverty weighting will increase the price level in the poor
+relative to the rich country. Among a group of countries, all of which are relatively poor, this

@@ -1,0 +1,50 @@
+fixed "calorie needs" are met, and thus to an apparent increase in poverty, exactly contrary to
+the true state of affairs; see Deaton and Jean Dr?ze (2009) for a discussion of the Indian case,
+and Government of India (2009), which has recently explicitly repudiated the calorie basis for
+its poverty lines. At the same time, small changes in lines can have large effects on the counts
+when there is a large fraction of the population near the line; more generally, it is hard to justify
+treating people so differently, whether or not they happen to fall on one or the other side of a
+largely arbitrary line.
+
+Poverty counts can also be very sensitive to survey design. Given a global line, the contribu
+tion of a country to the world count is the number of people whose household per capita expen
+diture lies below the local value of the line, a number that is estimated from household surveys.
+Yet some surveys collect data on income, not on consumption; most countries do not have regular
+annual surveys; and in many cases, surveys change over time in ways that make the counts non
+comparable, for example by being collected in different parts of the year, collecting different lists
+of goods, or covering different selections of the population. There are long-standing questions
+about the ability of household surveys to capture consumption or income, even to the extent of
+showing an increase in poverty when the opposite is true (N. S. Jodha 1988). Survey means are
+often inconsistent with comparable means from the national accounts, and although there are
+certainly errors in both, there is widespread skepticism about the accuracy of the survey distribu
+tions, with growing concerns in some countries about item and respondent nonresponse. Another
+example comes from the Indian National Sample Survey which, in the late 1990s, experimented
+with a seven-day recall period for food and some other items in place of the 30-day period that
+had long been their standard. This change resulted in a sharp increase in the reported monthly
+flow of expenditure, enough to remove more than 175 million Indians from the national poverty
+count; the effect would have been larger still if the poverty line had been mechanically reset
+using the standard nutritional approach (Deaton 2001, 139-41). Yet recall periods are far from
+standard across countries, so that we should regard global poverty estimates as very rough and
+not be surprised by classification errors involving hundreds of millions of people.
+The survey based counts cannot satisfy another demand, which is for annual monitoring of
+world poverty. The World Bank updates its global poverty counts by scaling up the latest survey
+distributions by growth factors taken from the NAS, but the inconsistencies between survey and
+NAS growth rates in many countries mean that such estimates are potentially subject to substan
+tial revisions when the new survey data are collected, and it is unclear whether such estimates
+provide any new information beyond the consumption and income data in the NAS, which are
+themselves of uneven quality and timeliness. Yet international organizations and NGOs regularly
+make claims about the effects on world poverty and on world hunger of current events?most
+recently the rise in food prices and the financial crisis; these claims are essentially extrapolations
+using evidence whose pertinence can reasonably be questioned.
+Given all of the problems, it is worth returning to the idea that people themselves seem to have
+a very good idea of whether or not they are poor. Indeed, the poverty lines set by politicians and
+bureaucrats are often informed by community ideas of what is needed to get by, even if they are
+often subsequently justified by more "scientific" supports. There is also a long and distinguished
+tradition, based on the work of Bernard van Praag (1968), of turning self-reports about income
+adequacy into poverty lines; see Theo Goedhart, Victor Halberstadt, Arie Kapteyn, and van
+Praag (1997), who developed the procedure, which has been used among others by Klaas de Vos
+and Thesia Garner (1991) to compare the United States and Holland, and extended by Menno
+Pradhan and Ravallion (2000) to compare Jamaica and Nepal. So there is something to be said
+for directly asking people around the world how their lives are going, whether they have enough,
+or whether they are in financial difficulty, and in cases where there are reliable income data,
+turning those reports into poverty lines. There are two immediate concerns with such measures

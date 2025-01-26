@@ -1,0 +1,51 @@
+Although the agency friction model has most often been applied to businesses,
+it is even more apt for consumers. Larger businesses escape the agency friction by
+sidestepping intermediaries and selling securities directly to providers of capital.
+Consumers borrow only from intermediaries, with the small exception of borrowing
+from family and friends.
+
+Following the logic of the agency friction model, I consider a variable interpreted
+as a wedge between returns earned by savers and the cost of capital to businesses
+and households. The wedge is equivalent to a property tax on business capital and
+household durables, including houses. Increases in the wedge are potent sources of
+lower output and higher unemployment.
+
+As a result of the real-estate crash, many financial intermediaries suffered severe
+depletion of their equity in long positions in real-estate-related assets. Measuring
+the resulting increase in frictions is a challenge. While it is easy to measure spreads
+for traded instruments, those spreads are not infected by the wedge suggested by
+the agency theory. The spread between BAA corporate bonds and Treasurys of the
+same maturity widened stunningly in late 2008 but the difference did not reflect profit
+accruing to any intermediary. Spreads of that type came back to normal way too fast to
+account for any of the persistence of the slump. These spreads may arise from transitory
+segmentation of asset markets?sudden loss of equity among one class of investors
+results in price declines for the assets they sell. Quickly, other classes of investors
+develop the expertise to recognize the undervaluation of the assets and bid their prices
+back to the normal level relative to safe Treasurys.
+Intermediation spreads are potentially instructive about frictions. One important
+challenge is to distinguish the part of a spread that arises from the probability of
+default from the part that is a true friction. The ideal measure of the spread for bank
+loans would be the lending rate for new loans, less the best forecast of risk-adjusted
+default losses and less the bank's borrowing rate. The difficulty is determining
+the forward-looking expected loss from default. Under the assumption that banks
+stabilize expected default losses for new loans, so that the default component is a
+constant, it is informative to study the total spread between lending and borrowing
+rates. Figure 6 shows the spread based on data from the Federal Reserve Board for
+business loans of $1 million or more. The spread is the loan rate reported by banks
+(not necessarily limited to new loans) less the federal funds rate as a measure of
+the borrowing rate. The spread rose by almost two percentage points and remained
+persistently high. I conclude that the evidence mildly supports the view that spreads
+of the type associated with frictions rose and remained high during the slump. I note
+that the spread remains persistently high at the same time that spreads for traded
+securities have returned to normal.
+
+Figure 6 shows one measure of friction with respect to business investment, the
+spread between the rates that businesses pay and the rate that banks pay to fund
+loans, the fed funds rate. It widened dramatically after the crisis and was still widening
+even in 2010.
+
+Figure 7 shows the spreads between the rate reported by the Federal Reserve Board
+for credit-card borrowing and the federal funds rate. There is just a hint of a decline at
+the end, but the spread definitely remained high for most of the slump to date.
+The most important component of household credit is residential mortgages.
+Figure 8 shows the spread between the rate reported by the Federal Reserve Board

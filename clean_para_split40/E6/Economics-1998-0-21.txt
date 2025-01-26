@@ -1,0 +1,129 @@
+process of growth. Saving is an interesting
+topic in its own right, but the more
+
+''open economy" is the situation being
+
+studied, the less saving has to do with
+
+investment. Saving takes on great importance
+in closed-economy models focused
+
+on aggregate growth, in which
+
+case it is equal to investment. It gets to
+be almost meaningless as one focuses on
+
+the growth of cities and regions, or on
+
+firms and industries.
+
+(iii) The importance of viewing the residual
+as an umbrella covering real cost reductions
+of all kinds, and of recognizing that
+
+we are closer to home thinking that RCR
+
+takes 1001 forms than that it can be well
+represented by one or two or three
+
+aggregate-style variables.
+
+(b) In principle, the accumulation of human
+capital by the laborforce should be represented
+in the labor contribution of the
+
+growth equation, or in a bifurcation of this
+contribution into one due to raw labor, the
+other to human capital. It is in a term like
+iwiALi that one captures the shifting skill
+composition of the labor force. In particular,
+we capture here the higher wages that are the
+fruits of investment in education and training,
+which are the benefits that the workers themselves
+perceive. These should be kept separate
+
+from any externalities education might
+
+have.
+
+It is important to try to keep this internalized
+part of the story out of the residual, so that we
+can straightforwardly interpret the residual as
+real cost reduction.
+
+(c) To study externalities due to education,
+training, or human capital, we should not be
+content with broad generalizations such as
+"TFP growth is higher in entities with lots of
+human capital per worker." We should try to
+figure out how this externality works. Is it
+higher forfirms with high incidence of human
+capital? Is it higher for industries or sectors?
+Or are human capital externalities more spatial
+in nature, making more efficient the economic
+life of the cities, provinces, states, or nations
+which have high concentrations of human capital?
+And if this is a fruitful trail to pursue, at
+what type and size of geographical units do
+these externalities typically work?
+
+(d) The same goes for economies of scale.
+We should not be satisfied with vague attributions
+of economies of scale, say, at the level
+of the national economy. Instead, we should
+pursue the matter. If the economies of scale
+are national, through what channels do they
+work, and what evidence do we have to look
+at to see them in operation? In particular, what
+is their connection to real cost reductions
+where they really happen-i.e., at the level of
+the firm? Economies of scale at the levels of
+the firm and the industiy are easier to visualize.
+Here, too, however, the task is to check
+them out-to see if the real cost reductions of
+firms are linked to the initial sizes of those
+firrns themselves, or of the industries in which
+they operate, and of the direction (up or down)
+in which output is moving.
+
+(e) Perhaps most important of all, we
+
+should really try to take full advantage of evidence
+at the firm level. I think particularly of
+identifying considerable numbers of outstanding
+cases of TFP improvements and TFP decline,
+and studying them one by one to try to
+
+ferret out the sources of their big real cost reductions
+and real cost increases. You can be
+
+pretty sure, if there have been big real cost
+reductions in a firm, some people in that firm
+have a pretty good idea of where those reductions
+came from and how they were accomplished.
+By capturing this grassroots evidence,
+
+we can put some added discipline into our ruminations
+about the nature of TFP at the aggregate
+level. We must follow up on the sort
+
+of work pioneered by Jacob Schmookler
+
+(1966) and Edwin Mansfield (1995). In general,
+our aggregate story should be compatible
+with, and comfortably contain, what we see at
+the grassroots level. In particular our overall
+picture of TFP improvement should comfortably
+accept the overwhelming evidence of the
+
+"'mushroomss" rather than "yeast" nature of
+the process.
+
+(f ) Special urgency applies to the study of
+declining total factor productivity at both the
+firm and the industry levels. The pervasiveness
+of declining TFP is perhaps the most profound
+conclusion to emerge from the empirical links
+that I have reported here. As a profession, we
+obviously have been aware of its existence at
+the industry level for virtually all studies that

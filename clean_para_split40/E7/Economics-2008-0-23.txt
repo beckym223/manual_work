@@ -1,0 +1,36 @@
+The direction-of-fit issue discussed by King and Watson (1994) helps explain how some of
+Pnmicen's results relate to Cogley and Sargent's Both models emphasize how monetary policy
+changed as the authorities updated their estimates, and Primicen also attributes the inflation of
+the 1970s to the high perceived sacrifice ratio that Keynesian Phillips curve models presented to
+policymakers But Primicen assumes that the Fed relied exclusively on a version of the Solow
+Tobin model and is silent about why the Fed disregarded the recommendations of the Lucas
+model The central element of his story?the high perceived cost of disinflation or sacrifice
+ratio?is not a robust feature across the three submodels used by Cogley and Sargent, because it
+depends critically on the direction of fit, as documented by Cogley and Sargent (2005, 546-47)
+The sacrifice ratios differ so much across submodels because of how the submodels interpret
+the diminished, near-zero contemporaneous covanance between inflation and unemployment
+that had emerged by the mid-1970s In a Keynesian Phillips curve, this diminished covanance
+flattens the short-term trade-off, making the authorities believe that a long spell of high unemployment
+would be needed to bring inflation down, prompting Keynesian modelers to be less
+inclined to disinflate But for a classical Phillips curve, the shift toward a zero covanance steepens
+the short-term tradeoff, making the authorities believe that inflation could be reduced at less
+cost in terms of unemployment Thus, a classically oriented policymaker was more inclined to  disinflate
+D Lessons about Inflation Targeting
+
+Each of our stones about post-WWII US inflation features a government loss function that
+weighs both unemployment and inflation, thereby taking seriously the "dual mandate" that the
+Full Employment Act of 1946 and the Full Employment and Balanced Growth Act of 1978
+(Humphrey-Hawkins) convey to the Fed If they had assumed that the government one-period
+loss function is 772 instead of (U2 + 772),40 then none of our stones could get off the ground
+Despite the different imperfections in the approximating models they attribute to the monetary
+authority, all of the models would have the monetary authority always set target inflation to
+zero and be indifferent to the accompanying unemployment outcome Each of our three stones
+thus contains a justification for inflation targeting as a device that compensates for model
+misspecification 4I
+
+Inflation-unemployment outcomes after WWII have caused many countries to adjust what
+they expect from monetary policy by mandating inflation targeting That partly reflects extensive
+cross-country copying and partly a widespread belief that monetary authorities do not have good
+enough models to do more When we asked for more, we usually got less
+forgiving in still putting positive probability on those other models after the early 1970s data had come in, and that the  inflation problem of the 1970s would have been solved by driving a stake through those other models But no one has  the authority to drive stakes through models, and models with operating characteristics much like those two survive  today The dispute between the fallacious (according to Friedman and Anna J Schwartz (1963, 191)) real bills doctrine
+and the quantity theory of money is mottled with repeated episodes having one of these doctrines being disposed of in  favor of the other, then the other making a comeback The real bills doctrine rides high in times like these when the  Fed pegs a short term interest rate

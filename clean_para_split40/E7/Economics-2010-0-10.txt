@@ -1,0 +1,46 @@
+effect is typically not pronounced. In effect, although their patterns of demand are different,
+international comparisons of poor households give much the same result as international com
+parisons of middle income households.
+
+III. Poverty Lines and Poverty Counts
+
+Most of the increase in the world poverty count with the revision in the ICP can be attributed
+to two main factors only one of which, the treatment of housing rental, is directly attributable
+to the ICP itself. Much more important was an increase in the global poverty line. Although
+the procedure that the Bank used to calculate the global line is the same as previously, the line
+itself has been increased. Both of the factors are of general interest. The treatment of housing
+is a major concern for virtually all price index work and will be so for future rounds of the ICP.
+The procedure for calculating the global poverty line will also determine the future path of the
+global count, and in particular how the global line changes as countries get richer. I deal with  each issue in turn.
+A. Actual and Imputed Rent for Housing
+
+Housing rental, including imputed rental for owner occupiers, is a difficult ("comparison resis
+tant") area for the ICP; see Deaton and Heston (2010). For the African and Asian regions, the
+2005 ICP had to fall back on an imputation. Because the ICP is primarily focused on obtaining
+"volume" measures of GDP in international currency, it was decided to impute rental by assum
+ing that, for countries in Asia and Africa, the volume of rental was a fixed proportion of GDP.
+This is a neutral imputation because, unlike other possibilities, it does not disturb the ratios of
+GDP across countries. However, what is neutral for quantities is not neutral for prices. The parity
+for the rental basic heading is derived as the ratio of expenditures on rental (which comes from
+each country's national accounts) divided by the assumed quantity, which is taken by the imputa
+tion to be proportional to GDP. For countries that make little or no allowance for owner-occupier
+rentals in their national accounts, this "imputed" parity will be very low. Table 2 shows the parity
+for housing rentals relative to the overall parity for consumption for the 15 poor countries whose
+national poverty lines in international currency are averaged to give the $1.25 global poverty
+line. I also show India and China for comparison; we do not know that these are correct, but it
+is reasonable for a non-tradable stock like housing to be cheaper than the average consumption  item in those countries.
+Several of the rental parities in the 15 countries in Table 2 are too low to be credible. For
+Ghana, the rental parity is less than five percent of the overall parity; it is 11 percent in Gambia,
+and 12 percent in Tajikistan. In nine of the 15 countries, the rental parity is less than a half of the
+overall parity. If we are concerned with the parities and the overall PPP for consumption, rather
+than with volumes, a neutral assumption would have been one in which the parity for rental was
+taken to be the same as an average over all consumption, and this can be accomplished by drop
+ping the category and recalculating the PPPs. This raises the PPPs (local currency to US dollars)
+in Africa and Asia, and more precisely raises the PPPs relative to India of countries in Table 2
+whose rental parities are less than 0.602, and relative to China of those whose rental parities are
+less than 0.832. The Indian or Chinese equivalent of the local poverty lines of those countries is
+reduced by an increase in their PPPs, which reduces the headcount rates in India and China and,
+because they are so large, reduces the global poverty count. This (alternative) neutral treatment
+of housing rental reduces the 2005 poverty count by more than 100 million people.
+It should be noted that the treatment of housing is not an error in the ICP, which is focused on
+producing reasonable estimates of GDP rather than prices or poverty, but it turns into a problem

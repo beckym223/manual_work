@@ -1,0 +1,46 @@
+economic regions. These are, admittedly, only a heuristic device for ease of interpre
+tation, but the aggregation used here captures about 85 percent of the variability in
+the raw data on wage rates.11 The year 2007 was selected both because the sample of
+countries for which data were collected was expanded in that year, but also because
+the financial crisis that affected many countries had not yet begun.
+The ñrst column of Table 3 contains the wage rate for a McDonald s crew mem
+ber in US dollars (at then-current exchange rates), while the third column contains
+the price of a Big Mac (again in US dollars). For ease of comparison, the second
+column expresses the McWage in the economic region indicated relative to its value
+in the United States. Finally, the fourth column contains the ratio of the price of a
+Big Mac to the McWage (that is, it contains the measure of Big Macs per hour of
+work, BMPH).
+
+There are three obvious, dramatic conclusions that it is easy to draw from the com
+parison of wage rates in Table 3. First, the developed countries, including the United
+States, Canada, Japan, and Western Europe have quite similar wage rates, whether
+measured in dollars or in BMPH. In these countries a worker earned between two
+and three Big Macs per hour of work, and with the exception of Western Europe with
+its highly regulated wage structure, earned around $7 an hour. A second conclusion
+is that the vast majority of workers, including those in India, China, Latin America,
+and the Middle East, earned about 10 percent as much as the workers in developed
+countries, although the BMPH comparison increases this ratio to about 15 percent,
+as would any PPP adjustment. Finally, workers in Russia, Eastern Europe, and
+South Africa face wage rates about 25 to 35 percent of those in the developed coun
+tries, although again the BMPH comparison increases this ratio somewhat. In sum,
+the data in Table 3 provide transparent and credible evidence that workers doing
+the same tasks and producing the same output using identical technologies are paid
+vastly different wage rates. As we shall see, a straightforward explanation of these
+vast wage differences attributes them almost entirely to differences in the total factor
+productivity in these countries, not to differences in skill or human capital.
+Table 4 shows measures of hypothetical total factor productivity for each eco
+nomic region relative to the United States. The first column of the table provides a
+measure of TFP using the method proposed by Hall and Jones (1999), but which I
+have updated to 2007 using the data in the Penn World Table 7.0. The Hall-Jones
+method is based on adjusting output per man for (i) differences in schooling levels
+of the work force and (ii) capital/output ratios, but I have here assumed capital/
+output ratios are the same in all countries. The second column shows the results of
+using equation (2) to measure the hypothetical TFP with the relative wage of work
+ers in McDonald's restaurants.
+
+It is apparent from Table 4 that for a vast part of the world, the measures of TFP
+based on wage rates are remarkably similar to those based on output accounting
+measures. This is not surprising given the high correlation between the McWage
+data and output per man hour indicated in Figure 8 and the key role that output
+per man hour plays in the calculation of conventional TFP measures. Given the
+potential for error in these calculations, however, the similarity of these estimates

@@ -1,0 +1,19 @@
+Figure 1. Surprise Gain or Loss to US Debt Holders as Proportion of GDP
+surpluses, its debt will have non-zero real value. But if debt is real and the country
+finds itself unable to maintain primary surpluses above its predetermined real debt
+service commitment, it must default, even if in absolute terms it is running substan
+tial primary surpluses.
+
+Nominal Debt is a Cushion, Like Equity.—In a deterministic steady state, inves
+tors will insist on nominal interest rates high enough to compensate for inflation's
+effect on the real value of their debt holdings. Real returns on government debt will
+be the same whether it is nominal or real. But if nominal interest rates fall after the
+date of issue of long-term nominal debt with a fixed coupon rate, the market value
+of the debt will rise, providing the debt holder with an unanticipated higher return.
+If inflation occurs at a higher than expected rate, the real value of nominal debt,
+whatever its maturity, suffers an unanticipated decline. These mechanisms can cush
+ion the impact of unexpected changes in the fiscal situation. We live in a stochastic
+world, and surprises in returns on government debt from these two mechanisms
+are substantial. Figure 1 shows a time series of surprise gains and losses on US
+government debt as a fraction of GDP.6 The surprise gains and losses relative to
+GDP have been of the same order of magnitude as year to year fluctuations in the

@@ -1,0 +1,48 @@
+usual. Some of the critiques were aimed at the empirical methods used in these
+early papers, namely hypothetical survey questions such as problems 1 and 2 above.
+Economists have never been very impressed by such data because the subjects have
+nothing on the line. Furthermore, typically these questions were just asked once,
+so many argued that they were not a good indication of what people would do in
+real-life situations in which they had an opportunity to learn from prior mistakes. So
+the critique was two-fold. First, if you raise the stakes people will take the questions
+more seriously and choose in a manner more consistent with optimization. Second,
+if given a chance to learn, people will get it right. Often the same person would make
+both of these critiques, thinking that they reinforced one another.
+Of course there is no doubt that the ability to practice improves performance in
+most tasks. No one plays well in his first game of chess, or billiards for that matter.
+And most people eventually become at least competent at highly complex tasks such
+as riding a bike or running down a flight of stairs. Similarly, the notion that people
+will pay more attention when the stakes go up is intuitively appealing. Certainly we
+pay more attention when buying a car than when deciding what to order for lunch.
+But rather than these two arguments working together, they actually go in opposite
+directions. The reason this is so is that, as a rule, the higher the stakes, the less often
+we get to do something.
+
+Consider the following list of economic activities: deciding how much milk to
+buy at the grocery store, choosing a sweater, buying a car, buying a home, selecting
+a career, choosing a spouse, saving for retirement. Most households have mastered
+the art of milk inventory management through trial and error. Buy too much and it
+spoils, buy too little and you have to make an extra trip to the convenience store.
+But if households do this (say) twice a week, eventually they figure it out, at least
+until the children move out of the house or switch to beer. Few of us buy cars often
+enough to get very good at it, and the really big decisions like careers, marriages,
+and retirement saving give very little room for learning. So critics can't have it both
+ways. Either the real world is mostly high stakes or it offers myriad opportunities to
+learn - not both.
+
+Even in domains where there are multiple opportunities to learn, people may not
+make the best of those situations. Daniel Kahneman and I ran an experiment years
+ago that illustrates this point. (We never published the results so the details will be
+sketchy.) Subjects were given forms that looked something like this:
+Heads: 1 2345 ... 18 19 20
+
+Tails: 1 2345 ... 18 1920
+
+They were then shown two large manila envelopes that were labeled Heads and
+Tails and were shown that each envelope contained 20 poker chips numbered from
+1 to 20. The experimenter said he would first flip a coin and then, depending on the
+outcome, choose a poker chip from the respective envelope. Subjects were allowed
+to circle five numbers on their form, dividing their choices as they wished between
+the heads and tails rows. When the experimenter selected a chip and announced the
+result, for example "Heads, 17" any subject who had circled the winning coin face
+and number would win some money. Specifically, if the chip came from the Heads

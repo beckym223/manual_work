@@ -1,0 +1,47 @@
+Compared with the actual In v7, (5) introduces variance through the estimation of the parameters,
+an effect that is likely to be small, but removes variance because the variance oft is not included
+in the imputation. Over successive rounds of the ICP, as fewer PPPs are imputed and more actu
+ally measured, measured inequality will rise. The variance oft estimated from (5) using the
+pre-revision 2005 data (and including the imputations) is 0.084, which needs to be multiplied
+by the change in the fraction of covered countries (about 0.25) before it is compared with the
+increase in the actual variance of log GDP in 2005 of 0.370. So the reduction in the share of
+countries imputed cannot explain more than a small part of the increase in measured inequality.
+B. Comparisons between Rich and Poor Countries in the Ring
+The most important question for international comparisons of prices is how to make useful
+comparisons across widely different countries, in different regions of the world, with different
+levels of per capita GDP, and with different patterns of consumption and relative prices. The
+regional structure of successive ICPs means that this issue is most serious when the regions are
+linked because, in spite of there being a good deal of heterogeneity within some regions, e.g.,
+Hong Kong and Nepal are both in Asia-Pacific in 2005, the widest disparities are across regions.
+To investigate this further, we need to look in some detail at the operation of the "ring" in the
+2005 ICP, the collection of more than 1,000 precisely specified identical items in eighteen coun
+tries distributed over the regions.
+
+Past rounds of the ICP have been criticized for not comparing like with like; a cotton shirt, a
+pair of sandals, or brain surgery in Cameroon or Senegal are plausibly of lower quality than the
+same items in Japan or Hong Kong, so that comparing the prices of such loosely defined items
+may overstate living standards in poor countries relative to rich. In the 2005 round, the ring list,
+like the regional lists, used precisely specified definitions of goods and services in order to avoid
+quality mismatching, and this is cited as an important reason for the differentially large increase
+in the PPPs of poor countries: World Bank (2008b, p.l), Ravallion, Chen, and Sangraula (2009,
+p. 178). We can see how this works by looking at the 18 ring countries as a group and calculating a
+set of PPPs for them using the standard methodology, the CPD regressions (1) and (2) to get pari
+ties for each basic heading, followed by aggregation to multilateral PPPs for those 18 countries
+alone. Because the United States is not a ring country, I select the United Kingdom as base and
+calculate the "price level" of consumption goods and services included in the ring list for each of
+the ring countries relative to the United Kingdom; this is defined as the ratio of the PPP in local
+currency per pound sterling divided by the market exchange rate of local currency per pound
+sterling. Numbers less than one indicate that a British tourist would find the value of exchange
+rate converted pounds worth more than in Britain.
+The log price levels are plotted against the logarithm of per capita GDP in Figure 4 which
+shows that Cameroon, Kenya, Senegal, and Zambia are outliers in having high price levels rela
+tive to their levels of per capita GDP; the regression line is fitted to the other 14 ring countries
+and is close to the comparable regression (4) estimated for all countries in the 2005 ICP. More
+generally, the PPPs and price levels for the poorest countries are higher when calculated from
+the ring alone than they are in the ICP itself, where the ring prices work only through the overall
+regional PPPs. Particularly notable is Cameroon, where the price level from the ring alone, 0.673,
+is higher than in Estonia and almost as high as in Hong Kong; indeed, if the ring calculations are
+done using geometric mean price indexes instead of the CPD in (1), the price level in Cameroon
+is higher than the price level in Hong Kong, an implausible result given the relative levels of GDP  in the two countries.
+The immediate concern with these high price levels is that, in the attempt to match goods
+precisely across such diverse countries, the ICP may be pricing high-end "western" goods in

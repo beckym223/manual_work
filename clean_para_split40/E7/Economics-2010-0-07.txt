@@ -1,0 +1,47 @@
+consumption. However, World Bank (2008b, pp. 23-5) lists old and new PPPs for household
+final consumption expenditure in 2005 for 118 countries, and I have used these to calculate the
+Concept 2 measure of the Gini coefficient for consumption. Here, too, the revision from old to
+new PPPs led to a substantial increase in measured inequality, with the per capita consumption
+Gini rising from 0.48 to 0.56.
+
+For my analysis here, it is the widening of measured inequality that is the key effect of the
+2005 revision of the ICR On average, rich nations and poor nations moved further apart. Judged
+from the rich world, the poor world is poorer than we thought, but judged from the poor world,
+the rich world is richer than we thought; the two statements are equivalent, and the difference
+depends on nothing more than the choice of numeraire. As we shall see, the revision to the ICP,
+in and of itself, had little effect on the world poverty count.
+II. The Construction of International Purchasing Power Parity Exchange Rates
+In order to understand why the ICP might have an effect on our perceptions of global pov
+erty and inequality, we need to understand something about how it works. This section pro
+vides a brief account of relevant issues based on Deaton and Alan Heston (2010); comprehensive
+accounts of the 2005 round are contained in World Bank (2008a), and in the handbooks on the  ICP Web site at the World Bank.
+The latest round of the ICP constructed purchasing power parity price indexes for 146 par
+ticipating countries for 2005. I focus for the moment on the indexes for household consumption
+that enter into the global poverty calculations. Consumption is divided into 110 "basic headings,"
+such as rice, bread, clothing, furniture and furnishings, and each basic heading is represented
+by a list of precisely specified items that lie within it. It is these items that are actually priced by
+the ICP investigators. The basic headings are the same for all countries, but the detailed lists are
+different for different regions of the world, of which there were six in 2005; this structure means
+that the same items are not priced in all 146 countries. For example, fresh mud crabs and fresh
+squid appear in the Asian list in the fish basic heading, while in Africa, we have Nile perch, cat
+fish, kapenta, and bonga, along with many other fishes. At a first stage, the prices for the detailed
+lists are aggregated up to give regional "parities" (price indexes or PPPs) for each basic heading.
+These are in the units of a regional numeraire, e.g., Hong Kong for the Asia/Pacific region, and
+are the price indexes, with Hong Kong as unity, for each basic heading in each country in Asia/
+Pacific. For example, fish in Bangladesh is 4.90 taka per Hong Kong dollar, and 4.64 Sri Lankan
+rupees per Hong Kong dollar in Sri Lanka, while the corresponding figures for gasoline are 2.55
+and 3.17. These parities are commodity-specific PPP exchange rates, and there is one for each
+basic heading in consumption. At a second stage, these parities for basic headings are averaged
+to give an overall PPP for the country. An important distinction between the first and second
+stage is that at the latter, the averaging can use expenditures from the NAS to weight together the
+parities from each basic heading in relation to the amount spent on each. At the first stage, within
+the basic headings, there are no NAS expenditure data, and aggregation up to the parities for the
+basic headings must be done without weights.
+The procedures outlined above yield a system of PPP exchange rates for each region of the
+world, with a different numeraire country in each region, not a single global system with a single
+numeraire currency such as the US dollar. In the 2005 ICP, the "gluing together" of the regions
+was accomplished using a third stage, the "ring," in which 18 strategically chosen countries, at
+least two per region, were asked to price a new, common detailed list of more than 1,100 items.
+Those prices were then used to link the regions.
+Beyond this general outline, I now develop some of the details that I shall need to under
+stand the implications for the measurement of poverty and inequality. At the first, detailed stage,

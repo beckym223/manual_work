@@ -1,0 +1,26 @@
+revise our estimates of the prevalence of global poverty. The belief that the new ICP makes the
+world poorer comes from missing the fact that the updating procedure had increased the global
+line, and then attributing the increase in poverty to the ICP revision on the mistaken belief that
+the dollar-a-day line is actually denominated in dollars. I shall argue below that denominating
+the global line in dollars would be a good idea, but as long as it is an average of poor country
+lines, an ICP revision that makes the United States look richer relative to those lines can have no
+effect on the global poverty counts.
+
+As we saw in Section I, the ICP revision did indeed make the world look more unequal, and
+it reduced the size of poorer economies relative to richer economies. In that sense, judged from
+a rich country standpoint, the "developing world" does indeed appear to be poorer. However,
+global poverty is measured relative to standards set in the poor countries themselves, so that the
+apparent expansion of inequality cannot, and does not, increase the global poverty count. The
+count is invariant to any inequality expanding uniform downward rescaling of the international
+dollar value of consumption in countries in the count relative to the excluded rich countries.
+Because the expansion in inequality comes about through increases in the measured price levels
+in poor countries relative to rich countries, this shows up in the poverty calculations through a
+real decrease in the global poverty line. The $1.08 in 1993 prices, which would have been $1.46
+in 2005 prices if it had been indexed for the US CPI, is in fact only 92 cents in Table 4. The ratio
+of $1.46 to 92c is a measure of the extent to which the ICP has revised upwards the price levels
+in poor relative to rich countries, which is the issue to which I now turn.
+IV. Quality and Inequality Around the World
+Understanding why the ICP has increased measured global inequality is more difficult than
+understanding why measured poverty has changed. Several different factors are at work, and it is
+not always clear how to assess the contribution of each. Any change from the 1993 ICP involves
+not only the new procedures, but also the old ones, many of which?especially the linking of

@@ -1,7 +1,0 @@
-for conventional (30-year fixed rate) mortgages and the yield on 10-year Treasury
-notes, a reasonable match to the actual duration of mortgage debt. The spread rose
-early in the slump until the Federal Reserve intervened and restored the spread to
-roughly normal levels. Mortgage underwriting practices have changed dramatically
-during the slump to try to limit losses on new mortgages.
-My discussion of intermediation spreads has focused on the agency model, where
-spreads measure distortions but not actual losses of resources. Agency frictions have
